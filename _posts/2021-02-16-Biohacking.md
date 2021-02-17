@@ -81,7 +81,7 @@ Los pescados azules, como las sardinas (también ricas en calcio) o el aceite de
 
 ## Vitamina D3
 ### Descripción general
-En realidad la Vitamina D es una hormona. actúa como esteroide de los receptores nucleares. Los humanos originales evolucionaron en zonas con altos índices de radiación UV.
+En realidad la Vitamina D es una hormona. actúa como esteroide de los receptores nucleares. Los humanos originales evolucionaron en zonas con altos índices de radiación UV. Los lípidos normalmente presentes en la piel, cuando entran en contacto con la radiación solar cuando se sintetiza dicha molécula. Dado que el estilo de vida moderno, y las regiones donde muchos humanos ahora v
 ### Beneficios
 ### Dosis
 
@@ -95,8 +95,8 @@ En realidad la Vitamina D es una hormona. actúa como esteroide de los receptore
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0Njc3NDEyLC0yMDgzMDI5MTE3LDE2Mz
-A5MDM0NzIsMTk3Nzg3NTczNywtMTkxNTYxMjU4NCw5MDI4OTM0
-MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0NjksNzE4MjExNzRdfQ
-==
+eyJoaXN0b3J5IjpbLTIwMTYzMTY3NDgsLTIwODMwMjkxMTcsMT
+YzMDkwMzQ3MiwxOTc3ODc1NzM3LC0xOTE1NjEyNTg0LDkwMjg5
+MzQxNCwtMTU0OTY5NDEwMiwtMjA0OTYzMjQ2OSw3MTgyMTE3NF
+19
 -->
