@@ -104,7 +104,7 @@ Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema
 
 ## Magnesio
 ### Descripción general
-Las técnicas modernas de agricultura hacen que los valores nutricionales de los productos vegetales sean más pobres, especialmente en minerales.
+Las técnicas modernas de agricultura llevan años degradando los suelos y acelerando los procesos productivos, lo que ha llevado eventuahacen que los valores nutricionales de los productos vegetales sean más pobres, especialmente en minerales.
 ### Beneficios
 ### Dosis
 
@@ -120,8 +120,8 @@ Las técnicas modernas de agricultura hacen que los valores nutricionales de los
 [^3]: [Mediline plus: Examen de 25-hidroxi vitamina D](https://medlineplus.gov/spanish/ency/article/003569.htm)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTM1Njg2MTIsMTE2OTI0NDA3NCwtMj
-A4MzAyOTExNywxNjMwOTAzNDcyLDE5Nzc4NzU3MzcsLTE5MTU2
-MTI1ODQsOTAyODkzNDE0LC0xNTQ5Njk0MTAyLC0yMDQ5NjMyND
-Y5LDcxODIxMTc0XX0=
+eyJoaXN0b3J5IjpbLTUyMjkwNTg0MSwxMTY5MjQ0MDc0LC0yMD
+gzMDI5MTE3LDE2MzA5MDM0NzIsMTk3Nzg3NTczNywtMTkxNTYx
+MjU4NCw5MDI4OTM0MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0Nj
+ksNzE4MjExNzRdfQ==
 -->
