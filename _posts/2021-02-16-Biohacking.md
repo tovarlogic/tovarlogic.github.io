@@ -90,6 +90,7 @@ Esta molécula actúa en diversos tipos de células y acelera el metabolismo del
 
 Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema inmune mejorando su eficacia, en el sistema nervioso central mejorando el estado de ánimo y habilidades cognitivas y en el sistema músculo esquelético mejorando la funcionalidad de los músculos (además de fortalecer los huesos).
 
+<p>La vitamina K2 es un co-factor necesario para la síntesis de varias proteínas ligadoras del calcio. Existen est Aprovecha para tomar junto al Omega 3, otras moléculas que sean solubles en lípidos para aumentar su biodisponibilidad. Ej: CoQ10 o Resveratrol. </p>{: .notice}
 ### Dosis
 
 ## XXX
@@ -98,12 +99,11 @@ Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema
 ### Dosis
 
 
-# Referencias
 [^1]: El cuerpo no los puede sintetizar por lo que la única manera de obtenerlos es a través de la nutrición.
 [^2]: Son un grupo de proteínas receptoras nucleares que funcionan como factores de transcripción que regulan la expresión de genes.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1Mjg5MDc4LC0yMDgzMDI5MTE3LDE2Mz
+eyJoaXN0b3J5IjpbNTU0NDk3OTIzLC0yMDgzMDI5MTE3LDE2Mz
 A5MDM0NzIsMTk3Nzg3NTczNywtMTkxNTYxMjU4NCw5MDI4OTM0
 MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0NjksNzE4MjExNzRdfQ
 ==
