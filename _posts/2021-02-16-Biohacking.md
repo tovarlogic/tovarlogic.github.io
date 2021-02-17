@@ -81,7 +81,7 @@ Los pescados azules, como las sardinas (también ricas en calcio) o el aceite de
 
 ## Vitamina D3
 ### Descripción general
-En realidad la Vitamiena D
+En realidad la Vitamina D es una hormona. actúa como esteroide de los receptores nucleares. Los humanos originales evolucionaron en zonas con altos índices de radiación UV.
 ### Beneficios
 ### Dosis
 
@@ -95,8 +95,8 @@ En realidad la Vitamiena D
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NDM5OTIwNSwtMjA4MzAyOTExNywxNj
-MwOTAzNDcyLDE5Nzc4NzU3MzcsLTE5MTU2MTI1ODQsOTAyODkz
-NDE0LC0xNTQ5Njk0MTAyLC0yMDQ5NjMyNDY5LDcxODIxMTc0XX
-0=
+eyJoaXN0b3J5IjpbMzI0Njc3NDEyLC0yMDgzMDI5MTE3LDE2Mz
+A5MDM0NzIsMTk3Nzg3NTczNywtMTkxNTYxMjU4NCw5MDI4OTM0
+MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0NjksNzE4MjExNzRdfQ
+==
 -->
