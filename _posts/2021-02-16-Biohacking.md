@@ -69,15 +69,15 @@ Por el otro, son importantes para la señales neuronales, que favorecen a adapta
 
 Por último, participan en la activación de ciertos factores de transcripción de la familia PPAR [^2] que influyen en el metabolismo celular.
 
-<p>**Nota:** Diversos estudios y meta-análisis sugieren que un alto nivel de estas moléculas reducen hasta un 9% la incidencia en todas las causas de mortandad.</p> {: .notice}
+<p>Diversos estudios y meta-análisis sugieren que un alto nivel de estas moléculas reducen hasta un 9% la incidencia en todas las causas de mortandad.</p> {: .notice}
 
 ### Dosis
 Para resultados óptimos, al menos hay que tomar 2gr de EPA/DHA.
 Los pescados azules, como las sardinas (también ricas en calcio) o el aceite de bacalao (rico en Vit. A) son buenas fuentes naturales.
 
-<p>**Truco:** Aprovecha para tomar junto al Omega 3, otras moléculas que sean solubles en lípidos para aumentar su biodisponibilidad. Ej: CoQ10 o Resveratrol. </p>{: .notice}
-[^1]: El cuerpo no los puede sintetizar por lo que la única manera de obtenerlos es a través de la nutrición.
-[^2]: Son un grupo de proteínas receptoras nucleares que funcionan como factores de transcripción que regulan la expresión de genes.
+<p>Aprovecha para tomar junto al Omega 3, otras moléculas que sean solubles en lípidos para aumentar su biodisponibilidad. Ej: CoQ10 o Resveratrol. </p>{: .notice}
+
+
 
 ## Vitamina D
 ### Descripción general
@@ -98,11 +98,12 @@ Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema
 ### Dosis
 
 
-
-
+# Referencias
+[^1]: El cuerpo no los puede sintetizar por lo que la única manera de obtenerlos es a través de la nutrición.
+[^2]: Son un grupo de proteínas receptoras nucleares que funcionan como factores de transcripción que regulan la expresión de genes.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgxOTQyNjAxLC0yMDgzMDI5MTE3LDE2Mz
+eyJoaXN0b3J5IjpbODA1Mjg5MDc4LC0yMDgzMDI5MTE3LDE2Mz
 A5MDM0NzIsMTk3Nzg3NTczNywtMTkxNTYxMjU4NCw5MDI4OTM0
 MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0NjksNzE4MjExNzRdfQ
 ==
