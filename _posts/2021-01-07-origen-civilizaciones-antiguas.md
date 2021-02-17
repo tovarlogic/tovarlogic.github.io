@@ -5,7 +5,6 @@ tags: [civilizaciones]
 categories: [Historia]
 serie: civilizaciones
 sidebar: civilizaciones
-layout: serie
 excerpt: Artículo que permite comprender nuestra civilización actual conociendo las tradiciones e instituciones que hemos heredado de las primeras civilizaciones humanas. Aquí se resume su origen en la edad de bronce, a partir de pueblos neolíticos pre-existentes en la región del creciente fértil, y su desarrollo hasta la edad de hierro.
 ---
 
@@ -662,11 +661,11 @@ Battles of Thermopylae and Salamis.
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTM0OTAyMSwtMTU1ODI2Mjc2MSw4NT
-MzNzA3ODcsNjYzNDYxOTIxLDM0NzQzMzQ3MiwtNzgwMDQ5OTE2
-LC0xODY5Mjg3OTQ4LC0xNzkyNjc1MzMyLC0xMzgwNTMwOTk2LC
-02ODI2NzI4OSw4NDg0Nzc2NjEsMTUwNTk0NDc3OSwtNDU1ODAy
-MjQzLDExODM1NDUzODAsMTcwNzQxNTk3LC0yMTMyNjgwOTI4LC
-0xMjQzODE3NzQ3LC0xNTA1MTY3MDQzLC05NzQxNTQ0NjgsNjEy
-NTgzNjA5XX0=
+eyJoaXN0b3J5IjpbLTE3NjA3MjI5MDYsMjA0NTM0OTAyMSwtMT
+U1ODI2Mjc2MSw4NTMzNzA3ODcsNjYzNDYxOTIxLDM0NzQzMzQ3
+MiwtNzgwMDQ5OTE2LC0xODY5Mjg3OTQ4LC0xNzkyNjc1MzMyLC
+0xMzgwNTMwOTk2LC02ODI2NzI4OSw4NDg0Nzc2NjEsMTUwNTk0
+NDc3OSwtNDU1ODAyMjQzLDExODM1NDUzODAsMTcwNzQxNTk3LC
+0yMTMyNjgwOTI4LC0xMjQzODE3NzQ3LC0xNTA1MTY3MDQzLC05
+NzQxNTQ0NjhdfQ==
 -->
