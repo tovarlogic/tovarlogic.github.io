@@ -79,7 +79,7 @@ Los pescados azules, como las sardinas (también ricas en calcio) o el aceite de
 [^1]: El cuerpo no los puede sintetizar por lo que la única manera de obtenerlos es a través de la nutrición.
 [^2]: Son un grupo de proteínas receptoras nucleares que funcionan como factores de transcripción que regulan la expresión de genes.
 
-## Vitamina D3
+## Vitamina D
 ### Descripción general
 En realidad la Vitamina D es una hormona. actúa como esteroide de los receptores nucleares. Los humanos originales evolucionaron en zonas con altos índices de radiación UV. Los lípidos normalmente presentes en la piel, cuando entran en contacto con la radiación solar cuando se sintetiza dicha molécula. La vitamina D también se puede obtener a través de la dieta. 
 
@@ -88,7 +88,8 @@ Dado que el estilo de vida moderno, y las regiones donde muchos humanos ahora vi
 ### Beneficios
 Esta molécula actúa en diversos tipos de células y acelera el metabolismo del calcio. Es decir, mejora su absorción en el intestino, la construcción de hueso por parte de los osteoblastos y osteoclastos, así como su reabsorción en los riñones.
 
-Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema inmune mejorando su eficacia, en el sistema nervioso central mejorando el estado de ánimo y habilidades cognitivas y en el sistema músculo esquelético (adem
+Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema inmune mejorando su eficacia, en el sistema nervioso central mejorando el estado de ánimo y habilidades cognitivas y en el sistema músculo esquelético mejorando la funcionalidad de los músculos (además de fortalecer los huesos).
+
 ### Dosis
 
 ## XXX
@@ -101,8 +102,8 @@ Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDg4NTQ5OSwtMjA4MzAyOTExNywxNj
-MwOTAzNDcyLDE5Nzc4NzU3MzcsLTE5MTU2MTI1ODQsOTAyODkz
-NDE0LC0xNTQ5Njk0MTAyLC0yMDQ5NjMyNDY5LDcxODIxMTc0XX
-0=
+eyJoaXN0b3J5IjpbNzEwMjE3MDA4LC0yMDgzMDI5MTE3LDE2Mz
+A5MDM0NzIsMTk3Nzg3NTczNywtMTkxNTYxMjU4NCw5MDI4OTM0
+MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0NjksNzE4MjExNzRdfQ
+==
 -->
