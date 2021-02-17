@@ -58,9 +58,12 @@ Una regla razonable para minimizar riesgos es la siguiente:
 
 En los casos anteriores de "riesgo bajo" no se debe entender como seguro. Antes de su consumo, será necesario comprender los mecanismos de funcionamiento e identificar si existe posibilidad de toxicidad, tolerancia o dependencia. 
 
+# Suplementos
+## EPA/DHA
+Son ácidos grasos esenciales
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNTQyNjg2LC0xOTE1NjEyNTg0LDkwMj
-g5MzQxNCwtMTU0OTY5NDEwMiwtMjA0OTYzMjQ2OSw3MTgyMTE3
-NF19
+eyJoaXN0b3J5IjpbLTEzMjM1NTU1MTIsLTE5MTU2MTI1ODQsOT
+AyODkzNDE0LC0xNTQ5Njk0MTAyLC0yMDQ5NjMyNDY5LDcxODIx
+MTc0XX0=
 -->
