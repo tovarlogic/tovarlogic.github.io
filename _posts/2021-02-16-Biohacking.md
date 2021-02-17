@@ -45,7 +45,9 @@ Algunas sustancias, ya sean naturalmente presentes o no, pueden crear tolerancia
 
 El hecho de consumir medicamentos supone a priori una garantía adicional, ya que su consumo requiere por definición de la supervisión de un médico. 
 
-En el caso de los suplementos, por supuesto, nada impide que se consulte a uno y nos supervise. Sin embargo cabe la posibilidad de que no cuente con el mismo conocimiento que con los medicamentos, ya que como dijimos anteriormente, los suplementos en general están menos estudiados. Por todo lo anterior, el consumo de suplementos debe hacerse de manera responsable, esto es bajo supervisión médica, empleando sustancias bien estudiadas y a través de fabricantes y proveedores fiables, o en su defecto, con ensayos de calidad regulares emitidos por laboratorio independiente.
+En el caso de los suplementos, por supuesto, nada impide que se consulte a uno y nos supervise. Sin embargo cabe la posibilidad de que no cuente con el mismo conocimiento que con los medicamentos, ya que como dijimos anteriormente, los suplementos en general están menos estudiados. 
+
+Por todo lo anterior, el consumo de suplementos debe hacerse de manera responsable, esto es bajo supervisión médica, empleando sustancias bien estudiadas y a través de fabricantes y proveedores fiables, o en su defecto, con ensayos de calidad regulares emitidos por laboratorio independiente.
 
 Una regla razonable para minimizar riesgos es la siguiente:
  - Medicamentos = Bajo riesgo
@@ -57,6 +59,7 @@ En los casos anteriores de "riesgo bajo" no se debe entender como seguro. Antes 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTU2MTI1ODQsOTAyODkzNDE0LC0xNT
-Q5Njk0MTAyLC0yMDQ5NjMyNDY5LDcxODIxMTc0XX0=
+eyJoaXN0b3J5IjpbMTc4ODk1NjEyLC0xOTE1NjEyNTg0LDkwMj
+g5MzQxNCwtMTU0OTY5NDEwMiwtMjA0OTYzMjQ2OSw3MTgyMTE3
+NF19
 -->
