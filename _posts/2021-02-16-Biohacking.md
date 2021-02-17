@@ -78,9 +78,24 @@ Los pescados azules, como las sardinas (también ricas en calcio) o el aceite de
 [^2]: Son un grupo de proteínas receptoras nucleares que funcionan como factores de transcripción que regulan la expresión de genes.
 
 ## Vitamina D3
+### Descripción general
+### Beneficios
+### Dosis
+
+## Vitamina D3
+### Descripción general
+### Beneficios
+### Dosis
+
+## Vitamina D3
+### Descripción general
+### Beneficios
+### Dosis
+
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjc5MzIyOCwxNjMwOTAzNDcyLDE5Nz
-c4NzU3MzcsLTE5MTU2MTI1ODQsOTAyODkzNDE0LC0xNTQ5Njk0
-MTAyLC0yMDQ5NjMyNDY5LDcxODIxMTc0XX0=
+eyJoaXN0b3J5IjpbNTQzMTk2ODk1LDE2MzA5MDM0NzIsMTk3Nz
+g3NTczNywtMTkxNTYxMjU4NCw5MDI4OTM0MTQsLTE1NDk2OTQx
+MDIsLTIwNDk2MzI0NjksNzE4MjExNzRdfQ==
 -->
