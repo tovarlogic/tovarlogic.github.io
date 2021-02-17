@@ -97,7 +97,7 @@ Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema
 {: .notice}
 
 ### Dosis
- Para la mayoría de la población 20.000 IU, una vez a la semana es suficiente. Para su mejor absorción mejor tomarla junto con grasas. Valores plasmáticos adecuados son los que se encuentran en torno 30 y 50 ng/mL.
+ Para la mayoría de la población 20.000 IU, una vez a la semana es suficiente. Para su mejor absorción mejor tomarla junto con grasas. Valores plasmáticos adecuados son los que se encuentran en torno 30 y 50 ng/mL.[^3]
 
 **Precaución:** Por regla general, en lo que respecta a las hormonas, existe una curva tipo U que también aplica a la vitamina D. Hay que evitar estar en ambos extremos. El inferior implica mala salud ósea y ansiedad; el superior un mayor riesgo de calcificaciones, especialmente en las arterias, y tanto bajos niveles de energía como mayor riesgo de depresión.
 {: .notice--warning}
@@ -111,10 +111,11 @@ Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema
 # Referencias
 [^1]: El cuerpo no los puede sintetizar por lo que la única manera de obtenerlos es a través de la nutrición.
 [^2]: Son un grupo de proteínas receptoras nucleares que funcionan como factores de transcripción que regulan la expresión de genes.
+[^3]: [Mediline plus: Examen de 25-hidroxi vitamina D](https://medlineplus.gov/spanish/ency/article/003569.htm)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2ODk2NzgyMywxMTY5MjQ0MDc0LC0yMD
-gzMDI5MTE3LDE2MzA5MDM0NzIsMTk3Nzg3NTczNywtMTkxNTYx
-MjU4NCw5MDI4OTM0MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0Nj
-ksNzE4MjExNzRdfQ==
+eyJoaXN0b3J5IjpbLTEzOTcyMzkwNTQsMTE2OTI0NDA3NCwtMj
+A4MzAyOTExNywxNjMwOTAzNDcyLDE5Nzc4NzU3MzcsLTE5MTU2
+MTI1ODQsOTAyODkzNDE0LC0xNTQ5Njk0MTAyLC0yMDQ5NjMyND
+Y5LDcxODIxMTc0XX0=
 -->
