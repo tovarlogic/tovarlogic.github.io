@@ -1,10 +1,11 @@
 ---
-title:  "Biohacking"
+title: "Biohacking"
 date:   2021-02-16
-update: 
-meta: borrador
 tags: [opinión]
 categories: [Salud]
+toc: true
+toc_label: "Unique Title"
+toc_icon: "heart"
 excerpt: 
 ---
 # Introducción
@@ -57,5 +58,6 @@ En los casos anteriores de "riesgo bajo" no se debe entender como seguro. Antes 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDk2MzI0NjksNzE4MjExNzRdfQ==
+eyJoaXN0b3J5IjpbLTE1NDk2OTQxMDIsLTIwNDk2MzI0NjksNz
+E4MjExNzRdfQ==
 -->
