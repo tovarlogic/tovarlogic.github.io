@@ -64,7 +64,9 @@ En los casos anteriores de "riesgo bajo" no se debe entender como seguro. Antes 
 Son ácidos grasos esenciales[^1] conocidos como Omegas 3 y necesarios para gran cantidad de procesos biológicos. Son moléculas precursoras de varios mediadores lipídicos en básicamente todas las células del cuerpo. Las dietas modernas son habitualmente deficientes en EPA/DHA, en factor de 5 a 10, mientras que se consume excesivas Omegas 6 y 9. 
 ### Beneficios
 Por un lado, son precursores de cierto tipo de "eicosanoids" como las "resolvins" que actúan como señal para moléculas anti-inflamatorias. Un ratio adecuado entre Omegas 6 y Omegas 3 (EPA/DHA) permite mantener un equilibro contra las moléculas pro-inflamatorias.
+
 Por el otro, son importantes para la señales neuronales, que favorecen a adaptación sináptica aportando beneficios cognitivos.
+
 Por último, participan en la activación de ciertos factores de transcripción de la familia PPAR [^2] que influyen en el metabolismo celular.
 
 <p>**Nota:** Diversos estudios y meta-análisis sugieren que un alto nivel de estas moléculas reducen hasta un 9% la incidencia en todas las causas de mortandad. </p>{: .notice}
@@ -95,7 +97,7 @@ Los pescados azules, como las sardinas (también ricas en calcio) o el aceite de
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQzMTk2ODk1LDE2MzA5MDM0NzIsMTk3Nz
-g3NTczNywtMTkxNTYxMjU4NCw5MDI4OTM0MTQsLTE1NDk2OTQx
-MDIsLTIwNDk2MzI0NjksNzE4MjExNzRdfQ==
+eyJoaXN0b3J5IjpbLTIwODMwMjkxMTcsMTYzMDkwMzQ3MiwxOT
+c3ODc1NzM3LC0xOTE1NjEyNTg0LDkwMjg5MzQxNCwtMTU0OTY5
+NDEwMiwtMjA0OTYzMjQ2OSw3MTgyMTE3NF19
 -->
