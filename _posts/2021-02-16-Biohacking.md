@@ -69,7 +69,7 @@ Por el otro, son importantes para la señales neuronales, que favorecen a adapta
 
 Por último, participan en la activación de ciertos factores de transcripción de la familia PPAR [^2] que influyen en el metabolismo celular.
 
-**Nota:** Diversos estudios y meta-análisis sugieren que un alto nivel de estas moléculas reducen hasta un 9% la incidencia en todas las causas de mortandad. {: .notice}
+<p>**Nota:** Diversos estudios y meta-análisis sugieren que un alto nivel de estas moléculas reducen hasta un 9% la incidencia en todas las causas de mortandad.</p> {: .notice}
 
 ### Dosis
 Para resultados óptimos, al menos hay que tomar 2gr de EPA/DHA.
@@ -102,7 +102,7 @@ Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwMjE3MDA4LC0yMDgzMDI5MTE3LDE2Mz
+eyJoaXN0b3J5IjpbNDgxOTQyNjAxLC0yMDgzMDI5MTE3LDE2Mz
 A5MDM0NzIsMTk3Nzg3NTczNywtMTkxNTYxMjU4NCw5MDI4OTM0
 MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0NjksNzE4MjExNzRdfQ
 ==
