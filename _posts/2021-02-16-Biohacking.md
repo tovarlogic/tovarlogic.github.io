@@ -65,13 +65,15 @@ Son ácidos grasos esenciales[^1] conocidos como Omegas 3 y necesarios para gran
 ### Beneficios
 Por un lado, son precursores de cierto tipo de "eicosanoids" como las "resolvins" que actúan como señal para moléculas anti-inflamatorias. Un ratio adecuado entre Omegas 6 y Omegas 3 (EPA/DHA) permite mantener un equilibro contra las moléculas pro-inflamatorias.
 Por el otro, son importantes para la señales neuronales, que favorecen a adaptación sináptica aportando beneficios cognitivos.
-Por último, participan en la activación de ciertos factores de transcripción de la familia PPAR [^2]
+Por último, participan en la activación de ciertos factores de transcripción de la familia PPAR [^2] que influyen en el metabolismo celular.
+
+
 
 [^1]: El cuerpo no los puede sintetizar por lo que la única manera de obtenerlos es a través de la nutrición.
 [^2]: Son un grupo de proteínas receptoras nucleares que funcionan como factores de transcripción que regulan la expresión de genes.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNTMyMzA3LDE5Nzc4NzU3MzcsLTE5MT
-U2MTI1ODQsOTAyODkzNDE0LC0xNTQ5Njk0MTAyLC0yMDQ5NjMy
-NDY5LDcxODIxMTc0XX0=
+eyJoaXN0b3J5IjpbLTEzMzA2NDg3ODIsMTk3Nzg3NTczNywtMT
+kxNTYxMjU4NCw5MDI4OTM0MTQsLTE1NDk2OTQxMDIsLTIwNDk2
+MzI0NjksNzE4MjExNzRdfQ==
 -->
