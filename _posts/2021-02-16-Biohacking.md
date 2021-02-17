@@ -99,7 +99,7 @@ Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema
 ### Dosis
  Para la mayoría de la población 20.000 IU, una vez a la semana es suficiente. Para su mejor absorción mejor tomarla junto con grasas.
 
-**Precaución:** Por regla general, en lo que respecta a las hormonas, existe una curva tipo U que también aplica a la vitami.
+**Precaución:** Por regla general, en lo que respecta a las hormonas, existe una curva tipo U que también aplica a la vitamina D. Hay que evitar estar en ambos extremos. El inferior implica mala salud ósea y el superior un mayor riesgo de calcificaciones, especialmente en las arterias.
 {: .notice--warning}
 ## XXX
 ### Descripción general
@@ -111,8 +111,8 @@ Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema
 [^2]: Son un grupo de proteínas receptoras nucleares que funcionan como factores de transcripción que regulan la expresión de genes.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjE3NjMwOTksMTE2OTI0NDA3NCwtMj
-A4MzAyOTExNywxNjMwOTAzNDcyLDE5Nzc4NzU3MzcsLTE5MTU2
-MTI1ODQsOTAyODkzNDE0LC0xNTQ5Njk0MTAyLC0yMDQ5NjMyND
-Y5LDcxODIxMTc0XX0=
+eyJoaXN0b3J5IjpbLTgwMTcyODk5NiwxMTY5MjQ0MDc0LC0yMD
+gzMDI5MTE3LDE2MzA5MDM0NzIsMTk3Nzg3NTczNywtMTkxNTYx
+MjU4NCw5MDI4OTM0MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0Nj
+ksNzE4MjExNzRdfQ==
 -->
