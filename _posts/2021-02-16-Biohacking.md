@@ -104,7 +104,7 @@ Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema
 
 ## Magnesio
 ### Descripción general
-Las técnicas intensivitas de la agricultura moderna han llevado a la degradación de los suelos y la aceleración de los procesos productivos. eventualmente esto ha logrado un empeoramiento en la densidad nutricional de los productos vegetales, concretamente n la pérdida de micronutrientes (vitaminas y minerales).
+Las técnicas intensivitas de la agricultura moderna han llevado a la degradación de los suelos y la aceleración de los procesos productivos. eventualmente esto ha logrado un empeoramiento en la densidad nutricional de los productos vegetales, concretamente por la pérdida de micronutrientes (vitaminas y minerales).
 ### Beneficios
 ### Dosis
 
@@ -120,8 +120,8 @@ Las técnicas intensivitas de la agricultura moderna han llevado a la degradaci�
 [^3]: [Mediline plus: Examen de 25-hidroxi vitamina D](https://medlineplus.gov/spanish/ency/article/003569.htm)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MDU3OTQ3LDExNjkyNDQwNzQsLTIwOD
-MwMjkxMTcsMTYzMDkwMzQ3MiwxOTc3ODc1NzM3LC0xOTE1NjEy
-NTg0LDkwMjg5MzQxNCwtMTU0OTY5NDEwMiwtMjA0OTYzMjQ2OS
-w3MTgyMTE3NF19
+eyJoaXN0b3J5IjpbLTI4NjIwMTAxNCwxMTY5MjQ0MDc0LC0yMD
+gzMDI5MTE3LDE2MzA5MDM0NzIsMTk3Nzg3NTczNywtMTkxNTYx
+MjU4NCw5MDI4OTM0MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0Nj
+ksNzE4MjExNzRdfQ==
 -->
