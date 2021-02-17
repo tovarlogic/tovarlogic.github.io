@@ -69,11 +69,14 @@ Por último, participan en la activación de ciertos factores de transcripción 
 
 <p>**Nota:** Diversos estudios y meta-análisis sugieren que un alto nivel de estas moléculas reducen hasta un 9% la incidencia en todas las causas de mortandad. </p>{: .notice}
 
+### Dosis
+Para resultados óptimos, al menos hay que tomar 2gr de EPA/DHA.
 [^1]: El cuerpo no los puede sintetizar por lo que la única manera de obtenerlos es a través de la nutrición.
 [^2]: Son un grupo de proteínas receptoras nucleares que funcionan como factores de transcripción que regulan la expresión de genes.
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxOTQ1MjE1NiwxNjMwOTAzNDcyLDE5Nz
-c4NzU3MzcsLTE5MTU2MTI1ODQsOTAyODkzNDE0LC0xNTQ5Njk0
-MTAyLC0yMDQ5NjMyNDY5LDcxODIxMTc0XX0=
+eyJoaXN0b3J5IjpbLTEyNTU0MzQ1OTcsMTYzMDkwMzQ3MiwxOT
+c3ODc1NzM3LC0xOTE1NjEyNTg0LDkwMjg5MzQxNCwtMTU0OTY5
+NDEwMiwtMjA0OTYzMjQ2OSw3MTgyMTE3NF19
 -->
