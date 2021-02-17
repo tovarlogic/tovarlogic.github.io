@@ -61,12 +61,13 @@ En los casos anteriores de "riesgo bajo" no se debe entender como seguro. Antes 
 # Suplementos
 ## EPA/DHA
 ### Descripción general
-Son ácidos grasos esenciales y necesarios para gran cantidad de procesos biológicos. Son moléculas precursoras de varios mediadores lipídicos en básicamente todas las células del cuerpo. Las dietas modernas son habitualmente deficientes en EPA/DHA, en factor de 5 a 10, mientras que se consume excesivas Omegas 6 y 9. 
+Son ácidos grasos esenciales conocidos como Omegas 3 y necesarios para gran cantidad de procesos biológicos. Son moléculas precursoras de varios mediadores lipídicos en básicamente todas las células del cuerpo. Las dietas modernas son habitualmente deficientes en EPA/DHA, en factor de 5 a 10, mientras que se consume excesivas Omegas 6 y 9. 
 ### Beneficios
-Son precursores de cierto tipo de "eicosanoids" como las "resolvins" que actúan como señal para moléculas anti-inflamatorias. Un ratio adecuado entre omegas 6 y Omegas 3
+Por un lado, son precursores de cierto tipo de "eicosanoids" como las "resolvins" que actúan como señal para moléculas anti-inflamatorias. Un ratio adecuado entre Omegas 6 y Omegas 3 (EPA/DHA) permite mantener un equilibro contra las moléculas pro-inflamatorias.
+Por el otro, son importantes para
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDk5MTA3MzMsLTE5MTU2MTI1ODQsOT
-AyODkzNDE0LC0xNTQ5Njk0MTAyLC0yMDQ5NjMyNDY5LDcxODIx
-MTc0XX0=
+eyJoaXN0b3J5IjpbMTk5NTI3MzA1OSwtMTkxNTYxMjU4NCw5MD
+I4OTM0MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0NjksNzE4MjEx
+NzRdfQ==
 -->
