@@ -67,13 +67,13 @@ Por un lado, son precursores de cierto tipo de "eicosanoids" como las "resolvins
 Por el otro, son importantes para la señales neuronales, que favorecen a adaptación sináptica aportando beneficios cognitivos.
 Por último, participan en la activación de ciertos factores de transcripción de la familia PPAR [^2] que influyen en el metabolismo celular.
 
-<p>Diversos estudios y meta-análisis sugieren que un alto nivel de estas molécul</p>{: .notice}
+<p>Diversos estudios y meta-análisis sugieren que un alto nivel de estas moléculas reducen hasta un 9% la incidencia en todas las causas de mortandad. </p>{: .notice}
 
 [^1]: El cuerpo no los puede sintetizar por lo que la única manera de obtenerlos es a través de la nutrición.
 [^2]: Son un grupo de proteínas receptoras nucleares que funcionan como factores de transcripción que regulan la expresión de genes.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI0NjU3MzksMTk3Nzg3NTczNywtMT
-kxNTYxMjU4NCw5MDI4OTM0MTQsLTE1NDk2OTQxMDIsLTIwNDk2
-MzI0NjksNzE4MjExNzRdfQ==
+eyJoaXN0b3J5IjpbMTYzMDkwMzQ3MiwxOTc3ODc1NzM3LC0xOT
+E1NjEyNTg0LDkwMjg5MzQxNCwtMTU0OTY5NDEwMiwtMjA0OTYz
+MjQ2OSw3MTgyMTE3NF19
 -->
