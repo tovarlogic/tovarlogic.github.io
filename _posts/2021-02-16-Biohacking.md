@@ -28,7 +28,7 @@ Suplemento NO natural
 Medicamento
 : Se trata de una molécula (o cóctel de moléculas) que sí requieren prescripción médica. Los medicamentos, por regla general emplean moléculas no naturalmente presentes en el organismo.
 
-# Suplementos vs Medicamentos
+## Suplementos vs Medicamentos
 Existe la creencia sesgada de que los medicamentos son malos, mientras que los productos basados en hierbas y plantas, se les considera buenos y sanos por ser "naturales" o mejor dicho de origen vegetal. La idea generalizada es que lo que existe en la naturaleza es bueno porque la naturaleza no produce cosas malas. Lo cierto es que hay infinidad de sustancias tóxicas que provienen de la naturaleza (toxina botulímica, cyanide, morfina, etc.).
 
 Es curioso observar como, en general, aceptamos el consumo de extractos infusiones o ingentes cantidades de café, pero rechazamos el uso de sustancias sintéticas, drogas o medicamentos igualmente potentes y en general más estudiados, selectivos y seguros.
@@ -60,11 +60,13 @@ En los casos anteriores de "riesgo bajo" no se debe entender como seguro. Antes 
 
 # Suplementos
 ## EPA/DHA
-##
+### Descripción general
 Son ácidos grasos esenciales y necesarios para gran cantidad de procesos biológicos. Son moléculas precursoras de varios mediadores lipídicos en básicamente todas las células del cuerpo. Las dietas modernas son habitualmente deficientes en EPA/DHA, en factor de 5 a 10, mientras que se consume excesivas Omegas 6 y 9. 
+### Beneficios
+Son precursores de cierto tipo de "eicosanoids" como las "resolvins
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODEyNDA4NjEsLTE5MTU2MTI1ODQsOT
-AyODkzNDE0LC0xNTQ5Njk0MTAyLC0yMDQ5NjMyNDY5LDcxODIx
-MTc0XX0=
+eyJoaXN0b3J5IjpbMTc0MjAxODU0OSwtMTkxNTYxMjU4NCw5MD
+I4OTM0MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0NjksNzE4MjEx
+NzRdfQ==
 -->
