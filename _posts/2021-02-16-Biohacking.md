@@ -69,7 +69,7 @@ Por el otro, son importantes para la señales neuronales, que favorecen a adapta
 
 Por último, participan en la activación de ciertos factores de transcripción de la familia PPAR [^2] que influyen en el metabolismo celular.
 
-<p>**Nota:** Diversos estudios y meta-análisis sugieren que un alto nivel de estas moléculas reducen hasta un 9% la incidencia en todas las causas de mortandad. </p>{: .notice}
+**Nota:** Diversos estudios y meta-análisis sugieren que un alto nivel de estas moléculas reducen hasta un 9% la incidencia en todas las causas de mortandad. {: .notice}
 
 ### Dosis
 Para resultados óptimos, al menos hay que tomar 2gr de EPA/DHA.
@@ -81,23 +81,22 @@ Los pescados azules, como las sardinas (también ricas en calcio) o el aceite de
 
 ## Vitamina D3
 ### Descripción general
+En realidad la Vitamiena D
 ### Beneficios
 ### Dosis
 
-## Vitamina D3
+## XXX
 ### Descripción general
 ### Beneficios
 ### Dosis
 
-## Vitamina D3
-### Descripción general
-### Beneficios
-### Dosis
+
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODMwMjkxMTcsMTYzMDkwMzQ3MiwxOT
-c3ODc1NzM3LC0xOTE1NjEyNTg0LDkwMjg5MzQxNCwtMTU0OTY5
-NDEwMiwtMjA0OTYzMjQ2OSw3MTgyMTE3NF19
+eyJoaXN0b3J5IjpbMTE2NDM5OTIwNSwtMjA4MzAyOTExNywxNj
+MwOTAzNDcyLDE5Nzc4NzU3MzcsLTE5MTU2MTI1ODQsOTAyODkz
+NDE0LC0xNTQ5Njk0MTAyLC0yMDQ5NjMyNDY5LDcxODIxMTc0XX
+0=
 -->
