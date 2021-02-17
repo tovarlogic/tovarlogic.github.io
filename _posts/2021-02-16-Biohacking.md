@@ -67,11 +67,11 @@ Por un lado, son precursores de cierto tipo de "eicosanoids" como las "resolvins
 Por el otro, son importantes para la señales neuronales, que favorecen a adaptación sináptica aportando beneficios cognitivos.
 Por último, participan en la activación de ciertos factores de transcripción [^2]
 
-[^1]: El cuerpo no los puede sintetizar por lo que la única manera de obtenerlos es a través de la nut
-[^2]: 
+[^1]: El cuerpo no los puede sintetizar por lo que la única manera de obtenerlos es a través de la nutrición.
+[^2]: Son proteínas que leen e interpretar el ADN. Cuando se unen al ADN ayudan a aumentar o disminuir, según el caso, la expresión de ciertos genes.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NDY0Mjc4NiwxOTc3ODc1NzM3LC0xOT
-E1NjEyNTg0LDkwMjg5MzQxNCwtMTU0OTY5NDEwMiwtMjA0OTYz
-MjQ2OSw3MTgyMTE3NF19
+eyJoaXN0b3J5IjpbMzI0MjUyNDA4LDE5Nzc4NzU3MzcsLTE5MT
+U2MTI1ODQsOTAyODkzNDE0LC0xNTQ5Njk0MTAyLC0yMDQ5NjMy
+NDY5LDcxODIxMTc0XX0=
 -->
