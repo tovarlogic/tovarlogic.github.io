@@ -88,7 +88,7 @@ Dado que el estilo de vida moderno, y las regiones donde muchos humanos ahora vi
 ### Beneficios
 Esta molécula actúa en diversos tipos de células y acelera el metabolismo del calcio. Es decir, mejora su absorción en el intestino, la construcción de hueso por parte de los osteoblastos y osteoclastos, así como su reabsorción en los riñones.
 
-Por otro lado, 
+Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema inmune mejorando su eficacia, en el sistema nervioso central mejorando el estado de ánimo y habilidades cognitivas y en el sistema músculo esquelético (adem
 ### Dosis
 
 ## XXX
@@ -101,8 +101,8 @@ Por otro lado,
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTg2NTMyNjIsLTIwODMwMjkxMTcsMT
-YzMDkwMzQ3MiwxOTc3ODc1NzM3LC0xOTE1NjEyNTg0LDkwMjg5
-MzQxNCwtMTU0OTY5NDEwMiwtMjA0OTYzMjQ2OSw3MTgyMTE3NF
-19
+eyJoaXN0b3J5IjpbMTcxNDg4NTQ5OSwtMjA4MzAyOTExNywxNj
+MwOTAzNDcyLDE5Nzc4NzU3MzcsLTE5MTU2MTI1ODQsOTAyODkz
+NDE0LC0xNTQ5Njk0MTAyLC0yMDQ5NjMyNDY5LDcxODIxMTc0XX
+0=
 -->
