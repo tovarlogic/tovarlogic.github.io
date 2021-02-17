@@ -106,8 +106,9 @@ Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema
 ### Descripción general
 Las técnicas intensivitas de la agricultura moderna han llevado a la degradación de los suelos, la aceleración de los procesos productivos y la alteración del proceso madurativo natural. Eventualmente esto ha logrado un empeoramiento en la densidad nutricional de los productos vegetales, concretamente por la pérdida de micronutrientes (vitaminas y minerales).
 
-> De acuerdo a Mª Dolores Raigón
-**Info:** "[...] los alimentos de origen ecológico, si incorporan fertilizaciones de materia orgánica, trabajan variedades locales, se recolectan en el momento adecuado y son de proximidad, poseen concentraciones vitamínicas y minerales más altas que las de los alimentos de la producción convencional”. De un 20 hasta un 60% más dependiendo de la fruta o verdura comparada.
+> De acuerdo a Mª Dolores Raigón y en línea con los resultados en distintas investigaciones investigaciones de la Universidad de Málaga, la Universidad de Murcia y el CSIC: "[...] los alimentos de origen ecológico, si incorporan fertilizaciones de materia orgánica, trabajan variedades locales, se recolectan en el momento adecuado y son de proximidad, poseen concentraciones vitamínicas y minerales más altas que las de los alimentos de la producción convencional”. De un 20 hasta un 60% más dependiendo de la fruta o verdura comparada.
+
+**Info:**
 {: .notice--warning}
 ### Beneficios
 ### Dosis
@@ -124,8 +125,8 @@ Las técnicas intensivitas de la agricultura moderna han llevado a la degradaci�
 [^3]: [Mediline plus: Examen de 25-hidroxi vitamina D](https://medlineplus.gov/spanish/ency/article/003569.htm)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzNTY0MDMyNywxMTY5MjQ0MDc0LC0yMD
-gzMDI5MTE3LDE2MzA5MDM0NzIsMTk3Nzg3NTczNywtMTkxNTYx
-MjU4NCw5MDI4OTM0MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0Nj
-ksNzE4MjExNzRdfQ==
+eyJoaXN0b3J5IjpbMjA0ODA1MjM1LDExNjkyNDQwNzQsLTIwOD
+MwMjkxMTcsMTYzMDkwMzQ3MiwxOTc3ODc1NzM3LC0xOTE1NjEy
+NTg0LDkwMjg5MzQxNCwtMTU0OTY5NDEwMiwtMjA0OTYzMjQ2OS
+w3MTgyMTE3NF19
 -->
