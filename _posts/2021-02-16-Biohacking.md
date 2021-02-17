@@ -102,6 +102,12 @@ Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema
 **Precaución:** Por regla general, en lo que respecta a las hormonas, existe una curva tipo U que también aplica a la vitamina D. Hay que evitar estar en ambos extremos. El inferior implica mala salud ósea y ansiedad; el superior un mayor riesgo de calcificaciones, especialmente en las arterias, y tanto bajos niveles de energía como mayor riesgo de depresión.
 {: .notice--warning}
 
+## Magnesio
+### Descripción general
+Las técnicas modernas de agricultura hacen que los valores nutricionales de los productos vegetales sean más pobres, especialmente en minerales.
+### Beneficios
+### Dosis
+
 
 ## XXX
 ### Descripción general
@@ -114,7 +120,7 @@ Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema
 [^3]: [Mediline plus: Examen de 25-hidroxi vitamina D](https://medlineplus.gov/spanish/ency/article/003569.htm)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTcyMzkwNTQsMTE2OTI0NDA3NCwtMj
+eyJoaXN0b3J5IjpbLTExMTM1Njg2MTIsMTE2OTI0NDA3NCwtMj
 A4MzAyOTExNywxNjMwOTAzNDcyLDE5Nzc4NzU3MzcsLTE5MTU2
 MTI1ODQsOTAyODkzNDE0LC0xNTQ5Njk0MTAyLC0yMDQ5NjMyND
 Y5LDcxODIxMTc0XX0=
