@@ -90,14 +90,17 @@ Esta molécula actúa en diversos tipos de células y acelera el metabolismo del
 
 Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema inmune mejorando su eficacia, en el sistema nervioso central mejorando el estado de ánimo y habilidades cognitivas y en el sistema músculo esquelético mejorando la funcionalidad de los músculos (además de fortalecer los huesos).
 
-<p>La vitamina D está representada por dos compuestos liposolubles: vitamina D₃ y la vitamina D₂. La vitamina D₃ es la producida en la piel del ser humano, a partir del 7-deshidrocolesterol por acción los rayos UVB de la luz solar.</p>{: .notice}
+** Nota:** La vitamina D está representada por dos compuestos liposolubles: vitamina D₃ y la vitamina D₂. La vitamina D₃ es la producida en la piel del ser humano, a partir del 7-deshidrocolesterol por acción los rayos UVB de la luz solar.
+{: .notice}
 
-<p>La vitamina K está representada por dos compuestos: ₂ es un co-factor necesario para la síntesis de varias proteínas ligadoras del calcio. Existen estudios que sugieren que la co-ingesta de la vit. K₂ previene los riesgos de hipercalcemia al aumentar los niveles plasmáticos de calcio. Facilita su uso para reforzar los huesos y previene su acumulación en los tejidos blandos.  </p>{: .notice}
+**Nota adicional**: La vitamina K está representada por dos compuestos: ₂ es un co-factor necesario para la síntesis de varias proteínas ligadoras del calcio. Existen estudios que sugieren que la co-ingesta de la vit. K₂ previene los riesgos de hipercalcemia al aumentar los niveles plasmáticos de calcio. Facilita su uso para reforzar los huesos y previene su acumulación en los tejidos blandos.
+{: .notice}
 
 ### Dosis
  Para la mayoría de la población 20.000 IU, una vez a la semana es suficiente. Para su mejor absorción mejor tomarla junto con grasas.
 
-
+**Precaución:** Por regla general, en lo que respecta a las hormonas, existe una curva tipo U que también aplica a la vitami.
+{: .notice--warning}
 ## XXX
 ### Descripción general
 ### Beneficios
@@ -108,7 +111,7 @@ Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema
 [^2]: Son un grupo de proteínas receptoras nucleares que funcionan como factores de transcripción que regulan la expresión de genes.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTUzNjY4ODksMTE2OTI0NDA3NCwtMj
+eyJoaXN0b3J5IjpbLTE1MjE3NjMwOTksMTE2OTI0NDA3NCwtMj
 A4MzAyOTExNywxNjMwOTAzNDcyLDE5Nzc4NzU3MzcsLTE5MTU2
 MTI1ODQsOTAyODkzNDE0LC0xNTQ5Njk0MTAyLC0yMDQ5NjMyND
 Y5LDcxODIxMTc0XX0=
