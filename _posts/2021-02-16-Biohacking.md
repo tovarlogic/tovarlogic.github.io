@@ -60,10 +60,10 @@ En los casos anteriores de "riesgo bajo" no se debe entender como seguro. Antes 
 
 # Suplementos
 ## EPA/DHA
-Son ácidos grasos esenciales
+Son ácidos grasos esenciales y necesarios para gran cantidad de procesos biológicos. Son los precursores de 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjM1NTU1MTIsLTE5MTU2MTI1ODQsOT
-AyODkzNDE0LC0xNTQ5Njk0MTAyLC0yMDQ5NjMyNDY5LDcxODIx
-MTc0XX0=
+eyJoaXN0b3J5IjpbMTI4OTQyMTEyMCwtMTkxNTYxMjU4NCw5MD
+I4OTM0MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0NjksNzE4MjEx
+NzRdfQ==
 -->
