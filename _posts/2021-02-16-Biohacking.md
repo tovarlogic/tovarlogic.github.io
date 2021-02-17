@@ -4,8 +4,7 @@ date:   2021-02-16
 tags: [opinión]
 categories: [Salud]
 toc: true
-toc_label: "Contenido"
-toc_icon: "bookmark-o"
+toc_sticky: true
 excerpt: 
 ---
 # Introducción
@@ -58,6 +57,6 @@ En los casos anteriores de "riesgo bajo" no se debe entender como seguro. Antes 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAyODkzNDE0LC0xNTQ5Njk0MTAyLC0yMD
-Q5NjMyNDY5LDcxODIxMTc0XX0=
+eyJoaXN0b3J5IjpbLTE5MTU2MTI1ODQsOTAyODkzNDE0LC0xNT
+Q5Njk0MTAyLC0yMDQ5NjMyNDY5LDcxODIxMTc0XX0=
 -->
