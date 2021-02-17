@@ -65,10 +65,10 @@ Son ácidos grasos esenciales conocidos como Omegas 3 y necesarios para gran can
 ### Beneficios
 Por un lado, son precursores de cierto tipo de "eicosanoids" como las "resolvins" que actúan como señal para moléculas anti-inflamatorias. Un ratio adecuado entre Omegas 6 y Omegas 3 (EPA/DHA) permite mantener un equilibro contra las moléculas pro-inflamatorias.
 Por el otro, son importantes para la señales neuronales, que favorecen a adaptación sináptica aportando beneficios cognitivos.
-Por último, 
+Por último, participan en la activación de ciertos factores de 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTQ5ODg3MywtMTkxNTYxMjU4NCw5MD
+eyJoaXN0b3J5IjpbMTk3Nzg3NTczNywtMTkxNTYxMjU4NCw5MD
 I4OTM0MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0NjksNzE4MjEx
 NzRdfQ==
 -->
