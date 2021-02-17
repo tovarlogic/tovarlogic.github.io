@@ -105,6 +105,9 @@ Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema
 ## Magnesio
 ### Descripción general
 Las técnicas intensivitas de la agricultura moderna han llevado a la degradación de los suelos, la aceleración de los procesos productivos y la alteración del proceso madurativo natural. Eventualmente esto ha logrado un empeoramiento en la densidad nutricional de los productos vegetales, concretamente por la pérdida de micronutrientes (vitaminas y minerales).
+
+**Info:** Por regla general, en lo que respecta a las hormonas, existe una curva tipo U que también aplica a la vitamina D. Hay que evitar estar en ambos extremos. El inferior implica mala salud ósea y ansiedad; el superior un mayor riesgo de calcificaciones, especialmente en las arterias, y tanto bajos niveles de energía como mayor riesgo de depresión.
+{: .notice--warning}
 ### Beneficios
 ### Dosis
 
@@ -120,8 +123,8 @@ Las técnicas intensivitas de la agricultura moderna han llevado a la degradaci�
 [^3]: [Mediline plus: Examen de 25-hidroxi vitamina D](https://medlineplus.gov/spanish/ency/article/003569.htm)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYxMjE5NjY0LDExNjkyNDQwNzQsLTIwOD
-MwMjkxMTcsMTYzMDkwMzQ3MiwxOTc3ODc1NzM3LC0xOTE1NjEy
-NTg0LDkwMjg5MzQxNCwtMTU0OTY5NDEwMiwtMjA0OTYzMjQ2OS
-w3MTgyMTE3NF19
+eyJoaXN0b3J5IjpbMTkzMzE3NDY5OSwxMTY5MjQ0MDc0LC0yMD
+gzMDI5MTE3LDE2MzA5MDM0NzIsMTk3Nzg3NTczNywtMTkxNTYx
+MjU4NCw5MDI4OTM0MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0Nj
+ksNzE4MjExNzRdfQ==
 -->
