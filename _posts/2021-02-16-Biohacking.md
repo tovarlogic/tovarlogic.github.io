@@ -60,10 +60,10 @@ En los casos anteriores de "riesgo bajo" no se debe entender como seguro. Antes 
 
 # Suplementos
 ## EPA/DHA
-Son ácidos grasos esenciales y necesarios para gran cantidad de procesos biológicos. Son los precursores de 
+Son ácidos grasos esenciales y necesarios para gran cantidad de procesos biológicos. Son moléculas precursoras de varios mediadores lipídicos en básicamente todas las células del cuerpo. Debido a la dieta moderna, es habitual ser 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4OTQyMTEyMCwtMTkxNTYxMjU4NCw5MD
+eyJoaXN0b3J5IjpbLTM2ODEyNDM3MiwtMTkxNTYxMjU4NCw5MD
 I4OTM0MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0NjksNzE4MjEx
 NzRdfQ==
 -->
