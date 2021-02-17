@@ -108,7 +108,7 @@ Las técnicas intensivitas de la agricultura moderna han llevado a la degradaci�
 
 > De acuerdo a Mª Dolores Raigón y en línea con los resultados en distintas investigaciones investigaciones de la Universidad de Málaga, la Universidad de Murcia y el CSIC: "[...] los alimentos de origen ecológico, si incorporan fertilizaciones de materia orgánica, trabajan variedades locales, se recolectan en el momento adecuado y son de proximidad, poseen concentraciones vitamínicas y minerales más altas que las de los alimentos de la producción convencional”. De un 20 hasta un 60% más dependiendo de la fruta o verdura comparada.
 
-**Info:**
+**Info:** Hay que tener en cuenta además que los métodos de preparación de los alimentos influye en la disponibilidad de dichos micronutr
 {: .notice--warning}
 ### Beneficios
 ### Dosis
@@ -125,8 +125,8 @@ Las técnicas intensivitas de la agricultura moderna han llevado a la degradaci�
 [^3]: [Mediline plus: Examen de 25-hidroxi vitamina D](https://medlineplus.gov/spanish/ency/article/003569.htm)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODA1MjM1LDExNjkyNDQwNzQsLTIwOD
-MwMjkxMTcsMTYzMDkwMzQ3MiwxOTc3ODc1NzM3LC0xOTE1NjEy
-NTg0LDkwMjg5MzQxNCwtMTU0OTY5NDEwMiwtMjA0OTYzMjQ2OS
-w3MTgyMTE3NF19
+eyJoaXN0b3J5IjpbMTc0ODM4MzgxMywxMTY5MjQ0MDc0LC0yMD
+gzMDI5MTE3LDE2MzA5MDM0NzIsMTk3Nzg3NTczNywtMTkxNTYx
+MjU4NCw5MDI4OTM0MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0Nj
+ksNzE4MjExNzRdfQ==
 -->
