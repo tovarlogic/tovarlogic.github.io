@@ -5,6 +5,7 @@ tags: [opinión]
 categories: [Salud]
 toc: true
 toc_sticky: true
+classes: wide
 excerpt: 
 ---
 # Introducción
@@ -59,7 +60,7 @@ En los casos anteriores de "riesgo bajo" no se debe entender como seguro. Antes 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4ODk1NjEyLC0xOTE1NjEyNTg0LDkwMj
-g5MzQxNCwtMTU0OTY5NDEwMiwtMjA0OTYzMjQ2OSw3MTgyMTE3
-NF19
+eyJoaXN0b3J5IjpbMTUyMDI1Mjk0OSwtMTkxNTYxMjU4NCw5MD
+I4OTM0MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0NjksNzE4MjEx
+NzRdfQ==
 -->
