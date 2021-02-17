@@ -92,9 +92,11 @@ Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema
 
 La vitamina D está representada por dos compuestos liposolubles: vitamina D₃ y la vitamina D₂. La vitamina D₃ es producida en la piel del ser humano y de otros animales, a partir del 7-deshidrocolesterol por acción los rayos UVB de la luz solar
 
+<p>La vitamina K está representada por dos compuestos: ₂ es un co-factor necesario para la síntesis de varias proteínas ligadoras del calcio. Existen estudios que sugieren que la co-ingesta de la vit. K₂ previene los riesgos de hipercalcemia al aumentar los niveles plasmáticos de calcio. Facilita su uso para reforzar los huesos y previene su acumulación en los tejidos blandos.  </p>{: .notice}
+
 ### Dosis
 
-<p>La vitamina K está representada por dos compuestos: ₂ es un co-factor necesario para la síntesis de varias proteínas ligadoras del calcio. Existen estudios que sugieren que la co-ingesta de la vit. K₂ previene los riesgos de hipercalcemia al aumentar los niveles plasmáticos de calcio. Facilita su uso para reforzar los huesos y previene su acumulación en los tejidos blandos.  </p>{: .notice}
+
 
 ## XXX
 ### Descripción general
@@ -106,7 +108,7 @@ La vitamina D está representada por dos compuestos liposolubles: vitamina D₃ 
 [^2]: Son un grupo de proteínas receptoras nucleares que funcionan como factores de transcripción que regulan la expresión de genes.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzA3MTEyMiwtMjA4MzAyOTExNywxNj
+eyJoaXN0b3J5IjpbMTE2OTI0NDA3NCwtMjA4MzAyOTExNywxNj
 MwOTAzNDcyLDE5Nzc4NzU3MzcsLTE5MTU2MTI1ODQsOTAyODkz
 NDE0LC0xNTQ5Njk0MTAyLC0yMDQ5NjMyNDY5LDcxODIxMTc0XX
 0=
