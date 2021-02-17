@@ -90,10 +90,12 @@ Esta molécula actúa en diversos tipos de células y acelera el metabolismo del
 
 Por otro lado, su faceta de hormona esteroide tiene efecto directo en el sistema inmune mejorando su eficacia, en el sistema nervioso central mejorando el estado de ánimo y habilidades cognitivas y en el sistema músculo esquelético mejorando la funcionalidad de los músculos (además de fortalecer los huesos).
 
-### Dosis
-La vitamina D hay que tomarla en su forma más biodisponible es decir, la vitamina D3
+La vitamina D está representada por dos compuestos liposolubles: vitamina D₃ y la vitamina D₂. La vitamina D₃ es producida en la piel del ser humano y de otros animales, a partir del 7-deshidrocolesterol por acción los rayos UVB de la luz solar
 
-<p>La vitamina D está representada por dos compuestos liposolubles: vitamina D₃ y la vitamina D₂. La vitamina D₃ es producida en la piel del ser humano y de otros animales, a partir del 7-deshidrocolesterol por acción los rayos UVB de la luz solar
+### Dosis
+
+<p>La vitamina K₂ es un co-factor necesario para la síntesis de varias proteínas ligadoras del calcio. Existen estudios que sugieren que la co-ingesta de la vit. K₂ previene los riesgos de hipercalcemia al aumentar los niveles plasmáticos de calcio. Facilita su uso para reforzar los huesos y previene su acumulación en los tejidos blandos.  </p>{: .notice}
+
 ## XXX
 ### Descripción general
 ### Beneficios
@@ -104,8 +106,8 @@ La vitamina D hay que tomarla en su forma más biodisponible es decir, la vitami
 [^2]: Son un grupo de proteínas receptoras nucleares que funcionan como factores de transcripción que regulan la expresión de genes.
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5Nzc5MzI2LC0yMDgzMDI5MTE3LDE2Mz
-A5MDM0NzIsMTk3Nzg3NTczNywtMTkxNTYxMjU4NCw5MDI4OTM0
-MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0NjksNzE4MjExNzRdfQ
-==
+eyJoaXN0b3J5IjpbLTEyMzcwNDA0MTEsLTIwODMwMjkxMTcsMT
+YzMDkwMzQ3MiwxOTc3ODc1NzM3LC0xOTE1NjEyNTg0LDkwMjg5
+MzQxNCwtMTU0OTY5NDEwMiwtMjA0OTYzMjQ2OSw3MTgyMTE3NF
+19
 -->
