@@ -5,6 +5,8 @@ update:
 meta: borrador
 tags: [derecho,constitución]
 categories: [Filosofía,Derecho]
+toc: true
+toc_sticky: true
 excerpt: Constitución Española de 1978 comentada.
 ---
 
@@ -240,10 +242,11 @@ CAPÍTULO CUARTODe las garantías de las libertades y derechos fundamentalesArt�
 [^3] Perez Luño.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTQ0NTkwNSwtMTE0MDc5MjM5NiwtNT
-gzNzU2MjAyLDYzNzk4NzQ2LDg2MjQ1NzI3NCwtMjA1NjEzNjY2
-MSwtMTM5NDM3NTI3OSwxODA3MTg3MjY2LDE3MzA1MDc0NzEsMj
-A5ODg0NTE1NSwtMjA4NDYzODk5Myw3ODc0ODQ2NjMsNzg0NjYz
-NTMwLC0xNjIxNjM5NTMxLC0xMTgxODYxMzc2LDE2MDcwNzU0Mz
-MsLTU1MjEyMDA0Myw2NTA5NTc1MTQsMjAzNDA0MjM1MF19
+eyJoaXN0b3J5IjpbLTIzMzI3ODcyMSwtNzcxNDQ1OTA1LC0xMT
+QwNzkyMzk2LC01ODM3NTYyMDIsNjM3OTg3NDYsODYyNDU3Mjc0
+LC0yMDU2MTM2NjYxLC0xMzk0Mzc1Mjc5LDE4MDcxODcyNjYsMT
+czMDUwNzQ3MSwyMDk4ODQ1MTU1LC0yMDg0NjM4OTkzLDc4NzQ4
+NDY2Myw3ODQ2NjM1MzAsLTE2MjE2Mzk1MzEsLTExODE4NjEzNz
+YsMTYwNzA3NTQzMywtNTUyMTIwMDQzLDY1MDk1NzUxNCwyMDM0
+MDQyMzUwXX0=
 -->
