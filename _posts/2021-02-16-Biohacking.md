@@ -86,6 +86,7 @@ En realidad la Vitamina D es una hormona. actúa como esteroide de los receptore
 Dado que el estilo de vida moderno, y las regiones donde muchos humanos ahora viven (con menor radiación solar) también es habitual que seamos deficientes en esta sustancia.
 
 ### Beneficios
+Esta molécula actúa en diversos tipos de células y acelera el metabolismo del calcio. Es decir, mejora su absorción en el intestino, la construcción de hueso por pa
 ### Dosis
 
 ## XXX
@@ -98,8 +99,8 @@ Dado que el estilo de vida moderno, y las regiones donde muchos humanos ahora vi
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzcyODk2MTUsLTIwODMwMjkxMTcsMT
-YzMDkwMzQ3MiwxOTc3ODc1NzM3LC0xOTE1NjEyNTg0LDkwMjg5
-MzQxNCwtMTU0OTY5NDEwMiwtMjA0OTYzMjQ2OSw3MTgyMTE3NF
-19
+eyJoaXN0b3J5IjpbMTAwMDkxMjg3MSwtMjA4MzAyOTExNywxNj
+MwOTAzNDcyLDE5Nzc4NzU3MzcsLTE5MTU2MTI1ODQsOTAyODkz
+NDE0LC0xNTQ5Njk0MTAyLC0yMDQ5NjMyNDY5LDcxODIxMTc0XX
+0=
 -->
