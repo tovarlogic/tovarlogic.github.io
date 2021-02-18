@@ -6,7 +6,10 @@ categories: [Salud]
 toc: true
 toc_sticky: true
 author_profile: false
-excerpt: 
+excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
+header:
+  overlay_color: "#333"
+
 ---
 # Introducción
 El consumo de moléculas para alterar la bioquímica de nuestro organismo, con el objetivo de obtener unos beneficios predefinidos, es lo que en anglosajón se denomina "**Biohacking**". No conozco un término equivalente en Español.
