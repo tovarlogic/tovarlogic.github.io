@@ -8,6 +8,12 @@ sidebar: civilizaciones
 toc: true
 toc_sticky: true
 excerpt: Artículo que permite comprender nuestra civilización actual conociendo las tradiciones e instituciones que hemos heredado de las primeras civilizaciones humanas. Aquí se resume su origen en la edad de bronce, a partir de pueblos neolíticos pre-existentes en la región del creciente fértil, y su desarrollo hasta la edad de hierro.
+excerpt: "This post should display a **header with a solid background color**, if the theme supports it."
+header:
+  overlay_color: "#333"
+  actions:
+    - label: "Serie: Civilizaciones"
+      url: "/civilizaciones/"
 ---
 
 # Introducción
