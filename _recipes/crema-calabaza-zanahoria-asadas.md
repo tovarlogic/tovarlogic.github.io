@@ -24,12 +24,12 @@ show_abreviations: true
 prep_time: 5
 cooking_time: 35
 yield: 6
-tags: [vegetariana, FODMAP, ]
-categories: [cremas]
+tags: [Vegetariana, FODMAP, Paleo]
+categories: [Cremas]
 ---
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTgyMTE4NjZdfQ==
+eyJoaXN0b3J5IjpbLTkyOTcwMDQ1N119
 -->
