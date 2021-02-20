@@ -1,8 +1,8 @@
 ---
 layout: collection
-title: "Recipes"
-collection: recipes
-permalink: /recipes/
+title: "Recetas"
+collection: recetas
+permalink: /recetas/
 author_profile: false
 classes: wide
 entries_layout: grid
