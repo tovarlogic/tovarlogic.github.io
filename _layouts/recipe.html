@@ -40,9 +40,9 @@ layout: default
           </aside>
         {% endif %}
         
-        {% if page.yield %}
+        {% if page.prepmins or page.cookmins or page.yield %}
         <ul id="recipe" class="recipe-overview">
-        	{% if page.prepmins or page.cookmins or page.yield %}
+        	{% if page.yield %}
 			<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span itemprop="recipeYield">{{ page.yield }}</span></li>
 			{% endif %}
 			{% if page.prepmins %}
@@ -77,12 +77,6 @@ layout: default
 		  <!-- instructions -->
 		</div>
 
-		{% if page.prepmins or page.cookmins %}
-		  <dl class="dl-horizontal">
-		    {% if page.prepmins %}<dt>Preparation time</dt><dd>{{ page.prepmins }} mins<span itemprop="prepTime" class="invisible">PT{{ page.prepmins }}M</span></dd>{% endif %}
-		    {% if page.cookmins %}<dt>Cooking time</dt><dd>{{ page.cookmins }} mins<span itemprop="cookTime" class="invisible">PT{{ page.cookmins }}M</span></dd>{% endif %}
-		  </dl>
-		{% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
