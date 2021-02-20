@@ -1,18 +1,18 @@
 ---
 title: "Crema de calabaza y zanahorias asadas"
 ingredients:
- - 500ml de caldo de verduras
- - 500ml de agua
- - 1kg de calabaza pelada
- - 800gr de zanahorias
- - AOVE
- - 1 tsp de semillas de mostaza o mostaza de Dijon en su defecto
- - 1/2 ramillete de cilantro fresco
- - 1 tsp de comino molido
- - 1 tsp de cúrcuma
- - 1/2 tsp de cardamomo
- - 1/4 tsp de chile en polvo
- directions:
+ caldo de verduras: 500ml
+ agua: 500ml
+ calabaza pelada: 1kg
+ zanahorias: 800gr
+ AOVE: 5 tbsp
+ mostaza de Dijon: 1tsp
+ cilantro fresco: 1/2 ramillete
+ comino molido: 1 tsp
+ cúrcuma: 1 tsp
+ cardamomo: 1/2 tsp
+ chile en polvo: 1/4 tsp
+instructions:
  - Cortar las verduras en tacos
  - Mezclar las verduras con AOVE
  - Asarlas a 210ºC durante 35 minutos (15 min en freidora sin aceite)
@@ -21,8 +21,8 @@ ingredients:
  - Juntar todo y cocinar en olla a presión durante 5 minutos.
 show_convertions: true
 show_abreviations: true
-prep_time: 5
-cooking_time: 35
+prepmins: 5
+cookmins: 35
 yield: 6
 tags: [Vegetariana, FODMAP, Paleo]
 categories: [Cremas]
