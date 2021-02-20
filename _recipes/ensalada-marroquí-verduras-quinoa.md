@@ -23,18 +23,17 @@ ingredients:
  - Hervir el agua y añadir la quinoa con tapa. Cocinar a fuego medio hasta que haya absorbido todo el agua.
  - Dejar enfriar todo, y una vez templado mezclar.
  - Añadir y mezclar las hierbas picadas
- - Servir templado
+ - Servir templado.
 show_convertions: true
 show_abreviations: true
 prep_time: 5
-cooking_time: 25
+cooking_time: 15
 yield: 6
-tags: [vegetariana]
-categories: [salsas]
-creator: Las Marías cocinillas
+tags: [vegetariana, FODMAP]
+categories: [ensaladas]
 ---
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQyMTIzMDc0XX0=
+eyJoaXN0b3J5IjpbMTIzMzA3MDU5OV19
 -->
