@@ -21,7 +21,11 @@ title: "Salsa Boloñesa vegetariana"
 
 # Intrucciones
 
- 1. Cortar las verduras 
+ 1. Cortar las verduras en tacos
+ 2. Doramos haciendo fritura de las verduras en AOVE
+ 3. Añadimos el vino y dejar unos minutos para reducir
+ 4. Añadir salsa de tomate, lentejas y caldo
+ 5. Cerrar la olla a presión y cocinar durante 15 minutos
 
  
  # Aclaraciones
@@ -31,5 +35,5 @@ title: "Salsa Boloñesa vegetariana"
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjUyNDU5NV19
+eyJoaXN0b3J5IjpbLTE4OTE4Nzk1NDVdfQ==
 -->
