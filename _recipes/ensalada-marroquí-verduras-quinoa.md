@@ -1,6 +1,7 @@
 ---
 title: "Ensalada marroquí de verduras asadas y quinoa"
 ingredients:
+ - 3 tazas de agua
  - 1 pimiento rojo
  - 270 gr de quinoa
  - 250gr de calabaza
@@ -17,10 +18,9 @@ ingredients:
  - 1/2 manojo de cilantro fresco (opcional)
  directions:
  - Cortar las verduras en tacos
- - Asarl
- - Añadimos el vino y dejar unos minutos para reducir
- - Añadir salsa de tomate, lentejas y caldo
- - Cerrar la olla a presión y cocinar durante 15 minutos
+ - Asarlas a 200ºC durante 30 minutos (15 minutos en freidora sin aceite)
+ - Lavar bien la quinoa
+ - Hervir el agua y añadir la 
 show_convertions: true
 show_abreviations: true
 prep_time: 5
@@ -33,5 +33,5 @@ creator: Las Marías cocinillas
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTU1MzIzMDVdfQ==
+eyJoaXN0b3J5IjpbODI2MTgxNTI5XX0=
 -->
