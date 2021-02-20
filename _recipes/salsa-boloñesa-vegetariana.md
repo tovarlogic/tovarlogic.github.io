@@ -23,12 +23,15 @@ ingredients:
  - Añadir salsa de tomate, lentejas y caldo
  - Cerrar la olla a presión y cocinar durante 15 minutos
 show_convertions: true
-cooking:
+cooking_tieme: 25
+yield: 6
+tags: [vegetariana]
+categories: [salsas]
 ---
 
  
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjc1OTI1ODNdfQ==
+eyJoaXN0b3J5IjpbLTgzNjQ5NDMzXX0=
 -->
