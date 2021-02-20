@@ -4,7 +4,7 @@
 
 .page_left {
   @include breakpoint($large) {
-
+    float: left;
     width: calc(100% - #{$right-sidebar-width-narrow});
     padding-right: $right-sidebar-width-narrow;
   }
