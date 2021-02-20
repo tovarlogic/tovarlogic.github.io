@@ -30,10 +30,10 @@ prep_time: 5
 cooking_time: 15
 yield: 6
 tags: [vegetariana, FODMAP]
-categories: [ensaladas]
+categories: [Ensaladas]
 ---
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzA3MDU5OV19
+eyJoaXN0b3J5IjpbMTI2NDgyOTk5MV19
 -->
