@@ -27,8 +27,8 @@ show_abreviations: true
 prep_time: 5
 cooking_time: 25
 yield: 6
-tags: [vegetariana]
-categories: [salsas]
+tags: [Vegetariana]
+categories: [Salsas]
 creator: Las Marías cocinillas
 ---
 
@@ -36,5 +36,5 @@ creator: Las Marías cocinillas
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MjU3NTA0OV19
+eyJoaXN0b3J5IjpbLTIwNDU1ODY2MTVdfQ==
 -->
