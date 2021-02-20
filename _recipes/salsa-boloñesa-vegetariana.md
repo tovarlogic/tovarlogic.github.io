@@ -23,6 +23,7 @@ ingredients:
  - Añadir salsa de tomate, lentejas y caldo
  - Cerrar la olla a presión y cocinar durante 15 minutos
 show_convertions: true
+show_abreviations: true
 prep_time: 5
 cooking_time: 25
 yield: 6
@@ -35,5 +36,5 @@ creator: Las Marías cocinillas
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTU2MTA4MDBdfQ==
+eyJoaXN0b3J5IjpbMTg5MjU3NTA0OV19
 -->
