@@ -1,8 +1,6 @@
 ---
 title: "Salsa Boloñesa vegetariana"
----
-# Ingredientes
-
+Ingredientes:
  - 1kg de tomate natural triturado
  - 700 ml de [Salsa de tomate](/salsa-de-tomate)
  - 125ml de vino tinto
@@ -18,22 +16,19 @@ title: "Salsa Boloñesa vegetariana"
  - sal y pimienta
  - Albahaca seca 1 puñado
  - AOVE
-
-# Intrucciones
-
- 1. Cortar las verduras en tacos
- 2. Doramos haciendo fritura de las verduras en AOVE
- 3. Añadimos el vino y dejar unos minutos para reducir
- 4. Añadir salsa de tomate, lentejas y caldo
- 5. Cerrar la olla a presión y cocinar durante 15 minutos
-
  
- # Aclaraciones
- AOVE
- : Aceite de Oliva virgen Extra
+ Instrucciones:
+ - Cortar las verduras en tacos
+ - Doramos haciendo fritura de las verduras en AOVE
+ - Añadimos el vino y dejar unos minutos para reducir
+ - Añadir salsa de tomate, lentejas y caldo
+ - Cerrar la olla a presión y cocinar durante 15 minutos
+ - 
+---
+
  
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTE4Nzk1NDVdfQ==
+eyJoaXN0b3J5IjpbLTE5NjE0NTg3MF19
 -->
