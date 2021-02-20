@@ -1,7 +1,8 @@
 ---
 title: "Crema de calabaza y zanahorias asadas"
 ingredients:
- - 1l de agua
+ - 500ml de caldo de verduras
+ - 500ml de agua
  - 1kg de calabaza pelada
  - 800gr de zanahorias
  - AOVE
@@ -9,7 +10,8 @@ ingredients:
  - 1/2 ramillete de cilantro fresco
  - 1 tsp de comino molido
  - 1 tsp de cúrcuma
- - 
+ - 1/2 tsp de cardamomo
+ - 1/4 tsp de chile en polvo
  directions:
  - Cortar las verduras en tacos
  - Mezclar las verduras con AOVE
@@ -30,5 +32,5 @@ creator: unknown
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjY2OTU4MjZdfQ==
+eyJoaXN0b3J5IjpbNDUyNDk4ODA5XX0=
 -->
