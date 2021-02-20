@@ -7,7 +7,6 @@ toc: true
 toc_sticky: true
 author_profile: false
 layout: single-left
-classes: wide
 ---
 # Introducción
 El consumo de moléculas para alterar la bioquímica de nuestro organismo, con el objetivo de obtener unos beneficios predefinidos, es lo que en anglosajón se denomina "**Biohacking**". No conozco un término equivalente en Español.
