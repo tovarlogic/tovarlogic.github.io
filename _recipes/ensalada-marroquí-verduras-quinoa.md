@@ -13,10 +13,11 @@ ingredients:
  - 1 tsp pimentón dulce
  - 1/2 tsp de cúrcuma
  - sal y pimienta
- - 
+ - 1 manojo de perejil fresco
+ - 1/2 manojo de cilantro fresco (opcional)
  directions:
  - Cortar las verduras en tacos
- - Doramos haciendo fritura de las verduras en AOVE
+ - Asarl
  - Añadimos el vino y dejar unos minutos para reducir
  - Añadir salsa de tomate, lentejas y caldo
  - Cerrar la olla a presión y cocinar durante 15 minutos
@@ -32,5 +33,5 @@ creator: Las Marías cocinillas
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzAzMTA0OV19
+eyJoaXN0b3J5IjpbLTEyNTU1MzIzMDVdfQ==
 -->
