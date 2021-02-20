@@ -24,13 +24,12 @@ show_abreviations: true
 prep_time: 5
 cooking_time: 35
 yield: 6
-tags: [vegetariana]
+tags: [vegetariana, FODMAP, ]
 categories: [cremas]
-creator: unknown
 ---
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUyNDk4ODA5XX0=
+eyJoaXN0b3J5IjpbLTE0OTgyMTE4NjZdfQ==
 -->
