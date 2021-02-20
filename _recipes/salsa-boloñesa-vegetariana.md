@@ -15,9 +15,21 @@ title: "Salsa Boloñesa vegetariana"
  - Romero u Orégano fresco
  - 15 aceitunas negras o verdes
  - 500ml de caldo de verduras
- - 
+ - sal y pimienta
+ - Albahaca seca 1 puñado
+ - AOVE
+
+# Intrucciones
+
+ 1. Cortar las verduras 
+
+ 
+ # Aclaraciones
+ AOVE
+ : Aceite de Oliva virgen Extra
+ 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjUxODI3MThdfQ==
+eyJoaXN0b3J5IjpbMTA0MjUyNDU5NV19
 -->
