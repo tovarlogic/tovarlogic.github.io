@@ -19,9 +19,9 @@ ingredients:
  directions:
  - Cortar las verduras en tacos
  - Mezclar las verduras con AOVE
- - Asarlas a Doramos haciendo fritura de las verduras en AOVE
- - Añadimos el vino y dejar unos minutos para reducir
- - Añadir salsa de tomate, lentejas y caldo
+ - Asarlas 210ºC durante 35 minutos (15 min en freidora sin aceite)
+ - Picar el cilantro
+ - Fritura del cilantro con las especias
  - Cerrar la olla a presión y cocinar durante 15 minutos
 show_convertions: true
 show_abreviations: true
@@ -36,5 +36,5 @@ creator: unknown
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2NjQwNDQ2XX0=
+eyJoaXN0b3J5IjpbMTU2NDEwOTk5NV19
 -->
