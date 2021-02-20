@@ -28,11 +28,12 @@ cooking_time: 25
 yield: 6
 tags: [vegetariana]
 categories: [salsas]
+creator: Las Marías cocinillas
 ---
 
  
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2ODIxNjQ0XX0=
+eyJoaXN0b3J5IjpbLTEyNTU2MTA4MDBdfQ==
 -->
