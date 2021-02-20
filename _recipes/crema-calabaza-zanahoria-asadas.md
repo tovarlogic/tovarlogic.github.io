@@ -2,7 +2,14 @@
 title: "Crema de calabaza y zanahorias asadas"
 ingredients:
  - 1l de agua
- - 1kg de calabaza 
+ - 1kg de calabaza pelada
+ - 800gr de zanahorias
+ - AOVE
+ - 1 tsp de semillas de mostaza o mostaza de Dijon en su defecto
+ - 1/2 ramillete de cilantro fresco
+ - 1 tsp de comino molido
+ - 1 tsp de cúrcuma
+ - 
  directions:
  - Cortar las verduras en tacos
  - Mezclar las verduras con AOVE
@@ -23,5 +30,5 @@ creator: unknown
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjMyMzc5OF19
+eyJoaXN0b3J5IjpbLTE3MjY2OTU4MjZdfQ==
 -->
