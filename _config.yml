@@ -275,9 +275,19 @@ collections:
     permalink: /:collection/:path/
   recetas:
     output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
+  atc:
+    output: true
+    permalink: /:collection/:path/
+  argumentacion:
+    output: true
+    permalink: /series/:collection/:path/
+  civilizaciones:
+    output: true
+    permalink: /series/:collection/:path/
     
 # Defaults
 defaults:

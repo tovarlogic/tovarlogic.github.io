@@ -1,9 +1,10 @@
 ---
+title: "Control Aéreo"
 layout: collection
-title: "Recetas"
-collection: recetas
-permalink: /recetas/
+permalink: /ATC/
+collection: atc
 author_profile: false
 classes: wide
 entries_layout: grid
 ---
+
