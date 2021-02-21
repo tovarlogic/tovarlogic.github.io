@@ -6,6 +6,7 @@ categories: [Filosofia]
 serie: razonamiento
 toc: true
 toc_sticky: true
+excerpt: Comparación con ejemplos a mayores o menores.
 header:
   overlay_color: "#333"
   actions:
@@ -86,5 +87,6 @@ El procedimiento no es complicado. Cualquier argumento analógico se transforma 
 # Referencias
 - [Uso de razón](http://www.usoderazon.com) por Ricardo García Damborenea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5OTUxMjEzLC05OTUyNzA3NjJdfQ==
+eyJoaXN0b3J5IjpbMTE1ODU5NjExMiw2MTk5NTEyMTMsLTk5NT
+I3MDc2Ml19
 -->
