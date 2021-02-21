@@ -54,16 +54,15 @@ Adicionalmente debemos exigir que la autoridad citada sea concreta, competente, 
 
 >Ej: Alguien dice que A es B.
 >
->Ese Alguien es... una autoridad concreta, competente en la materia, imparcial
+>¿Es Alguien una autoridad concreta, competente en la materia e  imparcial?
 > 
-> dice realmente que A es B
+> ¿dice realmente que A es B?
 > 
- >lo que afirma no está en contradicción con lo defendido por otros expertos.
+ >y ¿lo que afirma no está en contradicción con lo defendido por otros expertos.?
 >
 >Luego A es B
 
 ## Análisis del argumento
-
 Tal vez el argumento suscite desconfianza, en tal caso debemos preguntarnos sobre la fuente y sus afirmaciones:
 
 1.  ¿Se trata de una  **autoridad**  concreta?
@@ -115,5 +114,5 @@ Una variedad de ésta es el Argumento ad Populum o apelación a la opinión más
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNDczODg1OV19
+eyJoaXN0b3J5IjpbNTAzMTY5MzkyXX0=
 -->
