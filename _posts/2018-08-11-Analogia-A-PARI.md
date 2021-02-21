@@ -103,13 +103,14 @@ Lo mismo hacemos con las normas morales o legales para extender su aplicación a
 
 ## Semejanzas
 
--   **La misma razón**. Es decir la razón que sustenta las afirmaciones es la misma que la de la conclusión
+La semejanzas se basa en la **misma razón**, es decir, la razón que sustenta las afirmaciones es la misma que la de la conclusión.
 >Ej: La razón por la que las alubias te sientan mal es que son leguminosas (igual que las lentejas).
 >
-La razón por la que tardé  treinta minutos en llegar ayer al aeropuerto es que el tráfico era fluido (igual que hoy). 
-
-Está prohibido fumar en el aula (porque molesta a los no fumadores).
-Fumar en la biblioteca molesta igual.
+>La razón por la que tardé  treinta minutos en llegar ayer al aeropuerto es que el tráfico era fluido (igual que hoy). 
+>
+>Está prohibido fumar en el aula (porque molesta a los no fumadores).
+>
+>Fumar en la biblioteca molesta igual.
 
 ## Diferencias
 
@@ -234,7 +235,7 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjE0MjgyNywtMTE0NDMyOTYyMCwtMz
+eyJoaXN0b3J5IjpbMTQ3ODk0NzEwMiwtMTE0NDMyOTYyMCwtMz
 I1MzU4NjUyLC0xMzA4NzM2MjA2LC0xMzg1MzM2NzcsLTEyMzY3
 ODg1ODFdfQ==
 -->
