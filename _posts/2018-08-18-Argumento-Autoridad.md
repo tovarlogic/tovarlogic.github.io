@@ -62,7 +62,7 @@ Adicionalmente debemos exigir que la autoridad citada sea concreta, competente, 
 >
 >Luego A es B
 
-## Análisis del argumento
+# Análisis del argumento
 Tal vez el argumento suscite desconfianza, en tal caso debemos preguntarnos sobre la fuente y sus afirmaciones:
 
 1.  ¿Se trata de una  **autoridad**  concreta?
@@ -82,35 +82,29 @@ Debemos desconfiar siempre de la independencia de las autoridades y preguntarnos
 
 Puede haber sido mal interpretada por equivocación, por idioma, términos técnicos, por deducciones del interprete o por intención del intermediario buscando la manipulación.
 
-1.  ¿Es  **coherente**  con lo que afirman otras autoridades del mismo campo? Si discrepan es porque el problema no está claro o no disponen de un conocimiento objetivo, con lo cual, lo que nos trasmiten son conjeturas individuales
+¿Es  **coherente**  con lo que afirman otras autoridades del mismo campo? Si discrepan es porque el problema no está claro o no disponen de un conocimiento objetivo, con lo cual, lo que nos trasmiten son conjeturas individuales
 
 Si, planteada una o más de estas preguntas, recibimos una respuesta satisfactoria, debemos considerar que el argumento es razonable y la conclusión admisible. Si no hay respuesta o ésta no es satisfactoria, el argumento debe ser considerado débil (que concluye sin fundamente suficiente) o, peor aún, sospechoso de falacia (que trata de engañarnos).
 
-## Refutación
+# Refutación
 
 Si se nos ofrece la opinión de un experto, podemos refutarla aportando otras citas de autoridad, sean del mismo valor (con lo que se equilibran las posiciones), sean de mayor peso. Un técnico anula a otro técnico.
 
-## Falacias
+# Falacias
 
 Un argumento de autoridad puede ser:
-
 -   **Razonable**: Ofrece garantías suficientes para que la conclusión sea plausiblemente aceptable. Es decir, nos enseña las cartas sin hacer trucos.
 -   **Débil**: No dispone de garantías suficientes, por lo que su conclusión es plausiblemente inaceptable. Se ve que las conclusiones van más lejos de lo que los datos permiten.
 -   **Falaz**: Carece de garantías y no existe voluntad para ofrecerlas. Se invoca el argumento de autoridad como si fuera ter­minante, la última palabra en un tema, eludiendo la obligación de probar que la autoridad merece crédito. Nos hace trampas y no quiere enseñarnos las cartas.
 
-Llamamos falaz al mal argumento de autoridad que se emplea abusivamente.
-
-Distinguimos dos tipos de falacias:
-
--   la  [Falacia de Falsa Autoridad](http://tovarlogic.shoutwiki.com/w/index.php?title=Falacias/Falsa_autoridad&action=edit&redlink=1 "Falacias/Falsa autoridad (la página no existe)")  que persigue el engaño,
--   la  [Falacia ad Verecundiam](http://tovarlogic.shoutwiki.com/w/index.php?title=Falacias/Ad_verecundiam&action=edit&redlink=1 "Falacias/Ad verecundiam (la página no existe)"), que no admite discusión.
-
-Una variedad de ésta es el Argumento ad Populum o apelación a la opinión más extendida.
+Llamamos falaz al mal argumento de autoridad que se emplea abusivamente y distinguimos dos tipos:
+-   la  **Falacia de Falsa Autoridad**, que persigue el engaño,
+-   la  **Falacia ad Verecundiam**, que no admite discusión. Una variedad de ésta es el Argumento ad Populum o apelación a la opinión más extendida.
 
 # Referencias
 - [Uso de razón](http://www.usoderazon.com) por Ricardo García Damborenea
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ3NjU4NjldfQ==
+eyJoaXN0b3J5IjpbNjAxNjUyNTc5XX0=
 -->
