@@ -5,14 +5,14 @@ ingredients:
  [Salsa de tomate](/salsa-de-tomate): 700ml
  vino tinto: 125ml 
  Cebolla: 1
- Ajo
- - 2 zanahorias
- - 150gr de setas o champiñones
- - 150gr de lentejas
- - 2 tallos de apio
- - Romero u Orégano fresco
- - 15 aceitunas negras o verdes
- - 500ml de caldo de verduras
+ Ajo: 2 dientes
+ Zanahorias: 2
+ Setas o champiñones: 150gr
+ Lentejas: 150gr
+ Apio: 2 tallos
+ Romero u Orégano fresco: 1 tsp
+ Aceitunas negras o verdes: 15
+ Caldo de verduras: 500ml
  - sal y pimienta
  - Albahaca seca 1 puñado
  - AOVE
@@ -34,5 +34,5 @@ creator: Las Marías cocinillas
 
  receta de prueba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzk5NjA2NzRdfQ==
+eyJoaXN0b3J5IjpbLTExMTgxOTg1MzVdfQ==
 -->
