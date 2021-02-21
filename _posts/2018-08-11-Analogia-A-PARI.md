@@ -136,20 +136,20 @@ Falsa Analogía
 ## Refutación
 
 Hay tres caminos para responder a una falsa analogía:
-
 -   Porque existen  **diferencias relevantes**  entre ambos casos.
 -   Porque podemos ofrecer  **otra analogía**  para el mismo ejemplo pero con una  **conclusión opuesta**.
 -   Por  **reducción al absurdo**.
 
 ### Diferencias relevantes
 
--   Probando que la diferencia es más relevante que la semejanza para la conclusión
+Probando que la diferencia es más relevante que la semejanza para la conclusión.
 
 Siempre que topamos con una comparación cabe tanto la posibilidad de una analogía (existe semejanza relevante) como la de su rechazo (son más relevantes las diferencias). Se puede subrayar tanto una cosa como la otra porque en los argumentos por analogía pesa extraordinariamente la voluntad de quien expone y de quien recibe el razonamiento.
 
-El problema de los políticos es tener que proponer cosas muy parecidas a las de sus adversarios de modo que parezcan completamente distintas
+El problema de los políticos es tener que proponer cosas muy parecidas a las de sus adversarios de modo que parezcan completamente distintas.
+{: .notice--info}
 
-¡No negamos las semejanzas! Existen, sin duda, pero no son relevantes. Nos limitamos a señalar que hay diferencias significativas, por lo que deben ser considerados casos distintos a los que no se puede juzgar con el mismo criterio. Tratar del mismo modo situaciones desiguales es tan injusto como juzgar situaciones iguales de modo diferente.
+**¡No negamos las semejanzas!** Existen, sin duda, pero no son relevantes. Nos limitamos a señalar que hay diferencias significativas, por lo que deben ser considerados casos distintos a los que no se puede juzgar con el mismo criterio. Tratar del mismo modo situaciones desiguales es tan injusto como juzgar situaciones iguales de modo diferente.
 
 Ha robado, pero no es lo mismo robar a un rico que a un pobre.
 
@@ -239,7 +239,7 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzMxOTk3MTksMTU4MDAyNDIxOSwtMT
-E0NDMyOTYyMCwtMzI1MzU4NjUyLC0xMzA4NzM2MjA2LC0xMzg1
-MzM2NzcsLTEyMzY3ODg1ODFdfQ==
+eyJoaXN0b3J5IjpbODI5MzExNTk2LDE1ODAwMjQyMTksLTExND
+QzMjk2MjAsLTMyNTM1ODY1MiwtMTMwODczNjIwNiwtMTM4NTMz
+Njc3LC0xMjM2Nzg4NTgxXX0=
 -->
