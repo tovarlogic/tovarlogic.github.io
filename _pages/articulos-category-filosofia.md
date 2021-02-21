@@ -2,7 +2,7 @@
 title: Artículos sobre filosofía
 breadcrumb_name: categorias/filosofia
 layout: category
-permalink: /categorias/filosofia/
+permalink: /categories/filosofia/
 taxonomy: politica
 ---
 

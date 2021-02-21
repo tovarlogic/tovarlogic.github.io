@@ -1,7 +1,7 @@
 ---
 title: Artículos sobre política
 layout: tag
-permalink: /etiquetas/política/
+permalink: /tags/política/
 taxonomy: politica
 ---
 
