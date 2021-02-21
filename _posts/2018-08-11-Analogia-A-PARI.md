@@ -219,26 +219,27 @@ Nótese que, de igual en igual, se puede trasladar la razón de manera sucesiva.
 >Ej: Si lo admites para Juan tendrás que admitirlo para Pedro, que está en la misma situación. Y si lo admites para Pedro ¿cómo se lo vas a negar al resto del equipo?
 
 ## El modelo
+Cuando inten­tamos exhortar una conducta y no podemos recurrir a la regla de justicia, apelamos a un ejemplo digno de imitación.
 
--   Cuando inten­tamos exhortar una conducta y no podemos recurrir a la regla de justicia, apelamos a un ejemplo digno de imitación.
+>Ej: Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo amilanaran.
 
-Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo amilanaran.
-
--   Contramodelo es el ejemplo que se cita para disuadir de una conducta.
+Por el contrario, el "**contramodelo**" es el ejemplo que se cita para disuadir de una conducta.
 
 ## Conjeturas
+ La analogía constituye una de nuestras principales fuentes de conocimiento: todo aquello que no podemos aprender por experiencia directa o por que nos lo cuenta quien sabe, lo conjeturamos por analogía y sólo por analogía.
+ 
+No podríamos entender a nuestros semejantes si prescindiéramos de la analogía, porque no sabríamos ponernos en su lugar.
 
--   La analogía constituye una de nuestras principales fuentes de conocimiento: todo aquello que no podemos aprender por experiencia directa o por que nos lo cuenta quien sabe, lo conjeturamos por analogía y sólo por analogía.
--   No podríamos entender a nuestros semejantes si prescindiéramos de la analogía, porque no sabríamos ponernos en su lugar.
--   Si algo ha ocurrido con anterioridad, puede ocurrir de nuevo por la misma razón; y, al contrario, si no ha ocurrido antes en circunstancias parecidas, no hay por qué temer que ocurra ahora:
+Si algo ha ocurrido con anterioridad, puede ocurrir de nuevo por la misma razón; y, al contrario, si no ha ocurrido antes en circunstancias parecidas, no hay por qué temer que ocurra ahora:
 
 ## Metáforas, símiles e ilustraciones
+Con frecuencia recurrimos a las comparaciones, no como argumento, sino como ilustración. Explicamos cosas que no son conocidas comparándolas con las más familiares (reales o ficticias, como ocurre en las fábulas). 
 
--   Con frecuencia recurrimos a las comparaciones, no como argumento, sino como ilustración. Explicamos cosas que no son conocidas comparándolas con las más familiares (reales o ficticias, como ocurre en las fábulas). Cualquier exposición oral está plagada de comparaciones ilustrativas. Conviene no caer en el error de tomarlas como argumento. Una cosa es rechazar una metáfora inadecuada y otra muy distinta, refutar un argumento. Con frecuencia se mezclan: al argumento sigue el adorno de las metáforas:
+Cualquier exposición oral está plagada de comparaciones ilustrativas. Conviene no caer en el error de tomarlas como argumento. Una cosa es rechazar una metáfora inadecuada y otra muy distinta, refutar un argumento. Con frecuencia se mezclan: al argumento sigue el adorno de las metáforas.
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMDcyMTMyNSwxNTgwMDI0MjE5LC0xMT
-Q0MzI5NjIwLC0zMjUzNTg2NTIsLTEzMDg3MzYyMDYsLTEzODUz
-MzY3NywtMTIzNjc4ODU4MV19
+eyJoaXN0b3J5IjpbLTE2MDYyMTM3NjAsMTU4MDAyNDIxOSwtMT
+E0NDMyOTYyMCwtMzI1MzU4NjUyLC0xMzA4NzM2MjA2LC0xMzg1
+MzM2NzcsLTEyMzY3ODg1ODFdfQ==
 -->
