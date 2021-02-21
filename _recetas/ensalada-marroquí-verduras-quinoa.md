@@ -38,8 +38,9 @@ yield: 6
 tags: [vegetariana, FODMAP]
 categories: [Ensaladas]
 ---
-prueba
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDI1MzI5MywxODczNjQ1MjM3LC0xND
-k2MzI3Njc4LC02MTcyNzIxMjIsLTE1NTc5NjMwMzBdfQ==
+eyJoaXN0b3J5IjpbLTQ0MTI4MDcwMCwtNjAwMjUzMjkzLDE4Nz
+M2NDUyMzcsLTE0OTYzMjc2NzgsLTYxNzI3MjEyMiwtMTU1Nzk2
+MzAzMF19
 -->
