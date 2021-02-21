@@ -15,18 +15,20 @@ y no hay nada excepcional en el caso que impida la conclusión.
 B es P, por la misma razón que A.
 {: .notice}
 
--   La  **fuerza depende de que la semejanza sea relevante y las diferencias no**. La analogía cobra fuerza cuando:
-    -   Los ejemplos en que nos apoyamos son numerosos
-    -   Tienen distintos orígenes
-    -   Existe más de una semejanza relevante
-    -   Es menor el número de las diferencias
-    -   La conclusión es modesta.
--   Llamamos  **Falacia de Falsa Analogía**, a todo argumento analógico que no se apoya en una semejanza relevante u olvida diferencias cruciales que impiden la conclusión.
+La  **fuerza** depende de que la semejanza sea relevante y las diferencias no. La analogía cobra fuerza cuando:
+  -   Los ejemplos en que nos apoyamos son numerosos
+  -   Tienen distintos orígenes
+  -   Existe más de una semejanza relevante
+  -   Es menor el número de las diferencias
+  -   La conclusión es modesta.
+
+Llamamos  **Falacia de Falsa Analogía**, a todo argumento analógico que no se apoya en una semejanza relevante u olvida diferencias cruciales que impiden la conclusión.
 -   Se  **refuta**:
     -   rechazando el ejemplo.
     -   subrayando las diferencias que puedan ser relevantes para la conclusión.
     -   con otra analogía.
--   Usos prácticos
+
+## Usos prácticos
     -   En la simetría del argumento a pari se apoyan los argumentos de reciprocidad.
     -   Con la Regla de Justicia como premisa complementaria, se forman la analogía judicial, la apelación al precedente, y la apelación al agravio comparativo.
     -   Del mismo modo se recurre al modelo.
@@ -207,6 +209,6 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI3MjU3MCwtMTM4NTMzNjc3LC0xMj
-M2Nzg4NTgxXX0=
+eyJoaXN0b3J5IjpbLTU3MTgxNTYxLC0xMzg1MzM2NzcsLTEyMz
+Y3ODg1ODFdfQ==
 -->
