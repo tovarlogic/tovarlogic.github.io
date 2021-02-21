@@ -42,11 +42,11 @@ Llamamos  **Falacia de Falsa Analogía**, a todo argumento analógico que no se 
     -   subrayando las diferencias que puedan ser relevantes para la conclusión.
     -   con otra analogía.
 
-Por los general se suele emplear esta analogía en los siguientes casos:
-- En la simetría del argumento a pari se apoyan los argumentos de reciprocidad.
-- Con la Regla de Justicia como premisa complementaria, se forman la analogía judicial, la apelación al precedente, y la apelación al agravio comparativo.
-- Del mismo modo se recurre al modelo.
-- La analogía es una de nuestras principales fuentes de conocimiento, un auxiliar indispensable para la construcción de conjeturas e hipótesis.
+En la simetría del argumento a pari se apoyan los **argumentos de reciprocidad**. 
+
+Con la Regla de Justicia como premisa complementaria, se forman la analogía judicial, la apelación al precedente, y la apelación al agravio comparativo. Del mismo modo se recurre al modelo.
+
+La analogía es una de nuestras principales fuentes de conocimiento, un auxiliar indispensable para la construcción de conjeturas e hipótesis.
 
 # El Argumento
 Las experiencias repetidas nos invitan a generalizar por inducción, y una vez que disponemos de una regla general, podemos aplicarla ante cualquier caso nuevo del mismo género.
@@ -218,6 +218,6 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDE4Njc0MiwtMTMwODczNjIwNiwtMT
+eyJoaXN0b3J5IjpbMTUyMjY4NDg4NCwtMTMwODczNjIwNiwtMT
 M4NTMzNjc3LC0xMjM2Nzg4NTgxXX0=
 -->
