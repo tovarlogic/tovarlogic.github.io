@@ -85,7 +85,8 @@ Toda  **demostración**  consiste en fundamentar una verdad en otra o en varias.
         -   **reducción al absurdo**, utilizamos la conclusión del adversario como si fuera cierta
         
 ## Tipos de argumentación
-    -   **ad hominem**(dirigido al hombre), razonamiento dispuesto específicamente para las personas que aceptan determinados hechos o valores.  _Siempre es la más eficaz razón la que se toma de lo que el otro admite_
+ -   **ad hominem**(dirigido al hombre), razonamiento dispuesto específicamente para las personas que aceptan determinados hechos o valores.  
+ > Ej:_Siempre es la más eficaz razón la que se toma de lo que el otro admite_
 -   **ad rem**(de las cosas), son los que se dirigen a sostener o combatir la verdad de una proposición en términos objetivos y, por lo tanto, válidos para todo el mundo. No se puede persuadir a nadie a partir de premisas que desconoce o rechaza. Al dirigirnos a una audiencia plural, ofrecemos varios argumentos para que cada interlocutor escoja y adopte aquél o aquellos que más le persuadan.
 
 ## Definiciones
@@ -240,5 +241,5 @@ La fuerza de la hipótesis está determinada por tres factores:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNDAyMDY5XX0=
+eyJoaXN0b3J5IjpbLTE1MzEyNjcxODhdfQ==
 -->
