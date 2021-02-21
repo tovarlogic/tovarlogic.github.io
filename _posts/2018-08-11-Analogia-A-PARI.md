@@ -6,6 +6,7 @@ categories: [Filosofia]
 serie: razonamiento
 toc: true
 toc_sticky: true
+excerpt: Comparación del mismo grado por igualdad o semejanza.
 header:
   overlay_color: "#333"
   actions:
@@ -245,7 +246,7 @@ Cualquier exposición oral está plagada de comparaciones ilustrativas. Conviene
 # Referencias
 - [Uso de razón](http://www.usoderazon.com) por Ricardo García Damborenea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTg2MjgwMjUsMTIzMjMzNTYzOSwxNT
+eyJoaXN0b3J5IjpbLTE0MTMxODk4MDYsMTIzMjMzNTYzOSwxNT
 gwMDI0MjE5LC0xMTQ0MzI5NjIwLC0zMjUzNTg2NTIsLTEzMDg3
 MzYyMDYsLTEzODUzMzY3NywtMTIzNjc4ODU4MV19
 -->
