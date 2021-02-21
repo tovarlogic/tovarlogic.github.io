@@ -92,16 +92,13 @@ Toda  **demostración**  consiste en fundamentar una verdad en otra o en varias.
 ## Definiciones
 
 Premisas
+: son frases que afirman o niegan algo. Pueden ser de dos tipos:  **datos**  o  **garantías**
 
-son frases que afirman o niegan algo. Pueden ser de dos tipos:  **datos**  o  **garantías**
-
-datos
-
-nacen de la observación (premisa fáctica o menor).
+Datos
+: nacen de la observación (premisa fáctica o menor).
 
 Garantías
-
-son las razones que justifican el paso de los datos a la conclusión (primera premisa), parten del conocimiento o creencias (generalizaciones, definiciones, leyes, normas, valores, creencias...)
+: son las razones que justifican el paso de los datos a la conclusión (primera premisa), parten del conocimiento o creencias (generalizaciones, definiciones, leyes, normas, valores, creencias...)
 
 tiene la forma de Todo A es C, si B es A entonces B es C
 
@@ -241,5 +238,5 @@ La fuerza de la hipótesis está determinada por tres factores:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzEyNjcxODhdfQ==
+eyJoaXN0b3J5IjpbNzE1MDcyMDI0LC0xNTMxMjY3MTg4XX0=
 -->
