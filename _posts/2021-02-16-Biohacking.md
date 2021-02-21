@@ -10,12 +10,12 @@ layout: single-left
 ---
 # Introducción
 Biohacking
-: Es un anglicismo que hace referencia a la acción de modificar la bioquímica de nuestro organismo de manera deliberada.
+: Es un anglicismo que hace referencia a la acción de modificar la bioquímica de nuestro organismo de manera deliberada. No conozco traducción ni uso popular en Español.
 
-El consumo de drogas, medicamentos o suplementos y la modificación de hábitos diarios - como en la dieta, ejercicios, exposición deliberada a temperaturas extremas - son "herramientas" que emplean los "biohackers" para losgrar sus objetivos.
+El consumo de drogas, medicamentos o suplementos y la modificación de hábitos diarios - como en la dieta, ejercicios, exposición deliberada a temperaturas extremas - son "herramientas" que emplean los "biohackers" para lograr sus objetivos.
 
 Nootropics
-: Son drogas, medicamentos o suplementos cuyo consumo tienecon objetivo específico de mejorar el rendimiento cognitivo son generalmente conocidos en Inglés como "**Nootropics**". En español se suele emplear la traducción directa ["Nootrópico"](https://dle.rae.es/nootr%C3%B3pico) (aunque no está recogido en la RAE).
+: Son drogas, medicamentos o suplementos cuyo consumo tiene como objetivo específico mejorar el rendimiento cognitivo. Es otro anglicismo que se ha adoptado popularmente en español como  ["Nootrópico"](https://dle.rae.es/nootr%C3%B3pico) (aunque no está recogido en la RAE).
 
 A efectos de este artículo consideraremos lo que es un suplemento y uno natural de acuerdo a las siguientes definiciones:
 
@@ -129,7 +129,7 @@ Las técnicas intensivitas de la agricultura moderna han llevado a la degradaci�
 [^3]: [Mediline plus: Examen de 25-hidroxi vitamina D](https://medlineplus.gov/spanish/ency/article/003569.htm)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNDk3Mjk0MSwtODI3OTA5MjY4LDExNj
+eyJoaXN0b3J5IjpbLTgzNjYzMTgwMiwtODI3OTA5MjY4LDExNj
 kyNDQwNzQsLTIwODMwMjkxMTcsMTYzMDkwMzQ3MiwxOTc3ODc1
 NzM3LC0xOTE1NjEyNTg0LDkwMjg5MzQxNCwtMTU0OTY5NDEwMi
 wtMjA0OTYzMjQ2OSw3MTgyMTE3NF19
