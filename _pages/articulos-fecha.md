@@ -1,6 +1,6 @@
 ---
-title: "Posts by Year"
-permalink: /year-archive/
+title: "Artículos por fecha"
+permalink: /articulos-fecha/
 layout: posts
 classes: wide
 author_profile: false

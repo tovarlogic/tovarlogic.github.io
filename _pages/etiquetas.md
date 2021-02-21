@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
+title: "Artículos por etiqueta"
+permalink: /etiquetas/
 layout: tags
 author_profile: false
 classes: wide

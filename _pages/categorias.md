@@ -1,7 +1,7 @@
 ---
-title: "Posts by Category"
+title: "Artículos por categoría"
 layout: categories
-permalink: /categories/
+permalink: /categorias/
 author_profile: false
 classes: wide
 entries_layout: grid
