@@ -17,7 +17,7 @@ ingredients:
  sal y pimienta: 1 pizca
  perejil fresco: 1 manojo
  cilantro fresco: 1/2 manojo (opcional)
-instructions:
+ instructions:
  - Cortar las verduras en tacos
  - Mezclar las especias con AOVE
  - Impregnar las verduras con la mezcla de las especias
@@ -38,5 +38,6 @@ categories: [Ensaladas]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzI3MjEyMiwtMTU1Nzk2MzAzMF19
+eyJoaXN0b3J5IjpbMTgxMjM0NjM5NiwtNjE3MjcyMTIyLC0xNT
+U3OTYzMDMwXX0=
 -->
