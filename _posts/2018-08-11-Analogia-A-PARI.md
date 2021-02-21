@@ -52,13 +52,14 @@ Las experiencias repetidas nos invitan a generalizar por inducción, y una vez q
 >Ej:  Los gatos son egoístas y perezosos.
 >Los perros son leales y alborotadores.
 >por tanto -> Si compras un gato, será egoísta y perezoso
-
-o
+>o
 > Si ayer tardé treinta minutos en llegar al aeropuerto, supongo que hoy me costará lo mismo.
 
 En caso de carecer de regla general, hurgamos en nuestra memoria o volvemos la vista a nuestro alrededor en busca de algo parecido que nos sugiera la solución
 >Ej: Las alubias me sentaron mal. 
+>
 >Las lentejas son semejantes a las alubias.
+>
 >Luego, probablemente, las lentejas me sentarán mal.
 
 En un argumento por analogía decimos que: X es B porque es como A, y los A son B.
@@ -219,6 +220,6 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDkyODE1ODQsLTMyNTM1ODY1MiwtMT
-MwODczNjIwNiwtMTM4NTMzNjc3LC0xMjM2Nzg4NTgxXX0=
+eyJoaXN0b3J5IjpbNTM1MzgwODMwLC0zMjUzNTg2NTIsLTEzMD
+g3MzYyMDYsLTEzODUzMzY3NywtMTIzNjc4ODU4MV19
 -->
