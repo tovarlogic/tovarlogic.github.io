@@ -1,6 +1,20 @@
+---
+title:  Argumentos de Autoridad
+date:   2018-08-18
+tags: [logica, pensamiento critico]
+categories: [Filosofia]
+serie: razonamiento
+toc: true
+toc_sticky: true
+excerpt: Escudarse en una opinión que se considere solvente.
+header:
+  overlay_color: "#333"
+  actions:
+    - label: "Serie: Razonamiento"
+      url: "/series/razonamiento/"
+---
 # Introducción
-
-1.  Argumentos de autoridad son aquellos en los que como razones aportamos lo que dicen otros.
+Los argumentos de autoridad son aquellos en los que como razones aportamos lo que dicen otros.
 2.  Los  **requisitos**  que deben cumplir sus premisas son, Que se trate de una autoridad:
     -   concreta.
     -   competente en la materia de que se trata.
@@ -98,5 +112,5 @@ Una variedad de ésta es el Argumento ad Populum o apelación a la opinión más
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0OTM5NzcyNl19
+eyJoaXN0b3J5IjpbLTIxMjg1NzQwMTVdfQ==
 -->
