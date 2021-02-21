@@ -12,7 +12,7 @@ header:
     - label: "Serie: Razonamiento"
       url: "/series/razonamiento/"
 ---
-# Analogía "A Pari"
+# Introducción
 La analogía nos autoriza a tratar casos diferentes como si pertenecieran a la misma regla o, dicho de otra manera, nos permite ampliar el alcance de una regla, de una generalización, de una norma, de una ley, a los casos semejantes.
 
 Es un razonamiento  **basado en la comparación entre semejantes**. Trata de probar un suceso particular a partir de otro particular (un ejemplo), apoyado en la semejanza que existe entre ambos.
@@ -41,22 +41,20 @@ Llamamos  **Falacia de Falsa Analogía**, a todo argumento analógico que no se 
     -   subrayando las diferencias que puedan ser relevantes para la conclusión.
     -   con otra analogía.
 
-## Usos prácticos
+# Usos prácticos
 - En la simetría del argumento a pari se apoyan los argumentos de reciprocidad.
 -   Con la Regla de Justicia como premisa complementaria, se forman la analogía judicial, la apelación al precedente, y la apelación al agravio comparativo.
 -   Del mismo modo se recurre al modelo.
 -   La analogía es una de nuestras principales fuentes de conocimiento, un auxiliar indispensable para la construcción de conjeturas e hipótesis.
 
-## El Argumento
+# El Argumento
 Las experiencias repetidas nos invitan a generalizar por inducción, y una vez que disponemos de una regla general, podemos aplicarla ante cualquier caso nuevo del mismo género.
 >Ej:  Los gatos son egoístas y perezosos.
 Los perros son leales y alborotadores.
 por tanto -> Si compras un gato, será egoísta y perezoso
 
 En caso de carecer de regla general, hurgamos en nuestra memoria o volvemos la vista a nuestro alrededor en busca de algo parecido que nos sugiera la solución
-
-Las alubias me sentaron mal.
-Las lentejas son semejantes a las alubias.
+>Ej: Las alubias me sentaron mal. Las lentejas son semejantes a las alubias.
 ------------------------------------------
 Luego, probablemente, las lentejas me sentarán mal.
 
@@ -219,6 +217,6 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzM1MTUwNCwtMTM4NTMzNjc3LC0xMj
+eyJoaXN0b3J5IjpbLTUwMjU0NjY1MSwtMTM4NTMzNjc3LC0xMj
 M2Nzg4NTgxXX0=
 -->
