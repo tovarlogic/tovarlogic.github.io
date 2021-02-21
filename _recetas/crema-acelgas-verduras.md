@@ -1,5 +1,5 @@
 ---
-title: "Crema de acelgas y verdurass"
+title: "Crema de acelgas y verduras"
 date: 2021-02-10
 ingredients:
  Agua: 1 litro
@@ -7,10 +7,10 @@ ingredients:
  Acelgas: 10 hojas
  Papa: 1
  Ajo: 2 dientes (o ajetes frescos)
- AOVE
+ AOVE: 1 chorrito
  Calabaza: 250gr
  Puerros: 2
- Sal
+ Sal y pimienta: al gusto
 instructions:
  - En la olla poner a calentar el agua y el caldo
  - Limpiar y trocear las verduras 
@@ -27,5 +27,5 @@ categories: [Cremas]
 Author: Karlos Arguiñano
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5NTY4MDE4XX0=
+eyJoaXN0b3J5IjpbLTEzMzcxMDY2ODksNTA5NTY4MDE4XX0=
 -->
