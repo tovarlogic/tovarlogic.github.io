@@ -3,7 +3,7 @@ title: "Salsa Boloñesa vegetariana"
 date: 2021-02-05
 ingredients:
  tomate natural: 1kg
- [Salsa de tomate](/salsa-de-tomate): 700ml
+ Salsa de tomate: 700ml
  vino tinto: 125ml 
  Cebolla: 1
  Ajo: 2 dientes
@@ -34,5 +34,5 @@ Author: [Las Marías cocinillas](https://lasmariacocinillas.com/)
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODMwOTUxNTJdfQ==
+eyJoaXN0b3J5IjpbLTk0NTU2MTQ5NSwtMTI4MzA5NTE1Ml19
 -->
