@@ -75,9 +75,7 @@ Toda  **demostración**  consiste en fundamentar una verdad en otra o en varias.
 	-  **reducción al absurdo**  Prueba que una conclusión es cierta porque su contradictoria sería falsa o absurda. Como dos cosas contradictorias no pueden ser ciertas, si se demuestra que una es falsa, será cierta la otra. Si fuera cierto lo que se supone, serían verdad sus consecuencias. Como éstas son falsas (o es­túpidas, o inconcebibles, o indeseables, o contradictorias con lo que se afirma o con lo que se sabe), se concluye que no es verdad el supuesto (porque sostenerlo conduce al absurdo), y que la verdad es lo contrario, lo que se trataba de demostrar.
 	> Ej: Si no es A, habrá que aceptar que es no-A
 	> Si fuera no-A, entonces se daría no-B
-Pero se da B
-Luego no puede ser no-A
-Luego es A
+	> Pero se da B, Luego no puede ser no-A-> Luego es A
 
 -   **Refutar**, no sólo argumentamos para defender nuestras posiciones. También lo hacemos para rechazar las de la parte contraria mediante:
     -   **impugnar**, lo que se afirma porque las premisas no están probadas, porque son falsas o contradictorias o existen errores en la argumentación (falacias).
@@ -242,5 +240,5 @@ La fuerza de la hipótesis está determinada por tres factores:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDMxOTA5NDddfQ==
+eyJoaXN0b3J5IjpbLTYzOTg5ODA2Ml19
 -->
