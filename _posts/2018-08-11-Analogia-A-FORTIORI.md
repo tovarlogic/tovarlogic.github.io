@@ -52,7 +52,7 @@ A veces, el argumento a fortiori adopta la forma de una pregunta que no espera r
 
 >Si esto que digo es injusto ¿cómo llamaremos a lo que usted propone?
 
-¡Si el alcalde se lleva los pinos, qué no harán los vecinos!
+>¡Si el alcalde se lleva los pinos, qué no harán los vecinos!
 
 ## Combinación de argumentos por analogía
 
@@ -80,5 +80,5 @@ de mayor a menor: Si ellos no fueron capaces de ganar en su campo, con menor raz
 # Referencias
 - [Uso de razón](http://www.usoderazon.com) por Ricardo García Damborenea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNzc4Mjc1Nl19
+eyJoaXN0b3J5IjpbLTk5NTI3MDc2Ml19
 -->
