@@ -33,7 +33,6 @@ categories: [Salsas]
 creator: Las Marías cocinillas
 ---
 
- receta de prueba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDkzMDY3NzBdfQ==
+eyJoaXN0b3J5IjpbNzc5NTc0ODIyXX0=
 -->
