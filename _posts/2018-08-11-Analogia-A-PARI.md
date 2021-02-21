@@ -42,18 +42,16 @@ Llamamos  **Falacia de Falsa Analogía**, a todo argumento analógico que no se 
     -   con otra analogía.
 
 ## Usos prácticos
-    -   En la simetría del argumento a pari se apoyan los argumentos de reciprocidad.
-    -   Con la Regla de Justicia como premisa complementaria, se forman la analogía judicial, la apelación al precedente, y la apelación al agravio comparativo.
-    -   Del mismo modo se recurre al modelo.
-    -   La analogía es una de nuestras principales fuentes de conocimiento, un auxiliar indispensable para la construcción de conjeturas e hipótesis.
+- En la simetría del argumento a pari se apoyan los argumentos de reciprocidad.
+-   Con la Regla de Justicia como premisa complementaria, se forman la analogía judicial, la apelación al precedente, y la apelación al agravio comparativo.
+-   Del mismo modo se recurre al modelo.
+-   La analogía es una de nuestras principales fuentes de conocimiento, un auxiliar indispensable para la construcción de conjeturas e hipótesis.
 
 ## El Argumento
-
--   las experiencias repetidas nos invitan a generalizar por inducción, y una vez que disponemos de una regla general, podemos aplicarla ante cualquier caso nuevo del mismo género.
-
-Los gatos son egoístas y perezosos.
+Las experiencias repetidas nos invitan a generalizar por inducción, y una vez que disponemos de una regla general, podemos aplicarla ante cualquier caso nuevo del mismo género.
+>Ej:  Los gatos son egoístas y perezosos.
 Los perros son leales y alborotadores.
--------------------------------------------
+por tanto -
 Si compras un gato, será egoísta y perezoso
 
 -   En caso de carecer de regla general, hurgamos en nuestra memoria o volvemos la vista a nuestro alrededor en busca de algo parecido que nos sugiera la solución
@@ -222,6 +220,6 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMDQ1MTMzMCwtMTM4NTMzNjc3LC0xMj
+eyJoaXN0b3J5IjpbMjA1NDg5MTU5NywtMTM4NTMzNjc3LC0xMj
 M2Nzg4NTgxXX0=
 -->
