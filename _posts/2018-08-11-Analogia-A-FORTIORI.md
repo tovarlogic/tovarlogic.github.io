@@ -17,17 +17,17 @@ header:
 El argumento a fortiori pretende que lo que es válido en un ejemplo, lo sea con más razón en un caso semejante en más o en menos.
 
 Hemos distinguido dos variedades:
-    -   la **comparación con un ejemplo mayor** (argumento a maiore ad minus)
-    -   y lacomparación con un ejemplo menor (argumento a minori ad maius)
--   Sus requisitos son lo mismos que exigen los argumentos a pari.
+-  **comparación con un ejemplo mayor** (argumento a maiore ad minus)
+-  **comparación con un ejemplo menor** (argumento a minori ad maius)
 
-## El argumento
+Sus requisitos son lo mismos que exigen los argumentos a pari.
 
+# El argumento
 Al razonar por analogía con un argumento  **a pari**, nos fijamos únicamente en la existencia de una semejanza, dando por supuesto que es del mismo grado en ambos casos. No sólo decimos, por ejemplo: ambas son inteligentes, sino: tan inteligente es la una como la otra. Basados en ello argüimos que lo válido en el primer caso debe serlo en el segundo  **por la misma razón**.
 
 Del mismo modo, podemos utilizar ejemplos en los que aquello que comparamos (la misma razón) es mayor o menor en un caso que en otro. De este modo llegamos a la conclusión con más fuerza (a fortiori), a mayor abundamiento,  **con mayor razón**.
 
-Juan es más alto que Pedro.
+>Ej:Juan es más alto que Pedro.
 Luego si Pedro alcanza, Juan alcanzará por la misma razón, pero aumentada.
 
 Los casos siguen siendo  **cualitativamente iguales**  (ambos son altos), pero la  **cantidad del aspecto que comparo varía**, así es que el argumento gana en contundencia
@@ -78,5 +78,5 @@ de mayor a menor: Si ellos no fueron capaces de ganar en su campo, con menor raz
 # Referencias
 - [Uso de razón](http://www.usoderazon.com) por Ricardo García Damborenea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTM5OTY3M119
+eyJoaXN0b3J5IjpbLTgzODk5NTU5OV19
 -->
