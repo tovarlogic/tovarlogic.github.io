@@ -49,23 +49,22 @@ La manera más simple de atacar una falacia consiste en traducirlo a la forma es
 
 ## Formas argumentales
 Las formas típicas de las  **articulaciones argumentales**  son:
-    -   **Suma**, Se produce siempre que amontonamos argumentos que, desde diversos puntos de partida, vienen a coincidir en la misma conclusión. Son **argumentos convergentes**.
-    -   **En­cadenamiento**  (o Sorites), Es una cadena de argumentos en la que la conclusión del primero sirve de premisa para el segundo, y así sucesivamente, hasta alcanzar la conclusión definitiva. La argumentación forma un arco capaz de salvar grandes distancias. Son argumentos sucesivos. Resulta muy fácil incluir falacias.
+- **Suma**, Se produce siempre que amontonamos argumentos que, desde diversos puntos de partida, vienen a coincidir en la misma conclusión. Son **argumentos convergentes**.
+- **En­cadenamiento**  (o Sorites), Es una cadena de argumentos en la que la conclusión del primero sirve de premisa para el segundo, y así sucesivamente, hasta alcanzar la conclusión definitiva. La argumentación forma un arco capaz de salvar grandes distancias. Son argumentos sucesivos. Resulta muy fácil incluir falacias.
     > A es B; B es C; C es D -> A es D
 
 ## Proposiciones
 Proposiciones
 : Nuestras proposiciones pueden ser de dos tipos, según la fuerza con que afirman las cosas:
     -   **necesarias**, cuando afirman que algo no puede ser de otro modo. Depende de razones sólidas como leyes. La conclusión necesaria o categórica implica que lo contrario es imposible.
-    -   **contingentes** o **probable**  , cuando admiten tácitamente que algo puede ser de otro modo. Solamente autorizan conclusiones probables. La conclusión probable implica que lo contrario puede ocurrir, pero es menos probable.
-        -   
-        -   
-        -   La conclusión posible implica que lo contrario es igualmente posible.
--   toda  **demostración**  consiste en fundamentar una verdad en otra o en varias. Se puede realizar:
-    -   **Directamente**,Se muestran las premisas que conducen directamente a la conclusión
-    -   **Indirectamente**  efectuando un rodeo mediente:
-        -   **eliminación**  Consiste en probar la verdad o conveniencia de una proposición mostrando que todas las otras hipótesis posibles son falsas o inconvenientes
-            -   los  **disyuntivos**, se afirman dos posibilidades incompatibles separadas por la conjunción o de modo que si se afirma una se excluye la otra  _Estuvo allí o no estuvo_
+    -   **contingentes** o **probable**  , cuando admiten tácitamente que algo puede ser de otro modo. Solamente autorizan conclusiones probables. La conclusión probable implica que lo contrario puede ocurrir, pero es menos probable. Mientras que la conclusión posible implica que lo contrario es igualmente posible.
+
+Toda  **demostración**  consiste en fundamentar una verdad en otra o en varias. Se puede realizar:
+- **Directamente**,Se muestran las premisas que conducen directamente a la conclusión
+- **Indirectamente**  efectuando un rodeo, mediante:
+	- **eliminación**  Consiste en probar la verdad o conveniencia de una proposición mostrando que todas las otras hipótesis posibles son falsas o inconvenientes
+	-  los  **disyuntivos**, se afirman dos posibilidades incompatibles separadas por la conjunción o de modo que si se afirma una se excluye la otra.
+	  _Estuvo allí o no estuvo_
 
 S es A o B S no es A luego S es B
 
@@ -248,5 +247,5 @@ La fuerza de la hipótesis está determinada por tres factores:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzE1NTA0OTNdfQ==
+eyJoaXN0b3J5IjpbLTYyMTIyMzgyN119
 -->
