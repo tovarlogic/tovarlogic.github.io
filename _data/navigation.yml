@@ -22,8 +22,6 @@ foo:
 main:
   - title: "Guide"
     url: /docs/quick-start-guide/
-  - title: "Series monográficas"
-    url: /series/
   - title: "Artículos por fecha"
     url: /articulos-fecha/
   - title: "Artículos por categoría"
