@@ -33,11 +33,8 @@ Mientras que sus  **principales falacias**  son:
 -   **Falacia ad verecundiam**: Cuando se invoca a una autoridad reverenda.
 -   **Argumento ad populum**: Cuando se busca amparo inadecuado en la multitud.
 
-Cuando queremos sostener una afirmación, no hay nada más socorrido que escudarse en una opinión que se considere solvente y a la que hacemos responsable de nuestras afirmaciones.
--   El recurso a la autoridad puede producirse por
-    -   **conveniencia**  (ahorra tiempo, acelera la persuasión, señala que personas prominentes opinan como nosotros)
-    -   **necesidad**. Con frecuencia no disponemos de los datos que más nos importan, bien porque no hemos tenido ocasión de estudiarlos, bien porque no están a nuestro alcance, bien porque son demasiado técnicos. No nos queda entonces más remedio que recurrir a los juicios de autoridades a las que consideramos en mejores condiciones que nosotros mismos para opinar sobre el asunto que nos ocupa.
--   Para hablar de argumento es preciso que se produzca una afirmación controvertida, es decir, que debe ser probada y que busca amparo (como razón) en una autoridad
+
+
 
 ## Esquema
 
@@ -113,5 +110,5 @@ Una variedad de ésta es el Argumento ad Populum o apelación a la opinión más
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ3Nzg5NTJdfQ==
+eyJoaXN0b3J5IjpbLTE5NTY0MzM1NjRdfQ==
 -->
