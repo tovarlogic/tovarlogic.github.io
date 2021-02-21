@@ -99,28 +99,24 @@ Datos
 
 Garantías
 : son las razones que justifican el paso de los datos a la conclusión (primera premisa), parten del conocimiento o creencias (generalizaciones, definiciones, leyes, normas, valores, creencias...)
-
-tiene la forma de Todo A es C, si B es A entonces B es C
+> tiene la forma de Todo A es C, si B es A entonces B es C
 
 Razón
-
-es la proposición que se aduce en favor de otra. Ej:  _propocición inicial_  **porque**  _razón_
+: es la proposición que se aduce en favor de otra. 
+>Ej:  _propocición inicial_  **porque**  _razón_
 
 Argumento
-
-conjunto de razones (premisas) que sostienen una conclusión. Ej:  _propocición inicial_  **porque**  _premisa fáctica (dato)_  y  _primera premisa (garantía)_
+: conjunto de razones (premisas) que sostienen una conclusión. 
+> Ej:  _propocición inicial_  **porque**  _premisa fáctica (dato)_  y  _primera premisa (garantía)_
 
 Opinión
-
-Cuando una afirmación carece de de premisas que la sostengan.
+: Cuando una afirmación carece de de premisas que la sostengan.
 
 Argumentación
-
-conjunto de razonamientos que persiguen una misma finalidad (sostener la misma conclusión)
+: conjunto de razonamientos que persiguen una misma finalidad (sostener la misma conclusión)
 
 Argumentario
-
-es un inventario de argumentos, es decir, una serie de argumentos que pueden servir para un mismo propósito (sostener la misma conclusión)
+: es un inventario de argumentos, es decir, una serie de argumentos que pueden servir para un mismo propósito (sostener la misma conclusión)
 
 ## Inferencia inductiva
 
@@ -238,5 +234,5 @@ La fuerza de la hipótesis está determinada por tres factores:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE1MDcyMDI0LC0xNTMxMjY3MTg4XX0=
+eyJoaXN0b3J5IjpbMTAwODkyNDE2OCwtMTUzMTI2NzE4OF19
 -->
