@@ -70,19 +70,17 @@ Tal vez el argumento suscite desconfianza, en tal caso debemos preguntarnos sobr
 3.  ¿Ha basado su afirmación en  **datos objetivos**?
 
 Una autoridad debe aportar los datos que justifican sus opiniones si se le solicitan. Se deben solicitar. Nos importa conocer no sólo la información que ofrece la fuente, sino su fundamento. Preferimos convertir los argumentos de autoridad, siempre dudosa, en pruebas
+
 Cuando se nos escamotea la información no podemos ni aceptar ni rechazar el argumento. Lo consideramos una opinión.
+
 Una fuente puede carecer de crédito por sus antecedentes, sus contradicciones con otras fuentes y, sobre todo, por su parcialidad.
-Debemos desconfiar siempre de la independencia de las autoridades
 
-1.  ¿Ha sido  **correctamente interpretada**?
+Debemos desconfiar siempre de la independencia de las autoridades y preguntarnos si ¿Ha sido  **correctamente interpretada**? es decir: 
+	- ¿Es una cita del original o de segunda mano?
+	- Si es original, ¿se puede comprobar?
+	- Si es de segunda mano, ¿es exacta? y si no es exacta, ¿por qué? 
 
-¿Es una cita del original o de segunda mano?
- Si es original, ¿se puede comprobar?
- Si es de segunda mano, ¿es exacta?
- Si no es exacta:¿por qué? 
-
-Puede haber sido mal interpretada por equivocación, por idioma, términos técnicos, por deducciones del interprete...
-o por intención del intermediario, manipulación
+Puede haber sido mal interpretada por equivocación, por idioma, términos técnicos, por deducciones del interprete o por intención del intermediario buscando la manipulación.
 
 1.  ¿Es  **coherente**  con lo que afirman otras autoridades del mismo campo? Si discrepan es porque el problema no está claro o no disponen de un conocimiento objetivo, con lo cual, lo que nos trasmiten son conjeturas individuales
 
@@ -114,5 +112,5 @@ Una variedad de ésta es el Argumento ad Populum o apelación a la opinión más
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzMTY5MzkyXX0=
+eyJoaXN0b3J5IjpbLTEyNzQ3NjU4NjldfQ==
 -->
