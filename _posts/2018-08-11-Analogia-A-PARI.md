@@ -70,15 +70,16 @@ En resumen, cuando nos encontramos ante un caso dudoso, oscuro o difícil de ent
 
 ## Puntos de apoyo
 
--   Podemos traer como ejemplo un  **caso aislado**
+Podemos traer como ejemplo un  **caso aislado**
+>Ej: Este robo probablemente lo ha realizado la banda del Cojo. 
+>Es muy parecido al robo que cometió recientemente esta banda
 
-Este robo probablemente lo ha realizado la banda del Cojo. Es muy parecido al robo que cometió recientemente esta banda
+La **verosimilitud** del resultado se acentúa si, en lugar de un ejemplo, disponemos de  varios  que comparten las mismas características.
+>Ej: La reforma de la enseñanza será un fracaso, porque corresponde en sus puntos esenciales a la que se hizo en Francia y fracasó.
 
--   La verosimilitud del resultado se acentúa si, en lugar de un ejemplo, disponemos de  **varios**  que comparten las mismas características
+frente a
 
-La reforma de la enseñanza será un fracaso, porque corresponde en sus puntos esenciales a la que se hizo en Francia y fracasó.
------
-La reforma de la enseñanza será un fracaso, porque corresponde en sus puntos esenciales a la francesa, que fracasó y no se diferencia en nada sustancial de las que se hicieron en Bélgica y en Dinamarca, que también fracasaron.
+>La reforma de la enseñanza será un fracaso, porque corresponde en sus puntos esenciales a la francesa, que fracasó y no se diferencia en nada sustancial de las que se hicieron en Bélgica y en Dinamarca, que también fracasaron.
 
 -   podemos traer, no ya los ejemplos aislados, sino toda una generalización que, aunque no se refiera específicamente a nuestro problema, albergue otros parecidos. Lo mismo hacemos con las normas morales o legales para extender su aplicación a casos que no están incluidos de manera específica en ellas.
 
@@ -217,6 +218,6 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NzI1NTgxMiwtMzI1MzU4NjUyLC0xMz
-A4NzM2MjA2LC0xMzg1MzM2NzcsLTEyMzY3ODg1ODFdfQ==
+eyJoaXN0b3J5IjpbLTIwNzYxMjI1MzYsLTMyNTM1ODY1MiwtMT
+MwODczNjIwNiwtMTM4NTMzNjc3LC0xMjM2Nzg4NTgxXX0=
 -->
