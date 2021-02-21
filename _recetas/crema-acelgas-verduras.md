@@ -1,18 +1,16 @@
 ---
-title: "Crema de acelgas ys"
-date: 2021-02-18
+title: "Crema de acelgas y verdurass"
+date: 2021-02-10
 ingredients:
- caldo de verduras: 500ml
- agua: 500ml
- calabaza pelada: 1kg
- zanahorias: 800gr
- AOVE: 5 tbsp
- mostaza de Dijon: 1tsp
- cilantro fresco: 1/2 ramillete
- comino molido: 1 tsp
- cúrcuma: 1 tsp
- cardamomo: 1/2 tsp
- chile en polvo: 1/4 tsp
+ Agua: 1 litro
+ Caldo de verduras: 250ml
+ Acelgas: 6 hojas
+ Papa: 1
+ Ajo: 2 dientes
+ AOVE
+ Calabaza: 250gr
+ Puerros: 2
+ Sal
 instructions:
  - Cortar las verduras en tacos
  - Mezclar las verduras con AOVE
@@ -30,5 +28,5 @@ categories: [Cremas]
 Author: Karlos Arguiñano
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjA0ODkyXX0=
+eyJoaXN0b3J5IjpbLTkyNDIxMTMwOF19
 -->
