@@ -206,20 +206,17 @@ Al emplear la expresión tal como en los argumentos a pari, **damos a entender q
 Esta simetría de las relaciones nos permite utilizar el argumento a pari en ambas direcciones. Por el contrario, no cabe un argumento a pari cuando la semejanza no es recíproca (no existe paridad en las relaciones).
 
 ## Igualdad de trato
-
--   Por eso el argumento a pari se invoca como respaldo tácito en casos de agravio comparativo, el que se produce cuando, en las mismas circunstancias, se aplican soluciones que no son equiparables: ¿Por qué a ese sí y a mí, no? ¿Por qué para esto sí y para lo otro no? ¿Por qué antes sí y ahora no?
+Por eso el argumento a pari se invoca como respaldo tácito en casos de agravio comparativo, el que se produce cuando, en las mismas circunstancias, se aplican soluciones que no son equiparables: ¿Por qué a ese sí y a mí, no? ¿Por qué para esto sí y para lo otro no? ¿Por qué antes sí y ahora no?
 
 ## Precedente
-
--   Recurrimos también al argumento analógico cuando invocamos un precedente, es decir, cualquier cosa realizada con anterioridad y que parece obligarnos (para ser justos y razonables) a obrar en lo sucesivo de la misma manera
--   Precedente legal es el que han establecido los jueces en un caso semejante al nuestro.
--   Precedente negativo es el que por haber quebrado en alguna ocasión la regla de justicia, no permitirá apelar a ella en los casos semejantes.
+ Recurrimos también al argumento analógico cuando invocamos un precedente, es decir, cualquier cosa realizada con anterioridad y que parece obligarnos (para ser justos y razonables) a obrar en lo sucesivo de la misma manera.
+-   **Precedente legal** es el que han establecido los jueces en un caso semejante al nuestro.
+-   **Precedente negativo** es el que por haber quebrado en alguna ocasión la regla de justicia, no permitirá apelar a ella en los casos semejantes.
 
 ## Traslación de la analogía
+Nótese que, de igual en igual, se puede trasladar la razón de manera sucesiva.
 
--   Nótese que, de igual en igual, se puede trasladar la razón de manera sucesiva:
-
-Si lo admites para Juan tendrás que admitirlo para Pedro, que está en la misma situación. Y si lo admites para Pedro ¿cómo se lo vas a negar al resto del equipo?
+>Ej: Si lo admites para Juan tendrás que admitirlo para Pedro, que está en la misma situación. Y si lo admites para Pedro ¿cómo se lo vas a negar al resto del equipo?
 
 ## El modelo
 
@@ -241,7 +238,7 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjQ1NjUxMywxNTgwMDI0MjE5LC0xMT
+eyJoaXN0b3J5IjpbLTgxMDcyMTMyNSwxNTgwMDI0MjE5LC0xMT
 Q0MzI5NjIwLC0zMjUzNTg2NTIsLTEzMDg3MzYyMDYsLTEzODUz
 MzY3NywtMTIzNjc4ODU4MV19
 -->
