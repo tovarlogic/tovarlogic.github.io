@@ -1,5 +1,5 @@
 ---
-title: "CXrema de pera y apio"
+title: "Crema de pera y apio"
 date: 2021-01-01
 ingredients:
  Apio: 10 tallos
@@ -29,5 +29,5 @@ categories: [Crema]
 Author: "Vegesanísimo" de Álvaro Vargas
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjAzMDEzNV19
+eyJoaXN0b3J5IjpbMTU4NzE5OTQzOSwyMDAyMDMwMTM1XX0=
 -->
