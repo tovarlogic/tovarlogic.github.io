@@ -1,5 +1,5 @@
 ---
-title: "Artículos por fecha"
+title: "Fecha"
 permalink: /articulos-fecha/
 layout: posts
 classes: wide

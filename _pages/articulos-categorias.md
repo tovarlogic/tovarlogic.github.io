@@ -1,5 +1,5 @@
 ---
-title: "Artículos por categoría"
+title: "Categorías"
 layout: categories
 permalink: /categorias/
 author_profile: false
