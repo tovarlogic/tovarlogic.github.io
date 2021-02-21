@@ -1,6 +1,7 @@
+
 La analogía nos autoriza a tratar casos diferentes como si pertenecieran a la misma regla o, dicho de otra manera, nos permite ampliar el alcance de una regla, de una generalización, de una norma, de una ley, a los casos semejantes.
 
-## Síntesis[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=1 "Editar sección: Síntesis")]
+## Síntesis
 
 -   La analogía es un razonamiento  **basado en la comparación entre semejantes**. Trata de probar un suceso particular a partir de otro particular (un ejemplo), apoyado en la semejanza que existe entre ambos.
 -   para fundamentar un argumento a pari podemos utilizar:
@@ -32,7 +33,7 @@ B es P, por la misma razón que A.
     -   Del mismo modo se recurre al modelo.
     -   La analogía es una de nuestras principales fuentes de conocimiento, un auxiliar indispensable para la construcción de conjeturas e hipótesis.
 
-## El Argumento[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=2 "Editar sección: El Argumento")]
+## El Argumento
 
 -   las experiencias repetidas nos invitan a generalizar por inducción, y una vez que disponemos de una regla general, podemos aplicarla ante cualquier caso nuevo del mismo género.
 
@@ -58,7 +59,7 @@ X es B porque es como A, y los A son B.
 
 -   En suma: cuando nos encontramos ante un caso dudoso, oscuro o difícil de entender porque carecemos de una regla que lo considere, tratamos de compararlo con algo que forme parte de nuestra experiencia más familiar. El argumento analógico salta de un caso a otro. Prueba un suceso particular con otro también particular. De lo observado y conocido inferimos lo no observado y desconocido apoyados en la semejanza que percibimos entre uno y otro.
 
-## Puntos de apoyo[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=3 "Editar sección: Puntos de apoyo")]
+## Puntos de apoyo
 
 -   Podemos traer como ejemplo un  **caso aislado**
 
@@ -74,7 +75,7 @@ La reforma de la enseñanza será un fracaso, porque corresponde en sus puntos e
 
 Si está prohibido fumar en clase, también lo estará en la biblioteca
 
-## Semejanzas[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=4 "Editar sección: Semejanzas")]
+## Semejanzas
 
 -   **La misma razón**. Es decir la razón que sustenta las afirmaciones es la misma que la de la conclusión
 
@@ -84,12 +85,12 @@ La razón por la que tardé  treinta minutos en llegar ayer al aeropuerto es que
 Está prohibido fumar en el aula (porque molesta a los no fumadores).
 Fumar en la biblioteca molesta igual.
 
-## Diferencias[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=5 "Editar sección: Diferencias")]
+## Diferencias
 
 -   Por tratarse de casos  **semejantes**  (que no iguales), es decir, iguales en algunas cosas y distintos en otras, podría ocurrir que las diferencias propias del caso impidan la aplicación de la regla.
 -   Nuestro argumento analógico precisa, pues, no sólo buscar amparo en las semejanzas que hacen al caso, sino asegurar que las diferencias son irrelevantes para la conclusión. Que no se trate de una excepción.
 
-## Fuerza del argumento[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=6 "Editar sección: Fuerza del argumento")]
+## Fuerza del argumento
 
 -   el argumento analógico no es concluyente. No demuestra nada. Se limita a sugerir que las cosas son, probablemente, como se supone. pero no lo sabremos hasta que la experiencia lo confirme o lo refute.
 -   Como todas las argumentaciones indirectas, sirve para orientarnos cuando los hechos no están a nuestro alcance. La analogía nos dice que algo es, probablemente, cierto, útil, justo o prudente. No lo asegura, pero nos permite tomar decisiones y actuar con fundamentos racionales.
@@ -97,11 +98,11 @@ Fumar en la biblioteca molesta igual.
 -   el mismo modo resulta más persuasivo cuando los ejemplos son de origen diferente
 -   la semejanza entre los casos comparados será mayor cuantos más circunstancias compartan
 
-## Falacias[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=7 "Editar sección: Falacias")]
+## Falacias
 
 -   [Falsa Analogía](http://tovarlogic.shoutwiki.com/w/index.php?title=Falacias/Falsa_analog%C3%ADa&action=edit&redlink=1 "Falacias/Falsa analogía (la página no existe)"): todo argumento analógico que no se apoya en una semejanza relevante u olvida diferencias cruciales que impiden la conclusión.
 
-## Refutación[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=8 "Editar sección: Refutación")]
+## Refutación
 
 Hay tres caminos para responder a una falsa analogía:
 
@@ -109,7 +110,7 @@ Hay tres caminos para responder a una falsa analogía:
 -   Porque podemos ofrecer  **otra analogía**  para el mismo ejemplo pero con una  **conclusión opuesta**.
 -   Por  **reducción al absurdo**.
 
-### Diferencias relevantes[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=9 "Editar sección: Diferencias relevantes")]
+### Diferencias relevantes
 
 -   Probando que la diferencia es más relevante que la semejanza para la conclusión
 
@@ -131,7 +132,7 @@ Luego, para ser coherentes, debemos reconocer derechos humanos a algunos simios.
 
 No discutiremos las semejanzas. Nos bastan las diferencias. Los seres humanos discapacitados son humanos, una condición en la que hemos decidido, por nuestro propio bien, no hacer excepciones con ninguna criatura. Tal condición de humano, y no la inteligencia, es la que fundamenta sus derechos. Los monos son otra cosa. Para respetar su vida y su liber­tad no precisamos una carta de derechos simiescos, sino im­poner­nos obligaciones que los humanos podemos acep­tar porque no somos antropoides.
 
-### Otra analogía[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=10 "Editar sección: Otra analogía")]
+### Otra analogía
 
 -   Proponemos, para el mismo ejemplo, otra analogía que sea más apropiada y, si es posible, que conduzca a una conclusión distinta u opuesta. Es una manera muy elegante de hacer ver que la comparación era incorrecta
 
@@ -153,7 +154,7 @@ El error en Vietnam fue implicarse en un conflicto civil ajeno.
 La situación de Nicaragua es un conflicto civil ajeno (semejante a la de Vietnam).
 Luego,  intervenir en Nicaragua constituirá el mismo error.
 
-### Reducción al absurdo[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=11 "Editar sección: Reducción al absurdo")]
+### Reducción al absurdo
 
 El recurso a la ironía y al absurdo absurdos pueden ser de gran ayuda:
 
@@ -163,31 +164,31 @@ Ante quien pretende aplicar una ley o una regla general al pie de la letra, olvi
 
 En Inglaterra un hombre fue acusado de bigamia, y su abogado lo salvó demostrando que su cliente tenía tres mujeres
 
-## Usos prácticos[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=12 "Editar sección: Usos prácticos")]
+## Usos prácticos
 
-### Reciprocidad[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=13 "Editar sección: Reciprocidad")]
+### Reciprocidad
 
 -   Al emplear la expresión tan como en los argumentos a pari, damos a entender que lo válido en un caso debe serlo igualmente en otro, con lo que venimos a sugerir que la relación entre ambos es simétrica: Lo que vale para el primero vale para el segundo y viceversa. Esta simetría de las relaciones nos permite utilizar el argumento a pari en ambas direcciones.
 
 -   Por el contrario, no cabe un argumento a pari cuando la semejanza no es recíproca (no existe paridad en las relaciones).
 
-### Igualdad de trato[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=14 "Editar sección: Igualdad de trato")]
+### Igualdad de trato
 
 -   Por eso el argumento a pari se invoca como respaldo tácito en casos de agravio comparativo, el que se produce cuando, en las mismas circunstancias, se aplican soluciones que no son equiparables: ¿Por qué a ese sí y a mí, no? ¿Por qué para esto sí y para lo otro no? ¿Por qué antes sí y ahora no?
 
-### Precedente[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=15 "Editar sección: Precedente")]
+### Precedente
 
 -   Recurrimos también al argumento analógico cuando invocamos un precedente, es decir, cualquier cosa realizada con anterioridad y que parece obligarnos (para ser justos y razonables) a obrar en lo sucesivo de la misma manera
 -   Precedente legal es el que han establecido los jueces en un caso semejante al nuestro.
 -   Precedente negativo es el que por haber quebrado en alguna ocasión la regla de justicia, no permitirá apelar a ella en los casos semejantes.
 
-### Traslación de la analogía[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=16 "Editar sección: Traslación de la analogía")]
+### Traslación de la analogía
 
 -   Nótese que, de igual en igual, se puede trasladar la razón de manera sucesiva:
 
 Si lo admites para Juan tendrás que admitirlo para Pedro, que está en la misma situación. Y si lo admites para Pedro ¿cómo se lo vas a negar al resto del equipo?
 
-### El modelo[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=17 "Editar sección: El modelo")]
+### El modelo
 
 -   Cuando inten­tamos exhortar una conducta y no podemos recurrir a la regla de justicia, apelamos a un ejemplo digno de imitación.
 
@@ -195,17 +196,17 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 -   Contramodelo es el ejemplo que se cita para disuadir de una conducta.
 
-### Conjeturas[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=18 "Editar sección: Conjeturas")]
+### Conjeturas
 
 -   La analogía constituye una de nuestras principales fuentes de conocimiento: todo aquello que no podemos aprender por experiencia directa o por que nos lo cuenta quien sabe, lo conjeturamos por analogía y sólo por analogía.
 -   No podríamos entender a nuestros semejantes si prescindiéramos de la analogía, porque no sabríamos ponernos en su lugar.
 -   Si algo ha ocurrido con anterioridad, puede ocurrir de nuevo por la misma razón; y, al contrario, si no ha ocurrido antes en circunstancias parecidas, no hay por qué temer que ocurra ahora:
 
-### Metáforas, símiles e ilustraciones[[editar](http://tovarlogic.shoutwiki.com/w/index.php?title=Argumentos/Analogia_I&action=edit&section=19 "Editar sección: Metáforas, símiles e ilustraciones")]
+### Metáforas, símiles e ilustraciones
 
 -   Con frecuencia recurrimos a las comparaciones, no como argumento, sino como ilustración. Explicamos cosas que no son conocidas comparándolas con las más familiares (reales o ficticias, como ocurre en las fábulas). Cualquier exposición oral está plagada de comparaciones ilustrativas. Conviene no caer en el error de tomarlas como argumento. Una cosa es rechazar una metáfora inadecuada y otra muy distinta, refutar un argumento. Con frecuencia se mezclan: al argumento sigue el adorno de las metáforas:
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTQ4Njk2MV19
+eyJoaXN0b3J5IjpbLTEyMzY3ODg1ODFdfQ==
 -->
