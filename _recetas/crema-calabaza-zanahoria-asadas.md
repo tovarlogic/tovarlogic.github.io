@@ -1,5 +1,6 @@
 ---
 title: "Crema de calabaza y zanahorias asadas"
+date: 2021-02-18
 ingredients:
  caldo de verduras: 500ml
  agua: 500ml
@@ -29,3 +30,6 @@ categories: [Cremas]
 ---
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExNzc5ODMwMjldfQ==
+-->
