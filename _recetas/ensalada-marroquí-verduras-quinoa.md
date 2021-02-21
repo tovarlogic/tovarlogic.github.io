@@ -12,11 +12,11 @@ ingredients:
  semillas de cilantro: 1 tsp
  comino molido: 1 tsp
  pimentón dulce: 1 tsp
- - 1/2 tsp de cúrcuma
- - sal y pimienta
- - 1 manojo de perejil fresco
- - 1/2 manojo de cilantro fresco (opcional)
- directions:
+ cúrcuma: 1/2 tsp
+ sal y pimienta: 1 pizca
+ perejil fresco: 1 manojo
+ cilantro fresco: 1/2 manojo (opcional)
+ instructions:
  - Cortar las verduras en tacos
  - Mezclar las especias con AOVE
  - Impregnar las verduras con la mezcla de las especias
@@ -28,8 +28,8 @@ ingredients:
  - Servir templado.
 show_convertions: true
 show_abreviations: true
-prep_time: 5
-cooking_time: 15
+prepmins: 5
+cookmins: 15
 yield: 6
 tags: [vegetariana, FODMAP]
 categories: [Ensaladas]
@@ -37,5 +37,5 @@ categories: [Ensaladas]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNDYyNjU2MywtMTU1Nzk2MzAzMF19
+eyJoaXN0b3J5IjpbLTYzODY0MzA0MSwtMTU1Nzk2MzAzMF19
 -->
