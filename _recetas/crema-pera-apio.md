@@ -15,10 +15,10 @@ ingredients:
  - Pelar y cortar las verduras en trozos pequeños
  - Rehogar en la olla las papas, cebolla con un poco de sal
  - Al cabo de unos minutos agregamos los trozos de apio
- - Doramos haciendo fritura de las verduras en AOVE
- - Añadimos el vino y dejar unos minutos para reducir
- - Añadir salsa de tomate, lentejas y caldo
- - Cerrar la olla a presión y cocinar durante 15 minutos
+ - Pelar y trocear las peras y rehogarlas con las verduras durante 2 minutios
+ - Añadir el curry y remover
+ - Agregar el caldo y la leche; y llevar a ebullición
+ - Pasar por la batidora.
 show_convertions: true
 show_abreviations: true
 prepmins: 5
@@ -26,8 +26,8 @@ cookmins: 25
 yield: 6
 tags: [Vegetariana]
 categories: [Crema]
-creator: Las Marías cocinillas
+creator: Vegesanísimo de 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTQ2Mzg0Nl19
+eyJoaXN0b3J5IjpbNTI5NTQyNDczXX0=
 -->
