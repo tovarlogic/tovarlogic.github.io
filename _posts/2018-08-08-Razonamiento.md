@@ -242,8 +242,9 @@ La fuerza de la hipótesis está determinada por tres factores:
 -   No se puede violar una regla de prudencia sin una buena razón que lo justifique. Consideramos de tal modo fundamentada la acción prudente que si alguien se opone a ella, le trasladamos la carga de la prueba para que razone su discrepancia.
 
 # Referencias
-- [Uso de razón](http://www.usoderazon.com) por Ricardo 
+- [Uso de razón](http://www.usoderazon.com) por Ricardo García Damborenea
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNjI3MDU5MCwtMTUzMTI2NzE4OF19
+eyJoaXN0b3J5IjpbLTI5MjQ0NDIyNywtMTUzMTI2NzE4OF19
 -->
