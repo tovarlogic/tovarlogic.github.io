@@ -155,15 +155,15 @@ El problema de los políticos es tener que proponer cosas muy parecidas a las de
 **¡No negamos las semejanzas!** Existen, sin duda, pero no son relevantes. Nos limitamos a señalar que hay diferencias significativas, por lo que deben ser considerados casos distintos a los que no se puede juzgar con el mismo criterio. Tratar del mismo modo situaciones desiguales es tan injusto como juzgar situaciones iguales de modo diferente.
 >Ej: Ha robado, pero no es lo mismo robar a un rico que a un pobre.
 
-Los derechos humanos los inventaron los seres humanos con un cierto nivel de racionalidad. Pero una vez inventados, se aplicaron a todos los miembros de la especie, incluyendo a los recién nacidos, a las personas discapacitadas intelectualmente, etc. Por tanto, para ser coherentes, deberemos aplicarlos también a los seres de otras especies que tienen al menos tanto nivel de racionalidad como esas personas.
-
-En otras palabras:
-
-A los seres humanos discapacitados les reconocemos derechos humanos.
+>Los derechos humanos los inventaron los seres humanos con un cierto nivel de racionalidad. Pero una vez inventados, se aplicaron a todos los miembros de la especie, incluyendo a los recién nacidos, a las personas discapacitadas intelectualmente, etc. Por tanto, para ser coherentes, deberemos aplicarlos también a los seres de otras especies que tienen al menos tanto nivel de racionalidad como esas personas.
+>
+>En otras palabras:
+>
+>A los seres humanos discapacitados les reconocemos derechos humanos.
 Algunos simios son semejantes intelectualmente a los seres humanos discapacitados. 
 Luego, para ser coherentes, debemos reconocer derechos humanos a algunos simios.
-
-No discutiremos las semejanzas. Nos bastan las diferencias. Los seres humanos discapacitados son humanos, una condición en la que hemos decidido, por nuestro propio bien, no hacer excepciones con ninguna criatura. Tal condición de humano, y no la inteligencia, es la que fundamenta sus derechos. Los monos son otra cosa. Para respetar su vida y su liber­tad no precisamos una carta de derechos simiescos, sino im­poner­nos obligaciones que los humanos podemos acep­tar porque no somos antropoides.
+>
+>No discutiremos las semejanzas. Nos bastan las diferencias. Los seres humanos discapacitados son humanos, una condición en la que hemos decidido, por nuestro propio bien, no hacer excepciones con ninguna criatura. Tal condición de humano, y no la inteligencia, es la que fundamenta sus derechos. Los monos son otra cosa. Para respetar su vida y su liber­tad no precisamos una carta de derechos simiescos, sino im­poner­nos obligaciones que los humanos podemos acep­tar porque no somos antropoides.
 
 ### Otra analogía
 
@@ -172,57 +172,58 @@ Proponemos, para el mismo ejemplo, **otra analogía que sea más apropiada** y, 
 >Ej: Marte es un planeta parecido a la Tierra. De modo que si en la Tierra existe vida, es probable que en Marte también exista.
 >
 >**Diferencias** Las condiciones (humedad, presión, temperatura) que ofrece Marte son incompatibles con la vida.
-(Otra analogía) En mi opinión, Marte se parece más a la Luna que a la Tierra.
+>
+>**Otra analogía** En mi opinión, Marte se parece más a la Luna que a la Tierra.
 
-El presidente Reagan, en un discurso para solicitar fondos para la ayuda a la Contra nicaragüense, comparó a los contras con los patriotas americanos que lucharon en la Guerra de la Independencia. Un orador del Congreso, opuesto a la ayuda a los contras, comparó la situación de Nicaragua con la guerra del Vietnam
-
-Reagan:
-
-Lo razonable, en la Guerra de la Independencia, hubiera sido ayudar a los patriotas americanos.
+>El presidente Reagan, en un discurso para solicitar fondos para la ayuda a la Contra nicaragüense, comparó a los contras con los patriotas americanos que lucharon en la Guerra de la Independencia. Un orador del Congreso, opuesto a la ayuda a los contras, comparó la situación de Nicaragua con la guerra del Vietnam
+>
+>**Reagan:**
+>
+>Lo razonable, en la Guerra de la Independencia, hubiera sido ayudar a los patriotas americanos.
 La situación de los contras nicaragüenses es semejante a la de los patriotas americanos.
 Luego, lo correcto en Nicaragua es ayudar a La Contra.
-
-Congresista:
-
-El error en Vietnam fue implicarse en un conflicto civil ajeno.
+>
+>**Congresista:**
+>
+>El error en Vietnam fue implicarse en un conflicto civil ajeno.
 La situación de Nicaragua es un conflicto civil ajeno (semejante a la de Vietnam).
 Luego,  intervenir en Nicaragua constituirá el mismo error.
 
 ### Reducción al absurdo
 
-El recurso a la ironía y al absurdo absurdos pueden ser de gran ayuda:
+El recurso a la ironía y al absurdo absurdos pueden ser de gran ayuda.
 
-Pretender que algunos monos tienen derechos humanos porque son relativamente inteligentes es como afirmar que los murciélagos ponen huevos porque vuelan.
+>Ej: Pretender que algunos monos tienen derechos humanos porque son relativamente inteligentes es como afirmar que los murciélagos ponen huevos porque vuelan.
 
-Ante quien pretende aplicar una ley o una regla general al pie de la letra, olvidando su espíritu, pueden servir bromas como las siguientes:
+Ante quien pretende aplicar una ley o una regla general al pie de la letra, olvidando su espíritu, pueden servir bromas como las siguientes.
 
-En Inglaterra un hombre fue acusado de bigamia, y su abogado lo salvó demostrando que su cliente tenía tres mujeres
+>En Inglaterra un hombre fue acusado de bigamia, y su abogado lo salvó demostrando que su cliente tenía tres mujeres
 
-## Usos prácticos
+# Usos prácticos
 
-### Reciprocidad
+## Reciprocidad
 
 -   Al emplear la expresión tan como en los argumentos a pari, damos a entender que lo válido en un caso debe serlo igualmente en otro, con lo que venimos a sugerir que la relación entre ambos es simétrica: Lo que vale para el primero vale para el segundo y viceversa. Esta simetría de las relaciones nos permite utilizar el argumento a pari en ambas direcciones.
 
 -   Por el contrario, no cabe un argumento a pari cuando la semejanza no es recíproca (no existe paridad en las relaciones).
 
-### Igualdad de trato
+## Igualdad de trato
 
 -   Por eso el argumento a pari se invoca como respaldo tácito en casos de agravio comparativo, el que se produce cuando, en las mismas circunstancias, se aplican soluciones que no son equiparables: ¿Por qué a ese sí y a mí, no? ¿Por qué para esto sí y para lo otro no? ¿Por qué antes sí y ahora no?
 
-### Precedente
+## Precedente
 
 -   Recurrimos también al argumento analógico cuando invocamos un precedente, es decir, cualquier cosa realizada con anterioridad y que parece obligarnos (para ser justos y razonables) a obrar en lo sucesivo de la misma manera
 -   Precedente legal es el que han establecido los jueces en un caso semejante al nuestro.
 -   Precedente negativo es el que por haber quebrado en alguna ocasión la regla de justicia, no permitirá apelar a ella en los casos semejantes.
 
-### Traslación de la analogía
+## Traslación de la analogía
 
 -   Nótese que, de igual en igual, se puede trasladar la razón de manera sucesiva:
 
 Si lo admites para Juan tendrás que admitirlo para Pedro, que está en la misma situación. Y si lo admites para Pedro ¿cómo se lo vas a negar al resto del equipo?
 
-### El modelo
+## El modelo
 
 -   Cuando inten­tamos exhortar una conducta y no podemos recurrir a la regla de justicia, apelamos a un ejemplo digno de imitación.
 
@@ -230,19 +231,19 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 -   Contramodelo es el ejemplo que se cita para disuadir de una conducta.
 
-### Conjeturas
+## Conjeturas
 
 -   La analogía constituye una de nuestras principales fuentes de conocimiento: todo aquello que no podemos aprender por experiencia directa o por que nos lo cuenta quien sabe, lo conjeturamos por analogía y sólo por analogía.
 -   No podríamos entender a nuestros semejantes si prescindiéramos de la analogía, porque no sabríamos ponernos en su lugar.
 -   Si algo ha ocurrido con anterioridad, puede ocurrir de nuevo por la misma razón; y, al contrario, si no ha ocurrido antes en circunstancias parecidas, no hay por qué temer que ocurra ahora:
 
-### Metáforas, símiles e ilustraciones
+## Metáforas, símiles e ilustraciones
 
 -   Con frecuencia recurrimos a las comparaciones, no como argumento, sino como ilustración. Explicamos cosas que no son conocidas comparándolas con las más familiares (reales o ficticias, como ocurre en las fábulas). Cualquier exposición oral está plagada de comparaciones ilustrativas. Conviene no caer en el error de tomarlas como argumento. Una cosa es rechazar una metáfora inadecuada y otra muy distinta, refutar un argumento. Con frecuencia se mezclan: al argumento sigue el adorno de las metáforas:
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDk1MjUwNzIsMTU4MDAyNDIxOSwtMT
+eyJoaXN0b3J5IjpbLTEyNjc4NjAxNjIsMTU4MDAyNDIxOSwtMT
 E0NDMyOTYyMCwtMzI1MzU4NjUyLC0xMzA4NzM2MjA2LC0xMzg1
 MzM2NzcsLTEyMzY3ODg1ODFdfQ==
 -->
