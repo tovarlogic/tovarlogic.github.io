@@ -66,20 +66,25 @@ El procedimiento no es complicado. Cualquier argumento analógico se transforma 
 	 - Si A, por X razón produjo Z
 	 - B, por la misma razón producirá Z.
 	 >Ej: El Celta ganó el partido de ida porque juega mejor, 
+	 >
 	 >luego ahora volverá a ganar por la misma razón.
+	 
  - **A mayores**
 	 - Si A, con dificultades produjo Z
 	 - B, sin dificultades, producirá Z con mayor razón.
+	 >Ej: Si el Celta ganó con cuatro bajas,
+	 > 
+	 >con mayor razón ganará ahora que tiene la plantilla completa.
+	 
 - **A menores**
 	- Si A con ventajas no pudo evitar Z
 	- A sin ventajas, lo evitará menos.
-
-a pari: 
-de menor a mayor: Si el Celta ganó con cuatro bajas, con mayor razón ganará ahora que tiene la plantilla completa.
-de mayor a menor: Si ellos no fueron capaces de ganar en su campo, con menor razón lo serán en el nuestro.
+	>Ej: Si ellos no fueron capaces de ganar en su campo, 
+	>
+	>con menor razón lo serán en el nuestro.
 
 # Referencias
 - [Uso de razón](http://www.usoderazon.com) por Ricardo García Damborenea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxMTYzMTAsLTk5NTI3MDc2Ml19
+eyJoaXN0b3J5IjpbNjE5OTUxMjEzLC05OTUyNzA3NjJdfQ==
 -->
