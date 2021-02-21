@@ -1,5 +1,6 @@
 ---
-title: "Categorías"
+title: "Artículos por categorías"
+breadcrumb_name: Categorías
 layout: categories
 permalink: /categorias/
 author_profile: false

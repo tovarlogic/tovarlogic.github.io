@@ -1,5 +1,5 @@
 ---
-title: "Argumentación"
+title: "Artículos de la serie Argumentación"
 layout: collection
 permalink: /series/argumentacion
 collection: argumentacion
