@@ -61,11 +61,12 @@ En caso de carecer de regla general, hurgamos en nuestra memoria o volvemos la v
 >Las lentejas son semejantes a las alubias.
 >Luego, probablemente, las lentejas me sentarán mal.
 
-En un argumento por analogía decimos que X es B porque es como A, y los A son B.
+En un argumento por analogía decimos que: X es B porque es como A, y los A son B.
 
--   Con este razonamiento, nuestras conclusiones solamente pueden ser probables. La mera semejanza no permite afirmaciones categóricas. Siempre cabe que existan diferencias no percibidas que den al traste con nuestra conclusión.
+Con este razonamiento, nuestras conclusiones solamente pueden ser probables. La mera semejanza no permite afirmaciones categóricas. Siempre cabe que existan diferencias no percibidas que den al traste con nuestra conclusión.
+{: .notice--warning}
 
--   En suma: cuando nos encontramos ante un caso dudoso, oscuro o difícil de entender porque carecemos de una regla que lo considere, tratamos de compararlo con algo que forme parte de nuestra experiencia más familiar. El argumento analógico salta de un caso a otro. Prueba un suceso particular con otro también particular. De lo observado y conocido inferimos lo no observado y desconocido apoyados en la semejanza que percibimos entre uno y otro.
+En resumen, cuando nos encontramos ante un caso dudoso, oscuro o difícil de entender porque carecemos de una regla que lo considere, tratamos de compararlo con algo que forme parte de nuestra experiencia más familiar. El argumento analógico salta de un caso a otro. Prueba un suceso particular con otro también particular. De lo observado y conocido inferimos lo no observado y desconocido apoyados en la semejanza que percibimos entre uno y otro.
 
 ## Puntos de apoyo
 
@@ -216,6 +217,6 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1MjU3ODc0MSwtMzI1MzU4NjUyLC0xMz
+eyJoaXN0b3J5IjpbLTQ3NzI1NTgxMiwtMzI1MzU4NjUyLC0xMz
 A4NzM2MjA2LC0xMzg1MzM2NzcsLTEyMzY3ODg1ODFdfQ==
 -->
