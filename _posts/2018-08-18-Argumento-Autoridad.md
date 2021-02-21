@@ -48,18 +48,19 @@ De manera esquemática, el Argumento de Autoridad se puede represen­tar como si
 
 Este esquema necesita ser ampliado porque en él se ocultan dos sobreentendidos que no siempre son ciertos.
 -   el primero da por supuesto que quien habla es una autoridad en la materia,
-    -   el segundo, que dicha autoridad ha sido bien interpretada.
--   Adicionalmente debemos exigir que la autoridad citada sea concreta, competente, imparcial y no contradictoria con otras.
+-   el segundo, que dicha autoridad ha sido bien interpretada.
 
-Alguien dice que A es B.
-Ese Alguien es...
- una autoridad concreta
- competente en la materia
- imparcial
- dice realmente que A es B
- lo que afirma no está en contradicción con lo defendido por otros expertos.
---------------------------------------------------------------------------
-Luego A es B
+Adicionalmente debemos exigir que la autoridad citada sea concreta, competente, imparcial y no contradictoria con otras.
+
+>Ej: Alguien dice que A es B.
+>
+>Ese Alguien es... una autoridad concreta, competente en la materia, imparcial
+> 
+> dice realmente que A es B
+> 
+ >lo que afirma no está en contradicción con lo defendido por otros expertos.
+>
+>Luego A es B
 
 ## Análisis del argumento
 
@@ -114,5 +115,5 @@ Una variedad de ésta es el Argumento ad Populum o apelación a la opinión más
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEwODU5MjIxXX0=
+eyJoaXN0b3J5IjpbMjAzNDczODg1OV19
 -->
