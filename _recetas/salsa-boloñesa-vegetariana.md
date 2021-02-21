@@ -30,10 +30,10 @@ cookmins: 25
 yield: 6
 tags: [Vegetariana]
 categories: [Salsas]
-Author: [Las Marías cocinillas](https://lasmariacocinillas.com/)
+fuente: [Las Marías cocinillas](https://lasmariacocinillas.com/)
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODk2NjQ1NTIsLTk0NTU2MTQ5NSwtMT
-I4MzA5NTE1Ml19
+eyJoaXN0b3J5IjpbLTMwMzE2NDQ1OCwtOTQ1NTYxNDk1LC0xMj
+gzMDk1MTUyXX0=
 -->
