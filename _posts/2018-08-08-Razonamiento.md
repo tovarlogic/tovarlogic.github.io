@@ -22,25 +22,13 @@ Inferencia
 	    
     -   La inferencia  **deductiva**  se apoya en una regla general y en un caso al que puede serle aplicada.
 	    > Ejemplo: Si me dan un paquete cerrado con alubias que proceden del mismo saco, deduzco, sin verlas, que son blancas.
-	    **Deducción**: Todas las alubias de ese saco son blancas y Este paquete contiene alubias de dicho saco -> las alubias de este paquete son blancas.
+	    **Deducción**: Todas las alubias de ese saco son blancas; Este paquete contiene alubias de dicho saco -> las alubias de este paquete son blancas.
 	    
     -   La inferencia  **hipotética**, trata de imaginar la mejor explicación para los hechos.
 	    > Si me dan un puñado de alubias y son blancas, supongo que proceden del conocido saco de las alubias blancas (digo supongo porque tal vez existan otros sacos aunque yo no lo sepa).
-	    Hipótesis: Todas las alubias de ese saco son blancas.
-Las alubias que me dan son blancas.
-Luego puedo presumir que vienen de dicho saco.
+	    **Hipótesis**: Todas las alubias de ese saco son blancas; Las alubias que me dan son blancas. -> puedo presumir que vienen de dicho saco.
 
-
-
-
-{: .notice--info}
-
-Inducción: 
-
-Luego 
-
-
--   Las premisas pueden ser múltiples, pero hay una y sólo una conclusión para cada argumento. A veces, a partir de un mismo dato podemos extraer diversas conclusiones.
+Las premisas pueden ser múltiples, pero hay una y sólo una conclusión para cada argumento. A veces, a partir de un mismo dato podemos extraer diversas conclusiones.
 -   Los  **razonamientos**  pueden ser:
     -   **Inmediatos**, donde solo basta una premisa para justificar la conclusión. Son aquellos razonamientos de sentido común que se apoyan en el principio de no contradicción, o en relaciones, algo mayor, superior, anterior, etc...
     -   **Mediatos**, donde se requieren al menos dos premisas.
@@ -253,5 +241,5 @@ La fuerza de la hipótesis está determinada por tres factores:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDU5OTI1MTldfQ==
+eyJoaXN0b3J5IjpbMjA1NzAyOTk4NF19
 -->
