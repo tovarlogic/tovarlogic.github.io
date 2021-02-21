@@ -38,7 +38,7 @@ Inferencia
 
 Las premisas en cualquier proceso de razonamiento pueden ser múltiples, pero hay una y sólo una conclusión para cada argumento. A veces, a partir de un mismo dato podemos extraer diversas conclusiones.
 
-# Definiciones
+# Fundamentos
 Razonamiento
 :  pueden ser:
     -   **Inmediatos**, donde solo basta una premisa para justificar la conclusión. Son aquellos razonamientos de sentido común que se apoyan en el principio de no contradicción, o en relaciones, algo mayor, superior, anterior, etc...
@@ -98,7 +98,7 @@ Toda  **demostración**  consiste en fundamentar una verdad en otra o en varias.
  > Ej:_Siempre es la más eficaz razón la que se toma de lo que el otro admite_
 -   **ad rem**(de las cosas), son los que se dirigen a sostener o combatir la verdad de una proposición en términos objetivos y, por lo tanto, válidos para todo el mundo. No se puede persuadir a nadie a partir de premisas que desconoce o rechaza. Al dirigirnos a una audiencia plural, ofrecemos varios argumentos para que cada interlocutor escoja y adopte aquél o aquellos que más le persuadan.
 
-## Definiciones
+# Definiciones
 
 Premisas
 : son frases que afirman o niegan algo. Pueden ser de dos tipos:  **datos**  o  **garantías**
@@ -127,16 +127,16 @@ Argumentación
 Argumentario
 : es un inventario de argumentos, es decir, una serie de argumentos que pueden servir para un mismo propósito (sostener la misma conclusión)
 
-## Inferencia inductiva
+# Inferencia inductiva
 
-### Definición
+## Definición
 
 -   Parte de casos particulares que nos parecen semejantes en algo para alcanzar conclusiones que generalizan dicha semejanza.  **De la observación particular a lo general**.
 -   Inducir (del latín in ducere, llevar adentro) es poner en el campo de la atención cierto número de observaciones particulares, como fundamento de una afirmación general.
 -   Inducimos, inconscientemente, acumulando experiencias que resumimos en reglas generales
 -   Los argumentos inductivos vienen a decir en líneas generales: así son las cosas
 
-### Síntesis
+## Síntesis
 
 Existen dos tipos de inducciones:
 
@@ -149,7 +149,7 @@ Existen dos tipos de inducciones:
 3.  No sabemos si lo que se afirma del grupo valdrá para un individuo determinado. Cuando hablamos del conjunto hacemos un juicio probable. Al referirnos a los individuos solamente cabe un juicio posible. Hemos distinguido en esta variedad las generalidades que no precisan prueba porque se presumen cier­tas.
 4.  La diferencia entre ambos tipos de inducción es muy clara pero en la vida cotidiana pueden producirse equívocos por la forma de hablar. Quien dice: Las aves vuelan, ¿se refiere a todas las aves o sólo a las típicas? Únicamente por el contexto en que se produce la afirmación podemos adivinar si la inducción pretende ser categórica o plausible. Para los casos de duda anotemos esta norma: antes de poner objeciones, el prudente pide aclaraciones. No caigamos en el error del centinela que primero dispara y luego pregunta.
 
-### Tipos
+## Tipos
 
 -   **Completa**, se limita, pues, a resumir todos los casos. Si son ciertos, la conclusión resultará indiscutible, porque no cabe excepción.
 
@@ -171,16 +171,16 @@ Todo S es probablemente P
     -   A diferencia de lo que ocurre en las inducciones completas, las inducciones probables no se pueden refutar aportando excepciones puesto que éstas se dan por supuestas
     -   Para refutar una regla general es preciso demostrar que las excepciones son tan frecuentes como los casos que la respetan
 
-## Inferencia deductiva
+# Inferencia deductiva
 
-### Definición
+## Definición
 
 -   se emplean para descubrir verdades que no apreciamos por observación directa.
 -   Del contenido de las premisas deducimos la consecuencia. Aquí no es necesaria la observación. Nos apoyamos en lo conocido.
 -   En el razonamiento deductivo aplicamos lo que ya sabemos (como seguro, probable o posible) para interpretar lo desconocido. Ante un caso dudoso, rebuscamos una regla, un principio, un grupo de cosas en el que se pueda integrar nuestro problema.
 -   Como todo el contenido de la conclusión está prefigurado en las premisas, decimos que extraemos aquélla de éstas. De ahí el nombre de deducción dado a este procedimiento que saca unas cosas de otras.
 
-### Síntesis
+## Síntesis
 
 1.  La deducción es una forma de inferencia que de lo general conocido extrae consecuencias para lo particular desconocido.
 2.  Un razonamiento deductivo concluyente parte de premisas ciertas y alcanza conclusiones necesarias.
@@ -191,31 +191,31 @@ Todo S es probablemente P
 4.  Las formas habituales de deducción son dos: Aplicación de una regla y Argumento condicional.
 5.  Entimema es aquel razonamiento que no expone todos sus componentes por considerarlos obvios (o porque no interesa exponerlos).
 
-### Tipos
+## Tipos
 
 -   Razonamiento  **concluyente**  o necesario, Se apoya en afirmaciones indudables como leyes o definiciones. Si ambas premisas son ciertas, la conclusión resulta irrefutable: afirma que las cosas no pueden ser de otra manera.
 -   Razonamiento  **presuntivo**, Presume que las cosas ocurren como suelen. Este es el caso de las generalidades, los testimonios de autoridades, las creencias y la mayoría de las definiciones. Producen conclusiones presuntivas, razonablemente presumibles, probables en mayor o menor grado.
 
-### Formas
+## Formas
 
 -   **Aplicación**, consiste en aplicar una regla general a un caso.
 -   **Argumento condicional**, emplea como primera premisa un juicio condicional. la mayoría de nuestros argumentos condicionales son presuntivos, esto es, se forman a partir de una generalización probable.
 
-### Entimemas
+## Entimemas
 
 Es cierto que todo argumento consta de Premisas y Conclusión pero no siempre aparecen de forma explícita. El entimema es un argumento truncado, al que le falta alguna de las piezas. Se emplea cuando una proposición es tan obvia que se puede dar por sobreentendida.
 
 Su defecto con­siste en lo bien que disfraza las falacias y en los equívocos que pueda generar entre los no iniciados en el asunto que se debate. Conviene, por muy animada que sea la discusión, no pasar por alto las argumentaciones entimemáticas del oponente, porque las premisas sobrentendidas pudieran ser inaceptables.
 
-## Inferencia hipotética
+# Inferencia hipotética
 
-### Definición
+## Definición
 
 -   Aunque las premisas sean ciertas, la conclusión no se sigue de ellas. Sin embargo, todas juntas parecen sugerirnos una conclusión con más fuerza que otras posibles. En un argumento hipotético, a diferencia de lo que ocurre en las deducciones, la conclusión no aparece prefigurada en las premisas, pero es compatible con ellas.
 -   trata de explicar los hechos, mediante la explicación más probable para los datos conocidos.
 -   La regla de experiencia permite menospreciar el resto de las posibilidades por considerarlas menos probables, menos habituales, en unas determinadas circunstancias. La regla de experiencia indica que es razonable pensar así porque así suelen ser las cosas en determinadas circunstancias.
 
-### Síntesis
+## Síntesis
 
 1.  La inferencia hipotética o abducción, ofrece la mejor explicación de fenómenos aislados.
 2.  Infiere a partir de reglas de experiencia, es decir, generalizaciones difusas fruto de experiencias comunes.
@@ -226,7 +226,7 @@ Su defecto con­siste en lo bien que disfraza las falacias y en los equívocos q
 4.  La hipótesis, en la práctica, puede ser tan convincente como la deducción o la inducción.
 5.  Las reglas de prudencia acentúan la fuerza de una conclusión hipotética débil.
 
-### La fuerza del argumento
+## La fuerza del argumento
 
 La fuerza de la hipótesis está determinada por tres factores:
 
@@ -234,14 +234,16 @@ La fuerza de la hipótesis está determinada por tres factores:
 -   Que no exista otra explicación mejor para el mismo fenómeno.
 -   Que nada en las circunstancias del caso impida que se cumpla la presunción.
 
-### Persuación con hipótesis
+## Persuación con hipótesis
 
 -   Como hemos podido comprobar, los argumentos hipotéticos convierten un juicio de posibilidad en un juicio probable. Convierten un tal vez sea en un lo más probable es que sea.
 -   Cuando es una posibilidad entre otras, pero es una posibilidad que, si fuera cierta, acarrearía consecuencias graves que nos importan. Sería temerario no considerarla.
 -   Los argumentos prudenciales son una variedad de los argumentos normativos, en los que como premisa figura una regla de seguridad. Lo que nos importa ahora es destacar que contribuyen a reforzar la importancia práctica de una conclusión hipotética débil.
 -   No se puede violar una regla de prudencia sin una buena razón que lo justifique. Consideramos de tal modo fundamentada la acción prudente que si alguien se opone a ella, le trasladamos la carga de la prueba para que razone su discrepancia.
 
+# Referencias
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjEyNDgzOSwtMTUzMTI2NzE4OF19
+eyJoaXN0b3J5IjpbMTAxNjMyNzQ5NywtMTUzMTI2NzE4OF19
 -->
