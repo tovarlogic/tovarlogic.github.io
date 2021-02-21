@@ -17,7 +17,7 @@ ingredients:
  Sal y pimienta: al gusto
  Albahaca seca: 1 puñado
  AOVE
- instructions:
+instructions:
  - Cortar las verduras en tacos
  - Doramos haciendo fritura de las verduras en AOVE
  - Añadimos el vino y dejar unos minutos para reducir
@@ -34,5 +34,5 @@ Author: [Las Marías cocinillas](https://lasmariacocinillas.com/)
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjIwMDI2OF19
+eyJoaXN0b3J5IjpbLTEyODMwOTUxNTJdfQ==
 -->
