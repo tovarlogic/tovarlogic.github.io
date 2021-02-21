@@ -42,17 +42,12 @@ Mientras que sus  **principales falacias**  son:
 -   **Falacia ad verecundiam**: Cuando se invoca a una autoridad reverenda.
 -   **Argumento ad populum**: Cuando se busca amparo inadecuado en la multitud.
 
+# El argumento
+De manera esquemática, el Argumento de Autoridad se puede represen­tar como sigue:
+- A es B, porque **_Alguien_** dice que A es B.
 
-
-
-## Esquema
-
--   De manera esquemática, el Argumento de Autoridad se puede represen­tar como sigue:
-
-A es B, porque _Alguien_ dice que A es B.
-
--   Este esquema necesita ser ampliado porque en él se ocultan dos sobreentendidos que no siempre son ciertos.
-    -   el primero da por supuesto que quien habla es una autoridad en la materia,
+Este esquema necesita ser ampliado porque en él se ocultan dos sobreentendidos que no siempre son ciertos.
+-   el primero da por supuesto que quien habla es una autoridad en la materia,
     -   el segundo, que dicha autoridad ha sido bien interpretada.
 -   Adicionalmente debemos exigir que la autoridad citada sea concreta, competente, imparcial y no contradictoria con otras.
 
@@ -119,5 +114,5 @@ Una variedad de ésta es el Argumento ad Populum o apelación a la opinión más
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODcxMDgwNTFdfQ==
+eyJoaXN0b3J5IjpbMzEwODU5MjIxXX0=
 -->
