@@ -142,7 +142,7 @@ Hay tres caminos para responder a una falsa analogía:
 
 ### Diferencias relevantes
 
-Probando que la diferencia es más relevante que la semejanza para la conclusión.
+Probando que **la diferencia es más relevante que la semejanza** para la conclusión.
 
 Siempre que topamos con una comparación cabe tanto la posibilidad de una analogía (existe semejanza relevante) como la de su rechazo (son más relevantes las diferencias). 
 
@@ -167,10 +167,11 @@ No discutiremos las semejanzas. Nos bastan las diferencias. Los seres humanos di
 
 ### Otra analogía
 
--   Proponemos, para el mismo ejemplo, otra analogía que sea más apropiada y, si es posible, que conduzca a una conclusión distinta u opuesta. Es una manera muy elegante de hacer ver que la comparación era incorrecta
+Proponemos, para el mismo ejemplo, **otra analogía que sea más apropiada** y, si es posible, que conduzca a una conclusión distinta u opuesta. Es una manera muy elegante de hacer ver que la comparación era incorrecta
 
-Marte es un planeta parecido a la Tierra. De modo que si en la Tierra existe vida, es probable que en Marte también exista.
-(Diferencias) Las condiciones (humedad, presión, temperatura) que ofrece Marte son incompatibles con la vida.
+>Ej: Marte es un planeta parecido a la Tierra. De modo que si en la Tierra existe vida, es probable que en Marte también exista.
+>
+>**Diferencias** Las condiciones (humedad, presión, temperatura) que ofrece Marte son incompatibles con la vida.
 (Otra analogía) En mi opinión, Marte se parece más a la Luna que a la Tierra.
 
 El presidente Reagan, en un discurso para solicitar fondos para la ayuda a la Contra nicaragüense, comparó a los contras con los patriotas americanos que lucharon en la Guerra de la Independencia. Un orador del Congreso, opuesto a la ayuda a los contras, comparó la situación de Nicaragua con la guerra del Vietnam
@@ -241,7 +242,7 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTQyODI1OSwxNTgwMDI0MjE5LC0xMT
-Q0MzI5NjIwLC0zMjUzNTg2NTIsLTEzMDg3MzYyMDYsLTEzODUz
-MzY3NywtMTIzNjc4ODU4MV19
+eyJoaXN0b3J5IjpbLTE0NDk1MjUwNzIsMTU4MDAyNDIxOSwtMT
+E0NDMyOTYyMCwtMzI1MzU4NjUyLC0xMzA4NzM2MjA2LC0xMzg1
+MzM2NzcsLTEyMzY3ODg1ODFdfQ==
 -->
