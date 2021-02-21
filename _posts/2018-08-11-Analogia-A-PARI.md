@@ -50,10 +50,16 @@ La analogía es una de nuestras principales fuentes de conocimiento, un auxiliar
 # El Argumento
 Las experiencias repetidas nos invitan a generalizar por inducción, y una vez que disponemos de una regla general, podemos aplicarla ante cualquier caso nuevo del mismo género.
 >Ej:  Los gatos son egoístas y perezosos.
+>
 >Los perros son leales y alborotadores.
+>
 >por tanto -> Si compras un gato, será egoísta y perezoso
+>
 >o
-> Si ayer tardé treinta minutos en llegar al aeropuerto, supongo que hoy me costará lo mismo.
+>
+> Si ayer tardé treinta minutos en llegar al aeropuerto, 
+> 
+> supongo que hoy me costará lo mismo.
 
 En caso de carecer de regla general, hurgamos en nuestra memoria o volvemos la vista a nuestro alrededor en busca de algo parecido que nos sugiera la solución
 >Ej: Las alubias me sentaron mal. 
@@ -73,12 +79,20 @@ En resumen, cuando nos encontramos ante un caso dudoso, oscuro o difícil de ent
 ### Casos aislados
 Podemos traer como ejemplo un  **caso aislado**
 >Ej: Este robo probablemente lo ha realizado la banda del Cojo. 
+>
 >Es muy parecido al robo que cometió recientemente esta banda
 
 La **verosimilitud** del resultado se acentúa si, en lugar de un ejemplo, disponemos de  varios  que comparten las mismas características.
->Ej: La reforma de la enseñanza será un fracaso, porque corresponde en sus puntos esenciales a la que se hizo en Francia y fracasó.
+>Ej: La reforma de la enseñanza será un fracaso, 
+>
+>porque corresponde en sus puntos esenciales a la que se hizo en Francia y fracasó.
+>
 >frente a
->La reforma de la enseñanza será un fracaso, porque corresponde en sus puntos esenciales a la francesa, que fracasó 
+>
+>La reforma de la enseñanza será un fracaso, 
+>
+>porque corresponde en sus puntos esenciales a la francesa, que fracasó 
+>
 >y no se diferencia en nada sustancial de las que se hicieron en Bélgica y en Dinamarca, que también fracasaron.
 
 ### Generalizaciones
@@ -90,8 +104,8 @@ Lo mismo hacemos con las normas morales o legales para extender su aplicación a
 ## Semejanzas
 
 -   **La misma razón**. Es decir la razón que sustenta las afirmaciones es la misma que la de la conclusión
-
-La razón por la que las alubias te sientan mal es que son leguminosas (igual que las lentejas).
+>Ej: La razón por la que las alubias te sientan mal es que son leguminosas (igual que las lentejas).
+>
 La razón por la que tardé  treinta minutos en llegar ayer al aeropuerto es que el tráfico era fluido (igual que hoy). 
 
 Está prohibido fumar en el aula (porque molesta a los no fumadores).
@@ -220,6 +234,7 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQzMjk2MjAsLTMyNTM1ODY1MiwtMT
-MwODczNjIwNiwtMTM4NTMzNjc3LC0xMjM2Nzg4NTgxXX0=
+eyJoaXN0b3J5IjpbLTMxMjE0MjgyNywtMTE0NDMyOTYyMCwtMz
+I1MzU4NjUyLC0xMzA4NzM2MjA2LC0xMzg1MzM2NzcsLTEyMzY3
+ODg1ODFdfQ==
 -->
