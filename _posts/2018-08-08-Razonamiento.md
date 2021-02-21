@@ -17,13 +17,17 @@ header:
 Inferencia
 :  es la relación de dependencia que establecemos entre razones y conclusión.Inferimos por tres caminos:
     -   La inferencia  **inductiva**  parte de hechos que nos parecen semejantes en algo para alcanzar conclusiones que generalizan dicha semejanza.
-	    E
+	    > Ejemplo: Si veo que de un saco extraen un puñado de alubias y todas son blancas, induzco que todas las alubias del saco son blancas.
+	    
     -   La inferencia  **deductiva**  se apoya en una regla general y en un caso al que puede serle aplicada.
+	    > Ejemplo: Si me dan un paquete cerrado con alubias que proceden del mismo saco, deduzco, sin verlas, que son blancas.
+	    
     -   La inferencia  **hipotética**, trata de imaginar la mejor explicación para los hechos.
+	    > Si me dan un puñado de alubias y son blancas, supongo que proceden del conocido saco de las alubias blancas (digo supongo porque tal vez existan otros sacos aunque yo no lo sepa).
 
-Si veo que de un saco extraen un puñado de alubias y todas son blancas, induzco que todas las alubias del saco son blancas.
-Si me dan un paquete cerrado con alubias que proceden del mismo saco, deduzco, sin verlas, que son blancas.
-Si me dan un puñado de alubias y son blancas, supongo que proceden del conocido saco de las alubias blancas (digo supongo porque tal vez existan otros sacos aunque yo no lo sepa).
+
+
+
 {: .notice--info}
 
 Inducción: Cada alubia que sale del saco es blanca.
@@ -248,5 +252,5 @@ La fuerza de la hipótesis está determinada por tres factores:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNTg0OTE0OV19
+eyJoaXN0b3J5IjpbLTQxNDU1OTQ5Nl19
 -->
