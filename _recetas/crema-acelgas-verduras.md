@@ -24,8 +24,8 @@ cookmins: 20
 yield: 6
 tags: [Vegetariana, FODMAP, Paleo]
 categories: [Cremas]
-Author: Karlos Arguiñano
+fuente: Karlos Arguiñano
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzcxMDY2ODksNTA5NTY4MDE4XX0=
+eyJoaXN0b3J5IjpbLTEwNTcyNDc2MTksNTA5NTY4MDE4XX0=
 -->
