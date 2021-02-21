@@ -28,25 +28,31 @@ Inferencia
 	    > Si me dan un puñado de alubias y son blancas, supongo que proceden del conocido saco de las alubias blancas (digo supongo porque tal vez existan otros sacos aunque yo no lo sepa).
 	    **Hipótesis**: Todas las alubias de ese saco son blancas; Las alubias que me dan son blancas. -> puedo presumir que vienen de dicho saco.
 
-Las premisas pueden ser múltiples, pero hay una y sólo una conclusión para cada argumento. A veces, a partir de un mismo dato podemos extraer diversas conclusiones.
--   Los  **razonamientos**  pueden ser:
+Las premisas en cualquier proceso de razonamiento pueden ser múltiples, pero hay una y sólo una conclusión para cada argumento. A veces, a partir de un mismo dato podemos extraer diversas conclusiones.
+
+Razonamiento
+:  pueden ser:
     -   **Inmediatos**, donde solo basta una premisa para justificar la conclusión. Son aquellos razonamientos de sentido común que se apoyan en el principio de no contradicción, o en relaciones, algo mayor, superior, anterior, etc...
     -   **Mediatos**, donde se requieren al menos dos premisas.
 -   Razonamos para nosotros mismos; argumen­tamos para los demás. Razonamos antes de argumentar y nuestro argumento trata de expresar lo mejor del razonamiento.
--   El objetivo de un argumento es probar una conclusión discutible, mientras que la explicación presupone que no existe discrepancia.
--   La manera más simple de atacar un razonamiento erróneo (falacia) consiste en traducirlo a la forma estándar , para que su defecto sea evidente. Ej:  _Si le he entendido bien, dice usted esto y lo otro ¿es así?_
 
-Ya que A y B y...n
-entonces X
+## Argumento vs Explicación
+El objetivo de un argumento es probar una conclusión discutible, mientras que la explicación presupone que no existe discrepancia.
 
+## Falacias
+Falacia
+: Un razonamiento erróneo.
+
+La manera más simple de atacar una falacia consiste en traducirlo a la forma estándar, para que su defecto sea evidente. 
+> Ej: _Si le he entendido bien, dice usted esto y lo otro ¿es así?_
+> ** Forma estándar**: Ya que A y B ...y N entonces X
+
+## Formas argumentales
 -   Las formas típicas de estas  **articulaciones argumentales**  son:
-    -   **Suma**, Se produce siempre que amontonamos argumentos que, desde diversos puntos de partida, vienen a coincidir en la misma conclusión. Son argumentos convergentes
+    -   **Suma**, Se produce siempre que amontonamos argumentos que, desde diversos puntos de partida, vienen a coincidir en la misma conclusión. Son **argumentos convergentes**.
     -   **En­cadenamiento**  (o Sorites), Es una cadena de argumentos en la que la conclusión del primero sirve de premisa para el segundo, y así sucesivamente, hasta alcanzar la conclusión definitiva. La argumentación forma un arco capaz de salvar grandes distancias. Son argumentos sucesivos. Resulta muy fácil incluir falacias.
+    > A es B; B es C; C es D -> A es D
 
-A es B
-B es C
-C es D
-luego A es D
 
 -   Nuestras  **proposiciones**  pueden ser de dos tipos, según la fuerza con que afirman las cosas:
     -   **necesarias**, cuando afirman que algo no puede ser de otro modo. Depende de razones sólidas como leyes.
@@ -241,5 +247,5 @@ La fuerza de la hipótesis está determinada por tres factores:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NzAyOTk4NF19
+eyJoaXN0b3J5IjpbMTUwNzQ0MzQ0N119
 -->
