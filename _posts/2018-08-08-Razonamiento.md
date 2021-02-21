@@ -48,13 +48,13 @@ La manera más simple de atacar una falacia consiste en traducirlo a la forma es
 > ** Forma estándar**: Ya que A y B ...y N entonces X
 
 ## Formas argumentales
--   Las formas típicas de estas  **articulaciones argumentales**  son:
+Las formas típicas de las  **articulaciones argumentales**  son:
     -   **Suma**, Se produce siempre que amontonamos argumentos que, desde diversos puntos de partida, vienen a coincidir en la misma conclusión. Son **argumentos convergentes**.
     -   **En­cadenamiento**  (o Sorites), Es una cadena de argumentos en la que la conclusión del primero sirve de premisa para el segundo, y así sucesivamente, hasta alcanzar la conclusión definitiva. La argumentación forma un arco capaz de salvar grandes distancias. Son argumentos sucesivos. Resulta muy fácil incluir falacias.
     > A es B; B es C; C es D -> A es D
 
 
--   Nuestras  **proposiciones**  pueden ser de dos tipos, según la fuerza con que afirman las cosas:
+Nuestras  **proposiciones**  pueden ser de dos tipos, según la fuerza con que afirman las cosas:
     -   **necesarias**, cuando afirman que algo no puede ser de otro modo. Depende de razones sólidas como leyes.
     -   **contingentes** o **probable**  , cuando admiten tácitamente que algo puede ser de otro modo. Solamente autorizan conclusiones probables.
         -   La conclusión necesaria o categórica implica que lo contrario es imposible.
@@ -247,5 +247,5 @@ La fuerza de la hipótesis está determinada por tres factores:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNzQ0MzQ0N119
+eyJoaXN0b3J5IjpbLTcyNzAzNTQ5XX0=
 -->
