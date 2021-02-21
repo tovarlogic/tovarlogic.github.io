@@ -150,11 +150,10 @@ El problema de los políticos es tener que proponer cosas muy parecidas a las de
 {: .notice--info}
 
 **¡No negamos las semejanzas!** Existen, sin duda, pero no son relevantes. Nos limitamos a señalar que hay diferencias significativas, por lo que deben ser considerados casos distintos a los que no se puede juzgar con el mismo criterio. Tratar del mismo modo situaciones desiguales es tan injusto como juzgar situaciones iguales de modo diferente.
-
-Ha robado, pero no es lo mismo robar a un rico que a un pobre.
+>Ej: Ha robado, pero no es lo mismo robar a un rico que a un pobre.
 
 Los derechos humanos los inventaron los seres humanos con un cierto nivel de racionalidad. Pero una vez inventados, se aplicaron a todos los miembros de la especie, incluyendo a los recién nacidos, a las personas discapacitadas intelectualmente, etc. Por tanto, para ser coherentes, deberemos aplicarlos también a los seres de otras especies que tienen al menos tanto nivel de racionalidad como esas personas.
-
+{: .notice--info}
 En otras palabras:
 
 A los seres humanos discapacitados les reconocemos derechos humanos.
@@ -239,7 +238,7 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI5MzExNTk2LDE1ODAwMjQyMTksLTExND
+eyJoaXN0b3J5IjpbMTI2MTI1MzA3LDE1ODAwMjQyMTksLTExND
 QzMjk2MjAsLTMyNTM1ODY1MiwtMTMwODczNjIwNiwtMTM4NTMz
 Njc3LC0xMjM2Nzg4NTgxXX0=
 -->
