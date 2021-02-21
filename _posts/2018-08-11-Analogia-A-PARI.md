@@ -144,7 +144,10 @@ Hay tres caminos para responder a una falsa analogía:
 
 Probando que la diferencia es más relevante que la semejanza para la conclusión.
 
-Siempre que topamos con una comparación cabe tanto la posibilidad de una analogía (existe semejanza relevante) como la de su rechazo (son más relevantes las diferencias). Se puede subrayar tanto una cosa como la otra porque en los argumentos por analogía pesa extraordinariamente la voluntad de quien expone y de quien recibe el razonamiento.
+Siempre que topamos con una comparación cabe tanto la posibilidad de una analogía (existe semejanza relevante) como la de su rechazo (son más relevantes las diferencias). 
+
+Se puede subrayar tanto una cosa como la otra porque en los argumentos por analogía pesa extraordinariamente la voluntad de quien expone y de quien recibe el razonamiento.
+{: .notice}
 
 El problema de los políticos es tener que proponer cosas muy parecidas a las de sus adversarios de modo que parezcan completamente distintas.
 {: .notice--info}
@@ -153,7 +156,7 @@ El problema de los políticos es tener que proponer cosas muy parecidas a las de
 >Ej: Ha robado, pero no es lo mismo robar a un rico que a un pobre.
 
 Los derechos humanos los inventaron los seres humanos con un cierto nivel de racionalidad. Pero una vez inventados, se aplicaron a todos los miembros de la especie, incluyendo a los recién nacidos, a las personas discapacitadas intelectualmente, etc. Por tanto, para ser coherentes, deberemos aplicarlos también a los seres de otras especies que tienen al menos tanto nivel de racionalidad como esas personas.
-{: .notice--info}
+
 En otras palabras:
 
 A los seres humanos discapacitados les reconocemos derechos humanos.
@@ -238,7 +241,7 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MTI1MzA3LDE1ODAwMjQyMTksLTExND
-QzMjk2MjAsLTMyNTM1ODY1MiwtMTMwODczNjIwNiwtMTM4NTMz
-Njc3LC0xMjM2Nzg4NTgxXX0=
+eyJoaXN0b3J5IjpbMTM1MTQyODI1OSwxNTgwMDI0MjE5LC0xMT
+Q0MzI5NjIwLC0zMjUzNTg2NTIsLTEzMDg3MzYyMDYsLTEzODUz
+MzY3NywtMTIzNjc4ODU4MV19
 -->
