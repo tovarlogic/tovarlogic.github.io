@@ -22,9 +22,9 @@ Es un razonamiento  **basado en la comparación entre semejantes**. Trata de pro
     -   una regla, una norma, una ley que considere casos semejantes al nuestro.
  
  El **esquema del argumento analógico** sigue la siguiente estructura:
-A es P y la razón suficiente para ello es R; (razón)
-B es semejante a A porque es igual en R; (semejanza)
-y no hay nada excepcional en el caso que impida la conclusión. (excepción)
+A es P y la razón suficiente para ello es R; (razón)<br>
+B es semejante a A porque es igual en R; (semejanza)<br>
+y no hay nada excepcional en el caso que impida la conclusión. (excepción)<br>
 Por tanto B es P, por la misma razón que A. (conclusión)
 {: .notice}
 
@@ -76,9 +76,7 @@ Podemos traer como ejemplo un  **caso aislado**
 
 La **verosimilitud** del resultado se acentúa si, en lugar de un ejemplo, disponemos de  varios  que comparten las mismas características.
 >Ej: La reforma de la enseñanza será un fracaso, porque corresponde en sus puntos esenciales a la que se hizo en Francia y fracasó.
-
-frente a
-
+>frente a
 >La reforma de la enseñanza será un fracaso, porque corresponde en sus puntos esenciales a la francesa, que fracasó 
 >y no se diferencia en nada sustancial de las que se hicieron en Bélgica y en Dinamarca, que también fracasaron.
 
@@ -221,6 +219,6 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NjQ4NzE5NiwtMzI1MzU4NjUyLC0xMz
-A4NzM2MjA2LC0xMzg1MzM2NzcsLTEyMzY3ODg1ODFdfQ==
+eyJoaXN0b3J5IjpbLTE4NzY2MDI1MDYsLTMyNTM1ODY1MiwtMT
+MwODczNjIwNiwtMTM4NTMzNjc3LC0xMjM2Nzg4NTgxXX0=
 -->
