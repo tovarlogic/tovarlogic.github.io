@@ -62,14 +62,11 @@ Conviene tener en cuenta todas las variedades porque enriquecen y hacen más atr
 
 El procedimiento no es complicado. Cualquier argumento analógico se transforma en argumento a fortiori sin más que acentuar o rebajar los planteamientos:
 
-A igualdad (a pari)
-
-Si A, por X razón produjo Z
-B, por la misma razón producirá Z.
-
-A mayores
-
-Si A, con dificultades produjo Z
+ - **A igualdad (a pari)**
+	- Si A, por X razón produjo Z
+	- B, por la misma razón producirá Z.
+ - A mayores
+	 - Si A, con dificultades produjo Z
 B, sin dificultades, producirá Z con mayor razón.
 
 A menores
@@ -84,5 +81,5 @@ de mayor a menor: Si ellos no fueron capaces de ganar en su campo, con menor raz
 # Referencias
 - [Uso de razón](http://www.usoderazon.com) por Ricardo García Damborenea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQzODg4MzQsLTk5NTI3MDc2Ml19
+eyJoaXN0b3J5IjpbMTkzNTY2NDk3OSwtOTk1MjcwNzYyXX0=
 -->
