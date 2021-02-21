@@ -38,6 +38,7 @@ Inferencia
 
 Las premisas en cualquier proceso de razonamiento pueden ser múltiples, pero hay una y sólo una conclusión para cada argumento. A veces, a partir de un mismo dato podemos extraer diversas conclusiones.
 
+# Definiciones
 Razonamiento
 :  pueden ser:
     -   **Inmediatos**, donde solo basta una premisa para justificar la conclusión. Son aquellos razonamientos de sentido común que se apoyan en el principio de no contradicción, o en relaciones, algo mayor, superior, anterior, etc...
@@ -242,5 +243,5 @@ La fuerza de la hipótesis está determinada por tres factores:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MTgyOTA5NiwtMTUzMTI2NzE4OF19
+eyJoaXN0b3J5IjpbLTYzNjEyNDgzOSwtMTUzMTI2NzE4OF19
 -->
