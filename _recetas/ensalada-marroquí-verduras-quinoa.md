@@ -1,7 +1,6 @@
 ---
 title: "Ensalada marroquí de verduras asadas y quinoa"
 date: 2021-02-15
-
 ingredients:
  agua: 3 tazas
  pimiento rojo: 1
@@ -18,7 +17,6 @@ ingredients:
  sal y pimienta: 1 pizca
  perejil fresco: 1 manojo
  cilantro fresco: 1/2 manojo (opcional)
- 
 instructions:
   - Cortar las verduras en tacos
   - Mezclar las especias con AOVE
@@ -40,7 +38,7 @@ categories: [Ensaladas]
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0MTI4MDcwMCwtNjAwMjUzMjkzLDE4Nz
+eyJoaXN0b3J5IjpbLTIzMjI2NDI0NiwtNjAwMjUzMjkzLDE4Nz
 M2NDUyMzcsLTE0OTYzMjc2NzgsLTYxNzI3MjEyMiwtMTU1Nzk2
 MzAzMF19
 -->
