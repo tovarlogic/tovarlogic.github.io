@@ -13,11 +13,17 @@ header:
       url: "/series/razonamiento/"
 ---
 # Introducción
-El término «razonamiento» tiene dos acepciones (que el diccionario recoge en una sola): «acción y efecto de razonar».una procesal (la actividad del agente que razona) y otra funcional (la relación entre las premisas y la conclusión). La lógica se ocupa de los razonamientos en el sentido funcional. En efecto, en el proceso que lleva de las premisas a la conclusión pueden encadenarse múltiples pasos elementales. En la lógica se estudian las condiciones bajo las cuales estos pasos son correctos, pero no cómo y en qué orden deben realizarse: se supone que la mente dispone de los mecanismos adecuados para hacerlo. De los aspectos procesales de los razonamientos se ocupa la psicología, en el caso de que el agente sea humano. Pero si el agente es un artefacto (que, con la tecnología actual, es lo mismo que decir un ordenador) entonces es un asunto propio de la inteligencia artificial.
+El término «razonamiento» tiene dos acepciones (que el diccionario recoge en una sola): «acción y efecto de razonar». 
+La primera es procesal (la actividad del agente que razona) y otra funcional (la relación entre las premisas y la conclusión).
 
-Una inferencia es simplemente un  razonamiento formal, en el sentido de que lo importante es la forma de las premisas y la conclusión y la relación entre ellas, no su contenido.
+La lógica se ocupa de los razonamientos en el sentido funcional. En efecto, en el proceso que lleva de las premisas a la conclusión pueden encadenarse múltiples pasos elementales. En la lógica se estudian las condiciones bajo las cuales estos pasos son correctos, pero no cómo y en qué orden deben realizarse: se supone que la mente dispone de los mecanismos adecuados para hacerlo. 
+
+De los aspectos procesales de los razonamientos se ocupa la psicología, en el caso de que el agente sea humano. Pero si el agente es un artefacto entonces es un asunto propio de la inteligencia artificial.
+
+Una inferencia es simplemente un razonamiento formal, en el sentido de que lo importante es la forma de las premisas y la conclusión y la relación entre ellas, no su contenido.
+
 Inferencia
-:  es la relación de dependencia que establecemos entre razones y conclusión.Inferimos por tres caminos:
+:  es la relación de dependencia que establecemos entre razones y conclusión. Inferimos por tres caminos:
     -   La inferencia  **inductiva**  parte de hechos que nos parecen semejantes en algo para alcanzar conclusiones que generalizan dicha semejanza.
 	    > Ejemplo: Si veo que de un saco extraen un puñado de alubias y todas son blancas, induzco que todas las alubias del saco son blancas.
 	    **Inducción**: Cada alubia que sale del saco es blanca -> todas las alubias del saco son blancas.
@@ -236,5 +242,5 @@ La fuerza de la hipótesis está determinada por tres factores:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjU5NDQwNCwtMTUzMTI2NzE4OF19
+eyJoaXN0b3J5IjpbLTY5MTgyOTA5NiwtMTUzMTI2NzE4OF19
 -->
