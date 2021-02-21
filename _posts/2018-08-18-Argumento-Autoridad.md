@@ -23,18 +23,17 @@ Los  **requisitos**  que deben cumplir sus premisas son, **que se trate de una a
 -   bien interpretada
 -   no contradictoria con otras.
 
-Por su parte la fortaleza del 
+Por su parte la **fortaleza del argumento** puede ser:
 -   **Razonable**: Ofrece información adicional suficiente (requisitos) para que la conclusión sea plausiblemente aceptable.
  -   **Débil**: No cumple los requisitos y su conclusión es plausiblemente inaceptable.
 -   **Falaz**: Ni cumple los requisitos ni existe voluntad para cumplirlos.
-4.  Sus  **principales falacias**  son:
-    -   Falacia de Falsa autoridad: Cuando se apela a una falsa autoridad para salir de un mal uso.
-    -   Falacia ad verecundiam: Cuando se invoca a una autoridad reverenda.
-    -   Argumento ad populum: Cuando se busca amparo inadecuado en la multitud.
 
-## Introducción
+Mientras que sus  **principales falacias**  son:
+ -   **Falacia de Falsa autoridad**: Cuando se apela a una falsa autoridad para salir de un mal uso.
+-   **Falacia ad verecundiam**: Cuando se invoca a una autoridad reverenda.
+-   **Argumento ad populum**: Cuando se busca amparo inadecuado en la multitud.
 
--   Cuando queremos sostener una afirmación, no hay nada más socorrido que escudarse en una opinión que se considere solvente y a la que hacemos responsable de nuestras afirmaciones.
+Cuando queremos sostener una afirmación, no hay nada más socorrido que escudarse en una opinión que se considere solvente y a la que hacemos responsable de nuestras afirmaciones.
 -   El recurso a la autoridad puede producirse por
     -   **conveniencia**  (ahorra tiempo, acelera la persuasión, señala que personas prominentes opinan como nosotros)
     -   **necesidad**. Con frecuencia no disponemos de los datos que más nos importan, bien porque no hemos tenido ocasión de estudiarlos, bien porque no están a nuestro alcance, bien porque son demasiado técnicos. No nos queda entonces más remedio que recurrir a los juicios de autoridades a las que consideramos en mejores condiciones que nosotros mismos para opinar sobre el asunto que nos ocupa.
@@ -114,5 +113,5 @@ Una variedad de ésta es el Argumento ad Populum o apelación a la opinión más
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2OTA1MjI3N119
+eyJoaXN0b3J5IjpbLTEzMjQ3Nzg5NTJdfQ==
 -->
