@@ -1,5 +1,5 @@
 ---
-title:  Argumento por Analogía "A Pari"
+title:  Argumentos por Analogía "A Pari"
 date:   2018-08-11
 tags: [logica, pensamiento critico]
 categories: [Filosofia]
@@ -246,5 +246,5 @@ Cualquier exposición oral está plagada de comparaciones ilustrativas. Conviene
 # Referencias
 - [Uso de razón](http://www.usoderazon.com) por Ricardo García Damborenea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTY4NjQyM119
+eyJoaXN0b3J5IjpbLTE3MTUwMzM4NDRdfQ==
 -->
