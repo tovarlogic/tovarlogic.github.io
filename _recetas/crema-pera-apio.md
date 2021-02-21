@@ -28,7 +28,5 @@ tags: [Vegetariana]
 categories: [Crema]
 fuente: "Vegesanísimo" de Álvaro Vargas
 ---
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDIzMzM2NzksMTU4NzE5OTQzOSwyMD
-AyMDMwMTM1XX0=
--->
+
+

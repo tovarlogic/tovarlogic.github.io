@@ -33,7 +33,3 @@ categories: [Salsas]
 fuente: [Las Marías cocinillas](https://lasmariacocinillas.com/)
 ---
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMzE2NDQ1OCwtOTQ1NTYxNDk1LC0xMj
-gzMDk1MTUyXX0=
--->

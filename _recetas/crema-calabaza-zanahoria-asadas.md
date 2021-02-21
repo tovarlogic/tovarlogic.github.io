@@ -30,7 +30,3 @@ categories: [Cremas]
 fuente: Karlos Arguiñano
 ---
 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDgwNzc1NzMsNTEwNzA4MzQ5XX0=
--->
