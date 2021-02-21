@@ -1,5 +1,5 @@
 ---
-title:  Analogía "A Pari"
+title:  Analogía "A Fortiori"
 date:   2018-08-11
 tags: [logica, pensamiento critico]
 categories: [Filosofia]
@@ -14,11 +14,11 @@ header:
 ---
 
 # Introducción
+El argumento a fortiori pretende que lo que es válido en un ejemplo, lo sea con más razón en un caso semejante en más o en menos.
 
--   El argumento a fortiori pretende que lo que es válido en un ejemplo, lo sea con más razón en un caso semejante en más o en menos.
--   Hemos distinguido dos variedades:
-    -   la comparación con un ejemplo mayor (argumento a maiore ad minus)
-    -   y la que aporta un ejemplo menor (argumento a minori ad maius)
+Hemos distinguido dos variedades:
+    -   la **comparación con un ejemplo mayor** (argumento a maiore ad minus)
+    -   y lacomparación con un ejemplo menor (argumento a minori ad maius)
 -   Sus requisitos son lo mismos que exigen los argumentos a pari.
 
 ## El argumento
@@ -78,5 +78,5 @@ de mayor a menor: Si ellos no fueron capaces de ganar en su campo, con menor raz
 # Referencias
 - [Uso de razón](http://www.usoderazon.com) por Ricardo García Damborenea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MTQ3OTY0M119
+eyJoaXN0b3J5IjpbMjA5MTM5OTY3M119
 -->
