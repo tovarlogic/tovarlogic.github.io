@@ -128,9 +128,10 @@ La  **verosimilitud**  se refuerza cuando aportamos más de un ejemplo. Además 
 
 Así mismo, la **semejanza** entre los casos comparados será mayor cuantos más circunstancias compartan.
 
-## Falacias
+# Falacia "Falsa Analogía"
 
--   [Falsa Analogía](http://tovarlogic.shoutwiki.com/w/index.php?title=Falacias/Falsa_analog%C3%ADa&action=edit&redlink=1 "Falacias/Falsa analogía (la página no existe)"): todo argumento analógico que no se apoya en una semejanza relevante u olvida diferencias cruciales que impiden la conclusión.
+[Falsa Analogía](http://tovarlogic.shoutwiki.com/w/index.php?title=Falacias/Falsa_analog%C3%ADa&action=edit&redlink=1 "Falacias/Falsa analogía (la página no existe)")
+: todo argumento analógico que no se apoya en una semejanza relevante u olvida diferencias cruciales que impiden la conclusión.
 
 ## Refutación
 
@@ -238,7 +239,7 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MDAyNDIxOSwtMTE0NDMyOTYyMCwtMz
-I1MzU4NjUyLC0xMzA4NzM2MjA2LC0xMzg1MzM2NzcsLTEyMzY3
-ODg1ODFdfQ==
+eyJoaXN0b3J5IjpbMTgxNDMxNjk1NSwxNTgwMDI0MjE5LC0xMT
+Q0MzI5NjIwLC0zMjUzNTg2NTIsLTEzMDg3MzYyMDYsLTEzODUz
+MzY3NywtMTIzNjc4ODU4MV19
 -->
