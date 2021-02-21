@@ -50,19 +50,18 @@ La analogía es una de nuestras principales fuentes de conocimiento, un auxiliar
 # El Argumento
 Las experiencias repetidas nos invitan a generalizar por inducción, y una vez que disponemos de una regla general, podemos aplicarla ante cualquier caso nuevo del mismo género.
 >Ej:  Los gatos son egoístas y perezosos.
-Los perros son leales y alborotadores.
-por tanto -> Si compras un gato, será egoísta y perezoso
+>Los perros son leales y alborotadores.
+>por tanto -> Si compras un gato, será egoísta y perezoso
+
+o
+> Si ayer tardé treinta minutos en llegar al aeropuerto, supongo que hoy me costará lo mismo.
 
 En caso de carecer de regla general, hurgamos en nuestra memoria o volvemos la vista a nuestro alrededor en busca de algo parecido que nos sugiera la solución
->Ej: Las alubias me sentaron mal. Las lentejas son semejantes a las alubias.
-------------------------------------------
-Luego, probablemente, las lentejas me sentarán mal.
+>Ej: Las alubias me sentaron mal. 
+>Las lentejas son semejantes a las alubias.
+>Luego, probablemente, las lentejas me sentarán mal.
 
-Si ayer tardé treinta minutos en llegar al aeropuerto, supongo que hoy me costará lo mismo.
-
--   En un argumento por analogía decimos:
-
-X es B porque es como A, y los A son B.
+En un argumento por analogía decimos que X es B porque es como A, y los A son B.
 
 -   Con este razonamiento, nuestras conclusiones solamente pueden ser probables. La mera semejanza no permite afirmaciones categóricas. Siempre cabe que existan diferencias no percibidas que den al traste con nuestra conclusión.
 
@@ -217,6 +216,6 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTk0MjAxNiwtMzI1MzU4NjUyLC0xMz
+eyJoaXN0b3J5IjpbLTc1MjU3ODc0MSwtMzI1MzU4NjUyLC0xMz
 A4NzM2MjA2LC0xMzg1MzM2NzcsLTEyMzY3ODg1ODFdfQ==
 -->
