@@ -3,7 +3,7 @@ title: "Ensalada marroquí de verduras asadas y quinoa"
 ingredients:
  agua: 3 tazas
  pimiento rojo: 1
- quinoa: 270 gr
+ quinoa: 270gr
  calabaza: 250gr
  batata: 500gr
  zanahoria: 1 grande
@@ -37,5 +37,5 @@ categories: [Ensaladas]
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODY0MzA0MSwtMTU1Nzk2MzAzMF19
+eyJoaXN0b3J5IjpbNTU1ODU4MTAzLC0xNTU3OTYzMDMwXX0=
 -->
