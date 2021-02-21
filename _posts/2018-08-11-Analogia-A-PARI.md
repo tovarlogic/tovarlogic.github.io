@@ -114,14 +114,17 @@ La semejanzas se basa en la **misma razón**, es decir, la razón que sustenta l
 
 ## Diferencias
 
--   Por tratarse de casos  **semejantes**  (que no iguales), es decir, iguales en algunas cosas y distintos en otras, podría ocurrir que las diferencias propias del caso impidan la aplicación de la regla.
--   Nuestro argumento analógico precisa, pues, no sólo buscar amparo en las semejanzas que hacen al caso, sino asegurar que las diferencias son irrelevantes para la conclusión. Que no se trate de una excepción.
+Por tratarse de casos  **semejantes**  (que no iguales), es decir, iguales en algunas cosas y distintos en otras, podría ocurrir que las diferencias propias del caso impidan la aplicación de la regla.
+
+Nuestro argumento analógico precisa, pues, no sólo buscar amparo en las semejanzas que hacen al caso, **sino asegurar que las diferencias son irrelevantes para la conclusión**. Que no se trate de una excepción.
 
 ## Fuerza del argumento
 
--   el argumento analógico no es concluyente. No demuestra nada. Se limita a sugerir que las cosas son, probablemente, como se supone. pero no lo sabremos hasta que la experiencia lo confirme o lo refute.
--   Como todas las argumentaciones indirectas, sirve para orientarnos cuando los hechos no están a nuestro alcance. La analogía nos dice que algo es, probablemente, cierto, útil, justo o prudente. No lo asegura, pero nos permite tomar decisiones y actuar con fundamentos racionales.
--   La  **verosimilitud**  se refuerza cuado aportamos más de un ejemplo.
+El argumento analógico no es concluyente. No demuestra nada. Se limita a sugerir que las cosas son, probablemente, como se supone, pero no lo sabremos hasta que la experiencia lo confirme o lo refute.
+
+Como todas las argumentaciones indirectas, sirve para orientarnos cuando los hechos no están a nuestro alcance. La analogía nos dice que algo es, probablemente, cierto, útil, justo o prudente. No lo asegura, pero nos permite tomar decisiones y actuar con fundamentos racionales.
+
+La  **verosimilitud**  se refuerza cuando aportamos más de un ejemplo.
 -   el mismo modo resulta más persuasivo cuando los ejemplos son de origen diferente
 -   la semejanza entre los casos comparados será mayor cuantos más circunstancias compartan
 
@@ -235,7 +238,7 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODk0NzEwMiwtMTE0NDMyOTYyMCwtMz
+eyJoaXN0b3J5IjpbMTU4NDUyNTQ2NywtMTE0NDMyOTYyMCwtMz
 I1MzU4NjUyLC0xMzA4NzM2MjA2LC0xMzg1MzM2NzcsLTEyMzY3
 ODg1ODFdfQ==
 -->
