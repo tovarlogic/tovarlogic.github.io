@@ -7,9 +7,14 @@ ingredients:
  Cebolla: 1
  Papa: 1
  Caldo de verduras: 500ml
-Leche vegetal: 250ml
+ Leche vegetal: 250ml
+ Curry: 1 tbsp
+ Pimienta y sal: al gusto
+ Aove: 1 chorrito
  instructions:
- - Cortar las verduras en tacos
+ - Pelar y cortar las verduras en trozos pequeños
+ - Rehogar en la olla las papas, cebolla con un poco de sal
+ - Al cabo de unos minutos agregamos los trozos de apio
  - Doramos haciendo fritura de las verduras en AOVE
  - Añadimos el vino y dejar unos minutos para reducir
  - Añadir salsa de tomate, lentejas y caldo
@@ -20,9 +25,9 @@ prepmins: 5
 cookmins: 25
 yield: 6
 tags: [Vegetariana]
-categories: [Salsas]
+categories: [Crema]
 creator: Las Marías cocinillas
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzY3NDE0Ml19
+eyJoaXN0b3J5IjpbLTEyNTQ2Mzg0Nl19
 -->
