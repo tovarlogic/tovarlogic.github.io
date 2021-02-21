@@ -15,7 +15,7 @@ header:
 # Introducción
 La analogía nos autoriza a tratar casos diferentes como si pertenecieran a la misma regla o, dicho de otra manera, nos permite ampliar el alcance de una regla, de una generalización, de una norma, de una ley, a los casos semejantes.
 
-Es un razonamiento  **basado en la comparación entre semejantes**. Trata de probar un suceso particular a partir de otro particular (un ejemplo), apoyado en la semejanza que existe entre ambos.
+Es un razonamiento  **basado en la comparación entre semejantes** (A pari = igualdad). Trata de probar un suceso particular a partir de otro particular (un ejemplo), apoyado en la semejanza que existe entre ambos.
 -   para fundamentar un argumento a pari podemos utilizar:
     -   un caso aislado que sea semejante.
     -   varios casos que vengan a decir lo mismo.
@@ -245,7 +245,7 @@ Cualquier exposición oral está plagada de comparaciones ilustrativas. Conviene
 # Referencias
 - [Uso de razón](http://www.usoderazon.com) por Ricardo García Damborenea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMjMzNTYzOSwxNTgwMDI0MjE5LC0xMT
-Q0MzI5NjIwLC0zMjUzNTg2NTIsLTEzMDg3MzYyMDYsLTEzODUz
-MzY3NywtMTIzNjc4ODU4MV19
+eyJoaXN0b3J5IjpbLTExNTg2MjgwMjUsMTIzMjMzNTYzOSwxNT
+gwMDI0MjE5LC0xMTQ0MzI5NjIwLC0zMjUzNTg2NTIsLTEzMDg3
+MzYyMDYsLTEzODUzMzY3NywtMTIzNjc4ODU4MV19
 -->
