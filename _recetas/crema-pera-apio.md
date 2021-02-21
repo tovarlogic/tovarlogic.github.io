@@ -11,7 +11,7 @@ ingredients:
  Curry: 1 tbsp
  Pimienta y sal: al gusto
  Aove: 1 chorrito
- instructions:
+instructions:
  - Pelar y cortar las verduras en trozos pequeños
  - Rehogar en la olla las papas, cebolla con un poco de sal
  - Al cabo de unos minutos agregamos los trozos de apio
@@ -29,5 +29,5 @@ categories: [Crema]
 Author: "Vegesanísimo" de Álvaro Vargas
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2MDgxNTAzXX0=
+eyJoaXN0b3J5IjpbMjAwMjAzMDEzNV19
 -->
