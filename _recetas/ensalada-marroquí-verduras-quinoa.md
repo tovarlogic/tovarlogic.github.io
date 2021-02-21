@@ -18,15 +18,15 @@ ingredients:
  perejil fresco: 1 manojo
  cilantro fresco: 1/2 manojo (opcional)
  instructions:
- - Cortar las verduras en tacos
- - Mezclar las especias con AOVE
- - Impregnar las verduras con la mezcla de las especias
- - Asarlas a 200ºC durante 30 minutos (15 minutos en freidora sin aceite)
- - Lavar bien la quinoa
- - Hervir el agua y añadir la quinoa con tapa. Cocinar a fuego medio hasta que haya absorbido todo el agua.
- - Dejar enfriar todo, y una vez templado mezclar.
- - Añadir y mezclar las hierbas picadas
- - Servir templado.
+  - Cortar las verduras en tacos
+  - Mezclar las especias con AOVE
+  - Impregnar las verduras con la mezcla de las especias
+  - Asarlas a 200ºC durante 30 minutos (15 minutos en freidora sin aceite)
+  - Lavar bien la quinoa
+  - Hervir el agua y añadir la quinoa con tapa. Cocinar a fuego medio hasta que haya absorbido todo el agua.
+  - Dejar enfriar todo, y una vez templado mezclar.
+  - Añadir y mezclar las hierbas picadas
+  - Servir templado.
 show_convertions: true
 show_abreviations: true
 prepmins: 5
@@ -36,8 +36,7 @@ tags: [vegetariana, FODMAP]
 categories: [Ensaladas]
 ---
 
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMjM0NjM5NiwtNjE3MjcyMTIyLC0xNT
-U3OTYzMDMwXX0=
+eyJoaXN0b3J5IjpbLTE0OTYzMjc2NzgsLTYxNzI3MjEyMiwtMT
+U1Nzk2MzAzMF19
 -->
