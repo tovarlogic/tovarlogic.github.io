@@ -1,3 +1,17 @@
+---
+title:  "Analogía "A Pari""
+date:   2018-08-11
+tags: [logica, pensamiento critico]
+categories: [Filosofia]
+serie: razonamiento
+toc: true
+toc_sticky: true
+header:
+  overlay_color: "#333"
+  actions:
+    - label: "Serie: Razonamiento"
+      url: "/series/razonamiento/"
+---
 # Analogía "A Pari"
 La analogía nos autoriza a tratar casos diferentes como si pertenecieran a la misma regla o, dicho de otra manera, nos permite ampliar el alcance de una regla, de una generalización, de una norma, de una ley, a los casos semejantes.
 
@@ -209,6 +223,6 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTgxNTYxLC0xMzg1MzM2NzcsLTEyMz
-Y3ODg1ODFdfQ==
+eyJoaXN0b3J5IjpbMTgzNzI3NTExNCwtMTM4NTMzNjc3LC0xMj
+M2Nzg4NTgxXX0=
 -->
