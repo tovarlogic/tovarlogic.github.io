@@ -51,10 +51,9 @@ Llamamos  **Falacia de Falsa Analogía**, a todo argumento analógico que no se 
 Las experiencias repetidas nos invitan a generalizar por inducción, y una vez que disponemos de una regla general, podemos aplicarla ante cualquier caso nuevo del mismo género.
 >Ej:  Los gatos son egoístas y perezosos.
 Los perros son leales y alborotadores.
-por tanto -
-Si compras un gato, será egoísta y perezoso
+por tanto -> Si compras un gato, será egoísta y perezoso
 
--   En caso de carecer de regla general, hurgamos en nuestra memoria o volvemos la vista a nuestro alrededor en busca de algo parecido que nos sugiera la solución
+En caso de carecer de regla general, hurgamos en nuestra memoria o volvemos la vista a nuestro alrededor en busca de algo parecido que nos sugiera la solución
 
 Las alubias me sentaron mal.
 Las lentejas son semejantes a las alubias.
@@ -220,6 +219,6 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NDg5MTU5NywtMTM4NTMzNjc3LC0xMj
-M2Nzg4NTgxXX0=
+eyJoaXN0b3J5IjpbLTE0ODYwNzAzMjAsLTEzODUzMzY3NywtMT
+IzNjc4ODU4MV19
 -->
