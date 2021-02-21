@@ -27,28 +27,30 @@ Al razonar por analogía con un argumento  **a pari**, nos fijamos únicamente e
 
 Del mismo modo, podemos utilizar ejemplos en los que aquello que comparamos (la misma razón) es mayor o menor en un caso que en otro. De este modo llegamos a la conclusión con más fuerza (a fortiori), a mayor abundamiento,  **con mayor razón**.
 
->Ej:Juan es más alto que Pedro.
-Luego si Pedro alcanza, Juan alcanzará por la misma razón, pero aumentada.
+>Ej: Juan es más alto que Pedro.
+>
+>Luego si Pedro alcanza, Juan alcanzará por la misma razón, pero aumentada.
 
 Los casos siguen siendo  **cualitativamente iguales**  (ambos son altos), pero la  **cantidad del aspecto que comparo varía**, así es que el argumento gana en contundencia
 
 Caben aquí dos posibilidades: podemos comparar nuestro caso con uno mayor o con uno menor, es decir, podemos probar las cosas menores por las mayores y, al revés, las cosas mayores por las menores.
 
-Si Pedro alcanza, más alcanzará Juan porque es más alto (alcanzará con más razón).
+>Ej: Si Pedro alcanza, más alcanzará Juan porque es más alto (alcanzará con más razón).
+>
+>Si Juan no alcanza, menos alcanzará Pedro (que es más bajo) (no alcanzará con más razón).
 
-Si Juan no alcanza, menos alcanzará Pedro (que es más bajo) (no alcanzará con más razón).
+>Si vale para lo que es más, vale para lo que es menos
+>
+>Si no vale para lo que es menos, tampoco vale para lo que es más
 
-Si vale para lo que es más, vale para lo que es menos
-Si no vale para lo que es menos, tampoco vale para lo que es más
+>Si está prohibido lo menos, está prohibido lo más
 
-Si está prohibido lo menos, está prohibido lo más
-Si es posible en malas condiciones, más lo será en las buenas
+>Si es posible en malas condiciones, más lo será en las buenas
 
 ## Pregunta retórica
-
 A veces, el argumento a fortiori adopta la forma de una pregunta que no espera respuesta pero que constituye un argumento. Y se presta muy bien a la ironía.
 
-Si esto que digo es injusto ¿cómo llamaremos a lo que usted propone?
+>Si esto que digo es injusto ¿cómo llamaremos a lo que usted propone?
 
 ¡Si el alcalde se lleva los pinos, qué no harán los vecinos!
 
@@ -78,5 +80,5 @@ de mayor a menor: Si ellos no fueron capaces de ganar en su campo, con menor raz
 # Referencias
 - [Uso de razón](http://www.usoderazon.com) por Ricardo García Damborenea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODk5NTU5OV19
+eyJoaXN0b3J5IjpbLTUxNzc4Mjc1Nl19
 -->
