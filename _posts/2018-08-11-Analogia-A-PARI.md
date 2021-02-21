@@ -200,12 +200,10 @@ Ante quien pretende aplicar una ley o una regla general al pie de la letra, olvi
 >En Inglaterra un hombre fue acusado de bigamia, y su abogado lo salvó demostrando que su cliente tenía tres mujeres
 
 # Usos prácticos
-
 ## Reciprocidad
+Al emplear la expresión tal como en los argumentos a pari, **damos a entender que lo válido en un caso debe serlo igualmente en otro**, con lo que venimos a sugerir que la **relación entre ambos es simétrica**. Es decir, lo que vale para el primero vale para el segundo y viceversa. 
 
--   Al emplear la expresión tan como en los argumentos a pari, damos a entender que lo válido en un caso debe serlo igualmente en otro, con lo que venimos a sugerir que la relación entre ambos es simétrica: Lo que vale para el primero vale para el segundo y viceversa. Esta simetría de las relaciones nos permite utilizar el argumento a pari en ambas direcciones.
-
--   Por el contrario, no cabe un argumento a pari cuando la semejanza no es recíproca (no existe paridad en las relaciones).
+Esta simetría de las relaciones nos permite utilizar el argumento a pari en ambas direcciones. Por el contrario, no cabe un argumento a pari cuando la semejanza no es recíproca (no existe paridad en las relaciones).
 
 ## Igualdad de trato
 
@@ -243,7 +241,7 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc4NjAxNjIsMTU4MDAyNDIxOSwtMT
-E0NDMyOTYyMCwtMzI1MzU4NjUyLC0xMzA4NzM2MjA2LC0xMzg1
-MzM2NzcsLTEyMzY3ODg1ODFdfQ==
+eyJoaXN0b3J5IjpbLTMxMjQ1NjUxMywxNTgwMDI0MjE5LC0xMT
+Q0MzI5NjIwLC0zMjUzNTg2NTIsLTEzMDg3MzYyMDYsLTEzODUz
+MzY3NywtMTIzNjc4ODU4MV19
 -->
