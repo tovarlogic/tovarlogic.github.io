@@ -1,8 +1,8 @@
 ---
 title:  "Razonamiento"
 date:   2018-08-08
-tags: [lógica, pensamiento crítico]
-categories: [Filosofía]
+tags: [logica, pensamiento critico]
+categories: [Filosofia]
 serie: razonamiento
 toc: true
 toc_sticky: true
@@ -246,5 +246,5 @@ La fuerza de la hipótesis está determinada por tres factores:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MjQ0NDIyNywtMTUzMTI2NzE4OF19
+eyJoaXN0b3J5IjpbLTYzMzk4ODU0MywtMTUzMTI2NzE4OF19
 -->
