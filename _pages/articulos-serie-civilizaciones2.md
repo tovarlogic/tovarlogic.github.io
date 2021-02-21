@@ -1,5 +1,5 @@
 ---
-permalink: /serie/civilizaciones2
+permalink: /series/civilizaciones2
 serie: civilizaciones
 ---
 

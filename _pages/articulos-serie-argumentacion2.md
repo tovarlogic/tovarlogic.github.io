@@ -1,5 +1,5 @@
 ---
-permalink: /serie/argumentacion2
+permalink: /series/argumentacion2
 serie: argumentacion
 ---
 
