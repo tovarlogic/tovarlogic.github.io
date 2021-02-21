@@ -9,7 +9,8 @@ author_profile: false
 layout: single-left
 ---
 # Introducción
-El consumo de moléculas para alterar la bioquímica de nuestro organismo, con el objetivo de obtener unos beneficios predefinidos, es lo que en anglosajón se denomina "**Biohacking**". No conozco un término equivalente en Español.
+Biohacking
+: Es un anglicismo que hace referencia a la acción de modificar El consumo de moléculas para alterar la bioquímica de nuestro organismo, con el objetivo de obtener unos beneficios predefinidos, es lo que en anglosajón se denomina "**Biohacking**". No conozco un término equivalente en Español.
 
 Por su parte, los suplementos y medicamentos con objetivo específico de mejorar el rendimiento cognitivo son generalmente conocidos en Inglés como "**Nootropics**". En español se suele emplear la traducción directa ["Nootrópico"](https://dle.rae.es/nootr%C3%B3pico) (aunque no está recogido en la RAE).
 
@@ -125,8 +126,8 @@ Las técnicas intensivitas de la agricultura moderna han llevado a la degradaci�
 [^3]: [Mediline plus: Examen de 25-hidroxi vitamina D](https://medlineplus.gov/spanish/ency/article/003569.htm)
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzkwOTI2OCwxMTY5MjQ0MDc0LC0yMD
-gzMDI5MTE3LDE2MzA5MDM0NzIsMTk3Nzg3NTczNywtMTkxNTYx
-MjU4NCw5MDI4OTM0MTQsLTE1NDk2OTQxMDIsLTIwNDk2MzI0Nj
-ksNzE4MjExNzRdfQ==
+eyJoaXN0b3J5IjpbLTEyNzgzOTQ0NTgsLTgyNzkwOTI2OCwxMT
+Y5MjQ0MDc0LC0yMDgzMDI5MTE3LDE2MzA5MDM0NzIsMTk3Nzg3
+NTczNywtMTkxNTYxMjU4NCw5MDI4OTM0MTQsLTE1NDk2OTQxMD
+IsLTIwNDk2MzI0NjksNzE4MjExNzRdfQ==
 -->
