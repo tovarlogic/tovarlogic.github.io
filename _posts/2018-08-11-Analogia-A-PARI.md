@@ -124,9 +124,9 @@ El argumento analógico no es concluyente. No demuestra nada. Se limita a sugeri
 
 Como todas las argumentaciones indirectas, sirve para orientarnos cuando los hechos no están a nuestro alcance. La analogía nos dice que algo es, probablemente, cierto, útil, justo o prudente. No lo asegura, pero nos permite tomar decisiones y actuar con fundamentos racionales.
 
-La  **verosimilitud**  se refuerza cuando aportamos más de un ejemplo.
--   el mismo modo resulta más persuasivo cuando los ejemplos son de origen diferente
--   la semejanza entre los casos comparados será mayor cuantos más circunstancias compartan
+La  **verosimilitud**  se refuerza cuando aportamos más de un ejemplo. Además resulta más persuasivo cuando los ejemplos son de origen diferente. 
+
+Así mismo, la **semejanza** entre los casos comparados será mayor cuantos más circunstancias compartan.
 
 ## Falacias
 
@@ -238,7 +238,7 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDUyNTQ2NywtMTE0NDMyOTYyMCwtMz
+eyJoaXN0b3J5IjpbMTU4MDAyNDIxOSwtMTE0NDMyOTYyMCwtMz
 I1MzU4NjUyLC0xMzA4NzM2MjA2LC0xMzg1MzM2NzcsLTEyMzY3
 ODg1ODFdfQ==
 -->
