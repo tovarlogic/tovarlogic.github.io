@@ -1,5 +1,6 @@
 ---
 title: "Salsa Boloñesa vegetariana"
+date: 2021-02-05
 ingredients:
  tomate natural: 1kg
  [Salsa de tomate](/salsa-de-tomate): 700ml
@@ -13,10 +14,10 @@ ingredients:
  Romero u Orégano fresco: 1 tsp
  Aceitunas negras o verdes: 15
  Caldo de verduras: 500ml
- - sal y pimienta
- - Albahaca seca 1 puñado
- - AOVE
- directions:
+ Sal y pimienta: al gusto
+ Albahaca seca: 1 puñado
+ AOVE
+ instructions:
  - Cortar las verduras en tacos
  - Doramos haciendo fritura de las verduras en AOVE
  - Añadimos el vino y dejar unos minutos para reducir
@@ -34,5 +35,5 @@ creator: Las Marías cocinillas
 
  receta de prueba
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTgxOTg1MzVdfQ==
+eyJoaXN0b3J5IjpbLTE1NDkzMDY3NzBdfQ==
 -->
