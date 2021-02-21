@@ -64,17 +64,16 @@ Toda  **demostración**  consiste en fundamentar una verdad en otra o en varias.
 - **Indirectamente**  efectuando un rodeo, mediante:
 	- **eliminación**  Consiste en probar la verdad o conveniencia de una proposición mostrando que todas las otras hipótesis posibles son falsas o inconvenientes
 	-  los  **disyuntivos**, se afirman dos posibilidades incompatibles separadas por la conjunción o de modo que si se afirma una se excluye la otra.
-	  _Estuvo allí o no estuvo_
-
-S es A o B S no es A luego S es B
-
--   -   -   -   por  **enumeración**, Ofrecemos todas las soluciones posibles de un determinado problema para escoger entre ellas la buena
+	>Ej:  _Estuvo allí o no estuvo_
+	S es A o B S no es A luego S es B
+	
+	- por  **enumeración**, Ofrecemos todas las soluciones posibles de un determinado problema para escoger entre ellas la buena
 
 S es A o B o C
 Pero no es B ni es C
 Luego es A
 
--   -   -   -   los  **dilemas**, caracterizada porque las dos posibilidades que se consideran conducen al mismo resultado.
+- los  **dilemas**, caracterizada porque las dos posibilidades que se consideran conducen al mismo resultado.
 
 -   -   -   **reducción al absurdo**  (convertir en absurdo), Prueba que una conclusión es cierta porque su contradictoria sería falsa o absurda. Como dos cosas contradictorias no pueden ser ciertas, si se demuestra que una es falsa, será cierta la otra. Si fuera cierto lo que se supone, serían verdad sus consecuencias. Como éstas son falsas (o es­túpidas, o inconcebibles, o indeseables, o contradictorias con lo que se afirma o con lo que se sabe), se concluye que no es verdad el supuesto (porque sostenerlo conduce al absurdo), y que la verdad es lo contrario, lo que se trataba de demostrar
 
@@ -247,5 +246,5 @@ La fuerza de la hipótesis está determinada por tres factores:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMTIyMzgyN119
+eyJoaXN0b3J5IjpbLTEyMjE5ODI5ODBdfQ==
 -->
