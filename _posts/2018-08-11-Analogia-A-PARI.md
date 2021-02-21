@@ -1,5 +1,5 @@
 ---
-title:  "Analogía "A Pari""
+title:  Analogía "A Pari"
 date:   2018-08-11
 tags: [logica, pensamiento critico]
 categories: [Filosofia]
@@ -219,6 +219,6 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODYwNzAzMjAsLTEzODUzMzY3NywtMT
-IzNjc4ODU4MV19
+eyJoaXN0b3J5IjpbMjAzNzM1MTUwNCwtMTM4NTMzNjc3LC0xMj
+M2Nzg4NTgxXX0=
 -->
