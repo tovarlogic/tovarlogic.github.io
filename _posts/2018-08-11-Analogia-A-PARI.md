@@ -41,7 +41,7 @@ Llamamos  **Falacia de Falsa Analogía**, a todo argumento analógico que no se 
     -   subrayando las diferencias que puedan ser relevantes para la conclusión.
     -   con otra analogía.
 
-# Usos prácticos
+## Usos prácticos
 - En la simetría del argumento a pari se apoyan los argumentos de reciprocidad.
 -   Con la Regla de Justicia como premisa complementaria, se forman la analogía judicial, la apelación al precedente, y la apelación al agravio comparativo.
 -   Del mismo modo se recurre al modelo.
@@ -217,6 +217,6 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjU0NjY1MSwtMTM4NTMzNjc3LC0xMj
+eyJoaXN0b3J5IjpbMTczMDk2ODAzNiwtMTM4NTMzNjc3LC0xMj
 M2Nzg4NTgxXX0=
 -->
