@@ -1,9 +1,7 @@
 # Analogía "A Pari"
 La analogía nos autoriza a tratar casos diferentes como si pertenecieran a la misma regla o, dicho de otra manera, nos permite ampliar el alcance de una regla, de una generalización, de una norma, de una ley, a los casos semejantes.
 
-## Síntesis
-
--   La analogía es un razonamiento  **basado en la comparación entre semejantes**. Trata de probar un suceso particular a partir de otro particular (un ejemplo), apoyado en la semejanza que existe entre ambos.
+Es un razonamiento  **basado en la comparación entre semejantes**. Trata de probar un suceso particular a partir de otro particular (un ejemplo), apoyado en la semejanza que existe entre ambos.
 -   para fundamentar un argumento a pari podemos utilizar:
     -   un caso aislado que sea semejante.
     -   varios casos que vengan a decir lo mismo.
@@ -13,6 +11,7 @@ La analogía nos autoriza a tratar casos diferentes como si pertenecieran a la m
 A es P y la razón suficiente para ello es R
 B es semejante a A porque es igual en R
 y no hay nada excepcional en el caso que impida la conclusión.
+--------------------------------------------------------------
 B es P, por la misma razón que A.
 
 -   La  **fuerza depende de que la semejanza sea relevante y las diferencias no**. La analogía cobra fuerza cuando:
@@ -207,5 +206,6 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODUzMzY3NywtMTIzNjc4ODU4MV19
+eyJoaXN0b3J5IjpbLTk4Mjk3ODA1NywtMTM4NTMzNjc3LC0xMj
+M2Nzg4NTgxXX0=
 -->
