@@ -317,7 +317,7 @@ defaults:
       path: ""
       type: recetas
     values:
-      layout: recipe
+      layout: receta
       author_profile: true
       share: true
       comments: true
