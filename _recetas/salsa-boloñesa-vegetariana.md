@@ -16,7 +16,7 @@ ingredients:
  Caldo de verduras: 500ml
  Sal y pimienta: al gusto
  Albahaca seca: 1 puñado
- AOVE
+ AOVE: 1 chorrito
 instructions:
  - Cortar las verduras en tacos
  - Doramos haciendo fritura de las verduras en AOVE
@@ -34,5 +34,6 @@ Author: [Las Marías cocinillas](https://lasmariacocinillas.com/)
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTU2MTQ5NSwtMTI4MzA5NTE1Ml19
+eyJoaXN0b3J5IjpbLTE4ODk2NjQ1NTIsLTk0NTU2MTQ5NSwtMT
+I4MzA5NTE1Ml19
 -->
