@@ -21,7 +21,7 @@ Es un razonamiento  **basado en la comparación entre semejantes**. Trata de pro
     -   varios casos que vengan a decir lo mismo.
     -   una regla, una norma, una ley que considere casos semejantes al nuestro.
  
- El **esquema del argumento analógico** sigue la siguiente estructura:
+ El **esquema del argumento analógico** sigue la siguiente estructura:<br>
 **razón**: A es P y la razón suficiente para ello es R;<br>
 **semejanza**: B es semejante a A porque es igual en R; <br>
 **sin excepción**: y no hay nada excepcional en el caso que impida la conclusión.<br>
@@ -220,6 +220,6 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1MzgwODMwLC0zMjUzNTg2NTIsLTEzMD
-g3MzYyMDYsLTEzODUzMzY3NywtMTIzNjc4ODU4MV19
+eyJoaXN0b3J5IjpbLTExNDQzMjk2MjAsLTMyNTM1ODY1MiwtMT
+MwODczNjIwNiwtMTM4NTMzNjc3LC0xMjM2Nzg4NTgxXX0=
 -->
