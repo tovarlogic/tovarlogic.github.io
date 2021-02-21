@@ -55,8 +55,12 @@ A veces, el argumento a fortiori adopta la forma de una pregunta que no espera r
 >¡Si el alcalde se lleva los pinos, qué no harán los vecinos!
 
 ## Combinación de argumentos por analogía
+Muchas sumas de argumentos convergentes se construyen de esta manera.
+ 
+Conviene tener en cuenta todas las variedades porque enriquecen y hacen más atractiva la argumentación.
+{: .notice}
 
-Muchas sumas de argumentos convergentes se construyen de esta manera. Conviene tener en cuenta todas las variedades porque enriquecen y hacen más atractiva la argumentación. El procedimiento no es complicado. Cualquier argumento analógico se transforma en argumento a fortiori sin más que acentuar o rebajar los planteamientos:
+El procedimiento no es complicado. Cualquier argumento analógico se transforma en argumento a fortiori sin más que acentuar o rebajar los planteamientos:
 
 A igualdad (a pari)
 
@@ -80,5 +84,5 @@ de mayor a menor: Si ellos no fueron capaces de ganar en su campo, con menor raz
 # Referencias
 - [Uso de razón](http://www.usoderazon.com) por Ricardo García Damborenea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NTI3MDc2Ml19
+eyJoaXN0b3J5IjpbLTE5ODQzODg4MzQsLTk5NTI3MDc2Ml19
 -->
