@@ -13,7 +13,7 @@ header:
   overlay_color: "#333"
   actions:
     - label: "Serie: Civilizaciones"
-      url: "/civilizaciones/"
+      url: "/series/civilizaciones/"
 ---
 
 # Introducción
