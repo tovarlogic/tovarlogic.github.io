@@ -53,12 +53,13 @@ Las formas típicas de las  **articulaciones argumentales**  son:
     -   **En­cadenamiento**  (o Sorites), Es una cadena de argumentos en la que la conclusión del primero sirve de premisa para el segundo, y así sucesivamente, hasta alcanzar la conclusión definitiva. La argumentación forma un arco capaz de salvar grandes distancias. Son argumentos sucesivos. Resulta muy fácil incluir falacias.
     > A es B; B es C; C es D -> A es D
 
-
-Nuestras  **proposiciones**  pueden ser de dos tipos, según la fuerza con que afirman las cosas:
-    -   **necesarias**, cuando afirman que algo no puede ser de otro modo. Depende de razones sólidas como leyes.
-    -   **contingentes** o **probable**  , cuando admiten tácitamente que algo puede ser de otro modo. Solamente autorizan conclusiones probables.
-        -   La conclusión necesaria o categórica implica que lo contrario es imposible.
-        -   La conclusión probable implica que lo contrario puede ocurrir, pero es menos probable.
+## Proposiciones
+Proposiciones
+: Nuestras proposiciones pueden ser de dos tipos, según la fuerza con que afirman las cosas:
+    -   **necesarias**, cuando afirman que algo no puede ser de otro modo. Depende de razones sólidas como leyes. La conclusión necesaria o categórica implica que lo contrario es imposible.
+    -   **contingentes** o **probable**  , cuando admiten tácitamente que algo puede ser de otro modo. Solamente autorizan conclusiones probables. La conclusión probable implica que lo contrario puede ocurrir, pero es menos probable.
+        -   
+        -   
         -   La conclusión posible implica que lo contrario es igualmente posible.
 -   toda  **demostración**  consiste en fundamentar una verdad en otra o en varias. Se puede realizar:
     -   **Directamente**,Se muestran las premisas que conducen directamente a la conclusión
@@ -247,5 +248,5 @@ La fuerza de la hipótesis está determinada por tres factores:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzAzNTQ5XX0=
+eyJoaXN0b3J5IjpbLTExNzE1NTA0OTNdfQ==
 -->
