@@ -236,10 +236,16 @@ Si algo ha ocurrido con anterioridad, puede ocurrir de nuevo por la misma razón
 Con frecuencia recurrimos a las comparaciones, no como argumento, sino como ilustración. Explicamos cosas que no son conocidas comparándolas con las más familiares (reales o ficticias, como ocurre en las fábulas). 
 
 Cualquier exposición oral está plagada de comparaciones ilustrativas. Conviene no caer en el error de tomarlas como argumento. Una cosa es rechazar una metáfora inadecuada y otra muy distinta, refutar un argumento. Con frecuencia se mezclan: al argumento sigue el adorno de las metáforas.
+{: .notice--warning}
 
-Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
+>Ej: Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? 
+
+>Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
+
+# Referencias
+- [Uso de razón](http://www.usoderazon.com) por Ricardo García Damborenea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDYyMTM3NjAsMTU4MDAyNDIxOSwtMT
-E0NDMyOTYyMCwtMzI1MzU4NjUyLC0xMzA4NzM2MjA2LC0xMzg1
-MzM2NzcsLTEyMzY3ODg1ODFdfQ==
+eyJoaXN0b3J5IjpbMTIzMjMzNTYzOSwxNTgwMDI0MjE5LC0xMT
+Q0MzI5NjIwLC0zMjUzNTg2NTIsLTEzMDg3MzYyMDYsLTEzODUz
+MzY3NywtMTIzNjc4ODU4MV19
 -->
