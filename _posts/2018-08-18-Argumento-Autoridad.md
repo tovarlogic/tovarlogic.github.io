@@ -15,16 +15,18 @@ header:
 ---
 # Introducción
 Los argumentos de autoridad son aquellos en los que como razones aportamos lo que dicen otros.
-2.  Los  **requisitos**  que deben cumplir sus premisas son, Que se trate de una autoridad:
-    -   concreta.
-    -   competente en la materia de que se trata.
-    -   imparcial.
-    -   bien interpretada
-    -   no contradictoria con otras.
-3.  El argumento de autoridad  **puede ser**:
-    -   **Razonable**: Ofrece información adicional suficiente (requisitos) para que la conclusión sea plausiblemente aceptable.
-    -   **Débil**: No cumple los requisitos y su conclusión es plausiblemente inaceptable.
-    -   **Falaz**: Ni cumple los requisitos ni existe voluntad para cumplirlos.
+
+Los  **requisitos**  que deben cumplir sus premisas son, **que se trate de una autoridad**:
+ -   concreta.
+-   competente en la materia de que se trata.
+-   imparcial.
+-   bien interpretada
+-   no contradictoria con otras.
+
+Por su parte la fortaleza del 
+-   **Razonable**: Ofrece información adicional suficiente (requisitos) para que la conclusión sea plausiblemente aceptable.
+ -   **Débil**: No cumple los requisitos y su conclusión es plausiblemente inaceptable.
+-   **Falaz**: Ni cumple los requisitos ni existe voluntad para cumplirlos.
 4.  Sus  **principales falacias**  son:
     -   Falacia de Falsa autoridad: Cuando se apela a una falsa autoridad para salir de un mal uso.
     -   Falacia ad verecundiam: Cuando se invoca a una autoridad reverenda.
@@ -112,5 +114,5 @@ Una variedad de ésta es el Argumento ad Populum o apelación a la opinión más
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjg1NzQwMTVdfQ==
+eyJoaXN0b3J5IjpbMTc2OTA1MjI3N119
 -->
