@@ -22,7 +22,8 @@ Es un razonamiento  **basado en la comparación entre semejantes**. Trata de pro
     -   una regla, una norma, una ley que considere casos semejantes al nuestro.
  
  El **esquema del argumento analógico** dice:
- A es P y la razón suficiente para ello es R; 
+ Razón
+ : A es P y la razón suficiente para ello es R; 
  B es semejante a A porque es igual en R; 
  y no hay nada excepcional en el caso que impida la conclusión.
 Por tanto -> B es P, por la misma razón que A.
@@ -217,6 +218,6 @@ Deberías imitar en esto a tu padre, que nunca permitió que las dificultades lo
 
 Si los profesores más insignes se hallan perplejos ¿qué aciertos se pueden esperar de los médicos comunes? Si para combatir estos grandes enemigos de nuestra vida se sienten sin fuerzas los gigantes ¿qué podrán hacer los pigmeos?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMDk2ODAzNiwtMTM4NTMzNjc3LC0xMj
-M2Nzg4NTgxXX0=
+eyJoaXN0b3J5IjpbLTEzMDg3MzYyMDYsLTEzODUzMzY3NywtMT
+IzNjc4ODU4MV19
 -->
