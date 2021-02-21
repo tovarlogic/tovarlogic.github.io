@@ -272,7 +272,7 @@ compress_html:
 collections:
   docs:
     output: true
-    permalink: /:collection/:path/
+    permalink: /series/:collection/:path/
   recetas:
     output: true
     permalink: /:collection/:path/
