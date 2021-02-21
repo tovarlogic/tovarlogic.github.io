@@ -1,11 +1,11 @@
 ---
 title: "Salsa Boloñesa vegetariana"
 ingredients:
- - 1kg de tomate natural triturado
- - 700 ml de [Salsa de tomate](/salsa-de-tomate)
- - 125ml de vino tinto
- - 1 Cebolla
- - 2 dientes de Ajo
+ tomate natural: 1kg
+ [Salsa de tomate](/salsa-de-tomate): 700ml
+ vino tinto: 125ml 
+ Cebolla: 1
+ Ajo
  - 2 zanahorias
  - 150gr de setas o champiñones
  - 150gr de lentejas
@@ -24,8 +24,8 @@ ingredients:
  - Cerrar la olla a presión y cocinar durante 15 minutos
 show_convertions: true
 show_abreviations: true
-prep_time: 5
-cooking_time: 25
+prepmins: 5
+cookmins: 25
 yield: 6
 tags: [Vegetariana]
 categories: [Salsas]
@@ -33,3 +33,6 @@ creator: Las Marías cocinillas
 ---
 
  receta de prueba
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwMzk5NjA2NzRdfQ==
+-->
