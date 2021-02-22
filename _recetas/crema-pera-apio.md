@@ -26,7 +26,7 @@ cookmins: 20
 yield: 6
 tags: [Vegetariana]
 categories: [Crema]
-fuente: "Vegesanísimo" de Álvaro Vargas
+fuente: "'Vegesanísimo' de Álvaro Vargas"
 ---
 
 
