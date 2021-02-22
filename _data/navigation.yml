@@ -28,6 +28,8 @@ main:
     url: /categories/
   - title: "Artículos por etiqueta"
     url: /tags/
+  - title: "Recetas"
+    url: /recetas/
 
 
 # documentation links
