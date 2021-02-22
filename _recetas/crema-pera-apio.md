@@ -2,15 +2,15 @@
 title: "Crema de pera y apio"
 date: 2021-01-01
 ingredients:
- Apio: 10 tallos
- Peras conferencia: 5 
- Cebolla: 1
- Papa: 1
- Caldo de verduras: 500ml
- Leche vegetal: 250ml
- Curry: 1 tbsp
- Pimienta y sal: al gusto
- Aove: 1 chorrito
+  Apio: 10 tallos
+  Peras conferencia: 5 
+  Cebolla: 1
+  Papa: 1
+  Caldo de verduras: 500ml
+  Leche vegetal: 250ml
+  Curry: 1 tbsp
+  Pimienta y sal: al gusto
+  Aove: 1 chorrito
 instructions:
  - Pelar y cortar las verduras en trozos pequeños
  - Rehogar en la olla las papas, cebolla con un poco de sal
