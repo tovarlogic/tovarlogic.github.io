@@ -1,8 +1,8 @@
 ---
 title: "Civilizaciones"
-layout: collection
+layout: serie
 permalink: /series/civilizaciones
-collection: civilizaciones
+serie: civilizaciones
 author_profile: false
 classes: wide
 entries_layout: grid
