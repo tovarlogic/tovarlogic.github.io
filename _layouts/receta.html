@@ -43,13 +43,13 @@ layout: default
         {% if page.prepmins or page.cookmins or page.yield %}
         <ul id="recipe" class="recipe-overview">
         	{% if page.yield %}
-			<li title="Servings"><span itemprop="recipeYield">{{ page.yield }}</span></li>
+			<li title="Servings"><span itemprop="recipeYield">{{ page.yield }}</span> raciones</li>
 			{% endif %}
 			{% if page.prepmins %}
-			<li title="Prep Time"><span itemprop="prepTime">{{ page.prepmins }}</span></li>
+			<li title="Prep Time"><span itemprop="prepTime">{{ page.prepmins }}</span> min</li>
 			{% endif %}
 			{% if page.cookmins %}
-			<li title="Cook Time"><span itemprop="cookTime">{{ page.cookmins }}</span></li>
+			<li title="Cook Time"><span itemprop="cookTime">{{ page.cookmins }}</span> min</li>
 			{% endif %}
 		</ul>
 		{% endif %}
