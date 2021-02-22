@@ -6,7 +6,6 @@ categories: [Salud]
 toc: true
 toc_sticky: true
 author_profile: false
-layout: single-left
 ---
 # Introducción
 Biohacking

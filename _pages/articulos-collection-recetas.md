@@ -1,6 +1,6 @@
 ---
 title: "Recetas"
-layout: collection
+layout: collection_left
 permalink: /recetas/
 collection: recetas
 author_profile: false

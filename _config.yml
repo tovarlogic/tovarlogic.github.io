@@ -290,7 +290,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single-left
+      layout: single_left
       author_profile: false
       show_date: true
       read_time: true
@@ -302,7 +302,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: single-left
+      layout: single_left
       author_profile: false
   # _docs
   - scope:
@@ -330,7 +330,7 @@ defaults:
       path: ""
       type: portfolio
     values:
-      layout: single-left
+      layout: single_left
       author_profile: false
       share: true
   # _series
