@@ -4,8 +4,8 @@ title:  "Poderes fácticos"
 date:   2018-08-13
 update: 
 meta: borrador
-tags: [política]
-categories: [Filosofía]
+tags: [politica]
+categories: [Filosofia]
 excerpt:
 
 ---

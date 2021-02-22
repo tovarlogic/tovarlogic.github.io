@@ -2,8 +2,8 @@
 title:  "Sobre la censura"
 date:   2020-05-26 15:14:54
 update: 2020-05-18
-tags: [política]
-categories: [Filosofía]
+tags: [politica]
+categories: [Filosofia]
 excerpt: Discusión sobre las distintas formas de censura, sus riesgos y alternativas.
 ---
 

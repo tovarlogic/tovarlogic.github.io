@@ -1,7 +1,7 @@
 ---
 title: "Artículos por categorías"
 breadcrumb_name: Categorías
-layout: categories
+layout: categories_left
 permalink: /categories/
 author_profile: false
 classes: wide

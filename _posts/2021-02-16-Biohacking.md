@@ -1,7 +1,7 @@
 ---
 title: "Biohacking"
 date:   2021-02-16
-tags: [opinión]
+tags: [opinion]
 categories: [Salud]
 toc: true
 toc_sticky: true
