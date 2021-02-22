@@ -6,7 +6,7 @@ ingredients:
  Caldo de verduras: 250ml
  Acelgas: 10 hojas
  Papa: 1
- Ajo: 2 dientes (o ajetes frescos)
+ Ajo: 2 dientes
  AOVE: 1 chorrito
  Calabaza: 250gr
  Puerros: 2
