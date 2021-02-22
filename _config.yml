@@ -322,9 +322,9 @@ defaults:
       type: recetas
     values:
       layout: receta
-      author_profile: true
+      author_profile: false
       share: true
-      comments: true
+      comments: false
   # _portfolio
   - scope:
       path: ""
