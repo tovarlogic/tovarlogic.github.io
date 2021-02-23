@@ -5,13 +5,13 @@ layout: archive_left
 {{ content }}
 
 {% assign series_list = site.data.series.list %}
+{% assign posts = "" | split: ',' %}
+{% assign series_count = "" | split: ',' %}
 
 {{ series_list }}
 
-{% for serie in series_list %}
-  {% assign series_count = "" | split: ',' %}
-  {% assign posts = "" | split: ',' %}
 
+{% for serie in series_list %}
   {% assign series_count[serie] = 0 %}
   {% assign posts[serie] = site.posts | where: "serie", serie %}
   {% assign series_count[serie] = series_count[serie] | plus: 1 %}
