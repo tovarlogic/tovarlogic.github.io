@@ -11,13 +11,14 @@ layout: archive_left
 
 {% for serie in series_list %}
   {{ serie }}
-  <br>
   {% assign series_count[serie] = 0 %}
   {% assign posts[serie] = site.posts | where: "serie", serie %}
   {% assign series_count[serie] = series_count[serie] | plus: 1 %}
+  <br>
 {% endfor %}
 
-
+<p id = "count"> {{ series_count }} </p>
+<p id = "posts"> {{ posts }} </p>
 <ul class="taxonomy__index">
     {% for serie in series_list %}
       {% if series_count[serie].size > 0 %}
