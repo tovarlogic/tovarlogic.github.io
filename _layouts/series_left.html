@@ -5,15 +5,12 @@ layout: archive_left
 {{ content }}
 
 {% assign series_list = site.data.series.list %}
-{% assign posts = "" | split: ',' %}
-{% assign series_count = "" | split: ',' %}
 
 
 {% for serie in series_list %}
   {{ serie }}
-  {% assign series_count[serie] = 0 %}
-  {% assign posts[serie] = site.posts | where: "serie", serie %}
-  {% assign series_count[serie] = series_count[serie] | plus: 1 %}
+  
+  
   <br>
 {% endfor %}
 
@@ -21,10 +18,15 @@ layout: archive_left
 <p id = "posts"> {{ posts }} </p>
 <ul class="taxonomy__index">
     {% for serie in series_list %}
-      {% if series_count[serie].size > 0 %}
+      {% assign count = 0 %}
+      {% assign posts = site.posts | where: "serie", serie %}
+      {% for post in posts %}
+        {% assign count = count | plus: 1 %}
+      {%  endfor %}
+      {% if count > 0 %}
         <li>
           <a href="#{{ serie | slugify }}">
-            <strong>{{ serie }}</strong> <span class="taxonomy__count">{{ series_count[serie].size }}</span>
+            <strong>{{ serie }}</strong> <span class="taxonomy__count">{{ count }}</span>
           </a>
         </li>
       {% endif %}
@@ -33,12 +35,17 @@ layout: archive_left
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-  {% for serie in series_list %}
-    {% if series_count[serie].size > 0 %}
-      <section id="{{ category[0] | slugify | downcase }}" class="taxonomy__section">
+    {% for serie in series_list %}
+      {% assign count = 0 %}
+      {% assign posts = site.posts | where: "serie", serie %}
+      {% for post in posts %}
+        {% assign count = count | plus: 1 %}
+      {%  endfor %}
+      {% if count > 0 %}
+      <section id="{{ serie | slugify | downcase }}" class="taxonomy__section">
         <h2 class="archive__subtitle">{{ serie }}</h2>
         <div class="entries-{{ entries_layout }}">
-          {% for post in posts[serie] %}
+          {% for post in posts %}
             {% include archive-single.html type=entries_layout %}
           {% endfor %}
         </div>
