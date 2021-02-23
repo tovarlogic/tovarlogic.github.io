@@ -6,16 +6,6 @@ layout: archive_left
 
 {% assign series_list = site.data.series.list %}
 
-
-{% for serie in series_list %}
-  {{ serie }}
-  
-  
-  <br>
-{% endfor %}
-
-<p id = "count"> {{ series_count }} </p>
-<p id = "posts"> {{ posts }} </p>
 <ul class="taxonomy__index">
     {% for serie in series_list %}
       {% assign count = 0 %}
