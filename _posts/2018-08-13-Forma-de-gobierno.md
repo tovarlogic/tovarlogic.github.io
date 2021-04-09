@@ -2,8 +2,8 @@
 title:  "Formas de gobierno"
 date:   2018-08-13
 update: 
-tags: [politica]
-categories: [Filosofia]
+tags: [poliítica]
+categories: [Filosofiía]
 excerpt: Breve descripción de las distintas formas de gobierno y poderes.
 ---
 
@@ -99,6 +99,6 @@ Adicionalmente, existen otros agentes sociales que se consideran poderes (no ins
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDQ0MzY2MywxNTk5MDc0NjgsMjAxND
-c1MDc4MiwxNjQ4MTY5OTk1XX0=
+eyJoaXN0b3J5IjpbMTc3ODI2NDQzOCwtNzE0NDQzNjYzLDE1OT
+kwNzQ2OCwyMDE0NzUwNzgyLDE2NDgxNjk5OTVdfQ==
 -->
