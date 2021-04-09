@@ -2,8 +2,8 @@
 title:  "Desigualdad"
 date:   2019-12-20 15:14:54
 update: 2020-05-18
-tags: [politica]
-categories: [Filosofia]
+tags: [poliítica]
+categories: [Filosofiía]
 excerpt: La propia existencia de distintos individuos supone por naturaleza la existencia de desigualdades inherentes. Una sociedad variada puede significar un mayor potencial de capital social, pero ¿que condiciones han de darse para que así sea? o ¿Que condiciones lo dificultan?.
 ---
 
@@ -108,8 +108,8 @@ Partiendo de la base que la genética tiene un bajo impacto en el desarrollo rea
 > Written with [StackEdit](https://stackedit.io/).
 > 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzQzODYzNzQsMTg1MDE3OTc0NCwtMT
-k2Njc4OTA5NSwyMTA2MDIzMzA2LDEzMDcwNDk3NTYsLTE4ODc1
-MjQ5NTcsMTg4MjY0NTUzNiwtOTM4NTM0NjUyLC05ODM5NzA3Nj
-ldfQ==
+eyJoaXN0b3J5IjpbNjcyMjkyNTExLC0yMDc0Mzg2Mzc0LDE4NT
+AxNzk3NDQsLTE5NjY3ODkwOTUsMjEwNjAyMzMwNiwxMzA3MDQ5
+NzU2LC0xODg3NTI0OTU3LDE4ODI2NDU1MzYsLTkzODUzNDY1Mi
+wtOTgzOTcwNzY5XX0=
 -->
