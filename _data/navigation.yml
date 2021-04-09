@@ -22,12 +22,17 @@ foo:
 main:
   - title: "Guide"
     url: /docs/quick-start-guide/
-  - title: "Artículos por fecha"
-    url: /articulos-fecha/
-  - title: "Artículos por categoría"
-    url: /categories/
-  - title: "Artículos por etiqueta"
-    url: /tags/
+  - title: "Articulos"
+    url: ""
+    children:
+    - title: "Artículos por fecha"
+      url: /articulos-fecha/
+    - title: "Artículos por categoría"
+      url: /categories/
+    - title: "Artículos por etiqueta"
+      url: /tags/
+  - title: "Series"
+    url: /series/
   - title: "Recetas"
     url: /recetas/
 
