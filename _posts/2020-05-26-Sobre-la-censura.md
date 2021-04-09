@@ -2,8 +2,8 @@
 title:  "Sobre la censura"
 date:   2020-05-26 15:14:54
 update: 2020-05-18
-tags: [politica]
-categories: [Filosofia]
+tags: [poliítica]
+categories: [Filosofiía]
 excerpt: Discusión sobre las distintas formas de censura, sus riesgos y alternativas.
 ---
 
@@ -184,6 +184,6 @@ Justicia,.. Sin embargo, el que mejor refleja la propia naturaleza humana, y por
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDA5MDA4MiwtNjAzMzMyNjcwLC0xNT
-I0ODc3MjYsMjE4Nzc2MjM2XX0=
+eyJoaXN0b3J5IjpbNjIxNDM4OTAyLDE3NDQwOTAwODIsLTYwMz
+MzMjY3MCwtMTUyNDg3NzI2LDIxODc3NjIzNl19
 -->
