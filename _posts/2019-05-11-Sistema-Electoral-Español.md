@@ -2,7 +2,7 @@
 title:  "Sistema electoral español"
 date:   2019-05-11
 update: 
-tags: [politica]
+tags: [poliítica]
 categories: [Derecho]
 excerpt: Resumen sobre el actual sistema electoral en España y una propuesta para su reforma.
 ---
@@ -107,7 +107,7 @@ De acuerdo a lo estudiado en el excel adjunto, la opción con mejor proporcional
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODA0MTM4MTQsMTUwNDc2NzAxNCwtND
-g0ODIxMjM2LC0xNDYzNjE2ODA0LC0yNzg0NjMyMCwtMjA2OTM3
-MDE0NF19
+eyJoaXN0b3J5IjpbLTIwMzYxNjUwMTIsLTE0ODA0MTM4MTQsMT
+UwNDc2NzAxNCwtNDg0ODIxMjM2LC0xNDYzNjE2ODA0LC0yNzg0
+NjMyMCwtMjA2OTM3MDE0NF19
 -->
