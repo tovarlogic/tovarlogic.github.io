@@ -4,8 +4,8 @@ title:  "Poderes fácticos"
 date:   2018-08-13
 update: 
 meta: borrador
-tags: [politica]
-categories: [Filosofia]
+tags: [poliítica]
+categories: [Filosofiía]
 excerpt:
 
 ---
@@ -29,6 +29,6 @@ En España durante el posfranquismo y aún en la actualidad se referían a la ig
 - Político-Social
 	- Los Lobbies son organizaciones con el objetivo principal de influir en lo político y social, generalmente pero no exclusivamente, para defender los intereses empresariales o sectoriales.   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NTI5NDQwMywxMTc4MDk2MTQxLDEzMz
-Y5MTI2ODYsMTM2NTg0MzQ3MF19
+eyJoaXN0b3J5IjpbLTIxMDkzMzc2MDgsLTY3NTI5NDQwMywxMT
+c4MDk2MTQxLDEzMzY5MTI2ODYsMTM2NTg0MzQ3MF19
 -->
