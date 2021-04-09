@@ -15,7 +15,7 @@ header:
       url: "/series/civilizaciones/"
 ---
 
-# Grecia y el occidente moderno[Permalink](https://tovarlogic.github.io/historia/Grecia-Antigua/#grecia-y-el-occidente-moderno "Permalink")
+# Grecia y el occidente moderno
 
 En áreas como la democracia, poesía, teatro, filosofía, interés sobre la historia, estética y arquitectura, las sociedades occidentales modernas derivan de los modelos griegos.
 
@@ -31,9 +31,9 @@ Durante los últimos 200 años, los países occidentales han desarrollado identi
 
 A pesar de sus imperfecciones, los logros de los griegos son indiscutibles y nuestra conexión con ellos es fundamental, de ahí que, su versión idealizada sea, en cierto modo, la que perseguimos lograr.
 
-# Edad de Bronce[Permalink](https://tovarlogic.github.io/historia/Grecia-Antigua/#edad-de-bronce "Permalink")
+# Edad de Bronce
 
-## Civilización cicládica[Permalink](https://tovarlogic.github.io/historia/Grecia-Antigua/#civilizaci%C3%B3n-cicl%C3%A1dica "Permalink")
+## Civilización cicládica
 
 Las excavaciones y hallazgos en distintas cuevas demuestran la existencia de una sociedad de cazadores recolectores, durante el neolítico entre 5000-4000 BC, que ya tenía contacto con las islas y la Grecia central.
 
@@ -67,7 +67,7 @@ Todo parece indicar que esta cultura alcanzó una gran prosperidad durante el pe
 
 Su declive comenzará en el momento en el que  **Creta**  empieza a ganar poder. Alrededor del año 1600 BC,  **se produce una enorme erupción volcánica en la isla de Thera (santorini actualmente) que afectó al conjunto de las islas**. Esta catástrofe natural, acompañada de grandes terremotos y maremotos, parecen haber sido los responsables del definitivo declive cultural cicládico y del inicio de una marcada influencia micénica que se dejará sentir hacia el año 1450 BC. en todas las islas del mar Egeo.
 
-## Creta minoica[Permalink](https://tovarlogic.github.io/historia/Grecia-Antigua/#creta-minoica "Permalink")
+## Creta minoica
 
 La presencia humana en creta se remonta hasta el paleolítico. En el Neolítico, en torno al 7000 BC existen asentamientos con probable origen en Asia menor. Estos pueblos de la edad de piedra ya eran capaces de “comerciar” entre ellos e incluso tenían capacidad para navegar. Esto último lo evidencia la existencia de obsidiana (vídrio volcánico) proveniente de la Isla de Melos en distintas partes de la Grecia continental.
 
@@ -127,7 +127,7 @@ Alcance cenizas de la erupción  Crédito:  [Wiki commons](https://commons.wikim
 
 > Para muchos autores la explosión de Thera y su posterior tsunami pudo dar origen a  **mitos como la Atlántida**.
 
-### Declive[Permalink](https://tovarlogic.github.io/historia/Grecia-Antigua/#declive-1 "Permalink")
+### Declive
 
 Al final de este periodo, en torno al 1450 a. C. se produjeron nuevas destrucciones, por causas que se desconocen, posiblemente seismos, que provocaron el ocaso de la civilización minoica y el auge de la micénica en la isla. En todo caso es motivo de debate la causa de esas destrucciones: causas naturales o causas humanas.
 
@@ -324,6 +324,6 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
 -   [“La historia de Grecia desde sus orígenes a las migraciones dorias” por Gonzalo Fernandez. Universidad de Valencia](https://dialnet.unirioja.es/descarga/articulo/2863447.pdf)
 -   [Historiae: El ethnos en la antigua grecia](https://historiaeweb.com/2016/12/18/el-ethnos-en-la-antigua-grecia/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjQyNTA0OCw1NjM0NzM0OSwxNzkxMD
-U0MTIzLDQwOTg3NjA2MiwxODgzNzIxMjA3XX0=
+eyJoaXN0b3J5IjpbLTE0OTM3NDkwNDEsNTYzNDczNDksMTc5MT
+A1NDEyMyw0MDk4NzYwNjIsMTg4MzcyMTIwN119
 -->
