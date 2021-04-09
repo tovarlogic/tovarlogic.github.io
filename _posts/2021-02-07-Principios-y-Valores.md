@@ -2,8 +2,8 @@
 title:  "Principios y Valores"
 date:   2021-02-07
 update: 
-tags: [valores,etica]
-categories: [Filosofia]
+tags: [valores,eética]
+categories: [Filosofiía]
 excerpt: Análisis sobre la naturaleza de los Principios y Valores. ¿Son la misma cosa? Si no es así ¿Cuál es su relación?.
 ---
 
@@ -50,8 +50,9 @@ La doctrina, no es unánime, por lo que no facilita esta distinción. Algunos au
 [^def2]: Axiología: Teoría de los valores.
 [^2] Perez Luño.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTQ0MzQ1OSw2MTgxMDkxOTMsLTExNT
-UyNTU5OTAsMTA2OTEyMjczMCwtMTU0NDI4ODk0NiwtMTM1MzY2
-MTc1MSwxNjMwNjYwNDgwLC0xOTMxNTk4MDc2LC01MzA1MTIzOC
-wtMTk2NzQxMzg3MSwxOTU1MjAxMjgwXX0=
+eyJoaXN0b3J5IjpbLTE0OTIyNTA2NDIsMTUwMTQ0MzQ1OSw2MT
+gxMDkxOTMsLTExNTUyNTU5OTAsMTA2OTEyMjczMCwtMTU0NDI4
+ODk0NiwtMTM1MzY2MTc1MSwxNjMwNjYwNDgwLC0xOTMxNTk4MD
+c2LC01MzA1MTIzOCwtMTk2NzQxMzg3MSwxOTU1MjAxMjgwXX0=
+
 -->
