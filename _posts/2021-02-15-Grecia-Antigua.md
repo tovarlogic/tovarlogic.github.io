@@ -145,7 +145,7 @@ Un estudio de ADN realizado en 2013, se comparó el ADN mitocondrial de los esqu
 
 Un estudio arqueogenético de 2017 sobre los polimorfismos de ADN mitocondrial de los restos minoicos publicado en la revista  _Nature_  concluyó que los griegos micénicos estaban genéticamente relacionados con los minoicos y que ambos están estrechamente relacionados, pero no son idénticos, a las poblaciones griegas modernas. El mismo estudio también indicó que al menos tres cuartas partes del ADN de los minoicos y micénicos procedían de los primeros agricultores de la época neolítica que vivían en Anatolia occidental y el mar Egeo.
 
-## Grecia micénica[Permalink](https://tovarlogic.github.io/historia/Grecia-Antigua/#grecia-mic%C3%A9nica "Permalink")
+## Grecia micénica
 
 Los micénicos son un pueblo indoeuropeo llegado a la Grecia continental en torno al 2000 BC. Son próximos a los Hititas, ya que ambos comparten una misma raiz lingüística, pertenecen al grupo  _centum_. Es posible que estos a su vez provengan de la actual Rusia. Son llamados  _aqueos_  por Homero y  _mynias_  por Heinrich Schliemann (descubridor de Troya). No obstante, existen palabras, especialmente nombres de lugar y cosas de uso diario, cuya raiz no es indoeuropea, lo que implica que ya existían pueblos asentados en la zona antes de la llegada de los indo-europeos.
 
@@ -174,7 +174,7 @@ Entre 1600-1450 BC los micénicos adoptan la escritura Lineal A de origen minoic
 
 En el ámbito militar, poco se conoce de esta civilización más allá del uso de carros de combate y su poderío naval, que presenta la novedad del uso de la vela, además de remeros. Dicho poderío naval es además empleado en su otra faceta, la comercial. Dicha actividad mercantil, heredada de los minoicos, se extiende por el Mar Negro y llegan ha Italia por el mediterráneo. Sus principales contactos son con la Italia meridional y central, Chipre, Egipto, norte de Siria y Palestina, y los pueblos costeros del Mar Negro.
 
-### Declive[Permalink](https://tovarlogic.github.io/historia/Grecia-Antigua/#declive-2 "Permalink")
+### Declive
 
 Es entre el 1300-1200 BC cuando comienzan las evidencias de crísis en esta civilización como la construcción de fortificaciones en grandes ciudades y destacamentos de vigilia. Se cree que esto está motivado por los problemas internos, entre reinos micénicos o por las migraciones dorias procedentes del noroeste de Grecia.
 
@@ -208,9 +208,9 @@ Los Ilotas eran los pobladores de Mesenia, que eventualmente sería conquistada 
 
 Mapa general Grecia antigua  Crédito:[](https://tovarlogic.github.io/historia/Grecia-Antigua/)
 
-# Edad de Hierro[Permalink](https://tovarlogic.github.io/historia/Grecia-Antigua/#edad-de-hierro "Permalink")
+# Edad de Hierro
 
-## Época Oscura[Permalink](https://tovarlogic.github.io/historia/Grecia-Antigua/#%C3%A9poca-oscura "Permalink")
+## Época Oscura
 
 Tras el colapso del mundo de la edad de bronce, las nuevas sociedades se estructuran en unidades sociales más reducidas dominadas por jefes y líderes tribales. La unidad familiar  _oikos_  es la unidad central de las sociedades de la “Edad Oscura”. De hecho, entre 1200-900BC el número y tamaño de los asentamientos disminuyeron enormente con respecto a tiempos anteriores.
 
@@ -222,17 +222,17 @@ Durante la transición entre épocas, es dificil de encontrar countinuidad - ya 
 
 A partir de 1050 BC llega la artesanía del Hierro desde Chipre, revitalizando la economía. Eventualmente, los productos de hierro producidos en Atenas se exportarían a toda la Grecia continental. Para entonces ya comienza una nueva etapa pacífica.
 
-## Época Arcaica[Permalink](https://tovarlogic.github.io/historia/Grecia-Antigua/#%C3%A9poca-arcaica "Permalink")
+## Época Arcaica
 
 A partir del 750 BC se da la  _“**Revolución Arcaica**_” en la que se transforman tres aspectos especialmente:
 
-### Literatura épica[Permalink](https://tovarlogic.github.io/historia/Grecia-Antigua/#literatura-%C3%A9pica "Permalink")
+### Literatura épica
 
 Hasta entonces la tradición poética se transmitó oralmente durante siglos hasta que se escribieron, creando un documento cultural común a todos los griegos, que variaría muy poco a lo largo del tiempo. La poesía épica, consistía previamente en canciones que los poetas errantes recitarían por toda Grecia contando las hazañas de sus guerreros “nacionales” incorporando probablemente las de los locales también. Los poemas más importantes, la Iliada y la Odisea de Homero, fueron escritos en 725 BC, solidificando en un solo documento la hasta entonces flexible tradición oral.
 
 Para entonces, probablemente, poco sabrían los griegos sobre sus antepasados micénicos, pero este desconocimiento les dio la libertad de conjugar la creatividad con la memoria popular para crear una imagen idílica y legendaria de un pasado heroico centrado en la Guerra de Troya. Esta visión ilustraba un código moral y de comportamiento. Los griegos tienen un modelo de honor que seguir, basado en las historias de hombres superiores firmes en sus convicciones que cumplen sus obligaciones incluso en momentos de dificultad. Todo ello facilitó la creación de una identidad Griega, a pesar de la fragmentación de la época, que ha sido capaz de sobrevivir hasta la actualidad.
 
-### Transformación de la unidad social[Permalink](https://tovarlogic.github.io/historia/Grecia-Antigua/#transformaci%C3%B3n-de-la-unidad-social "Permalink")
+### Transformación de la unidad social
 
 Tras el declive la unidad social se redujo hasta el ámbito familiar  _oikos_, que paulatinamente durante este periodo volvió a ganar tamaño, evolucionando hacia caseríos, luego aldeas y pueblos.
 
@@ -242,7 +242,7 @@ El  _Ethnos_  respondía a una unidad regional más amplia que las ciudades-esta
 
 Resulta paradógico, desde el punto de vista moderno, que apesar de contar con una fuerte identidad Griega, basada en valores establecidos por la épica, los griegos no tuvieran el más mínimo interés en formar una única nación, pues se mantenían separados y autónomos, para sólamente unirse en épocas de crisis. De hecho en esta época, a pesar del desarrollo y properidad, las guerras internas no cesaron aunque disfrutaron de relativa paz con respecto a periodos anteriores.
 
-### Colonización y comercio[Permalink](https://tovarlogic.github.io/historia/Grecia-Antigua/#colonizaci%C3%B3n-y-comercio "Permalink")
+### Colonización y comercio
 
 La cultura griega a diferencia de otras anteriores y posteriores, no tenían vocación imperial. No obstante, formaron colonias desde Sicilia hasta Siria, pasando por el norte de África.
 
@@ -266,7 +266,7 @@ Las colonias también expusieron al muendo griego de nuevas ideas, sistemas reli
 
 En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia arcaica, razón por la cual en ocaciones se conoce este periodo como un “periodo orientalizante”.
 
-# Síntesis periodos griegos[Permalink](https://tovarlogic.github.io/historia/Grecia-Antigua/#s%C3%ADntesis-periodos-griegos "Permalink")
+# Síntesis periodos griegos
 
 -   **Paleolítico (33.000 - 90-1100 BC)**  1100 BC)**
 -   -   Grecia continental –> Asentamientos Neanderthales; llegada de Homosapiens desde los Balcanes
@@ -315,7 +315,15 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
         -   Geometric Age (900-700 BC)
         -   Archaic Age (700-480 BC)
         -   Classical Age (480-323 BC)
+
+# Bibliografía y referencias
+
+-   [Legión IX Hispana](https://legionixhispana.com/2020/01/26/cicladica/)
+-   [Civilización minoica (Wikipedia)](https://es.wikipedia.org/wiki/Civilizaci%C3%B3n_minoica)
+-   [Minoan Civilization (Wikipedia)](https://en.wikipedia.org/wiki/Minoan_civilization)
+-   [“La historia de Grecia desde sus orígenes a las migraciones dorias” por Gonzalo Fernandez. Universidad de Valencia](https://dialnet.unirioja.es/descarga/articulo/2863447.pdf)
+-   [Historiae: El ethnos en la antigua grecia](https://historiaeweb.com/2016/12/18/el-ethnos-en-la-antigua-grecia/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTczOTU4Miw1NjM0NzM0OSwxNzkxMD
+eyJoaXN0b3J5IjpbLTY4MjQyNTA0OCw1NjM0NzM0OSwxNzkxMD
 U0MTIzLDQwOTg3NjA2MiwxODgzNzIxMjA3XX0=
 -->
