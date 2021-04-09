@@ -1,6 +1,6 @@
 ---
 title: "Recetas"
-layout: collection_left
+layout: collection-recetas_left
 permalink: /recetas/
 collection: recetas
 breadcrumb_name: Recetas
