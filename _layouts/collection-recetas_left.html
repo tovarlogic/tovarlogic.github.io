@@ -24,6 +24,23 @@ layout: archive_left
 </ul>
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
-</div>
+
+
+   {% for receta in recetas_list %}
+      {% assign count = 0 %}
+      {% assign posts = site.recetas | where: "receta", receta %}
+      {% for post in posts %}
+        {% assign count = count | plus: 1 %}
+      {%  endfor %}
+     {% if count > 0 %}
+      <section id="{{ receta | slugify | downcase }}" class="taxonomy__section">
+        <h2 class="archive__subtitle">{{ receta }}</h2>
+        <div class="entries-{{ entries_layout }}">
+          {% for post in posts %}
+            {% include archive-single.html type=entries_layout %}
+          {% endfor %}
+        </div>
+        <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+      </section>
+    {% endif %}
+  {% endfor %}
