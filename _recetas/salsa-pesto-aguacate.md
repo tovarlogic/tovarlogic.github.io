@@ -3,13 +3,11 @@ title: "Pesto de aguacate"
 date: 2021-04-15
 receta: Salsas
 ingredients:
- Aguacate: 30g
- Peras conferencia: 5 
- Cebolla: 1
- Papa: 1
- Caldo de verduras: 500ml
- Leche vegetal: 250ml
- Curry: 1 tbsp
+ Aguacate: 30 g
+ Albahaca: 20 g 
+ Cebollino: 5 g
+ Levadura nutricional: 1 tbsp
+ Zumo de limón: 2 tbsp
  Pimienta y sal: al gusto
  Aove: 1 chorrito
 instructions:
@@ -28,5 +26,5 @@ yield: 6
 author: "'Vegesanísimo' de Álvaro Vargas"
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDIyODg3OTRdfQ==
+eyJoaXN0b3J5IjpbLTE1ODQ1MDcyOTJdfQ==
 -->
