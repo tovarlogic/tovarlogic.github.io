@@ -7,7 +7,7 @@ layout: archive_left
 {% assign recetas_list = site.data.recetas.list %}
 
 <ul class="taxonomy__index">
-    {% for serie in series_list %}
+    {% for receta in recetas_list %}
       {% assign count = 0 %}
       {% assign posts = site.posts | where: "serie", serie %}
       {% for post in posts %}
