@@ -6,7 +6,10 @@ header:
   teaser: "assets/images/recetas/wrap-salmon-png"
 ingredients:
   Huevos: 4 uds
-  Aguacate: 
+  Aguacate o guacamole: 1 ud
+  Salmón ahumado: 100 g
+  Mantequilla: 10 g
+  Que
 instructions:
  - Picar la cebolleta o cebollinos
  - Mezclar con el queso philadelphia y eneldo. reservar.
@@ -14,7 +17,7 @@ instructions:
  - Extender la mezcla del queso sobre las tortillas
  - Colocar rúcula al gusto sobre el queso extendido
  - Cortar el salmón en tiras (para facilitar la comida y cortes) y colocar sobre la rúcula
- - C
+ - Extraer y aplastar con un tenedor el aguacate. Mezclar con el jugo de limón. Se puede usar guacamole como sustituto rápido.
  - Enrollar las tortillas y servir.
 show_convertions: true
 show_abreviations: true
@@ -25,5 +28,5 @@ Author: ketodietapp.com
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0MjAzOTQxXX0=
+eyJoaXN0b3J5IjpbLTE5MTQ5MzQ2NzldfQ==
 -->
