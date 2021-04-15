@@ -124,7 +124,7 @@ En el Minoico Reciente (MR), es decir, en torno al 1700 BC se cree que una serie
 
 En este periodo, entre 1639-1616 BC se produjo la violenta erupción del volván de Santorini, considerada como una de la mayores erupciones del planeta, pero se discute cuál fue el impacto que tuvo a corto plazo en Creta. Algunos autores han estimado que no tuvo un efecto importante, pero otros han señalado que, además de la inevitable destrucción de buena parte de la flota, habría ocasionado una crisis de grandes dimensiones que habría desembocado, a largo plazo, en la desaparición de los palacios.
 <figure>
-  <img src="/assets/images/GA/volcan-thera.JPG" alt="Islas Cícladas">
+  <img src="/assets/images/GA/volcan-thera.JPG">
   <figcaption>
 	  Santorini (Thera) antes y después de la erupción  
 	  Crédito:  <a href="https://academiaplay.es/la-erupcion-thera/">Academia play</a>
@@ -132,11 +132,10 @@ En este periodo, entre 1639-1616 BC se produjo la violenta erupción del volván
 </figure>
 
 <figure>
-  <img src="/assets/images/GA/Minoan_Ash.png" alt="Islas Cícladas">
+  <img src="/assets/images/GA/Minoan_Ash.png">
   <figcaption>
 	  Alcance cenizas de la erupción  
-Crédito:  <a href="https://academiaplay.es/la-erupcion-thera/">Academia play</a>
-[Wiki commons](https://commons.wikimedia.org/wiki/File:Minoan_Ash.png)
+Crédito:  <a href="https://commons.wikimedia.org/wiki/File:Minoan_Ash.png">Wiki commons</a>
   </figcaption>
 </figure>
 
@@ -184,7 +183,7 @@ En cualquier caso, la cultura micénica no se llega a desarrollar hasta 1500 BC,
   <img src="/assets/images/GA/s.14BC-contemporaneos.png">
   <figcaption>
 	  Civilizaciones contemporáneas siglo 14 BC  
-	  Crédito:  [Wiki commons](https://commons.wikimedia.org/wiki/File:14_century_BC_Eastern_Mediterranean_and_the_Middle_East.png)
+	  Crédito: <a href="https://commons.wikimedia.org/wiki/File:14_century_BC_Eastern_Mediterranean_and_the_Middle_East.png">Wiki commons</a>
   </figcaption>
 </figure>
 
@@ -208,7 +207,7 @@ El colapso de la sociedad micénica corresponde con el  [declive generalizado](h
   <img src="/assets/images/GA/colapso_edad_bronce.png">
   <figcaption>
 	  Colapso Edad de Bronce  
-Crédito:  [Wiki commons](https://commons.wikimedia.org/wiki/File:Bronsealderens_sammenbrudd.jpg#/media/File:Bronze-age-collapse.svg)
+Crédito:  <a href="https://commons.wikimedia.org/wiki/File:Bronsealderens_sammenbrudd.jpg">Wiki commons</a>
   </figcaption>
 </figure>
 
@@ -354,7 +353,7 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
 -   [“La historia de Grecia desde sus orígenes a las migraciones dorias” por Gonzalo Fernandez. Universidad de Valencia](https://dialnet.unirioja.es/descarga/articulo/2863447.pdf)
 -   [Historiae: El ethnos en la antigua grecia](https://historiaeweb.com/2016/12/18/el-ethnos-en-la-antigua-grecia/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODIxNDQ2LC0xMTMwMjA2ODEyLC0xNj
+eyJoaXN0b3J5IjpbODM0OTY1OTM1LC0xMTMwMjA2ODEyLC0xNj
 c0MDY0NjAsNjQ5MjQ3MTY0LDE0OTcwNTc2MTAsLTE0OTM3NDkw
 NDEsNTYzNDczNDksMTc5MTA1NDEyMyw0MDk4NzYwNjIsMTg4Mz
 cyMTIwN119
