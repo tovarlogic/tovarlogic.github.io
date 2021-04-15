@@ -9,14 +9,14 @@ layout: archive_left
 <ul class="taxonomy__index">
     {% for receta in recetas_list %}
       {% assign count = 0 %}
-      {% assign posts = site.posts | where: "serie", serie %}
+      {% assign posts = site.recetas | where: "receta", serie %}
       {% for post in posts %}
         {% assign count = count | plus: 1 %}
       {%  endfor %}
       {% if count > 0 %}
         <li>
-          <a href="#{{ serie | slugify }}">
-            <strong>{{ serie }}</strong> <span class="taxonomy__count">{{ count }}</span>
+          <a href="#{{ receta | slugify }}">
+            <strong>{{ receta }}</strong> <span class="taxonomy__count">{{ count }}</span>
           </a>
         </li>
       {% endif %}

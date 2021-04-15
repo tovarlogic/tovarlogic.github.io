@@ -1,6 +1,7 @@
 ---
 title: "Crema de acelgas y verduras"
 date: 2021-02-10
+receta: cremas
 ingredients:
  Agua: 1 litro
  Caldo de verduras: 250ml
