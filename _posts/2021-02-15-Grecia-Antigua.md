@@ -79,8 +79,16 @@ Es a partir del 3400 BC, de acuerdo con los estratos arqueológicos encontrados 
 -   Minoico Reciente (MR) -> 1700-1050 BC
     -   tras destrucciones en 1700BC comienza el segundo periodo palaciego de reconstrucción
     -   1450BC segunda destrucción con pocos palacios supervivientes (salvo Knossos)
+{% capture fig_img %}
+![Foo]({{ "/assets/images/unsplash-gallery-image-3.jpg" | relative_url }})
+{% endcapture %}
 
-![image](https://tovarlogic.github.io/assets/images/GA/Reconstruccion_Knossos.jpg)
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption>Photo from Unsplash.</figcaption>
+</figure>
+
+![image]({{"/assets/images/GA/Reconstruccion_Knossos.jpg" | relative_url }})
 
 Reconstrucción del palacio de Cnossos  Crédito:  [Wiki commons](https://commons.wikimedia.org/wiki/File:Reconstruccio_Knossos.jpg)
 
@@ -324,6 +332,7 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
 -   [“La historia de Grecia desde sus orígenes a las migraciones dorias” por Gonzalo Fernandez. Universidad de Valencia](https://dialnet.unirioja.es/descarga/articulo/2863447.pdf)
 -   [Historiae: El ethnos en la antigua grecia](https://historiaeweb.com/2016/12/18/el-ethnos-en-la-antigua-grecia/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTM3NDkwNDEsNTYzNDczNDksMTc5MT
-A1NDEyMyw0MDk4NzYwNjIsMTg4MzcyMTIwN119
+eyJoaXN0b3J5IjpbMTQ5NzA1NzYxMCwtMTQ5Mzc0OTA0MSw1Nj
+M0NzM0OSwxNzkxMDU0MTIzLDQwOTg3NjA2MiwxODgzNzIxMjA3
+XX0=
 -->
