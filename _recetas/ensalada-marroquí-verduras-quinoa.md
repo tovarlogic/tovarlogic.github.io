@@ -34,10 +34,10 @@ show_abreviations: true
 prepmins: 5
 cookmins: 15
 yield: 6
-tags: [vegetariana, FODMAP]
-categories: [Ensaladas]
+author: xevi verdaguer
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMTM0ODEyNSwtMTY3NzA5ODk0XX0=
+eyJoaXN0b3J5IjpbMTc5MzU1OTE1OCwtNTIxMzQ4MTI1LC0xNj
+c3MDk4OTRdfQ==
 -->
