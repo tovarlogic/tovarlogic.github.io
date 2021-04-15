@@ -1,7 +1,7 @@
 ---
 title: "Ensalada marroquí de verduras asadas y quinoa"
 date: 2021-02-15
-receta: [Ensaladas, Comidas del mundo]
+receta: [Ensaladas, Árabe]
 ingredients:
  agua: 3 tazas
  pimiento rojo: 1
@@ -39,5 +39,5 @@ categories: [Ensaladas]
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzcwOTg5NF19
+eyJoaXN0b3J5IjpbLTUyMTM0ODEyNSwtMTY3NzA5ODk0XX0=
 -->
