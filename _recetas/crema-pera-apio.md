@@ -25,7 +25,12 @@ show_abreviations: true
 prepmins: 5
 cookmins: 20
 yield: 6
-fuente: "'Vegesanísimo' de Álvaro Vargas"
+fuentetags: [Vegetariana]
+categories: [Crema]
+uent: "'Vegesanísimo' de Álvaro Vargas"
 ---
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ4NzEyOTUyNl19
+-->
