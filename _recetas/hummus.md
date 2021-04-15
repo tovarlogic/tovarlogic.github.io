@@ -1,6 +1,6 @@
 ---
 title: "Hummus de garbanzos"
-date: 2018-12-27
+date: 2018-10-21
 receta: [Comidas del mundo, Legumbres]
 ingredients:
  Garbanzos cocidos: 500 g
@@ -28,5 +28,5 @@ yield: 6
 author: http://www.lostragaldabas.net/hummus-receta-original/
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5NTg2NzMyLDE3Mjk1MzMyNDhdfQ==
+eyJoaXN0b3J5IjpbLTEwNTcwMDk4MTYsMTcyOTUzMzI0OF19
 -->
