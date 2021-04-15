@@ -46,11 +46,6 @@ Posteriormente, la cultura “cicládica” que abarca entre 3300-2100 BC durant
 	  Crédito: [Wiki commons](https://commons.wikimedia.org/wiki/File:Cyclades_map-fr.jpg)</figcaption>
 </figure>
 
-
-![]("/assets/images/GA/islas%20cicladas.PNG")
-* Islas Cícladas. Crédito: [Wiki commons](https://commons.wikimedia.org/wiki/File:Cyclades_map-fr.jpg)*
-
-
 > El nombre de Cíclada proviene del término griego  _kiklades_, el cual deriva de  _kiklos_  (círculo), que hace referencia a las islas entre la grecia continental y Asia Menor dispuestas en círculos al rededor de la sila de Delos. Es decir, Mikonos, Tinos, Siros, Andros, las activas Naxos y Paros, como las más conocidas, además de Milo, Sifnos,  **Thera**  (Akrotiri, actual Santorini).
 
 > El resto de islas del Egeo se denominan  _Esporadas_  (dispersas)
@@ -355,8 +350,8 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
 -   [“La historia de Grecia desde sus orígenes a las migraciones dorias” por Gonzalo Fernandez. Universidad de Valencia](https://dialnet.unirioja.es/descarga/articulo/2863447.pdf)
 -   [Historiae: El ethnos en la antigua grecia](https://historiaeweb.com/2016/12/18/el-ethnos-en-la-antigua-grecia/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzAyMDY4MTIsLTE2NzQwNjQ2MCwtMT
-EzMDIwNjgxMiw2NDkyNDcxNjQsMTQ5NzA1NzYxMCwtMTQ5Mzc0
-OTA0MSw1NjM0NzM0OSwxNzkxMDU0MTIzLDQwOTg3NjA2MiwxOD
-gzNzIxMjA3XX0=
+eyJoaXN0b3J5IjpbMTI3OTExNjY5NiwtMTEzMDIwNjgxMiwtMT
+Y3NDA2NDYwLDY0OTI0NzE2NCwxNDk3MDU3NjEwLC0xNDkzNzQ5
+MDQxLDU2MzQ3MzQ5LDE3OTEwNTQxMjMsNDA5ODc2MDYyLDE4OD
+M3MjEyMDddfQ==
 -->
