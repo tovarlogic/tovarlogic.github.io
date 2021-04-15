@@ -34,5 +34,10 @@ show_abreviations: true
 prepmins: 5
 cookmins: 15
 yield: 6
+tags: [vegetariana, FODMAP]
+categories: [Ensaladas]
 ---
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTQwNjg5NzAzMl19
+-->
