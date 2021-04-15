@@ -1,7 +1,7 @@
 ---
 title: "Hummus de garbanzos"
 date: 2018-10-21
-receta: [Comidas del mundo, Legumbres]
+receta: [Árabe, Legumbres]
 ingredients:
  Garbanzos cocidos: 500 g
  Tahini: 3 tbsp
@@ -28,5 +28,5 @@ yield: 6
 author: http://www.lostragaldabas.net/hummus-receta-original/
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1MjY3MTJdfQ==
+eyJoaXN0b3J5IjpbODk0MTI3NDcxLDg0NTI2NzEyXX0=
 -->
