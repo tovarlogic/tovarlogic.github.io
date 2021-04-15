@@ -17,12 +17,9 @@ ingredients:
  cardamomo: 1/2 tsp
  chile en polvo: 1/4 tsp
 instructions:
- - Cortar las verduras en tacos
- - Mezclar las verduras con AOVE
- - Asarlas a 210ºC durante 35 minutos (15 min en freidora sin aceite)
- - Picar el cilantro
- - Fritura del cilantro con las especias durante 2 minutos y apartar
- - Juntar todo y cocinar en olla a presión durante 5 minutos.
+ - Picar la cebolleta o cebollinos
+ - Mezclar con el queso philadelphia y eneldo. reservar.
+ - Con un poco de mantequilla en la Hacer dos tortillas francesas finas en forma de torta.
 show_convertions: true
 show_abreviations: true
 prepmins: 5
@@ -32,5 +29,5 @@ Author: ketodietapp.com
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjM4MzcxMDVdfQ==
+eyJoaXN0b3J5IjpbLTgxNTA2MjY0OF19
 -->
