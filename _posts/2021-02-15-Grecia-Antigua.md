@@ -229,7 +229,7 @@ Los Ilotas eran los pobladores de Mesenia, que eventualmente sería conquistada 
   <img src="/assets/images/GA/mapa-general.jpg">
   <figcaption>
 	  Mapa general Grecia antigua  
-Crédito:[](https://tovarlogic.github.io/historia/Grecia-Antigua/)
+Crédito:
   </figcaption>
 </figure>
 
@@ -285,7 +285,7 @@ Los Fenicios, eran otra civilización contemporánea que durante el mismo period
   <img src="/assets/images/GA/colonias-griegas.gif">
   <figcaption>
 	  Colonias en el periodo arcaico 
- Crédito:  [Great courses plus](https://tovarlogic.github.io/historia/Grecia-Antigua/)
+ Crédito:  Great courses plus
   </figcaption>
 </figure>
 
@@ -353,8 +353,8 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
 -   [“La historia de Grecia desde sus orígenes a las migraciones dorias” por Gonzalo Fernandez. Universidad de Valencia](https://dialnet.unirioja.es/descarga/articulo/2863447.pdf)
 -   [Historiae: El ethnos en la antigua grecia](https://historiaeweb.com/2016/12/18/el-ethnos-en-la-antigua-grecia/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0OTY1OTM1LC0xMTMwMjA2ODEyLC0xNj
-c0MDY0NjAsNjQ5MjQ3MTY0LDE0OTcwNTc2MTAsLTE0OTM3NDkw
-NDEsNTYzNDczNDksMTc5MTA1NDEyMyw0MDk4NzYwNjIsMTg4Mz
-cyMTIwN119
+eyJoaXN0b3J5IjpbMTkxNTQxMjg5OSwtMTEzMDIwNjgxMiwtMT
+Y3NDA2NDYwLDY0OTI0NzE2NCwxNDk3MDU3NjEwLC0xNDkzNzQ5
+MDQxLDU2MzQ3MzQ5LDE3OTEwNTQxMjMsNDA5ODc2MDYyLDE4OD
+M3MjEyMDddfQ==
 -->
