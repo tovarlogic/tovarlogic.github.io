@@ -135,7 +135,8 @@ En este periodo, entre 1639-1616 BC se produjo la violenta erupción del volván
   <img src="/assets/images/GA/Minoan_Ash.png" alt="Islas Cícladas">
   <figcaption>
 	  Alcance cenizas de la erupción  
-Crédito:  [Wiki commons](https://commons.wikimedia.org/wiki/File:Minoan_Ash.png)
+Crédito:  <a href="https://academiaplay.es/la-erupcion-thera/">Academia play</a>
+[Wiki commons](https://commons.wikimedia.org/wiki/File:Minoan_Ash.png)
   </figcaption>
 </figure>
 
@@ -353,8 +354,8 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
 -   [“La historia de Grecia desde sus orígenes a las migraciones dorias” por Gonzalo Fernandez. Universidad de Valencia](https://dialnet.unirioja.es/descarga/articulo/2863447.pdf)
 -   [Historiae: El ethnos en la antigua grecia](https://historiaeweb.com/2016/12/18/el-ethnos-en-la-antigua-grecia/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MzYxNDk0MiwtMTEzMDIwNjgxMiwtMT
-Y3NDA2NDYwLDY0OTI0NzE2NCwxNDk3MDU3NjEwLC0xNDkzNzQ5
-MDQxLDU2MzQ3MzQ5LDE3OTEwNTQxMjMsNDA5ODc2MDYyLDE4OD
-M3MjEyMDddfQ==
+eyJoaXN0b3J5IjpbMTQyODIxNDQ2LC0xMTMwMjA2ODEyLC0xNj
+c0MDY0NjAsNjQ5MjQ3MTY0LDE0OTcwNTc2MTAsLTE0OTM3NDkw
+NDEsNTYzNDczNDksMTc5MTA1NDEyMyw0MDk4NzYwNjIsMTg4Mz
+cyMTIwN119
 -->
