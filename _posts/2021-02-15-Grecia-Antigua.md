@@ -88,7 +88,7 @@ Es a partir del 3400 BC, de acuerdo con los estratos arqueológicos encontrados 
   <figcaption>Photo from Unsplash.</figcaption>
 </figure>
 
-![image]({{"/assets/images/GA/Reconstruccion_Knossos.jpg" | relative_url )
+![image](https://tovarlogic.github.io/assets/images/GA/Reconstruccion_Knossos.jpg)
 
 Reconstrucción del palacio de Cnossos  Crédito:  [Wiki commons](https://commons.wikimedia.org/wiki/File:Reconstruccio_Knossos.jpg)
 
@@ -332,7 +332,7 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
 -   [“La historia de Grecia desde sus orígenes a las migraciones dorias” por Gonzalo Fernandez. Universidad de Valencia](https://dialnet.unirioja.es/descarga/articulo/2863447.pdf)
 -   [Historiae: El ethnos en la antigua grecia](https://historiaeweb.com/2016/12/18/el-ethnos-en-la-antigua-grecia/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNTUxOTc4NiwxNDk3MDU3NjEwLC0xND
+eyJoaXN0b3J5IjpbLTU0ODA5Mzg1NCwxNDk3MDU3NjEwLC0xND
 kzNzQ5MDQxLDU2MzQ3MzQ5LDE3OTEwNTQxMjMsNDA5ODc2MDYy
 LDE4ODM3MjEyMDddfQ==
 -->
