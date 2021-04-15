@@ -9,9 +9,9 @@ ingredients:
  Ajo: 1 diente
  Aove: 3 tbsp
 instructions:
- - Picar el Ajo a velocidad 5 durante 6 segundos.
- - En el vaso de la thermomix añadir resto de ingredientes y mezclar a velocidad 6 durante 15 segundos.
- - Como espesante se puede usar harina de coco, de plátano, de yuca o maicena de maíz.
+ - Picar el Ajo durante unos segundos.
+ - Añadir y mezclar el resto de ingredientes excepto el aceite de oliva. Como espesante se puede usar harina de coco, de plátano, de yuca o maicena de maíz.
+ - Con la miniprimer a media velocidad añadir continuamente el AOVE y esperar que e
  - Retirar y enfriar hasta servir.
 show_convertions: true
 show_abreviations: true
@@ -21,5 +21,5 @@ yield: 6
 author: Carlos
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQzNTE1NTQ4XX0=
+eyJoaXN0b3J5IjpbNTA3ODMxNjIyXX0=
 -->
