@@ -43,13 +43,13 @@ layout: default
         {% if page.prepmins or page.cookmins or page.yield %}
         <ul id="recipe" class="recipe-overview">
         	{% if page.yield %}
-			      <li title="Servings">{% include recipe-icon.html icon="quantity" %}<span itemprop="recipeYield">{{ page.yield }}</span> raciones</li>
+			      <li title="Servings">{% include recipe-icon.html icon="quantity" %}<span itemprop="recipeYield">{{ page.yield }} raciones</span> </li>
 			    {% endif %}
 			    {% if page.prepmins %}
-			       <li title="Prep Time">{% include recipe-icon.html icon="time" %}<span itemprop="prepTime">{{ page.prepmins }}</span> min</li>
+			       <li title="Prep Time">{% include recipe-icon.html icon="time" %}<span itemprop="prepTime">{{ page.prepmins }} min</span> </li>
 			    {% endif %}
 			    {% if page.cookmins %}
-			       <li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span itemprop="cookTime">{{ page.cookmins }}</span> min</li>
+			       <li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span itemprop="cookTime">{{ page.cookmins }} min</span> </li>
 			    {% endif %}
 		    </ul>
 		   {% endif %}
@@ -74,7 +74,7 @@ layout: default
   		      <li>{{ page.instructions | join: '</li> <li>' }}</li>
   		    </ol>
   		  </div>
-        
+
 		</div>
 
 
