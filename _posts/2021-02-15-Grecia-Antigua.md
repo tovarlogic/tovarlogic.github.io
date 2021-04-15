@@ -47,7 +47,7 @@ Posteriormente, la cultura “cicládica” que abarca entre 3300-2100 BC durant
 </figure>
 
 
-![]("/assets/images/GA/islas%20cicladas.PNG")
+![]("/assets/images/GA/islas%20cicladas.svg")
 * Islas Cícladas. Crédito: [Wiki commons](https://commons.wikimedia.org/wiki/File:Cyclades_map-fr.jpg)*
 
 
@@ -355,7 +355,7 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
 -   [“La historia de Grecia desde sus orígenes a las migraciones dorias” por Gonzalo Fernandez. Universidad de Valencia](https://dialnet.unirioja.es/descarga/articulo/2863447.pdf)
 -   [Historiae: El ethnos en la antigua grecia](https://historiaeweb.com/2016/12/18/el-ethnos-en-la-antigua-grecia/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5MDE0NzE5LC0xMTMwMjA2ODEyLDY0OT
-I0NzE2NCwxNDk3MDU3NjEwLC0xNDkzNzQ5MDQxLDU2MzQ3MzQ5
-LDE3OTEwNTQxMjMsNDA5ODc2MDYyLDE4ODM3MjEyMDddfQ==
+eyJoaXN0b3J5IjpbLTE2NzQwNjQ2MCwtMTEzMDIwNjgxMiw2ND
+kyNDcxNjQsMTQ5NzA1NzYxMCwtMTQ5Mzc0OTA0MSw1NjM0NzM0
+OSwxNzkxMDU0MTIzLDQwOTg3NjA2MiwxODgzNzIxMjA3XX0=
 -->
