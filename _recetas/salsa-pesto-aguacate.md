@@ -11,20 +11,15 @@ ingredients:
  Pimienta y sal: al gusto
  Aove: 1 chorrito
 instructions:
- - Pelar y cortar las verduras en trozos pequeños
- - Rehogar en la olla las papas, cebolla con un poco de sal
- - Al cabo de unos minutos agregamos los trozos de apio
- - Pelar y trocear las peras y rehogarlas con las verduras durante 2 minutos
- - Añadir el curry y remover
- - Agregar el caldo y la leche; y llevar a ebullición
- - Pasar por la batidora.
+ - Agregar todos los ingredientes en una batidora de mano y triturar hasta obtener una textura de aliño similar al pesto.
+ - Agregar sal al gusto y más levadura nutricional si apetece un sabor a queso más   intenso.
 show_convertions: true
 show_abreviations: true
 prepmins: 5
-cookmins: 20
-yield: 6
-author: "'Vegesanísimo' de Álvaro Vargas"
+cookmins: 5
+yield: 2
+author: Xevi Verdaguer
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODQ1MDcyOTJdfQ==
+eyJoaXN0b3J5IjpbLTE5NDc0NTY3MzNdfQ==
 -->
