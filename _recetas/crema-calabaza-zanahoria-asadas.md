@@ -28,8 +28,6 @@ show_abreviations: true
 prepmins: 5
 cookmins: 35
 yield: 6
-tags: [Vegetariana, FODMAP, Paleo]
-categories: [Cremas]
 fuente: Karlos Arguiñano
 ---
 

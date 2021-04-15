@@ -29,8 +29,6 @@ show_abreviations: true
 prepmins: 5
 cookmins: 25
 yield: 6
-tags: [Vegetariana]
-categories: [Salsas]
 fuente: "[Las Marías cocinillas](https://lasmariacocinillas.com/)"
 ---
 
