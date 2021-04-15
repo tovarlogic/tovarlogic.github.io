@@ -11,8 +11,10 @@ ingredients:
  Pimienta y sal: al gusto
  Aove: 1 chorrito
 instructions:
- - Agregar todos los ingredientes en una batidora de mano y triturar hasta obtener una textura de aliño similar al pesto.
- - Agregar sal al gusto y más levadura nutricional si apetece un sabor a queso más   intenso.
+ - Picar un diente de ajo a velocidad 5 durante 6 segundos.
+ - En el vaso de la thermomix añadir resto de ingredientes y 
+    
+3.  Mezclar todo a velocidad 6 durante 15 segundos. Retirar y enfriar hasta servir.
 show_convertions: true
 show_abreviations: true
 prepmins: 5
@@ -21,5 +23,5 @@ yield: 2
 author: Xevi Verdaguer
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDA4MzYyNV19
+eyJoaXN0b3J5IjpbNjQ2Mzg5OTI5XX0=
 -->
