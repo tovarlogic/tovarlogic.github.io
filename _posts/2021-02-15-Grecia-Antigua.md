@@ -120,14 +120,28 @@ Su escritura fue, entre los años 1900-1650 BC, un sistema silábico de forma je
 En el Minoico Reciente (MR), es decir, en torno al 1700 BC se cree que una serie de seismos dieron lugar al derrumbamiento de muchos palacios, que posteriormente serían reconstruidos con renovada complejidad y ornamentación. Otra posibilidad es que la destrucción se debiera a invasiones desde Anatolia. Los caminos ya estaban pavimentados, y los nuevos palacios contaban con baños, pozos de ventiulación/refrigeración y sistemas hidráulicos, tanto de drenaje como almacenamiento de agua e incluso sistema de alcantarillado. En cualquier caso, este periodo supone el apogeo minoico que coincidió con la fundación de nuevas ciudades. Se cree que la jerarquización social que se observa en la época de los primeros palacios se acentuó en este periodo. Se trataba también de una sociedad muy diversificada en función de los diferentes trabajos y funciones. Se encuentran casas ricas, normales y pobres. No se ha probado la presencia de esclavos en este periodo, pero hay autores que tampoco la descartan.
 
 En este periodo, entre 1639-1616 BC se produjo la violenta erupción del volván de Santorini, considerada como una de la mayores erupciones del planeta, pero se discute cuál fue el impacto que tuvo a corto plazo en Creta. Algunos autores han estimado que no tuvo un efecto importante, pero otros han señalado que, además de la inevitable destrucción de buena parte de la flota, habría ocasionado una crisis de grandes dimensiones que habría desembocado, a largo plazo, en la desaparición de los palacios.
+<figure>
+  <img src="/assets/images/GA/volcan-thera.JPG)" alt="Islas Cícladas">
+  <figcaption>
+	  Santorini (Thera) antes y después de la erupción  
+	  Crédito:  [Academia play](https://academiaplay.es/la-erupcion-thera/)
+  </figcaption>
+</figure>
 
-![image](https://tovarlogic.github.io/assets/images/GA/volcan-thera.JPG)
+<figure>
+  <img src="/assets/images/GA/Minoan_Ash.png)" alt="Islas Cícladas">
+  <figcaption>
+	  Alcance cenizas de la erupción  
+Crédito:  [Wiki commons](https://commons.wikimedia.org/wiki/File:Minoan_Ash.png)
+  </figcaption>
+</figure>
 
-Santorini (Thera) antes y después de la erupción  Crédito:  [Academia play](https://academiaplay.es/la-erupcion-thera/)
+
 
 ![image](https://tovarlogic.github.io/assets/images/GA/Minoan_Ash.png)
 
-Alcance cenizas de la erupción  Crédito:  [Wiki commons](https://commons.wikimedia.org/wiki/File:Minoan_Ash.png)
+Alcance cenizas de la erupción  
+Crédito:  [Wiki commons](https://commons.wikimedia.org/wiki/File:Minoan_Ash.png)
 
 > Para muchos autores la explosión de Thera y su posterior tsunami pudo dar origen a  **mitos como la Atlántida**.
 
@@ -328,7 +342,7 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
 -   [“La historia de Grecia desde sus orígenes a las migraciones dorias” por Gonzalo Fernandez. Universidad de Valencia](https://dialnet.unirioja.es/descarga/articulo/2863447.pdf)
 -   [Historiae: El ethnos en la antigua grecia](https://historiaeweb.com/2016/12/18/el-ethnos-en-la-antigua-grecia/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1Mjg0NzIzOCwxNDk3MDU3NjEwLC0xND
+eyJoaXN0b3J5IjpbMTM2NDEwMDg0OSwxNDk3MDU3NjEwLC0xND
 kzNzQ5MDQxLDU2MzQ3MzQ5LDE3OTEwNTQxMjMsNDA5ODc2MDYy
 LDE4ODM3MjEyMDddfQ==
 -->
