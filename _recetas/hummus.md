@@ -1,7 +1,7 @@
 ---
 title: "Hummus de garbanzos"
 date: 2021-04-15
-receta: Salsas
+receta: Comidas del mundo
 ingredients:
  - Garbanzos cocidos: 500 g
  -  Tahini: 3 tbsp
@@ -28,5 +28,5 @@ yield: 6
 author: http://www.lostragaldabas.net/hummus-receta-original/
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNDA5NTM3OF19
+eyJoaXN0b3J5IjpbNjU5NTQxNTNdfQ==
 -->
