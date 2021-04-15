@@ -5,15 +5,15 @@ receta: [Comida rápida, Desayunos, Meriendas]
 header:
   teaser: "assets/images/recetas/wrap-salmon-png"
 ingredients:
-  Huevos: 4 uds
-  Aguacate o guacamole: 1 ud
-  Salmón ahumado: 100 g
-  Mantequilla: 10 g
-  Queso philadelphia: 2 tbsp
-  Cebollino o cebolleta: Al gusto
-  Eneldo: 1 tsp
-  Sal: 1 pizca
-  Pimienta: 1 pizca
+ Huevos: 4 uds
+ Aguacate o guacamole: 1 ud
+ Salmón ahumado: 100 g
+ Mantequilla: 10 g
+ Queso philadelphia: 2 tbsp
+ Cebollino o cebolleta: Al gusto
+ Eneldo: 1 tsp
+ Sal: 1 pizca
+ Pimienta: 1 pizca
 instructions:
  - Picar la cebolleta o cebollinos
  - Mezclar con el queso philadelphia, sal, pimienta y eneldo. reservar.
@@ -32,5 +32,5 @@ Author: ketodietapp.com
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzUxNTA0Ml19
+eyJoaXN0b3J5IjpbLTEwOTc0MDMzOTBdfQ==
 -->
