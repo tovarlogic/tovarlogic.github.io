@@ -121,7 +121,7 @@ En el Minoico Reciente (MR), es decir, en torno al 1700 BC se cree que una serie
 
 En este periodo, entre 1639-1616 BC se produjo la violenta erupción del volván de Santorini, considerada como una de la mayores erupciones del planeta, pero se discute cuál fue el impacto que tuvo a corto plazo en Creta. Algunos autores han estimado que no tuvo un efecto importante, pero otros han señalado que, además de la inevitable destrucción de buena parte de la flota, habría ocasionado una crisis de grandes dimensiones que habría desembocado, a largo plazo, en la desaparición de los palacios.
 <figure>
-  <img src="/assets/images/GA/volcan-thera.JPG)" alt="Islas Cícladas">
+  <img src="/assets/images/GA/volcan-thera.JPG" alt="Islas Cícladas">
   <figcaption>
 	  Santorini (Thera) antes y después de la erupción  
 	  Crédito:  [Academia play](https://academiaplay.es/la-erupcion-thera/)
@@ -129,19 +129,12 @@ En este periodo, entre 1639-1616 BC se produjo la violenta erupción del volván
 </figure>
 
 <figure>
-  <img src="/assets/images/GA/Minoan_Ash.png)" alt="Islas Cícladas">
+  <img src="/assets/images/GA/Minoan_Ash.png" alt="Islas Cícladas">
   <figcaption>
 	  Alcance cenizas de la erupción  
 Crédito:  [Wiki commons](https://commons.wikimedia.org/wiki/File:Minoan_Ash.png)
   </figcaption>
 </figure>
-
-
-
-![image](https://tovarlogic.github.io/assets/images/GA/Minoan_Ash.png)
-
-Alcance cenizas de la erupción  
-Crédito:  [Wiki commons](https://commons.wikimedia.org/wiki/File:Minoan_Ash.png)
 
 > Para muchos autores la explosión de Thera y su posterior tsunami pudo dar origen a  **mitos como la Atlántida**.
 
@@ -157,8 +150,7 @@ La administración y la política pasaron a ser micénicas, pero es posible que 
 
 Se cree que la transición entre 1400-1200 BC fue otro periodo de movimientos de población en los que se abandonan repentinamente lugares costeros como Sisi que parecían prósperos y también otros lugares llanos, y se ocupan asentamientos situados en altura que dominaban lugares donde podían disponer de una agricultura fértil. Se desconoce la causa de estos movimientos de población, que quizá buscaban protegerse de amenazas procedentes del mar. Algunos autores los han relacionado con la tesis del clima de terror producido por los llamados “Pueblos del mar”, pero otros han señalado la ausencia de huellas de destrucciones violentas y estiman que los movimientos se debieron dar por una combinación de diversos factores. Por otra parte, esta época se suele relacionar con la tradición de las migraciones dorias.
 
-### ADN[Permalink](https://tovarlogic.github.io/historia/Grecia-Antigua/#adn "Permalink")
-
+### ADN
 Un estudio de ADN realizado en 2013, se comparó el ADN mitocondrial de los esqueletos de las necrópolis de la isla con el de poblaciones actuales de Grecia, Anatolia y diferentes partes de Europa. Los resultaron indican que “los fundadores de la primera civilización europea avanzada fueron europeos”, “eran muy similares a los europeos neolíticos y muy similares a los actuales cretenses”.
 
 Un estudio arqueogenético de 2017 sobre los polimorfismos de ADN mitocondrial de los restos minoicos publicado en la revista  _Nature_  concluyó que los griegos micénicos estaban genéticamente relacionados con los minoicos y que ambos están estrechamente relacionados, pero no son idénticos, a las poblaciones griegas modernas. El mismo estudio también indicó que al menos tres cuartas partes del ADN de los minoicos y micénicos procedían de los primeros agricultores de la época neolítica que vivían en Anatolia occidental y el mar Egeo.
@@ -184,9 +176,16 @@ Parece pues, que el escenario propuesto por Alan Wace, es decir, que ambas cultu
 
 En cualquier caso, la cultura micénica no se llega a desarrollar hasta 1500 BC, muy influenciada hasta entonces por la más sofisticada minoica durante todo el tiempo previo (300 años).
 
+<figure>
+  <img src="/assets/images/GA/s.14BC-contemporaneos.png" alt="Islas Cícladas">
+  <figcaption>
+	  Civilizaciones contemporáneas siglo 14 BC  
+	  Crédito:  [Wiki commons](https://commons.wikimedia.org/wiki/File:14_century_BC_Eastern_Mediterranean_and_the_Middle_East.png)
+  </figcaption>
+</figure>
+
 ![image](https://tovarlogic.github.io/assets/images/GA/s.14BC-contemporaneos.png)
 
-Civilizaciones contemporáneas siglo 14 BC  Crédito:  [Wiki commons](https://commons.wikimedia.org/wiki/File:14_century_BC_Eastern_Mediterranean_and_the_Middle_East.png)
 
 Entre 1600-1450 BC los micénicos adoptan la escritura Lineal A de origen minoico creada entre 1700-1500 BC, y que eventualmente evolucionarán creando el Lineal B. Es en ese mismo periodo que comienzan la construcción de reinos a semejanza de los cretenses, pero que se mantienen fraccionados y enemistados, con frecuentes eventos bélicos. Los reyes son conocidos como  _wanax_. Los reinos están organizados en torno a la administración central cuyo poder ostentan los  _wanax_  y la administración provincial con gobernadores al frente que se ocupan de recaudar los impuestos. Cada pueblo o  _damos_  contaba con tierras comunales para parcelar y/o arrendar. De acuerdo a las tablillas en Lineal B rescatadas dejan evidencia que la población trabajadora, eran libres y podían tener exclavos, principalmente capturados en el ultramar por piratas y posteriormente vendidos.
 
@@ -342,7 +341,7 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
 -   [“La historia de Grecia desde sus orígenes a las migraciones dorias” por Gonzalo Fernandez. Universidad de Valencia](https://dialnet.unirioja.es/descarga/articulo/2863447.pdf)
 -   [Historiae: El ethnos en la antigua grecia](https://historiaeweb.com/2016/12/18/el-ethnos-en-la-antigua-grecia/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDEwMDg0OSwxNDk3MDU3NjEwLC0xND
+eyJoaXN0b3J5IjpbLTMxNTk5NTk0NSwxNDk3MDU3NjEwLC0xND
 kzNzQ5MDQxLDU2MzQ3MzQ5LDE3OTEwNTQxMjMsNDA5ODc2MDYy
 LDE4ODM3MjEyMDddfQ==
 -->
