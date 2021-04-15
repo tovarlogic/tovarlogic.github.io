@@ -27,10 +27,10 @@ instructions:
 show_convertions: true
 show_abreviations: true
 prepmins: 5
-cookmins: 5
+cookmins: 50
 yield: 6
 author: Carlos
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzI3ODI5MThdfQ==
+eyJoaXN0b3J5IjpbMTUxNDg3NzUzMiwtMTkzMjc4MjkxOF19
 -->
