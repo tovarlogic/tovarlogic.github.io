@@ -1,7 +1,7 @@
 ---
 title: "Crema de acelgas y verduras"
 date: 2021-02-10
-receta: [Cremas, Sopas]
+receta: Cremas
 ingredients:
  Agua: 1 litro
  Caldo de verduras: 250ml
@@ -30,5 +30,5 @@ fuente: Karlos Arguiñano
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MjE0MjY4MF19
+eyJoaXN0b3J5IjpbLTIxMjgyMTMzMDBdfQ==
 -->
