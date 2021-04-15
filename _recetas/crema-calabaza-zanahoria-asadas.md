@@ -1,6 +1,7 @@
 ---
 title: "Crema de calabaza y zanahorias asadas"
 date: 2021-02-18
+receta: Cremas
 header:
   teaser: "assets/images/recetas/crema-calabaza-asada.jpeg"
 ingredients:

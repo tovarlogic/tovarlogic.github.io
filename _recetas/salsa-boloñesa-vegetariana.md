@@ -1,6 +1,7 @@
 ---
 title: "Salsa Boloñesa vegetariana"
 date: 2021-02-05
+receta: Salsas
 ingredients:
  tomate natural: 1kg
  Salsa de tomate: 700ml

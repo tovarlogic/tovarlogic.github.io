@@ -1,6 +1,7 @@
 ---
 title: "Crema de pera y apio"
 date: 2021-01-01
+receta: Cremas
 ingredients:
  Apio: 10 tallos
  Peras conferencia: 5 
