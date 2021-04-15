@@ -5,15 +5,24 @@ receta: [Comidas del mundo, Legumbres]
 ingredients:
  Yogurt: 1 unidad
  Menta: 6 hojas
- Limón: 1 pieza
+ Clavo: 1t
+ Pimienta: 1 tsp
+ Sal: 4 tsp
  Ajo: 3 dientes
- Mantequilla: 70gr
+ Mantequilla: 70 g
 instructions:
  - Dejar en remojo los grabanzos durante 12-18 horas.
- - Cortar la cebolla en cuartos. Añadirla al vaso de la thermomix junto con los ajos y 30gr de mantequilla. Picarlo a velocidad 5 durante 7 segundos. Reservar.
- - Picar los garbanzos con 30gr de mantequilla a velocidad 5 durante 20 segundos.
- - Rehogar a vel 3 y 100º durante 20 minutos.
- - Añadir los guisantes y otros 10 gr de mantequilla y continuar rehogado durante 20 min.
+ - Cortar la cebolla en cuartos. Añadirla al vaso de la thermomix junto con los ajos y 30 g de mantequilla. Picarlo a velocidad 5 durante 7 segundos. Reservar.
+ - Picar los garbanzos con 30 g de mantequilla a velocidad 5 durante 20 segundos.
+ - Rehogar a vel 3 y 100 ºC durante 20 minutos.
+ - Añadir los guisantes y otros 10 g de mantequilla y continuar rehogado durante 20 min.
+ - Picar todo a velocidad 6 durante 25 segundos. Dejar enfriar unos minutos.
+ - Añadir cilantro y perefil en cantidades generosas.
+ - Añadir 5 pizcas de sal, 3 de pimienta, 1 de clavo molido, 4 de comino, 3 de pimentón y 4 de canela. Ajustar al gusto.
+    
+4.  Mezclar todo a velocidad 5 durante 15 segundos.
+    
+5.  Dejar de enfriar y hacer bolas con la mano. No requiere empanar ni freir.
 show_convertions: true
 show_abreviations: true
 prepmins: 5
@@ -22,5 +31,5 @@ yield: 6
 author: Carlos
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyODU4MDQ5N119
+eyJoaXN0b3J5IjpbMjA5MjA1Mjc5M119
 -->
