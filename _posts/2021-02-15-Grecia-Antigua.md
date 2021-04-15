@@ -278,9 +278,13 @@ Aunque una ciudad fuera la fundadora oficial de la colonia, en ella se establec�
 
 Los Fenicios, eran otra civilización contemporánea que durante el mismo periodo se dedicó a establecer colonias en territorios costeros. Existen evidencias que permiten deducir que existieron colonias “conjuntas” por lo que tuvieron una relación relativamente pacífica.
 
-![image](https://tovarlogic.github.io/assets/images/GA/colonias-griegas.gif)
-
-Colonias en el periodo arcaico  Crédito:  [Great courses plus](https://tovarlogic.github.io/historia/Grecia-Antigua/)
+<figure>
+  <img src="/assets/images/GA/colonias-griegas.gif">
+  <figcaption>
+	  Colonias en el periodo arcaico 
+ Crédito:  [Great courses plus](https://tovarlogic.github.io/historia/Grecia-Antigua/)
+  </figcaption>
+</figure>
 
 Las colonias también expusieron al muendo griego de nuevas ideas, sistemas religiosos y estilos artísticos. Los textos de Homero fueron el primer uso del griego escrito (725 BC). Otro texto relevante son los poemas de Hesíodo en 700 BC “Teogonia” en los que se describen los orígenes de los dioses griegos. Su estructura es peculiar, establece tres generaciones de dioses donde los padres son destruidos por sus hijos. Es posible que exista relación entre dicho poema y “La Canción de Kumarbi”, un poema Hittita encontrado en su capital Hattusas.
 
@@ -346,7 +350,7 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
 -   [“La historia de Grecia desde sus orígenes a las migraciones dorias” por Gonzalo Fernandez. Universidad de Valencia](https://dialnet.unirioja.es/descarga/articulo/2863447.pdf)
 -   [Historiae: El ethnos en la antigua grecia](https://historiaeweb.com/2016/12/18/el-ethnos-en-la-antigua-grecia/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjgyMTgzNzMsMTQ5NzA1NzYxMCwtMT
-Q5Mzc0OTA0MSw1NjM0NzM0OSwxNzkxMDU0MTIzLDQwOTg3NjA2
-MiwxODgzNzIxMjA3XX0=
+eyJoaXN0b3J5IjpbNjQ5MjQ3MTY0LDE0OTcwNTc2MTAsLTE0OT
+M3NDkwNDEsNTYzNDczNDksMTc5MTA1NDEyMyw0MDk4NzYwNjIs
+MTg4MzcyMTIwN119
 -->
