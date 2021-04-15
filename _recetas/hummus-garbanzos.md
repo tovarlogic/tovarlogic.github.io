@@ -12,7 +12,7 @@ ingredients:
  Pimentón dulce: 2 tsp    
  Limón: 1 pieza    
  Ajo: 2 dientes    
- Perejil fresco
+ Perejil fresco: 1 pizca
 instructions:
  - Dejar en remojo los garbanzos durante 12-18 horas.
  - Comenzamos haciendo la pasta de tahina, en un procesador de alimentos el sésamo tostado, añadimos un poco de agua y la pizca de sal. Trituramos hasta conseguir una pasta, si la textura es demasiado espesa incorporamos más de agua, pero cuidado no queremos que sea demasiado líquida. Reservamos.
@@ -28,5 +28,5 @@ yield: 6
 author: http://www.lostragaldabas.net/hummus-receta-original/
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTcwMDk4MTZdfQ==
+eyJoaXN0b3J5IjpbODQ1MjY3MTJdfQ==
 -->
