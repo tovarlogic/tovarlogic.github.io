@@ -5,7 +5,10 @@ receta: [Comidas del mundo, Legumbres]
 ingredients:
  Yogurt: 1 unidad
  Menta: 6 hojas
- Clavo: 1t
+ Canela: 4 tsp
+ Pimentón: 3 tsp
+ Comino molido: 4-5 tsp
+ Clavo molido: 1 tsp
  Pimienta: 1 tsp
  Sal: 4 tsp
  Ajo: 3 dientes
@@ -17,8 +20,7 @@ instructions:
  - Rehogar a vel 3 y 100 ºC durante 20 minutos.
  - Añadir los guisantes y otros 10 g de mantequilla y continuar rehogado durante 20 min.
  - Picar todo a velocidad 6 durante 25 segundos. Dejar enfriar unos minutos.
- - Añadir cilantro y perefil en cantidades generosas.
- - Añadir 5 pizcas de sal, 3 de pimienta, 1 de clavo molido, 4 de comino, 3 de pimentón y 4 de canela. Ajustar al gusto.
+ - Añadir cilantro y perefil en cantidades generosas, sal y especias ajustando al gusto.
     
 4.  Mezclar todo a velocidad 5 durante 15 segundos.
     
@@ -31,5 +33,5 @@ yield: 6
 author: Carlos
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjA1Mjc5M119
+eyJoaXN0b3J5IjpbNDE4NzA1ODQxXX0=
 -->
