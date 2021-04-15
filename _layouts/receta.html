@@ -60,11 +60,11 @@ layout: default
   		    <h3>Ingredientes</h3>
   		     <ul itemprop="recipeIngredient">
   		        {% for ingredient in page.ingredients %}
-  		          <li>{{ ingredient[1] }} {{ ingredient[0] }}</li>
+  		          <li>{{ ingredient[1] }} de {{ ingredient[0] }}</li>
   		        {% endfor %}
   		     </ul>
 		    </div>
-        {{ page.recipe.ingredients_markdown | markdownify }}
+
 		  {{content}}
 
   		  <!-- instructions -->
@@ -74,8 +74,7 @@ layout: default
   		      <li>{{ page.instructions | join: '</li> <li>' }}</li>
   		    </ol>
   		  </div>
-		  <!-- instructions -->
-      {{ page.recipe.directions_markdown | markdownify }}
+        
 		</div>
 
 
