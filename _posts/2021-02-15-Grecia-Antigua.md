@@ -177,15 +177,12 @@ Parece pues, que el escenario propuesto por Alan Wace, es decir, que ambas cultu
 En cualquier caso, la cultura micénica no se llega a desarrollar hasta 1500 BC, muy influenciada hasta entonces por la más sofisticada minoica durante todo el tiempo previo (300 años).
 
 <figure>
-  <img src="/assets/images/GA/s.14BC-contemporaneos.png" alt="Islas Cícladas">
+  <img src="/assets/images/GA/s.14BC-contemporaneos.png">
   <figcaption>
 	  Civilizaciones contemporáneas siglo 14 BC  
 	  Crédito:  [Wiki commons](https://commons.wikimedia.org/wiki/File:14_century_BC_Eastern_Mediterranean_and_the_Middle_East.png)
   </figcaption>
 </figure>
-
-![image](https://tovarlogic.github.io/assets/images/GA/s.14BC-contemporaneos.png)
-
 
 Entre 1600-1450 BC los micénicos adoptan la escritura Lineal A de origen minoico creada entre 1700-1500 BC, y que eventualmente evolucionarán creando el Lineal B. Es en ese mismo periodo que comienzan la construcción de reinos a semejanza de los cretenses, pero que se mantienen fraccionados y enemistados, con frecuentes eventos bélicos. Los reyes son conocidos como  _wanax_. Los reinos están organizados en torno a la administración central cuyo poder ostentan los  _wanax_  y la administración provincial con gobernadores al frente que se ocupan de recaudar los impuestos. Cada pueblo o  _damos_  contaba con tierras comunales para parcelar y/o arrendar. De acuerdo a las tablillas en Lineal B rescatadas dejan evidencia que la población trabajadora, eran libres y podían tener exclavos, principalmente capturados en el ultramar por piratas y posteriormente vendidos.
 
@@ -203,9 +200,13 @@ La teoría de un colapso interno encajaría con el contexto de la Guerra de Troy
 
 El colapso de la sociedad micénica corresponde con el  [declive generalizado](https://tovarlogic.github.io/historia/origen-civilizaciones-antiguas/#declive-de-la-edad-de-bronce)  de las sociedades del bronce tardío al Este del Mediterráneo. Las tabletas en arcilla de Amarna (Egipto) hablan de invasiones, entre 1225-115BC, por parte de los “Sea Peoples” o “Pueblos del mar”. El colapso de los Hititas en Asia menor, ocurre aproximadamente a la misma vez.
 
-![image](https://tovarlogic.github.io/assets/images/GA/colapso_edad_bronce.png)
-
-Colapso Edad de Bronce  Crédito:  [Wiki commons](https://commons.wikimedia.org/wiki/File:Bronsealderens_sammenbrudd.jpg#/media/File:Bronze-age-collapse.svg)
+<figure>
+  <img src="/assets/images/GA/colapso_edad_bronce.png">
+  <figcaption>
+	  Colapso Edad de Bronce  
+Crédito:  [Wiki commons](https://commons.wikimedia.org/wiki/File:Bronsealderens_sammenbrudd.jpg#/media/File:Bronze-age-collapse.svg)
+  </figcaption>
+</figure>
 
 Las tabletas Egipcias nombran a algunas de las tribus que englobarían los “pueblos del mar” como  _“Ekwesh”_,  _“Akewasha”_  y  _“Denyen”_. Estos nombres, podrían corresponder a con los nombres griegos recogidos por Homero como  _“Achaians (Aqueos)_” y  _“Danaans (Dánaos)”_. Es posible, por tanto, que estos pueblos del mar no sean otros que los micénicos huyendo de sus tierras originarias, tratando de invadir nuevos territorios en los que asentarse debido a la inestabilidad y conflictos en sus tierras originarias.
 
@@ -221,9 +222,13 @@ En Creta se da otra cultura submicénica muy unida a la ateniense que perdura ha
 
 Los Ilotas eran los pobladores de Mesenia, que eventualmente sería conquistada por los espartanos o lacedemonios pasarían a ser sus esclavos. Esparta era la ciudad más importante de Lacedemonia (Laconia en la actualidad), una región del Peloponeso.
 
-![image](https://tovarlogic.github.io/assets/images/GA/mapa-general.jpg)
-
-Mapa general Grecia antigua  Crédito:[](https://tovarlogic.github.io/historia/Grecia-Antigua/)
+<figure>
+  <img src="/assets/images/GA/mapa-general.jpg">
+  <figcaption>
+	  Mapa general Grecia antigua  
+Crédito:[](https://tovarlogic.github.io/historia/Grecia-Antigua/)
+  </figcaption>
+</figure>
 
 # Edad de Hierro
 
@@ -341,7 +346,7 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
 -   [“La historia de Grecia desde sus orígenes a las migraciones dorias” por Gonzalo Fernandez. Universidad de Valencia](https://dialnet.unirioja.es/descarga/articulo/2863447.pdf)
 -   [Historiae: El ethnos en la antigua grecia](https://historiaeweb.com/2016/12/18/el-ethnos-en-la-antigua-grecia/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTk5NTk0NSwxNDk3MDU3NjEwLC0xND
-kzNzQ5MDQxLDU2MzQ3MzQ5LDE3OTEwNTQxMjMsNDA5ODc2MDYy
-LDE4ODM3MjEyMDddfQ==
+eyJoaXN0b3J5IjpbLTE5NjgyMTgzNzMsMTQ5NzA1NzYxMCwtMT
+Q5Mzc0OTA0MSw1NjM0NzM0OSwxNzkxMDU0MTIzLDQwOTg3NjA2
+MiwxODgzNzIxMjA3XX0=
 -->
