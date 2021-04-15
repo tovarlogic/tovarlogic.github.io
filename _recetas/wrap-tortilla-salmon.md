@@ -1,6 +1,6 @@
 ---
-title: "Crema de calabaza y zanahorias asadas"
-date: 2021-02-18
+title: "Wrap de tortilla francesa con salmon ahumado"
+date: 2018-06-
 receta: Cremas
 header:
   teaser: "assets/images/recetas/wrap-salmon-png"
@@ -9,10 +9,14 @@ ingredients:
   Aguacate o guacamole: 1 ud
   Salmón ahumado: 100 g
   Mantequilla: 10 g
-  Que
+  Queso philadelphia: 2 tbsp
+  Cebollino o cebolleta: Al gusto
+  Eneldo: 1 tsp
+  Sal: 1 pizca
+  Pimienta: 1 pizca
 instructions:
  - Picar la cebolleta o cebollinos
- - Mezclar con el queso philadelphia y eneldo. reservar.
+ - Mezclar con el queso philadelphia, sal, pimienta y eneldo. reservar.
  - Con un poco de mantequilla en la sartén, hacer dos tortillas francesas finas en forma de torta.
  - Extender la mezcla del queso sobre las tortillas
  - Colocar rúcula al gusto sobre el queso extendido
@@ -28,5 +32,5 @@ Author: ketodietapp.com
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQ5MzQ2NzldfQ==
+eyJoaXN0b3J5IjpbLTE2MTQwNDAzOTNdfQ==
 -->
