@@ -8,7 +8,7 @@ ingredients:
  Cebolla: 1 pieza
  Zanahorias: 3 piezas medianas
  Canela: 4 tsp
- Pimentón: 3 tsp
+ Pimentón picante: 3 tsp
  Comino molido: 4-5 tsp
  Clavo molido: 1 tsp
  Pimienta: 1 tsp
@@ -32,5 +32,5 @@ yield: 6
 author: Carlos
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjgwNzAyNl19
+eyJoaXN0b3J5IjpbLTE5MzI3ODI5MThdfQ==
 -->
