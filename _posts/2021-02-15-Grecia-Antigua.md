@@ -40,14 +40,14 @@ Las excavaciones y hallazgos en distintas cuevas demuestran la existencia de una
 Posteriormente, la cultura “cicládica” que abarca entre 3300-2100 BC durante la edad de bronce antiguo, llamada así por encontrarse en las islas Cícladas, en el mar Egeo, dejó evidencia de que ya existía un comercio y artesanías especializadas, conocida por los ídolos femeninos tallados en mármol. Se trataba de una civilización marinera y comercial.
 
 <figure>
-  <img src="/assets/images/GA/islas%20cicladas.svg">
+  <img src="/assets/images/GA/islas%20cicladas.PNG">
   <figcaption>
 	  Islas Cícladas
 	  Crédito: [Wiki commons](https://commons.wikimedia.org/wiki/File:Cyclades_map-fr.jpg)</figcaption>
 </figure>
 
 
-![]("/assets/images/GA/islas%20cicladas.svg")
+![]("/assets/images/GA/islas%20cicladas.PNG")
 * Islas Cícladas. Crédito: [Wiki commons](https://commons.wikimedia.org/wiki/File:Cyclades_map-fr.jpg)*
 
 
@@ -355,7 +355,8 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
 -   [“La historia de Grecia desde sus orígenes a las migraciones dorias” por Gonzalo Fernandez. Universidad de Valencia](https://dialnet.unirioja.es/descarga/articulo/2863447.pdf)
 -   [Historiae: El ethnos en la antigua grecia](https://historiaeweb.com/2016/12/18/el-ethnos-en-la-antigua-grecia/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzQwNjQ2MCwtMTEzMDIwNjgxMiw2ND
-kyNDcxNjQsMTQ5NzA1NzYxMCwtMTQ5Mzc0OTA0MSw1NjM0NzM0
-OSwxNzkxMDU0MTIzLDQwOTg3NjA2MiwxODgzNzIxMjA3XX0=
+eyJoaXN0b3J5IjpbLTExMzAyMDY4MTIsLTE2NzQwNjQ2MCwtMT
+EzMDIwNjgxMiw2NDkyNDcxNjQsMTQ5NzA1NzYxMCwtMTQ5Mzc0
+OTA0MSw1NjM0NzM0OSwxNzkxMDU0MTIzLDQwOTg3NjA2MiwxOD
+gzNzIxMjA3XX0=
 -->
