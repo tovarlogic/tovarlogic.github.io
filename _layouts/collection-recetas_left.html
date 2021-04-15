@@ -9,7 +9,7 @@ layout: archive_left
 <ul class="taxonomy__index">
     {% for receta in recetas_list %}
       {% assign count = 0 %}
-      {% assign posts = site.recetas | where: "receta", serie %}
+      {% assign posts = site.recetas | where: "receta", receta %}
       {% for post in posts %}
         {% assign count = count | plus: 1 %}
       {%  endfor %}
