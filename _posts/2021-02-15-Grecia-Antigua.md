@@ -127,7 +127,7 @@ En este periodo, entre 1639-1616 BC se produjo la violenta erupción del volván
   <img src="/assets/images/GA/volcan-thera.JPG" alt="Islas Cícladas">
   <figcaption>
 	  Santorini (Thera) antes y después de la erupción  
-	  Crédito:  [Academia play](https://academiaplay.es/la-erupcion-thera/) <a href="https://commons.wikimedia.org/wiki/File:Reconstruccio_Knossos.jpg">Wiki commons</a>
+	  Crédito:  <a href="https://academiaplay.es/la-erupcion-thera/">Academia play</a>
   </figcaption>
 </figure>
 
@@ -353,8 +353,8 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
 -   [“La historia de Grecia desde sus orígenes a las migraciones dorias” por Gonzalo Fernandez. Universidad de Valencia](https://dialnet.unirioja.es/descarga/articulo/2863447.pdf)
 -   [Historiae: El ethnos en la antigua grecia](https://historiaeweb.com/2016/12/18/el-ethnos-en-la-antigua-grecia/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA3MzkwNTksLTExMzAyMDY4MTIsLTE2Nz
-QwNjQ2MCw2NDkyNDcxNjQsMTQ5NzA1NzYxMCwtMTQ5Mzc0OTA0
-MSw1NjM0NzM0OSwxNzkxMDU0MTIzLDQwOTg3NjA2MiwxODgzNz
-IxMjA3XX0=
+eyJoaXN0b3J5IjpbMTI5MzYxNDk0MiwtMTEzMDIwNjgxMiwtMT
+Y3NDA2NDYwLDY0OTI0NzE2NCwxNDk3MDU3NjEwLC0xNDkzNzQ5
+MDQxLDU2MzQ3MzQ5LDE3OTEwNTQxMjMsNDA5ODc2MDYyLDE4OD
+M3MjEyMDddfQ==
 -->
