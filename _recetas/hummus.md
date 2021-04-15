@@ -3,16 +3,16 @@ title: "Hummus de garbanzos"
 date: 2021-04-15
 receta: [Comidas del mundo, Legumbres]
 ingredients:
- - Garbanzos cocidos: 500 g
- -  Tahini: 3 tbsp
- - AOVE: 2 tbsp   
- - Sal: 2 tsp   
- - Pimienta: 1/2 tsp    
- - Comino molido: 1 tbsp    
- - Pimentón dulce: 2 tsp    
- - Limón: 1 pieza    
- - Ajo: 2 dientes    
--  Perejil fresco
+ Garbanzos cocidos: 500 g
+ Tahini: 3 tbsp
+ AOVE: 2 tbsp   
+ Sal: 2 tsp   
+ Pimienta: 1/2 tsp    
+ Comino molido: 1 tbsp    
+ Pimentón dulce: 2 tsp    
+ Limón: 1 pieza    
+ Ajo: 2 dientes    
+ Perejil fresco
 instructions:
  - Dejar en remojo los garbanzos durante 12-18 horas.
  - Comenzamos haciendo la pasta de tahina, en un procesador de alimentos el sésamo tostado, añadimos un poco de agua y la pizca de sal. Trituramos hasta conseguir una pasta, si la textura es demasiado espesa incorporamos más de agua, pero cuidado no queremos que sea demasiado líquida. Reservamos.
@@ -28,5 +28,5 @@ yield: 6
 author: http://www.lostragaldabas.net/hummus-receta-original/
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTUzMzI0OF19
+eyJoaXN0b3J5IjpbMTI1ODIwMjk3NiwxNzI5NTMzMjQ4XX0=
 -->
