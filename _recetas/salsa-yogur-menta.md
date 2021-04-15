@@ -8,11 +8,12 @@ ingredients:
  Cebollino: 5 g
  Levadura nutricional: 1 tbsp
  Zumo de limón: 2 tbsp
- Pimienta y sal: al gusto
+ Ajo: 1 diente
  Aove: 3 tbsp
 instructions:
- - Picar un diente de ajo a velocidad 5 durante 6 segundos.
+ - Picar el  velocidad 5 durante 6 segundos.
  - En el vaso de la thermomix añadir resto de ingredientes y mezclar a velocidad 6 durante 15 segundos.
+ - Como espesante se puede usar harina de coco, de plátano, de yuca o maicena de maíz.
  - Retirar y enfriar hasta servir.
 show_convertions: true
 show_abreviations: true
@@ -22,5 +23,5 @@ yield: 6
 author: Carlos
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTIwNTE2MTVdfQ==
+eyJoaXN0b3J5IjpbODAzOTczNDkyXX0=
 -->
