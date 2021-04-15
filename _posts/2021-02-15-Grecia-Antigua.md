@@ -39,9 +39,12 @@ Las excavaciones y hallazgos en distintas cuevas demuestran la existencia de una
 
 Posteriormente, la cultura “cicládica” que abarca entre 3300-2100 BC durante la edad de bronce antiguo, llamada así por encontrarse en las islas Cícladas, en el mar Egeo, dejó evidencia de que ya existía un comercio y artesanías especializadas, conocida por los ídolos femeninos tallados en mármol. Se trataba de una civilización marinera y comercial.
 
-![image](https://tovarlogic.github.io/assets/images/GA/islas%20cicladas.PNG)
-
-Islas Cícladas  Crédito:  [Wiki commons](https://commons.wikimedia.org/wiki/File:Cyclades_map-fr.jpg)
+<figure>
+  <img src="/assets/images/GA/islas%20cicladas.PNG" alt="Islas Cícladas">
+  <figcaption>
+	  Islas Cícladas
+	  Crédito: [Wiki commons](https://commons.wikimedia.org/wiki/File:Cyclades_map-fr.jpg)</figcaption>
+</figure>
 
 > El nombre de Cíclada proviene del término griego  _kiklades_, el cual deriva de  _kiklos_  (círculo), que hace referencia a las islas entre la grecia continental y Asia Menor dispuestas en círculos al rededor de la sila de Delos. Es decir, Mikonos, Tinos, Siros, Andros, las activas Naxos y Paros, como las más conocidas, además de Milo, Sifnos,  **Thera**  (Akrotiri, actual Santorini).
 
@@ -63,12 +66,10 @@ A partir del tercer periodo, la cultura es ya primordialmente urbana, con tecnol
 
 Todo parece indicar que esta cultura alcanzó una gran prosperidad durante el período del Cicláico Medio y Posterior, la cual supo aprovechar su privilegiada posición geográfica como puente entre Europa y Asia.
 
-### Declive[Permalink](https://tovarlogic.github.io/historia/Grecia-Antigua/#declive "Permalink")
-
+### Declive
 Su declive comenzará en el momento en el que  **Creta**  empieza a ganar poder. Alrededor del año 1600 BC,  **se produce una enorme erupción volcánica en la isla de Thera (santorini actualmente) que afectó al conjunto de las islas**. Esta catástrofe natural, acompañada de grandes terremotos y maremotos, parecen haber sido los responsables del definitivo declive cultural cicládico y del inicio de una marcada influencia micénica que se dejará sentir hacia el año 1450 BC. en todas las islas del mar Egeo.
 
 ## Creta minoica
-
 La presencia humana en creta se remonta hasta el paleolítico. En el Neolítico, en torno al 7000 BC existen asentamientos con probable origen en Asia menor. Estos pueblos de la edad de piedra ya eran capaces de “comerciar” entre ellos e incluso tenían capacidad para navegar. Esto último lo evidencia la existencia de obsidiana (vídrio volcánico) proveniente de la Isla de Melos en distintas partes de la Grecia continental.
 
 Es a partir del 3400 BC, de acuerdo con los estratos arqueológicos encontrados en Knossos, cuando se consideran los tres periodos minoicos. Las fechas han sido posteriormente actualizadas de acuerdo al resto de evidencias arqueológicas en el resto de islas del Egeo, que son:
@@ -327,7 +328,7 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
 -   [“La historia de Grecia desde sus orígenes a las migraciones dorias” por Gonzalo Fernandez. Universidad de Valencia](https://dialnet.unirioja.es/descarga/articulo/2863447.pdf)
 -   [Historiae: El ethnos en la antigua grecia](https://historiaeweb.com/2016/12/18/el-ethnos-en-la-antigua-grecia/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDk3MTIzOSwxNDk3MDU3NjEwLC0xND
+eyJoaXN0b3J5IjpbLTE5MTc0ODEwNSwxNDk3MDU3NjEwLC0xND
 kzNzQ5MDQxLDU2MzQ3MzQ5LDE3OTEwNTQxMjMsNDA5ODc2MDYy
 LDE4ODM3MjEyMDddfQ==
 -->
