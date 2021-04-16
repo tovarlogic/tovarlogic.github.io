@@ -7,6 +7,13 @@ toc: true
 toc_sticky: true
 author_profile: false
 ---
+
+MMD ofrece muchas más posibilidades que MD.
+
+*[MMD]: Abreviación para Multimarkdown
+*[MD]: Abreviación para Markdown
+
+
 # Introducción
 Biohacking
 : Es un anglicismo que hace referencia a la acción de modificar la bioquímica de nuestro organismo de manera deliberada. No conozco traducción ni uso popular en Español.
