@@ -2,8 +2,8 @@
 title:  "Sobre la utilidad de discutir"
 date:   2020-04-23 15:14:54
 update: 2020-05-18
-tags: [eÉtica,pensamiento criítico]
-categories: [Filosofiía]
+tags: [ética,pensamiento crítico]
+categories: [Filosofía]
 excerpt: Compartir ideas u opiniones es un arma de doble filo que requiere de cierta responsabilidad, ya que tiene la capacidad de transformar el modo de pensar de otras personas. Esto es cierto, especialmente en sociedades hiperconectadas donde su impacto puede ser exponencial.
 ---
 

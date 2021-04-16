@@ -2,7 +2,7 @@
 title:  "Arquitectura de las decisiones"
 date:   2020-12-28
 update: 
-meta: borrador
+draft: true
 tags: [libros]
 categories: [Sociologia]
 toc: true

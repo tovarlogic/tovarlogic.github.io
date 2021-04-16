@@ -2,7 +2,7 @@
 title:  "Constitución Española de 1978"
 date:   2021-02-07
 update: 
-meta: borrador
+draft: true
 tags: [derecho,constitucion]
 categories: [Filosofia,Derecho]
 toc: true
