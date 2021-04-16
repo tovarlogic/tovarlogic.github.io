@@ -4,7 +4,7 @@ layout: archive_left
 
 {{ content }}
 
-{% assign recetas_list = site.data.recetas.list %}
+{% assign recetas_list = site.data.colecciones.recetas %}
 
 <ul class="taxonomy__index">
     {% for receta in recetas_list %}
@@ -37,9 +37,7 @@ layout: archive_left
         <h2 class="archive__subtitle">{{ receta }}</h2>
         <div class="entries-{{ entries_layout }}">
           {% for post in posts %}
-          	{%- unless post.hidden -%}
                {% include archive-single.html type=entries_layout %}
-            {%- endunless -%}
           {% endfor %}
         </div>
         <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
