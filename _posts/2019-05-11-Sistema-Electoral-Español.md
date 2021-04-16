@@ -2,7 +2,7 @@
 title:  "Sistema electoral español"
 date:   2019-05-11
 update: 
-tags: [poliítica]
+tags: [política]
 categories: [Derecho]
 excerpt: Resumen sobre el actual sistema electoral en España y una propuesta para su reforma.
 ---

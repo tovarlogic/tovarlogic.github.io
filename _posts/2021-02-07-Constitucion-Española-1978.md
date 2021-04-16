@@ -3,8 +3,8 @@ title:  "Constitución Española de 1978"
 date:   2021-02-07
 update: 
 draft: true
-tags: [derecho,constitucion]
-categories: [Filosofia,Derecho]
+tags: []
+categories: [Filosofía, Derecho]
 toc: true
 toc_sticky: true
 excerpt: Constitución Española de 1978 comentada.
