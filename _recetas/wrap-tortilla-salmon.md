@@ -1,7 +1,7 @@
 ---
 title: "Wrap de tortilla francesa con salmon ahumado"
 date: 2018-06-27
-receta: [Comida rápida, Desayunos y meriendas]
+receta: [Desayunos y meriendas]
 header:
   teaser: "assets/images/recetas/wrap-salmon.png"
 ingredients:
