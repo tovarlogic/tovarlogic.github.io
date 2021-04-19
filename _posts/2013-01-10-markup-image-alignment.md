@@ -1,7 +1,6 @@
 ---
 title: "Markup: Image Alignment"
-categories:
-  - Markup
+caregories: [minimal-mistakes]
 tags:
   - alignment
   - captions

@@ -3,8 +3,8 @@ title:  "Arquitectura de las decisiones"
 date:   2020-12-28
 update: 
 draft: true
-tags: [libros]
-categories: [Sociologia]
+tags: [Libros, Economía, Sociología]
+caregories: [Conocimiento]
 toc: true
 toc_sticky: true
 excerpt: Síntesis de las ideas desarrolladas en el Libro "Un pequeño empujón (Nudge)" de Richard H. Thaler y Cass R. Sunstein sobre el concepto de Arquitectura de deciciones, es decir el diseño de contextos adecuados para influir predeciblemente en el comportamiento de las personas.

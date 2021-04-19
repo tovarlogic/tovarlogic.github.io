@@ -3,9 +3,7 @@ title: "Layout: Header Image (Vertical)"
 header:
   image: /assets/images/unsplash-image-6.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-categories:
-  - Layout
-  - Uncategorized
+caregories: [minimal-mistakes]
 tags:
   - edge case
   - featured image

@@ -5,6 +5,7 @@ author_profile: false
 sidebar:
   title: "Sample Title"
   nav: sidebar-sample
+caregories: [minimal-mistakes]
 ---
 
 This post has a custom navigation list set in the post's YAML Front Matter.

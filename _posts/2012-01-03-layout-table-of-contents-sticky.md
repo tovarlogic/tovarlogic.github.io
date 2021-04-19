@@ -1,5 +1,6 @@
 ---
 title: "Layout: Post with Sticky Table of Contents"
+caregories: [minimal-mistakes]
 tags:
   - table of contents
 toc: true

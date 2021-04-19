@@ -2,6 +2,7 @@
 title: "Layout: Author Override"
 author: Billy Rick
 excerpt: "A post to test author overrides using a data file."
+caregories: [minimal-mistakes]
 last_modified_at: 2018-09-10T12:32:27-04:00
 ---
 

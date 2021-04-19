@@ -1,6 +1,5 @@
 ---
-categories:
-  - Edge Case
+categories: [minimal-mistakes]
 tags:
   - edge case
   - layout

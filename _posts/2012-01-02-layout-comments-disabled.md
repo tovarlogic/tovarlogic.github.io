@@ -1,9 +1,7 @@
 ---
 title: "Layout: Comments Disabled"
 comments: false
-categories:
-  - Layout
-  - Uncategorized
+categories: [minimal-mistakes]
 tags:
   - comments
   - layout

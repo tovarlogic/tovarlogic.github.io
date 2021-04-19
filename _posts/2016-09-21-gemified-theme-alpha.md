@@ -1,8 +1,7 @@
 ---
 title:  "Gemified Theme -- Alpha Release"
 last_modified_at: 2018-03-20T16:00:58-04:00
-categories: 
-  - Jekyll
+caregories: [minimal-mistakes]
 tags:
   - update
 toc: true

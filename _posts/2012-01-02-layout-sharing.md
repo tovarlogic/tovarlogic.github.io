@@ -1,9 +1,7 @@
 ---
 title: "Layout: Social Sharing Links Enabled"
 share: true
-categories:
-  - Layout
-  - Uncategorized
+caregories: [minimal-mistakes]
 tags:
   - social
   - layout

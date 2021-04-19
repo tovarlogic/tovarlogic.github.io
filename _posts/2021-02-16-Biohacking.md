@@ -1,18 +1,12 @@
 ---
 title: "Biohacking"
 date:   2021-02-16
-tags: [opinion]
-categories: [Salud]
+tags: [Suplementos]
+categories: [Opinión]
 toc: true
 toc_sticky: true
 author_profile: false
 ---
-
-MMD ofrece muchas más posibilidades que MD.
-
-*[MMD]: Abreviación para Multimarkdown
-*[MD]: Abreviación para Markdown
-
 
 # Introducción
 Biohacking

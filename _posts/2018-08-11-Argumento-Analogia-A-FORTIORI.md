@@ -1,8 +1,8 @@
 ---
 title:  Argumentos por Analogía "A Fortiori"
 date:   2018-08-11
-tags: [lógica, pensamiento crítico]
-categories: [Filosofía]
+tags: [Lógica, Pensamiento crítico]
+caregories: [Conocimiento]
 serie: razonamiento
 toc: true
 toc_sticky: true

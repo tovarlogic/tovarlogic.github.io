@@ -1,8 +1,8 @@
 ---
 title:  "Razonamiento"
 date:   2018-08-08
-tags: [lógica, pensamiento crítico]
-categories: [Filosofía]
+tags: [Lógica, Pensamiento crítico]
+caregories: [Conocimiento]
 serie: razonamiento
 toc: true
 toc_sticky: true

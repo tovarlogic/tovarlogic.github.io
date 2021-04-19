@@ -4,9 +4,7 @@ read_time: false
 comments: false
 share: false
 related: false
-categories:
-  - Layout
-  - Uncategorized
+caregories: [minimal-mistakes]
 tags:
   - related posts
   - social

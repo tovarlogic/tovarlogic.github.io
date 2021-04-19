@@ -1,7 +1,6 @@
 ---
 title: "Post: Gallery"
-categories:
-  - Post Formats
+categories: [minimal-mistakes]
 tags:
   - gallery
   - Post Formats
