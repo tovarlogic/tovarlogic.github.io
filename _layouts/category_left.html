@@ -4,9 +4,10 @@ layout: archive_left
 
 {{ content }}
 
+{% assign category_tags = site.tags | where: "category", "page.taxonomy" | sort %}
 
 <ul class="taxonomy__index">
-    {% for tag in site.tags | where: "category", page.taxonomy | sort %}
+    {% for tag in category_tags %}
       {% if tag[1].size > 0 %}
         <li>
           <a href="#{{ tag[0] | slugify }}">
@@ -18,7 +19,8 @@ layout: archive_left
 </ul>
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-{% for tag in site.tags | where: "category", page.taxonomy | sort %}
+
+{% for tag in category_tags %}
     {% if tag[1].size > 0 %}
       <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
         <h2 class="archive__subtitle">{{ tag[0] }}</h2>
