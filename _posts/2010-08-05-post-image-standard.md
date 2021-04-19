@@ -2,6 +2,7 @@
 title: "Post: Image (Standard)"
 categories: [minimal-mistakes]
 hidden: true
+  - Post Formats
 tags:
   - image
   - Post Formats
@@ -42,3 +43,6 @@ Image that fills page content container by adding the `.full` class with:
 
 ![Unsplash image 10]({{ site.url }}{{ site.baseurl }}/assets/images/unsplash-image-10.jpg)
 {: .full}
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI0MTk4NTg5NV19
+-->
