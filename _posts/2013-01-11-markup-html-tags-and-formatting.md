@@ -4,6 +4,7 @@ header:
   teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
 categories: [minimal-mistakes]
 hidden: true
+  - Markup
 tags:
   - content
   - css
@@ -247,3 +248,6 @@ Still sticking with science and Albert Einstein's E = MC<sup>2</sup>, which shou
 ### Variable Tag
 
 This allows you to denote <var>variables</var>.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5ODQ2MzU1MTVdfQ==
+-->
