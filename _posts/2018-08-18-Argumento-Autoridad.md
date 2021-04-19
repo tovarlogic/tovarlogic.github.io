@@ -2,7 +2,7 @@
 title:  Argumentos de Autoridad
 date:   2018-08-18
 tags: [Logica, Pensamiento critico]
-caregories: [Conocimiento]
+categories: [Conocimiento]
 serie: razonamiento
 toc: true
 toc_sticky: true

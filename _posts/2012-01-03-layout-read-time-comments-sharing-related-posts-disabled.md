@@ -4,7 +4,7 @@ read_time: false
 comments: false
 share: false
 related: false
-caregories: [minimal-mistakes]
+categories: [minimal-mistakes]
 tags:
   - related posts
   - social

@@ -1,6 +1,6 @@
 ---
 title: "Markup: Title *with* **Markdown**"
-caregories: [minimal-mistakes]
+categories: [minimal-mistakes]
 tags:
   - css
   - html

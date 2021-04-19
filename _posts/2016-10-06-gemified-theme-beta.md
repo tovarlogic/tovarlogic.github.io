@@ -1,7 +1,7 @@
 ---
 title:  "Gemified Theme -- Beta Release"
 last_modified_at: 2018-03-20T16:01:04-04:00
-caregories: [minimal-mistakes]
+categories: [minimal-mistakes]
 tags:
   - update
 toc: true

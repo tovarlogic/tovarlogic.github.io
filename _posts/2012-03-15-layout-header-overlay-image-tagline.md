@@ -4,7 +4,7 @@ tagline: "This is a custom tagline content which overrides the *default* page ex
 header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-caregories: [minimal-mistakes]
+categories: [minimal-mistakes]
 tags:
   - edge case
   - image

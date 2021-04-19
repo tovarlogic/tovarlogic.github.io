@@ -1,7 +1,7 @@
 ---
 title: "Layout: Related Posts Disabled"
 related: false
-caregories: [minimal-mistakes]
+categories: [minimal-mistakes]
 tags:
   - related posts
   - layout

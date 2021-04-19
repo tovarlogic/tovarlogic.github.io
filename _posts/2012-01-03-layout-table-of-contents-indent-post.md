@@ -1,6 +1,6 @@
 ---
 title: "Layout: Post with Nested Table of Contents"
-caregories: [minimal-mistakes]
+categories: [minimal-mistakes]
 tags:
   - table of contents
 toc: true

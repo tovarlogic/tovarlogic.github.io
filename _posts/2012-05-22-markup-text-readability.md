@@ -1,7 +1,7 @@
 ---
 title: "Markup: Text Readability Test"
 excerpt: "A bunch of text to test readability."
-caregories: [minimal-mistakes]
+categories: [minimal-mistakes]
 tags: 
   - sample post
   - readability

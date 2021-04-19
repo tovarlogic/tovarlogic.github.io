@@ -6,7 +6,7 @@ header:
   actions:
     - label: "Learn more"
       url: "https://unsplash.com"
-caregories: [minimal-mistakes]
+categories: [minimal-mistakes]
 tags:
   - edge case
   - image

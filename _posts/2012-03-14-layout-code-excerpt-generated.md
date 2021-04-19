@@ -1,6 +1,6 @@
 ---
 title: "Layout: Code Excerpt (Generated)"
-caregories: [minimal-mistakes]
+categories: [minimal-mistakes]
 tags:
   - content
   - excerpt

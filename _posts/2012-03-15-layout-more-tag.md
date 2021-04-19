@@ -1,7 +1,7 @@
 ---
 title: "Layout: More Tag"
 excerpt_separator: <!--more-->
-caregories: [minimal-mistakes]
+categories: [minimal-mistakes]
 tags:
   - content
   - read more

@@ -2,7 +2,7 @@
 title: "Markup: HTML Tags and Formatting"
 header:
   teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
-caregories: [minimal-mistakes]
+categories: [minimal-mistakes]
 tags:
   - content
   - css

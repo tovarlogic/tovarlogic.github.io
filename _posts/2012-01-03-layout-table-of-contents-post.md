@@ -3,7 +3,7 @@ title: "Layout: Post with Table of Contents"
 header:
   image: assets/images/unsplash-image-9.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
- caregories: [minimal-mistakes]
+ categories: [minimal-mistakes]
 tags:
   - table of contents
 toc: true

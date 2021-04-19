@@ -1,7 +1,7 @@
 ---
 title: "Layout: Social Sharing Links Disabled"
 share: false
-caregories: [minimal-mistakes]
+categories: [minimal-mistakes]
 tags:
   - social
   - layout
