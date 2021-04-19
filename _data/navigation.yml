@@ -21,10 +21,10 @@ foo:
 # main links
 main:
   - title: "Conocimiento"
-    url: /category/conocimiento
+    url: /category/conocimiento/
   - title: "Opinión"
-    url: /category/opinion
-    - title: "Series monotemáticas"
+    url: /category/opinion/
+  - title: "Series"
     url: /series/
   - title: "Recetas"
     url: /recetas/
