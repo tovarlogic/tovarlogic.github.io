@@ -6,6 +6,8 @@ share: false
 related: false
 categories: [minimal-mistakes]
 hidden: true
+  - Layout
+  - Uncategorized
 tags:
   - related posts
   - social
@@ -16,3 +18,6 @@ tags:
 This post has reading time, comments, social sharing links, and related posts disabled.
 
 Reading time, comments, social sharing and related post links should not appear.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2ODU2NjM3MzVdfQ==
+-->
