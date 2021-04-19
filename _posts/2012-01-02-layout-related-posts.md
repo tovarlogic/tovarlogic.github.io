@@ -2,7 +2,7 @@
 title: "Layout: Related Posts Enabled"
 related: true
 categories: [minimal-mistakes]
-front_hidden: true
+hidden: true
 tags:
   - related posts
   - layout

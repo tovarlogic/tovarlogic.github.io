@@ -7,7 +7,7 @@ header:
     - label: "Learn more"
       url: "https://unsplash.com"
 categories: [minimal-mistakes]
-front_hidden: true
+hidden: true
 tags:
   - edge case
   - image

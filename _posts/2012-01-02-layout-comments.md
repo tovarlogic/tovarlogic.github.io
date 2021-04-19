@@ -2,7 +2,7 @@
 title: "Layout: Comments Enabled"
 comments: true
 categories: [minimal-mistakes]
-front_hidden: true
+hidden: true
 tags:
   - comments
   - layout

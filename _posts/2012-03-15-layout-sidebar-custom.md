@@ -11,7 +11,7 @@ sidebar:
     text: "More text here."
     nav: sidebar-sample
 categories: [minimal-mistakes]
-front_hidden: true
+hidden: true
 ---
 
 This post has a custom sidebar set in the post's YAML Front Matter.

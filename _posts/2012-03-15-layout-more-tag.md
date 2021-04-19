@@ -2,7 +2,7 @@
 title: "Layout: More Tag"
 excerpt_separator: <!--more-->
 categories: [minimal-mistakes]
-front_hidden: true
+hidden: true
 tags:
   - content
   - read more

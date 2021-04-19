@@ -2,7 +2,7 @@
 title: "Layout: Social Sharing Links Enabled"
 share: true
 categories: [minimal-mistakes]
-front_hidden: true
+hidden: true
 tags:
   - social
   - layout

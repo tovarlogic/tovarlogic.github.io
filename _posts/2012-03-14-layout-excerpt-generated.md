@@ -2,7 +2,7 @@
 title: "Layout: Excerpt (Generated)"
 excerpt_separator: "<!--more-->"
 categories: [minimal-mistakes]
-front_hidden: true
+hidden: true
 tags:
   - content
   - excerpt

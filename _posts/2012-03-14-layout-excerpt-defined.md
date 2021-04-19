@@ -2,7 +2,7 @@
 title: "Layout: Excerpt (Defined)"
 excerpt: "This is a user-defined post excerpt. It should be displayed in place of the post content in archive-index pages."
 categories: [minimal-mistakes]
-front_hidden: true
+hidden: true
 tags:
   - content
   - excerpt

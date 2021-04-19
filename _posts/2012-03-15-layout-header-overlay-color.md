@@ -3,7 +3,7 @@ title: "Layout: Header Overlay with Background Fill"
 header:
   overlay_color: "#333"
 categories: [minimal-mistakes]
-front_hidden: true
+hidden: true
 tags:
   - edge case
   - image

@@ -6,7 +6,7 @@ sidebar:
   title: "Sample Title"
   nav: sidebar-sample
 categories: [minimal-mistakes]
-front_hidden: true
+hidden: true
 ---
 
 This post has a custom navigation list set in the post's YAML Front Matter.

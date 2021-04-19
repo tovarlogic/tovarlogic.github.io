@@ -4,7 +4,7 @@ header:
   image: assets/images/unsplash-image-9.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
  categories: [minimal-mistakes]
-front_hidden: true
+hidden: true
 tags:
   - table of contents
 toc: true
