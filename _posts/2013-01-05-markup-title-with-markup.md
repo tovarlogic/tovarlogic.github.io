@@ -2,6 +2,7 @@
 title: "Markup: Title *with* **Markdown**"
 categories: [minimal-mistakes]
 hidden: true
+  - Markdown
 tags:
   - css
   - html
@@ -12,3 +13,6 @@ Verify that:
 
 * The post title renders the word "with" in *italics* and the word "Markdown" in **bold**.
 * The post title markup should be removed from the browser window / tab.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwMTUyNzYwMThdfQ==
+-->
