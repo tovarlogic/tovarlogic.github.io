@@ -2,6 +2,7 @@
 title: "Post: Gallery"
 categories: [minimal-mistakes]
 hidden: true
+  - Post Formats
 tags:
   - gallery
   - Post Formats
@@ -140,3 +141,6 @@ Gallery column layout can be overrided by setting a `layout`.
 ```
 
 {% include gallery id="gallery" layout="half" caption="This is a half gallery layout example." %}
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk3NjcxOTAwXX0=
+-->
