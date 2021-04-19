@@ -2,6 +2,7 @@
 title: "Markup: Image Alignment"
 categories: [minimal-mistakes]
 hidden: true
+  - Markup
 tags:
   - alignment
   - captions
@@ -70,3 +71,6 @@ And now we're going to shift things to the **right align**. Again, there should 
 In just a bit here, you should see the text start to wrap below the right aligned image and settle in nicely. There should still be plenty of room and everything should be sitting pretty. Yeah --- Just like that. It never felt so good to be right.
 
 And that's a wrap, yo! You survived the tumultuous waters of alignment. Image alignment achievement unlocked!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTUzNTk4ODk5NV19
+-->
