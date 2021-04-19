@@ -1,7 +1,8 @@
 ---
 title: "Edge Case: Nested and Mixed Lists"
 categories: [minimal-mistakes]
-hidden: true
+hidden: tru
+  - Edge Case
 tags:
   - content
   - css
@@ -64,3 +65,6 @@ Nested and mixed lists are an interesting beast. It's a corner case to make sure
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbODQ1MDEyMjQ0XX0=
+-->
