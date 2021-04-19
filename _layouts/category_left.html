@@ -4,7 +4,7 @@ layout: archive_left
 
 {{ content }}
 
-{% assign category_tags = site.tags | where: "category", "page.taxonomy" | sort %}
+{% assign category_tags = site.tags | where: "category", page.taxonomy %}
 
 <ul class="taxonomy__index">
     {% for tag in category_tags %}
