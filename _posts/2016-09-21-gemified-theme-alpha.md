@@ -3,6 +3,7 @@ title:  "Gemified Theme -- Alpha Release"
 last_modified_at: 2018-03-20T16:00:58-04:00
 categories: [minimal-mistakes]
 hidden: true
+  - Jekyll
 tags:
   - update
 toc: true
@@ -92,3 +93,6 @@ That's it! If all goes well running `bundle exec jekyll serve` should spin-up yo
 [File an issue](https://github.com/mmistakes/minimal-mistakes/issues/new){: .btn .btn--info .btn--large}
 
 Thanks!
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTgxNjg2MDQzM119
+-->
