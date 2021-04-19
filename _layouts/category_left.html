@@ -6,11 +6,11 @@ layout: archive_left
 
 
 <ul class="taxonomy__index">
-    {% for tag in site.tags | where: "category", "Conocimiento" | sort %}
+    {% for tag in site.tags | where: "category", page.taxonomy | sort %}
       {% if tag[1].size > 0 %}
         <li>
           <a href="#{{ tag[0] | slugify }}">
-            <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ i }}</span>
+            <strong>{{ tag[0] }}</strong> <span class="taxonomy__count">{{ }}</span>
           </a>
         </li>
       {% endif %}
