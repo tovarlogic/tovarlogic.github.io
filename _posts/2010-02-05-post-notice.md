@@ -2,6 +2,7 @@
 title: "Post: Notice"
 categories: [minimal-mistakes]
 hidden: true
+  - Post Formats
 tags:
   - Post Formats
   - notice
@@ -76,3 +77,6 @@ Or you could skip the capture and stick with straight HTML.
   <h4>Message</h4>
   <p>A basic message.</p>
 </div>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTY5MzM0OTk5M119
+-->
