@@ -4,6 +4,8 @@ header:
   image: https://live.staticflickr.com/8084/8396909762_813a2b1829_h.jpg
 categories: [minimal-mistakes]
 hidden: true
+  - Layout
+  - Uncategorized
 tags:
   - edge case
   - featured image
@@ -14,3 +16,6 @@ tags:
 This post should display a **header image**, if the theme supports it.
 
 Featured image is an external asset and should load.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTMxNjA2MDUxM119
+-->
