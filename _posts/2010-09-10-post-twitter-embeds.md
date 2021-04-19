@@ -2,6 +2,7 @@
 title: "Post: Twitter Embed"
 categories: [minimal-mistakes]
 hidden: true
+  - Media
 tags:
   - content
   - embeds
@@ -13,3 +14,6 @@ tags:
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This post tests Twitter Embeds.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg4NTI0ODg5NV19
+-->
