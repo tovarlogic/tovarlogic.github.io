@@ -21,19 +21,19 @@ foo:
 # main links
 main:
   - title: "Conocimiento"
-    url: /series/
-  - title: "Series"
-    url: /series/
+    url: /category/conocimiento
   - title: "Opinión"
+    url: /category/opinion
+    - title: "Series monotemáticas"
     url: /series/
   - title: "Recetas"
     url: /recetas/
-  - title: "Artículos por fecha"
-    url: /articulos-fecha/
   - title: "Artículos por categoría"
     url: /categories/
   - title: "Artículos por etiqueta"
     url: /tags/
+  - title: "Artículos por fecha"
+    url: /articulos-fecha/
   - title: "Guide"
     url: /docs/quick-start-guide/
 
