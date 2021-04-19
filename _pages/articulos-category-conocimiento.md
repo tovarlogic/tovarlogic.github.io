@@ -1,8 +1,8 @@
 ---
 title: Artículos que aglutinan mi base cultural y de conocimiento
-breadcrumb_name: categorias/conocimeinto
+breadcrumb_name: categorias/conocimiento
 layout: category_left
-permalink: /categories/conocimiento/
+permalink: /conocimiento/
 taxonomy: conocimiento
 ---
 
