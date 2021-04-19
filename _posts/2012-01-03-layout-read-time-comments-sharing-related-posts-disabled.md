@@ -5,6 +5,7 @@ comments: false
 share: false
 related: false
 categories: [minimal-mistakes]
+front_hidden: true
 tags:
   - related posts
   - social

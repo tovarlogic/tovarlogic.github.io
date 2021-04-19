@@ -1,6 +1,7 @@
 ---
 title: "Post: Twitter Embed"
 categories: [minimal-mistakes]
+front_hidden: true
 tags:
   - content
   - embeds

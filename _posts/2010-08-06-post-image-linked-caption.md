@@ -1,6 +1,7 @@
 ---
 title: "Post: Image (Linked with Caption)"
 categories: [minimal-mistakes]
+front_hidden: true
 tags:
   - image
   - Post Formats

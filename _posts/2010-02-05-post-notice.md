@@ -1,6 +1,7 @@
 ---
 title: "Post: Notice"
 categories: [minimal-mistakes]
+front_hidden: true
 tags:
   - Post Formats
   - notice

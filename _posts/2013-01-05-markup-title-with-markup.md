@@ -1,6 +1,7 @@
 ---
 title: "Markup: Title *with* **Markdown**"
 categories: [minimal-mistakes]
+front_hidden: true
 tags:
   - css
   - html

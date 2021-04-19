@@ -5,6 +5,7 @@ header:
     id: XsxDH4HcOWA
     provider: youtube
 categories: [minimal-mistakes]
+front_hidden: true
 tags:
   - video
   - layout

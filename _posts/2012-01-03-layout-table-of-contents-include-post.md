@@ -1,6 +1,7 @@
 ---
 title: "Layout: Post with Nested Table of Contents via Helper"
 categories: [minimal-mistakes]
+front_hidden: true
 tags:
   - table of contents
 ---

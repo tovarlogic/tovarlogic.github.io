@@ -1,6 +1,7 @@
 ---
 title: "Layout: Code Excerpt (Generated)"
 categories: [minimal-mistakes]
+front_hidden: true
 tags:
   - content
   - excerpt

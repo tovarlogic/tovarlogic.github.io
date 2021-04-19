@@ -4,6 +4,7 @@ header:
   image: /assets/images/unsplash-image-4.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
  categories: [minimal-mistakes]
+front_hidden: true
 tags: 
   - sample post
   - readability

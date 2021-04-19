@@ -1,6 +1,7 @@
 ---
 title: "Post: Gallery"
 categories: [minimal-mistakes]
+front_hidden: true
 tags:
   - gallery
   - Post Formats

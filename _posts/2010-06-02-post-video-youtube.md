@@ -1,6 +1,7 @@
 ---
 title: "Post: Video (YouTube)"
 categories: [minimal-mistakes]
+front_hidden: true
 tags:
   - Post Formats
 ---

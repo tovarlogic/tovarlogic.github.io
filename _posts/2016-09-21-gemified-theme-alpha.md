@@ -2,6 +2,7 @@
 title:  "Gemified Theme -- Alpha Release"
 last_modified_at: 2018-03-20T16:00:58-04:00
 categories: [minimal-mistakes]
+front_hidden: true
 tags:
   - update
 toc: true

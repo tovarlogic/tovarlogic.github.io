@@ -1,5 +1,6 @@
 ---
 categories: [minimal-mistakes]
+front_hidden: true
 tags:
   - edge case
   - layout
