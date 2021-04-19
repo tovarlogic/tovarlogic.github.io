@@ -4,8 +4,8 @@ title:  "Poderes fácticos"
 date:   2018-08-13
 update: 
 draft: true
-tags: [política]
-categories: [Filosofía]
+tags: [Política]
+caregories: [Conocimiento]
 excerpt:
 
 ---
