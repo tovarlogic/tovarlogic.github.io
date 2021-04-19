@@ -17,6 +17,7 @@ layout: archive_left
     {% endfor %}
 </ul>
 
+{% assign entries_layout = page.entries_layout | default: 'list' %}
 {% for tag in site.tags | where: "category", page.taxonomy | sort %}
     {% if tag[1].size > 0 %}
       <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
@@ -31,8 +32,3 @@ layout: archive_left
     {% endif %}
  {% endfor %}
 
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% include posts-category.html taxonomy=page.taxonomy type=entries_layout %}
-</div>
