@@ -21,9 +21,9 @@ foo:
 # main links
 main:
   - title: "Conocimiento"
-    url: /category/conocimiento/
+    url: /categories/conocimiento/
   - title: "Opinión"
-    url: /category/opinion/
+    url: /categories/opinion/
   - title: "Series"
     url: /series/
   - title: "Recetas"
