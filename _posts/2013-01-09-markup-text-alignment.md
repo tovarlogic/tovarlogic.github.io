@@ -2,6 +2,7 @@
 title: "Markup: Text Alignment"
 categories: [minimal-mistakes]
 hidden: true
+  - Markup
 tags:
   - alignment
   - content
@@ -32,3 +33,6 @@ This is a paragraph. It is right aligned. It is a bit more conservative in it's 
 
 This is a paragraph. It is justify aligned. It gets really mad when people associate it with Justin Timberlake. Typically, justified is pretty straight laced. It likes everything to be in it's place and not all cattywampus like the rest of the aligns. I am not saying that makes it better than the rest of the aligns, but it does tend to put off more of an elitist attitude.
 {: style="text-align: justify;"}
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNzM3NjgwMDc5XX0=
+-->
