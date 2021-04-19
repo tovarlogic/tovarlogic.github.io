@@ -2,6 +2,7 @@
 title: "Post: Image (Caption)"
 categories: [minimal-mistakes]
 hidden: true
+  - Post Formats
 tags:
   - image
   - Post Formats
@@ -15,3 +16,6 @@ tags:
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
   <figcaption>Photo from Unsplash.</figcaption>
 </figure>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTgxNDU1MTYyM119
+-->
