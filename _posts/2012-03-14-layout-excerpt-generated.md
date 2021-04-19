@@ -3,6 +3,8 @@ title: "Layout: Excerpt (Generated)"
 excerpt_separator: "<!--more-->"
 categories: [minimal-mistakes]
 hidden: true
+  - Layout
+  - Uncategorized
 tags:
   - content
   - excerpt
@@ -14,3 +16,6 @@ This is the post content. Archive-index pages should display an auto-generated e
 <!--more-->
 
 Be sure to test the formatting of the auto-generated excerpt, to ensure that it doesn't create any layout problems.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY4MTYxNTI0NF19
+-->
