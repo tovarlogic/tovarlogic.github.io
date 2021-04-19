@@ -4,7 +4,7 @@ date:   2020-12-28
 update: 
 draft: truemeta: borrador
 tags: [Llibros, Economía, Sociología]
-categories: [ConocimientoSociologia]
+categories: [Conocimientos]
 toc: true
 toc_sticky: true
 excerpt: Síntesis de las ideas desarrolladas en el Libro "Un pequeño empujón (Nudge)" de Richard H. Thaler y Cass R. Sunstein sobre el concepto de Arquitectura de deciciones, es decir el diseño de contextos adecuados para influir predeciblemente en el comportamiento de las personas.
@@ -190,11 +190,11 @@ En esta faceta de la vida, también son aplicables los típicos nudges descritos
 * "Un pequeño empujón" por Richard H. Thaler and Cass R. Sunstein
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzYyNjc1NCwtMTc5ODI5NTcxNiw2NT
-Q3MjY4MjIsLTEyMjcwODg1ODIsMTkyNzE1MTYyNiwxODY5MjYy
-NDAxLC00NjUzOTkxMTUsLTIwNjgxOTAyNSwtMTQ5ODM4OTY4My
-wyMDAxNzE5MzQ1LC03OTY5MTc3ODgsLTE1MzcwNTc0OTYsLTYw
-NDEyMTEzLC0yMTE5OTAxMzM2LDEwODUwMTU2MjEsMTYyNTk5Mz
-UyMywtMTc2NDA4NDE0OCwxODk0Njg2NDg0LC0yODM5MjU3NF19
-
+eyJoaXN0b3J5IjpbLTExMDYzOTAzMDgsLTE3OTgyOTU3MTYsNj
+U0NzI2ODIyLC0xMjI3MDg4NTgyLDE5MjcxNTE2MjYsMTg2OTI2
+MjQwMSwtNDY1Mzk5MTE1LC0yMDY4MTkwMjUsLTE0OTgzODk2OD
+MsMjAwMTcxOTM0NSwtNzk2OTE3Nzg4LC0xNTM3MDU3NDk2LC02
+MDQxMjExMywtMjExOTkwMTMzNiwxMDg1MDE1NjIxLDE2MjU5OT
+M1MjMsLTE3NjQwODQxNDgsMTg5NDY4NjQ4NCwtMjgzOTI1NzRd
+fQ==
 -->
