@@ -9,7 +9,7 @@ author_profile: false
 draft: true
 ---
 # Introducción
-Las criptomonedas tienen una larga historia, no obstante se popularizaron tras la creación del Bitcoin a finales de 2008. Este artículo no tiene intención de cubrir dicha historia ni descubrir sus fundamentos (aunque se aclara todo lo imprescindible para comprender la situación), para ello puedes empezar por la [Wikipedia](https://es.wikipedia.org/wiki/Criptomoneda). Por el contrario, lo que pretendo es articular dentro de mis propias limitaciones algunas de sus implicaciones, siendo en mi opinión las más importantes las relativas al *Medio ambiente* y los *Derechos humanos*.
+Las criptomonedas tienen una larga historia, no obstante se popularizaron tras la creación del Bitcoin a finales de 2008. Este artículo no tiene intención de cubrir dicha historia ni descubrir sus fundamentos (aunque se aclara todo lo imprescindible para comprender sus implicaciones), para ello puedes empezar por la [Wikipedia](https://es.wikipedia.org/wiki/Criptomoneda). Por el contrario, lo que pretendo es articular dentro de mis propias limitaciones algunas de las consecuencias de su adopción. Las mas relevantes, en mi opinión, las relativas al *Medio ambiente* y los *Derechos humanos*.
 
 Las criptomonedas en general son una innovación tecnológica que, como tantas otras en el pasado, exponen claramente nuestras debilidades y defectos, tanto individuales como de las sociedades en las que vivimos. Por supuesto, la tecnología en sí no es ni buena ni mala, sin
 o el uso que le demos, y aquí describiré algunos de los usos, reales y potenciales, que traen consigo consecuencias no intencionadas.
@@ -111,5 +111,5 @@ Queda patente que el impacto medioambiental de todo el ecosistema de criptomoned
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzMxMjk2MjddfQ==
+eyJoaXN0b3J5IjpbLTE4MDM4NDU1NjNdfQ==
 -->
