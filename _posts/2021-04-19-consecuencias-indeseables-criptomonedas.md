@@ -117,7 +117,7 @@ Uno de los problemas evidentes es que este sistema, al ser totalmente transparen
 
 Por su naturaleza, resulta difícil determinar el uso primordial que se le da a la moneda virtual, muy probablemente las mafias, contrabandistas y blanqueadores de moneda encuentran en Bitcoin un medio sin parangón para esquivar al control gubernamental. Es de esperar por tanto, que su uso sea generalizado por estos colectivos.
 
-Otra consecuencia indeseable, es que como resultado de la especulación, el valor de estas monedas suelen ser muy volátiles. Este hecho dicifult
+Otra consecuencia indeseable es que, como resultado de la especulación, el valor de estas monedas suele ser muy volátiles. Este hecho dicifulta enermomente a aquellos usuarios que quieran darle un uso cotidiano y típico de una moneda estandard.
 
 *[p2p]: Peer to peer
 *[b2b]: Bussines to Bussines
@@ -131,6 +131,6 @@ Otra consecuencia indeseable, es que como resultado de la especulación, el valo
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzQzNTkxNiw5NDc5MjIxMjEsLTMxMj
-g0MDkzMiwtMTgwMzg0NTU2M119
+eyJoaXN0b3J5IjpbNTY5NzM5NTQ0LDk0NzkyMjEyMSwtMzEyOD
+QwOTMyLC0xODAzODQ1NTYzXX0=
 -->
