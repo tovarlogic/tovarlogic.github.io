@@ -60,7 +60,7 @@ Este caso de uso se conoce por NFT. Básicamente lo que significa es que cualqui
 
 En la actualidad se consume mucho entretenimiento en internet a través de los servicios de streaming, que desconozco como pueden ser afectados. Sin embargo, existen otros productos que aún se comercializan en un modo más clásico, como los libros electrónicos.
 
-Cuando uno compra un libro, no compra su visualización mientras lee (que es lo que ocurre con los servicios de streaming) sino que recibe una copia digital, pero real al fin y al cabo. Esta copia, la podemos manipular, compiar y compartir, es decir la podemos piratear. El uso de NFTs implicaría que no podrías hacer copias de nuestro libro sino que lo podrías usar y compartir. Si lo compartes, ya no lo tienes tu, sino la persona a la que se lo has dado. Es algo muy similar a lo que ocurre con un libro físico de papel que si se lo porestamos, ya no lo podemos leer hasta que nos lo devuelvan. No se trata de un sistema perfecto, ya que al igual que con el formato papel tendr
+Cuando uno compra un libro, no compra su visualización mientras lee (que es lo que ocurre con los servicios de streaming) sino que recibe una copia digital, pero real al fin y al cabo. Esta copia, la podemos manipular, compiar y compartir, es decir la podemos piratear. El uso de NFTs implicaría que no podrías hacer copias de nuestro libro sino que lo podrías usar y compartir. Si lo compartes, ya no lo tienes tu, sino la persona a la que se lo has dado. Es algo muy similar a lo que ocurre con un libro físico de papel que si se lo porestamos, ya no lo podemos leer hasta que nos lo devuelvan. No se trata de un sistema perfecto, ya que al igual que con el formato papel tendrías maneras de copiarlo. Una foto a la pantalla de tu ebook sería el equivalente a la fotocopiadora actual, nadie te impide hacer una copia así. Sin embargo, en ambos casos, únicamente el que posee la copia original puede 
 
 
 # Consecuencias indeseables
@@ -177,7 +177,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NzEwNDA0NiwxMzQ4OTIxNzQxLC0xMz
-c3ODY2NTEyLDk0NzkyMjEyMSwtMzEyODQwOTMyLC0xODAzODQ1
-NTYzXX0=
+eyJoaXN0b3J5IjpbMTE2NDUxOTIxLDEzNDg5MjE3NDEsLTEzNz
+c4NjY1MTIsOTQ3OTIyMTIxLC0zMTI4NDA5MzIsLTE4MDM4NDU1
+NjNdfQ==
 -->
