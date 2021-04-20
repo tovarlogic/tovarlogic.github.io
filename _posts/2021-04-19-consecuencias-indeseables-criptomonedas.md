@@ -148,8 +148,9 @@ Otra consecuencia indeseable es que, como resultado de la especulación, el valo
 
 Existe un gran número de "Altcoins" que relacionan su valor directamente con cualquier otra moneda fiat como el USD o EUR. De este modo se pretende evitar la mencionada volatilidad y reducir la incertidumbre. Hasta que no se generalice su uso, es posible que el potencial democratizador de las criptomonedas sólo sea eso, un potencial beneficio que nunca llega a materializarse.  
 
-## Inseguridad
-A priori, la fuerza de esta tecnología está en su seguridad y transparencia. Se trata de un 
+## Inseguridad e incertidumbre
+A priori, la fuerza de esta tecnología está en su seguridad y transparencia. Se trata de una tecnología dificilmente hackeable, mucho mas complicado que cualquier otro sistema digital anterior. Resulta poco intuitivo, que precisamente algo que es público y fácilmente a
+
 No se vislumbra, en un futuro a corto plazo, que ni el interés, ni la utilidad, ni la adopción de esta tecnología decaiga, más bien todo lo contrario. Todo apunta a que nuevas mejoras e innovaciones, y tanto un aumento de la popularidad como conocimiento generalizado logren incrementar inmensamente la adopción de esta tecnología. Aun queda para que su beneficio real se aproxime a su potencial, pero no me cabe duda que es cuestión de tiempo.
 
 Sin embargo, quiero dejar aquí constancia de un gran riesgo o debilidad que implica el uso generalizado de este tipo de tecnología. Como ya he dicho anteriormente, los cimientos de las cadenas de bloques son la criptografía. Hasta ahora los avances en criptografía se han mantenido por delante de los avances en potencia computacional, pero es posible que, por primera vez en la historia, esto deje de ser así. Es también cuestión de tiempo, de poco tiempo, que la computación cuántica ponga en jaque a la criptografía actual.
@@ -174,6 +175,6 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzOTM5NDUsLTEzNzc4NjY1MTIsOTQ3OT
-IyMTIxLC0zMTI4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
+eyJoaXN0b3J5IjpbMTYzMzk3NzEwMiwtMTM3Nzg2NjUxMiw5ND
+c5MjIxMjEsLTMxMjg0MDkzMiwtMTgwMzg0NTU2M119
 -->
