@@ -45,10 +45,12 @@ Si pensamos en registros públicos en sentido estricto, a mí personalmente se m
 - Registro de la propiedad
 - Registro notarial
 
-En la actualidad estos registros disfrutan de gran confianza por nuestra parte. No nos planteamos que se puedan perder o que sean manipulados malintencionadamente. Es posible, que en realidad, si conociéramos como se custodian no tendríamos tanta confianza. En cualquier caso, incluso aceptando la absoluta confiabilidad de dichos registros por su inviolabilidad y fiabilidad, tienen dos grandes desventajas:
+En la actualidad estos registros disfrutan de gran confianza por nuestra parte. No nos planteamos que se puedan perder o que sean manipulados malintencionadamente. Es posible, que en realidad, si conociéramos como se custodian no tendríamos tanta confianza. En cualquier caso, incluso aceptando la absoluta confiabilidad de dichos registros por su inviolabilidad y fiabilidad, tienen tres grandes desventajas:
+ - La transparencia es limitada.
+ - El acceso es costoso.
+ - Su gestión y mantenimiento también es costoso.
 
- - La transparencia es limitada
- - El acceso es costo
+Teoricamente, las cadenas de bloques pueden solucionar todas y
 
 ## Como activo no fungible
 
@@ -151,6 +153,6 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2NTk5MTczLDk0NzkyMjEyMSwtMzEyOD
-QwOTMyLC0xODAzODQ1NTYzXX0=
+eyJoaXN0b3J5IjpbLTE0NDkyMDQyNDEsOTQ3OTIyMTIxLC0zMT
+I4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
 -->
