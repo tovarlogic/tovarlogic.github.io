@@ -123,7 +123,7 @@ Ya ha quedado claro, que el uso de criptomonedas dificulta su control por parte 
 
 La corrupción generalmente busca aumentar el poder y/o la riqueza, de la que muchas multinacionales ya disfrutan de manera desproporcionada. Un efecto del desarrollo de economías de escala en un mundo globalizado, con acceso unioversal y barato a la energía, y por tanto al transporte, es la deslocalización de muchas de sus actividades, primordialmente la producción. Los controles de calidad, prevención de riesgos laborales y condiciones económicas de los trabajadores en occidente son mucho más rigurosas y costosas que en otras partes del mundo. La búsqueda de reducción de costes es lo que ha motivado precisamente dicha deslocalilzación. El uso de Bitcoin, una vez más, facilita llevar a cabo operaciones opacas, como sobornar a las autoridades locales, para que les permitan llevar a cabo actividades de dudosa moralidad como usar mano de obra infantil.
 
-Los efectos negativos, no obstante, no se limitan a paises menos desarrollados. En occidente ya se emplean las criptomonedas como medio para el blanqueo de capital y evasión fiscal. ¿Que pasaría si su uso se generalizara? No me cabe duda, de que si la mayoría tenemos acceso a dinero sin que nadie sepa cuánto tenemos, cuánto gastamos, en dónde y cámo
+Los efectos negativos, no obstante, no se limitan a paises menos desarrollados. En occidente ya se emplean las criptomonedas como medio para el blanqueo de capital y evasión fiscal. ¿Que pasaría si su uso se generalizara? No me cabe duda, de que si la mayoría tenemos acceso a dinero opaco, sin que nadie sepa cuánto tenemos, cuánto gastamos, en dónde y cómo; nuestro comportamiento económico y fiscal no se vería tan condicionado por los valores morales. Hay infinidad de ejemplos análogos que ilustran perfectamente que el comportamiento humano, cuando no está sujeto a "control" por el resto
 
 
 Otra consecuencia indeseable es que, como resultado de la especulación, el valor de estas monedas suele ser muy volátil. Este hecho dicifulta enermomente a aquellos usuarios que quieran darle un uso cotidiano y típico de una moneda estandar. No me imagino a nadie usando Bitcoins para comprar una alimentos, ya lo que en un momento resulta un precio razonable, al poco puede ser irrisorio o carísimo. Esto implica también, que para cualquier mortal sus ahorros almacenados en forma de criptomoneda, pueden pasar de tener cierto valor a prácticamente nada en cualquier momento. La incertidumbre económica que genera frena su adopción como dinero real.
@@ -145,6 +145,6 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3OTgxMzg1LDk0NzkyMjEyMSwtMzEyOD
-QwOTMyLC0xODAzODQ1NTYzXX0=
+eyJoaXN0b3J5IjpbMTE1NDQ2NTMwNyw5NDc5MjIxMjEsLTMxMj
+g0MDkzMiwtMTgwMzg0NTU2M119
 -->
