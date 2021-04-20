@@ -157,7 +157,10 @@ Quizás en este caso, este rizando el rizo, o estirando demasiado la imaginació
 
 En este caso hipotético, resultaría mucho más sencillo limitar el acceso indeseado a dichas publicaciones. Sería un solución casi perfecta para la protección del derecho de autor y los copyright. Actualmente, el copyright no es una barrera eficaz para la libre circulación de información. Incluso en el ámbito científico, donde el acceso a las publicaciones se obtiene casi exclusivamente a través de revistas especializadas como Nature, existe la posibilidad de acceder a copias pirateadas con mucha facilidad. Como muchas cosas, resulta complicado argumentar si esto es algo bueno o malo, ya que tiene consecuencias reales buenas y malas. Las revistas especializadas y serias realizan un esfuerzo de revisión con valor real para la ciencia, no publican cualquier cosa.
 
-Si aceptamos que el principio de libre acceso a la información ees bueno para la sociedad en general, y obviamos las consecuencias negativas
+Si aceptamos que el principio de libre acceso a la información es superior y deseable en cualquier caso, entonces tanto el copyright como las patentes son barreras indeseables. Pues bien, 
+
+
+, incluso a pesar de las consecuencias de que sea de manera gbueno para la sociedad en general, y obviamos las consecuencias negativas
  esto es un arma de doble filo
 
 estas restricciones como las de las patentes suponen, en mi opinión una gran barrera para el desarrollo y accesoDesde el punto de vista de libre acceso de la información
@@ -189,7 +192,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyOTQ3NTU4LDEzNDg5MjE3NDEsLTEzNz
-c4NjY1MTIsOTQ3OTIyMTIxLC0zMTI4NDA5MzIsLTE4MDM4NDU1
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTUzNTMzMTk5MywxMzQ4OTIxNzQxLC0xMz
+c3ODY2NTEyLDk0NzkyMjEyMSwtMzEyODQwOTMyLC0xODAzODQ1
+NTYzXX0=
 -->
