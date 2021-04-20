@@ -159,7 +159,7 @@ En este caso hipotético, resultaría mucho más sencillo limitar el acceso inde
 
 Si aceptamos que el principio de libre acceso a la información es superior y deseable en cualquier caso, entonces tanto el copyright como las patentes son barreras indeseables. Pues bien, ambas tendrían una protección real, en el caso del copyright por primera vez en la historia, lo que dificultaría el acceso de información universal. 
 
-Es paradógico, que en la era de las tecnologías de la información, donde incluso las personas mas pobres, sin acceso a servicios básicos como sanidad o educación, si tengan acceso a un terminal con conexión a internet y que a la misma vez la cadena de bloques pueda representar un impedimento para mejorar la educación y cultura de todos los pueblos del mundo.
+Es paradógico, que en la era de las tecnologías de la información, donde incluso las personas mas pobres, sin acceso a servicios básicos como sanidad o educación, si tengan acceso a un terminal con conexión a internet y que a la misma vez, la cadena de bloques, hija de esta era, les pueda impidir acceder a estos recursos educativos e informativos. 
 
 ## Inseguridad e incertidumbre
 No se vislumbra, en un futuro a corto plazo, que ni el interés, ni la utilidad, ni la adopción de esta tecnología decaiga, más bien todo lo contrario. Todo apunta a que nuevas mejoras e innovaciones, y tanto un aumento de la popularidad como conocimiento generalizado logren incrementar inmensamente la adopción de esta tecnología. Aun queda para que su beneficio real se aproxime a su potencial, pero no me cabe duda que es cuestión de tiempo.
@@ -188,7 +188,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjk5MDY3MDAsMTM0ODkyMTc0MSwtMT
-M3Nzg2NjUxMiw5NDc5MjIxMjEsLTMxMjg0MDkzMiwtMTgwMzg0
-NTU2M119
+eyJoaXN0b3J5IjpbLTg4MDE4MjY1OSwxMzQ4OTIxNzQxLC0xMz
+c3ODY2NTEyLDk0NzkyMjEyMSwtMzEyODQwOTMyLC0xODAzODQ1
+NTYzXX0=
 -->
