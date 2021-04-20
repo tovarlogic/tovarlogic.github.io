@@ -74,7 +74,7 @@ La adopción masiva de esta tecnología, como uso dinerario, ha generado un prob
 </figure>
 
 <figure>
-  <img src="/assets/images/blog/bitcoin/distribucion-consumo-electrico-bitcoin-2019-2021.png">
+  <img src="/assets/images/blog/bitcoin/distribucion-consumo-electrico-bitcoin-2019-2021.PNG">
   <figcaption>
 	  Distribución global del consumo eléctrico 2019-2021
  Crédito:  <a href="https://cbeci.org/">Cambridge Centre for Alternative Finance</a>
@@ -102,7 +102,7 @@ Se estima que el consumo anual, del Bitcoin únicamente, supera en la actualidad
 Este problema no se limita al Bitcoin, sino a todo el ecosistema de criptomonedas. Ethereum, la segunda más importante en capitalización también tiene consumos absurdos.
 
 <figure>
-  <img src="/assets/images/blog/bitcoin/consumo-electrico-ethereum-historico.png">
+  <img src="/assets/images/blog/bitcoin/consumo-electrico-ethereum-historico.PNG">
   <figcaption>
 	  Estimación de consumo eléctrico histórico del Bitcoin 2015-2021
  Crédito:  <a href="https://digiconomist.net/ethereum-energy-consumption/">Digiconomist</a>
@@ -175,6 +175,6 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDEzMzQyMSwtMTM3Nzg2NjUxMiw5ND
-c5MjIxMjEsLTMxMjg0MDkzMiwtMTgwMzg0NTU2M119
+eyJoaXN0b3J5IjpbLTE4NzA3OTg0ODMsLTEzNzc4NjY1MTIsOT
+Q3OTIyMTIxLC0zMTI4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
 -->
