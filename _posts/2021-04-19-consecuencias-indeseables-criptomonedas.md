@@ -110,9 +110,14 @@ Queda patente que el impacto medioambiental de todo el ecosistema de criptomoned
 {: .notice--info}
 
 ## Derechos humanos
-Uno de los problemas evidentes es que este sistema, al ser totalmente transparente pero encriptado es que imposibilita a los gobiernos su regularización, abriendo la puerta al uso delictivo con cierta impunidad de la cibermoneda. Esto resultó ser el caso, cuando desde muy temprano se evidenciaron casos de uso para el menudeo de drogas, armas y demás productos ilegales en mercados negros establecidos en la "Darknet". Uno de los casos más famosos fue el de "Silkroad" que no pudo ser desmantelada por el FBI hasta varios años de actividad impune, entre otras razones porque el medio de pago habitual era Bitcoin.
+Uno de los problemas evidentes es que este sistema, al ser totalmente transparente pero encriptado es que imposibilita a los gobiernos su regularización, abriendo la puerta al uso delictivo con cierta impunidad de la cibermoneda. Esto resultó ser el caso, cuando desde muy temprano se evidenciaron casos de uso para el menudeo de drogas, armas y demás productos ilegales en mercados negros establecidos en la "Darknet". 
+
+**Nota:**Uno de los casos más famosos fue el de "Silkroad" que no pudo ser desmantelada por el FBI hasta varios años de actividad impune, entre otras razones porque el medio de pago habitual era Bitcoin.
+{: .notice--warning}
 
 Por su naturaleza, resulta difícil determinar el uso primordial que se le da a la moneda virtual, muy probablemente las mafias, contrabandistas y blanqueadores de moneda encuentran en Bitcoin un medio sin parangón para esquivar al control gubernamental. Es de esperar por tanto, que su uso sea generalizado por estos colectivos.
+
+Otra consecuencia indeseable, es que como resultado de la especulación, el valor de estas monedas suelen ser muy volátiles. Este hecho dicifult
 
 *[p2p]: Peer to peer
 *[b2b]: Bussines to Bussines
@@ -126,6 +131,6 @@ Por su naturaleza, resulta difícil determinar el uso primordial que se le da a 
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NzY5MzM2LDk0NzkyMjEyMSwtMzEyOD
-QwOTMyLC0xODAzODQ1NTYzXX0=
+eyJoaXN0b3J5IjpbMTA1NzQzNTkxNiw5NDc5MjIxMjEsLTMxMj
+g0MDkzMiwtMTgwMzg0NTU2M119
 -->
