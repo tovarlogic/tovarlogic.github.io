@@ -109,7 +109,7 @@ Queda patente que el impacto medioambiental de todo el ecosistema de criptomoned
 **PoS:** La diferencia con respecto a PoW radica en que se elije a quién debe hacer la validación de la transacción en base a su nivel de participación en el sistema. La consecuencia es que se excluye automáticamente al resto de competencia, y sólo un "nodo" es el responsable de relizar este costoco cálculo, reduciendo el consumo eléctrico en varios órdenes de magnitud. El consumo sigue siendo proporcional al número de transacciones, pero ya no al número de nodos mineros. Por tanto, el consumo se mantiene constante por cada transacción y ya no aumentaría aceleradamente a medida que aumente la adopción de la tecnología.
 {: .notice--info}
 
-## Derechos humanos
+## Socioeconómicos y Derechos humanos
 Uno de los problemas evidentes es que este sistema, al ser totalmente transparente pero encriptado es que imposibilita a los gobiernos su regularización, abriendo la puerta al uso delictivo con cierta impunidad de la cibermoneda. Esto resultó ser el caso, cuando desde muy temprano se evidenciaron casos de uso para el menudeo de drogas, armas y demás productos ilegales en mercados negros establecidos en la "Darknet". 
 
 **Nota:**Uno de los casos más famosos fue el de "Silkroad" que no pudo ser desmantelada por el FBI hasta varios años de actividad impune, entre otras razones porque el medio de pago habitual era Bitcoin.
@@ -121,7 +121,7 @@ Precisamente de esto, es lo que trata el Podcast que incluí al inicio. Se ha co
 
 Ya ha quedado claro, que el uso de criptomonedas dificulta su control por parte de las autoridades. Esto no sólo tiene efectos nocivos en las sociedades más pobres y menos democráticas. Las sociedades más avanzadas y democráticas, también pueden sufrir sus efectos. 
 
-La corrupción generalmente busca aumentar el poder y/o la riqueza, de la que muchas multinacionales occidentales ya disfrutan de manera desproporcionada. Un efecto del desarrollo de economías de escala en un mundo globalizado, con acceso a la energía, y por tanto al transporte barato, es la deslocalización de muchas de sus actividades, primordialmente la producción. Los controles de calidad, prevención de riesgos laborales y condiciones económicas de los trabajadores en occidente son mucho más rigurosas y costosas que en otras partes del mundo. La búsqueda de reducción de costes es lo que ha motivado 
+La corrupción generalmente busca aumentar el poder y/o la riqueza, de la que muchas multinacionales ya disfrutan de manera desproporcionada. Un efecto del desarrollo de economías de escala en un mundo globalizado, con acceso unioversal y barato a la energía, y por tanto al transporte barato, es la deslocalización de muchas de sus actividades, primordialmente la producción. Los controles de calidad, prevención de riesgos laborales y condiciones económicas de los trabajadores en occidente son mucho más rigurosas y costosas que en otras partes del mundo. La búsqueda de reducción de costes es lo que ha motivado precisamente dicha deslocalilzación, 
 
 
 deslocalizadas en terceros paises menos desarrollados y por tanto más baratos y con menor control en cualquier ámbito. 
@@ -146,6 +146,6 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MjgxMTI1NCw5NDc5MjIxMjEsLTMxMj
+eyJoaXN0b3J5IjpbMTQ1NDExMjU1Niw5NDc5MjIxMjEsLTMxMj
 g0MDkzMiwtMTgwMzg0NTU2M119
 -->
