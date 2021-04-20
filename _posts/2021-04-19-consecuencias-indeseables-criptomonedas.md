@@ -121,7 +121,7 @@ Precisamente de esto, es lo que trata el Podcast que incluí al inicio. Se ha co
 
 Ya ha quedado claro, que el uso de criptomonedas dificulta su control por parte de las autoridades. Esto no sólo tiene efectos nocivos en las sociedades más pobres y menos democráticas. Las sociedades más avanzadas y democráticas, también pueden sufrir sus efectos. 
 
-La corrupción generalmente busca aumentar el poder y/o la riqueza, de la que muchas multinacionales ya disfrutan de manera desproporcionada. Un efecto del desarrollo de economías de escala en un mundo globalizado, con acceso unioversal y barato a la energía, y por tanto al transporte barato, es la deslocalización de muchas de sus actividades, primordialmente la producción. Los controles de calidad, prevención de riesgos laborales y condiciones económicas de los trabajadores en occidente son mucho más rigurosas y costosas que en otras partes del mundo. La búsqueda de reducción de costes es lo que ha motivado precisamente dicha deslocalilzación, 
+La corrupción generalmente busca aumentar el poder y/o la riqueza, de la que muchas multinacionales ya disfrutan de manera desproporcionada. Un efecto del desarrollo de economías de escala en un mundo globalizado, con acceso unioversal y barato a la energía, y por tanto al transporte, es la deslocalización de muchas de sus actividades, primordialmente la producción. Los controles de calidad, prevención de riesgos laborales y condiciones económicas de los trabajadores en occidente son mucho más rigurosas y costosas que en otras partes del mundo. La búsqueda de reducción de costes es lo que ha motivado precisamente dicha deslocalilzación. Es en estos paises donde las actividades de dudosa moralidad que los empresarios no podrían llevar a cabo, o de lo contrario serían inmediatamente perseguidos judicialmente, 
 
 
 deslocalizadas en terceros paises menos desarrollados y por tanto más baratos y con menor control en cualquier ámbito. 
@@ -146,6 +146,6 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NDExMjU1Niw5NDc5MjIxMjEsLTMxMj
-g0MDkzMiwtMTgwMzg0NTU2M119
+eyJoaXN0b3J5IjpbNDU4ODY3MjcyLDk0NzkyMjEyMSwtMzEyOD
+QwOTMyLC0xODAzODQ1NTYzXX0=
 -->
