@@ -117,7 +117,10 @@ Uno de los problemas evidentes es que este sistema, al ser totalmente transparen
 
 Por su naturaleza, resulta difícil determinar el uso primordial que se le da a la moneda virtual, muy probablemente las mafias, contrabandistas y blanqueadores de moneda encuentran en Bitcoin un medio sin parangón para esquivar al control gubernamental. Es de esperar por tanto, que su uso sea generalizado por estos colectivos.
 
-Otra consecuencia indeseable es que, como resultado de la especulación, el valor de estas monedas suele ser muy volátiles. Este hecho dicifulta enermomente a aquellos usuarios que quieran darle un uso cotidiano y típico de una moneda estandard.
+Otra consecuencia indeseable es que, como resultado de la especulación, el valor de estas monedas suele ser muy volátil. Este hecho dicifulta enermomente a aquellos usuarios que quieran darle un uso cotidiano y típico de una moneda estandar. No me imagino a nadie usando Bitcoins para comprar una pizza ()
+
+**Nota:**en el pasado ya se compró una pizza de este modo y no mucho después se convirtió en la pizza mas cara del mundo.
+{: .notice--warning}
 
 *[p2p]: Peer to peer
 *[b2b]: Bussines to Bussines
@@ -131,6 +134,6 @@ Otra consecuencia indeseable es que, como resultado de la especulación, el valo
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY5NzM5NTQ0LDk0NzkyMjEyMSwtMzEyOD
+eyJoaXN0b3J5IjpbNzk0Mjk1MzE0LDk0NzkyMjEyMSwtMzEyOD
 QwOTMyLC0xODAzODQ1NTYzXX0=
 -->
