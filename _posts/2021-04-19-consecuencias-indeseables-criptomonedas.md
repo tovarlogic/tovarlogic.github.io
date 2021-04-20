@@ -84,7 +84,7 @@ La adopción masiva de esta tecnología, como uso dinerario, ha generado un prob
 Se estima que el consumo anual, del Bitcoin únicamente, supera en la actualidad al de muchos países desarrollados individualmente. A continuación algunas comparativas útiles:
 
 <figure>
-  <img src="/assets/images/blog/bitcoin/comparativa-consumo-mundial.png">
+  <img src="/assets/images/blog/bitcoin/comparativa-consumo-mundial.PNG">
   <figcaption>
 	  Consumo mundial vs consumo Bitcoin
  Crédito:  <a href="https://cbeci.org/">Cambridge Centre for Alternative Finance</a>
@@ -175,6 +175,6 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA3OTg0ODMsLTEzNzc4NjY1MTIsOT
-Q3OTIyMTIxLC0zMTI4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
+eyJoaXN0b3J5IjpbMTM0ODkyMTc0MSwtMTM3Nzg2NjUxMiw5ND
+c5MjIxMjEsLTMxMjg0MDkzMiwtMTgwMzg0NTU2M119
 -->
