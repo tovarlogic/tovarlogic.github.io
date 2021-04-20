@@ -155,7 +155,7 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
 ## Culturales
 Quizás en este caso, este rizando el rizo, o estirando demasiado la imaginación. Pero personalmente no me cuesta imaginar un futuro en el que se ha generalizado el uso de documentos digitales a través de cadenas de bloques. Actualmente ya la mayoría de publicaciones científicas se hacen en formato digital, el siguiente paso es relativamente sencillo. Y es posible que la producción literaria digital vaya comiendo terreno a la de papel.
 
-En este caso hipotético, resultaría mucho más sencillo limitar el acceso indeseado a dichas publicaciones. Sería un solución casi perfec
+En este caso hipotético, resultaría mucho más sencillo limitar el acceso indeseado a dichas publicaciones. Sería un solución casi perfecta para la protección del derecho de autor y los copyright. Actualmente, el copyright no es una barrera eficazestas restricciones como las de las patentes suponen, en mi opinión una gran barrera para el desarrollo y accesoDesde el punto de vista de libre acceso de la información
 
 ## Inseguridad e incertidumbre
 No se vislumbra, en un futuro a corto plazo, que ni el interés, ni la utilidad, ni la adopción de esta tecnología decaiga, más bien todo lo contrario. Todo apunta a que nuevas mejoras e innovaciones, y tanto un aumento de la popularidad como conocimiento generalizado logren incrementar inmensamente la adopción de esta tecnología. Aun queda para que su beneficio real se aproxime a su potencial, pero no me cabe duda que es cuestión de tiempo.
@@ -184,7 +184,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyMzgwNTA3LDEzNDg5MjE3NDEsLTEzNz
-c4NjY1MTIsOTQ3OTIyMTIxLC0zMTI4NDA5MzIsLTE4MDM4NDU1
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTM1NzU3NDM1MiwxMzQ4OTIxNzQxLC0xMz
+c3ODY2NTEyLDk0NzkyMjEyMSwtMzEyODQwOTMyLC0xODAzODQ1
+NTYzXX0=
 -->
