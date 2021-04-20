@@ -41,7 +41,7 @@ Dicha popularidad a su vez, ha permitido el surgimiento de miles de nuevas cript
 Hay que dejar claro que no todas las "Altcoins", como se conocen a las criptomonedas alternativas a Bitcoin, son estafas, ni mucho menos, algunas han sido creadas con verdadero espíritu innovador y proponiendo nuevos usos de esta tecnología. Estos casos los veremos más adelante.
 
 
-
+## Como
 
 ## Como activo no fungible
 
@@ -116,5 +116,5 @@ Queda patente que el impacto medioambiental de todo el ecosistema de criptomoned
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxMjE1NjM5LC0xODAzODQ1NTYzXX0=
+eyJoaXN0b3J5IjpbODk5ODIxNTY3LC0xODAzODQ1NTYzXX0=
 -->
