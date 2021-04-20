@@ -51,7 +51,7 @@ Imaginemos que
 
 ## Como activo no fungible
 
-# Consecuencias
+# Consecuencias indeseables
 ## Medioambientales
 La adopción masiva de esta tecnología, como uso dinerario, ha generado un problema que podría haber sido fácilmente previsible por quienes conocen bien sus entrañas, pero probablemente desconocida o directamente ignorada la mayoría de usuarios a los que solo importa la utilidad o beneficio que les aporta. Se trata del impacto medioambiental, a través del abismal consumo eléctrico que supone la minería y que aumenta, si no de manera exponencial si muy aceleradamente. En la actividad minera, es de hecho, el consumo eléctrico el principal factor limitante para determinar la rentabilidad. El consumo es tan descomunal que de nada sirve dar cifras, es mejor ilustrarlo con ejemplos que nos ayuden a visualizar su magnitud:
 
@@ -117,7 +117,7 @@ Uno de los problemas evidentes es que este sistema, al ser totalmente transparen
 
 Por su naturaleza, resulta difícil determinar el uso primordial que se le da a la moneda virtual, muy probablemente las mafias, contrabandistas y blanqueadores de moneda encuentran en Bitcoin un medio sin parangón para esquivar al control gubernamental. Es de esperar por tanto, que su uso sea generalizado por estos colectivos.
 
-Precisamente de esto, es lo que trata el Podcast que incluí al inicio. Se ha comprobado que uno de los mejores mecanismos para desincentivar la violación de los Derechos humanos, son las sanciones económicas a los delincuentes, generalmente dictadores y altos cargos políticos u empresariales. Es común que los corruptos muevan sus botines a bancos extranjeros (fuera del control de sus gobiernos nacionales) y disfruten de cierta impunidad. No obstante, el resto de paises tienen capacidad para congelar sus cuentas o dificultar el acceso tanto a crédito como a efectivo, por tanto, aunque hayan acumulado riquezas tendrán dificultad en gastarla a su antojo, al menos fuera de sus paises.  Las criptomonedas, en este sentido son un gran aliado para todo tipo de delincuentes. En la actualidad les puede resultar dificil obtener efectivo superior a 2000€ o $10.000 sin estar sujetos a control gubernamental, pero pueden mover millones en forma de Bitcoin sin limitación ni control alguna.
+Precisamente de esto, es lo que trata el Podcast que incluí al inicio. Se ha comprobado que uno de los mejores mecanismos para desincentivar la violación de los Derechos humanos, son las sanciones económicas a los delincuentes, generalmente dictadores y altos cargos políticos u empresariales. Es común que los corruptos muevan sus botines a bancos extranjeros (fuera del control de sus gobiernos nacionales) y disfruten de cierta impunidad. No obstante, el resto de paises tienen capacidad para congelar sus cuentas o dificultar el acceso tanto a crédito como a efectivo, por tanto, aunque hayan acumulado riquezas tendrán dificultad en gastarla a su antojo, al menos fuera de sus paises.  Las criptomonedas, en este sentido son un gran aliado para todo tipo de delincuentes. En la actualidad les puede resultar dificil obtener efectivo superior a 2000€ o $10.000 sin estar sujetos a control gubernamental, pero pueden mover millones en forma de Bitcoin sin limitación ni control alguna. Hasta que no se logre de algún modo regular las criptodivisas estas van a suponer un grave riesgo para nuestras sociedades.
 
 Otra consecuencia indeseable es que, como resultado de la especulación, el valor de estas monedas suele ser muy volátil. Este hecho dicifulta enermomente a aquellos usuarios que quieran darle un uso cotidiano y típico de una moneda estandar. No me imagino a nadie usando Bitcoins para comprar una alimentos, ya lo que en un momento resulta un precio razonable, al poco puede ser irrisorio o carísimo. Esto implica también, que para cualquier mortal sus ahorros almacenados en forma de criptomoneda, pueden pasar de tener cierto valor a prácticamente nada en cualquier momento. La incertidumbre económica que genera frena su adopción como dinero real.
 
@@ -138,6 +138,6 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU1NTcwMTcsOTQ3OTIyMTIxLC0zMT
-I4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
+eyJoaXN0b3J5IjpbMTkwNjI5NDkyOCw5NDc5MjIxMjEsLTMxMj
+g0MDkzMiwtMTgwMzg0NTU2M119
 -->
