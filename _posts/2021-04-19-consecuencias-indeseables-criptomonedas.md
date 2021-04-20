@@ -152,7 +152,7 @@ No se vislumbra, en un futuro a corto plazo, que ni el interés, ni la utilidad,
 Sin embargo, quiero dejar aquí constancia de un gran riesgo o debilidad que implica el uso generalizado de este tipo de tecnología. Como ya he dicho anteriormente, los cimientos de las cadenas de bloques son la criptografía. Hasta ahora los avances en criptografía se han mantenido por delante de los avances en potencia computacional, pero es posible que, por primera vez en la historia, esto deje de ser así. Es también cuestión de tiempo, de poco tiempo, que la computación cuántica ponga en jaque a la criptografía actual.
 
 Supongo, que una vez se logre un ordenador cuántico habrán dos fases:
- 1. De inseguridad e incertidumbre: Los primeros ordenadores serán muy costosos y complejos. Sólo los desarrolladores
+ 1. De inseguridad e incertidumbre: Los primeros ordenadores serán muy costosos y complejos. Sólo los desarrolladores tendrán acceso a ellas, aunque ya existen iniciativas para compartir su acceso online. A finales de esta fase, las grandes compraciones e instituciones militares o de inteligencia se las podrán permitir. Llegados a este punto entiendo que todo lo que se haya almacenado en cadenas de bloques "pre
 
 # Enlaces de interés
 - [Amnistía Internacional: Police and Human Rights Resources](https://policehumanrightsresources.org/)
@@ -161,6 +161,6 @@ Supongo, que una vez se logre un ordenador cuántico habrán dos fases:
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyNzE1NDIxLC0xMzc3ODY2NTEyLDk0Nz
+eyJoaXN0b3J5IjpbNTI5NjgxMTQyLC0xMzc3ODY2NTEyLDk0Nz
 kyMjEyMSwtMzEyODQwOTMyLC0xODAzODQ1NTYzXX0=
 -->
