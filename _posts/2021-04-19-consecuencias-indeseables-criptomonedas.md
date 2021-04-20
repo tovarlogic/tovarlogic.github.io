@@ -45,7 +45,7 @@ Si pensamos en registros públicos en sentido estricto, a mí personalmente se m
 - Registro de la propiedad
 - Registro notarial
 
-Imaginemos que 
+En la actualidad estos registros disfrutan de gran confianza por nuestra parte. No nos planteamos que se puedan perder o que sean manipulados malintencionadamente. Es posible, que 
 
 
 
@@ -150,6 +150,6 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2OTMxNTQ0MCw5NDc5MjIxMjEsLTMxMj
-g0MDkzMiwtMTgwMzg0NTU2M119
+eyJoaXN0b3J5IjpbMjk3NTg2MDc3LDk0NzkyMjEyMSwtMzEyOD
+QwOTMyLC0xODAzODQ1NTYzXX0=
 -->
