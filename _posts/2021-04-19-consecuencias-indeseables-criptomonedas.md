@@ -153,7 +153,7 @@ Sin embargo, quiero dejar aquí constancia de un gran riesgo o debilidad que imp
 
 Supongo, que una vez se logre un ordenador cuántico habrán dos fases:
  1. De inseguridad e incertidumbre: Los primeros ordenadores serán muy costosos y complejos. Sólo los desarrolladores tendrán acceso a ellas, aunque ya existen iniciativas para compartir su acceso online. A finales de esta fase, las grandes corporaciones e instituciones militares o de inteligencia se las podrán permitir. Llegados a este punto entiendo que todo lo que se haya almacenado en cadenas de bloques "pre-cuánticas" quedarán expuestas y perderán todo su valor y utilidad.
- 2. De demo
+ 2. De democratización cuántica: Ignoro a que ritmo se desarrollarán soluciones económicas
 
 # Enlaces de interés
 - [Amnistía Internacional: Police and Human Rights Resources](https://policehumanrightsresources.org/)
@@ -162,6 +162,6 @@ Supongo, que una vez se logre un ordenador cuántico habrán dos fases:
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDg2NDY1MDAsLTEzNzc4NjY1MTIsOT
-Q3OTIyMTIxLC0zMTI4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
+eyJoaXN0b3J5IjpbLTk2ODQ1MDYyNywtMTM3Nzg2NjUxMiw5ND
+c5MjIxMjEsLTMxMjg0MDkzMiwtMTgwMzg0NTU2M119
 -->
