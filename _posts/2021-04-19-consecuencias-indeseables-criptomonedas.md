@@ -147,7 +147,7 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
 *[PoS]: Prove of stake
 
 # Declive
-A 
+No se vislumbra, en un futuro a corto plazo, que ni el interés, ni la utilidad, ni la adopción de esta tecnología decaiga, más bien todo lo contrario, todo apunta a 
 # Enlaces de interés
 - [Amnistía Internacional: Police and Human Rights Resources](https://policehumanrightsresources.org/)
 - [BitDegree: Tutorial PoW vs PoS](https://www.bitdegree.org/crypto/tutorials/proof-of-work-vs-proof-of-stake)
@@ -155,6 +155,6 @@ A
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE2NDU4NzI5LDk0NzkyMjEyMSwtMzEyOD
+eyJoaXN0b3J5IjpbMTU5NjIzMzA3LDk0NzkyMjEyMSwtMzEyOD
 QwOTMyLC0xODAzODQ1NTYzXX0=
 -->
