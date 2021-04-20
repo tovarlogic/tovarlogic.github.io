@@ -62,7 +62,7 @@ En la actualidad se consume mucho entretenimiento en internet a través de los s
 
 Cuando uno compra un libro, no compra su visualización mientras lee (que es lo que ocurre con los servicios de streaming) sino que recibe una copia digital, pero real al fin y al cabo, del libro completo. Esta copia, la podemos manipular, compiar ilimitadamente y compartir innumerables veces, es decir la podemos piratear. El uso de NFTs implicaría que no podrías hacer copias del libro sino que lo podrías usar y compartir. Si lo compartes, ya no lo tienes tu, no lo puedes leer, solo la persona a la que se lo has dado. Es algo muy similar a lo que ocurre con un libro físico de papel, que si se lo prestamos, ya no lo podemos leer hasta que nos lo devuelvan. No se trata de un sistema perfecto, ya que al igual que con el formato papel tendrías maneras de copiarlo. Una foto a la pantalla de tu ebook sería el equivalente a la fotocopiadora actual, nadie te impide hacer una copia así. Sin embargo, en ambos casos, únicamente el que posee la copia original realmente la tiene, en el sentiudo estricto de la palabra, y puede demostrarlo.
 
-Canciones, películas, obras de arte, documentos legales, claves de acceso,
+Canciones, películas, obras de arte, libros y documentos en general, claves de acceso, son sólo uno de los pocos ejemplos que se me ocurren.
 
 
 # Consecuencias indeseables
@@ -152,6 +152,9 @@ Otra consecuencia indeseable es que, como resultado de la especulación, el valo
 
 Existe un gran número de "Altcoins" que relacionan su valor directamente con cualquier otra moneda fiat como el USD o EUR. De este modo se pretende evitar la mencionada volatilidad y reducir la incertidumbre. Hasta que no se generalice su uso, es posible que el potencial democratizador de las criptomonedas sólo sea eso, un potencial beneficio que nunca llega a materializarse.  
 
+## Culturales
+Quizás en este caso, este rizando el rizo, o estirando demasiado la imaginació
+
 ## Inseguridad e incertidumbre
 No se vislumbra, en un futuro a corto plazo, que ni el interés, ni la utilidad, ni la adopción de esta tecnología decaiga, más bien todo lo contrario. Todo apunta a que nuevas mejoras e innovaciones, y tanto un aumento de la popularidad como conocimiento generalizado logren incrementar inmensamente la adopción de esta tecnología. Aun queda para que su beneficio real se aproxime a su potencial, pero no me cabe duda que es cuestión de tiempo.
 
@@ -179,7 +182,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTg1NTQzLDEzNDg5MjE3NDEsLTEzNz
-c4NjY1MTIsOTQ3OTIyMTIxLC0zMTI4NDA5MzIsLTE4MDM4NDU1
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTE2NjM4ODY2NzAsMTM0ODkyMTc0MSwtMT
+M3Nzg2NjUxMiw5NDc5MjIxMjEsLTMxMjg0MDkzMiwtMTgwMzg0
+NTU2M119
 -->
