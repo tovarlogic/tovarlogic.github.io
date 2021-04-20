@@ -128,7 +128,7 @@ Los efectos negativos, no obstante, no se limitan a paises menos desarrollados. 
 **Ejemplos:** Los casos de corrupción "suave", como malversación de fondos públicos, el cobro de suplementos en tarjetas black o sobres, e incluso el pago y cobro de servicios sin factura son ejemplos de ello. Cuando pensamos que nadie nos ve, tenemos comportamientos reprobables. Todo ello son ejemplos que pueden representar a la gran mayoría de la población. Todos nos quejamos de la corrupción pero pocos somos capaces de evitar la tentación de pagar alguna que otra factura sin impuestos. Otro gran ejemplo es internet y su efecto anonimizador, las personas cuando interactuan con otras sabiendo que no pueden conocer su identidad se suelen comportar de manera muy diferente. 
 {: .notice--info}
 
-**Nota:** No estoy suficientemente informado en los avances regulatorios, desconozco su alcance y si ya se han dado i
+**Nota:** No estoy suficientemente informado sobre el campo regulatorio, desconozco si ya se han dado avances en ese campo, ni cuales serían sus  cuáles son las limitaciones que la propia tecnología impondría.
 {: .notice--warning}
 
 Otra consecuencia indeseable es que, como resultado de la especulación, el valor de estas monedas suele ser muy volátil. Este hecho dicifulta enermomente a aquellos usuarios que quieran darle un uso cotidiano y típico de una moneda estandar. No me imagino a nadie usando Bitcoins para comprar una alimentos, ya lo que en un momento resulta un precio razonable, al poco puede ser irrisorio o carísimo. Esto implica también, que para cualquier mortal sus ahorros almacenados en forma de criptomoneda, pueden pasar de tener cierto valor a prácticamente nada en cualquier momento. La incertidumbre económica que genera frena su adopción como dinero real.
@@ -150,6 +150,6 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MDI1NTM5Niw5NDc5MjIxMjEsLTMxMj
+eyJoaXN0b3J5IjpbMjE0NDk3MjIzMyw5NDc5MjIxMjEsLTMxMj
 g0MDkzMiwtMTgwMzg0NTU2M119
 -->
