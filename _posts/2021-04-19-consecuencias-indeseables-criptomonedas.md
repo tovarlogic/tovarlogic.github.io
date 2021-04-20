@@ -109,7 +109,7 @@ Queda patente que el impacto medioambiental de todo el ecosistema de criptomoned
 **PoS:** La diferencia con respecto a PoW radica en que se elije a quién debe hacer la validación de la transacción en base a su nivel de participación en el sistema. La consecuencia es que se excluye automáticamente al resto de competencia, y sólo un "nodo" es el responsable de relizar este costoco cálculo, reduciendo el consumo eléctrico en varios órdenes de magnitud. El consumo sigue siendo proporcional al número de transacciones, pero ya no al número de nodos mineros. Por tanto, el consumo se mantiene constante por cada transacción y ya no aumentaría aceleradamente a medida que aumente la adopción de la tecnología.
 {: .notice--info}
 
-## Socioeconómicos y Derechos humanos
+## Socio-económicos y Derechos humanos
 Uno de los problemas evidentes es que este sistema, al ser totalmente transparente pero encriptado es que imposibilita a los gobiernos su regularización, abriendo la puerta al uso delictivo con cierta impunidad de la cibermoneda. Esto resultó ser el caso, cuando desde muy temprano se evidenciaron casos de uso para el menudeo de drogas, armas y demás productos ilegales en mercados negros establecidos en la "Darknet". 
 
 **Nota:**Uno de los casos más famosos fue el de "Silkroad" que no pudo ser desmantelada por el FBI hasta varios años de actividad impune, entre otras razones porque el medio de pago habitual era Bitcoin.
@@ -123,11 +123,10 @@ Ya ha quedado claro, que el uso de criptomonedas dificulta su control por parte 
 
 La corrupción generalmente busca aumentar el poder y/o la riqueza, de la que muchas multinacionales ya disfrutan de manera desproporcionada. Un efecto del desarrollo de economías de escala en un mundo globalizado, con acceso unioversal y barato a la energía, y por tanto al transporte, es la deslocalización de muchas de sus actividades, primordialmente la producción. Los controles de calidad, prevención de riesgos laborales y condiciones económicas de los trabajadores en occidente son mucho más rigurosas y costosas que en otras partes del mundo. La búsqueda de reducción de costes es lo que ha motivado precisamente dicha deslocalilzación. El uso de Bitcoin, una vez más, facilita llevar a cabo operaciones opacas, como sobornar a las autoridades locales, para que les permitan llevar a cabo actividades de dudosa moralidad como usar mano de obra infantil.
 
-Los efectos negativos, no obstante, no se limitan a paises menos desarrollados. En occidente ya se emplean las criptomonedas como medio para el blanqueo de capital y evasión fiscal. ¿Que pasaría si su uso se generalizara? No me cabe duda, de que si la mayoría tenemos acceso a dinero opaco, sin que nadie sepa cuánto tenemos, cuánto gastamos, en dónde y cómo; nuestro comportamiento económico y fiscal no se vería tan condicionado por los valores morales. Hay infinidad de ejemplos análogos que ilustran perfectamente que el comportamiento humano se desvía de los cánones morales cuando no está sujeto a "control" por el resto. Cuanto menos veríamos, probablemente, una caída en la 
+Los efectos negativos, no obstante, no se limitan a paises menos desarrollados. En occidente ya se emplean las criptomonedas como medio para el blanqueo de capital y evasión fiscal. ¿Que pasaría si su uso se generalizara? No me cabe duda, de que si la mayoría tenemos acceso a dinero opaco, sin que nadie sepa cuánto tenemos, cuánto gastamos, en dónde y cómo; nuestro comportamiento económico y fiscal no se vería tan condicionado por los valores morales. Hay infinidad de ejemplos análogos que ilustran perfectamente que el comportamiento humano se desvía de los cánones morales cuando no está sujeto a "control" por el resto. Cuanto menos veríamos, probablemente, una caída en la recaudación de impuestos que son básicos para costear servicios públicos y, en teoría, costruir sociedades menos desiguales.
 
 **Ejemplos:** Los casos de corrupción "suave", como malversación de fondos públicos, el cobro de suplementos en tarjetas black o sobres, e incluso el pago y cobro de servicios sin factura son ejemplos de ello. Cuando pensamos que nadie nos ve, tenemos comportamientos reprobables. Todo ello son ejemplos que pueden representar a la gran mayoría de la población. Todos nos quejamos de la corrupción pero pocos somos capaces de evitar la tentación de pagar alguna que otra factura sin impuestos. Otro gran ejemplo es internet y su efecto anonimizador, las personas cuando interactuan con otras sabiendo que no pueden conocer su identidad se suelen comportar de manera muy diferente. 
 {: .notice--info}
-
 
 Otra consecuencia indeseable es que, como resultado de la especulación, el valor de estas monedas suele ser muy volátil. Este hecho dicifulta enermomente a aquellos usuarios que quieran darle un uso cotidiano y típico de una moneda estandar. No me imagino a nadie usando Bitcoins para comprar una alimentos, ya lo que en un momento resulta un precio razonable, al poco puede ser irrisorio o carísimo. Esto implica también, que para cualquier mortal sus ahorros almacenados en forma de criptomoneda, pueden pasar de tener cierto valor a prácticamente nada en cualquier momento. La incertidumbre económica que genera frena su adopción como dinero real.
 
@@ -148,6 +147,6 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3ODc5NzQyLDk0NzkyMjEyMSwtMzEyOD
-QwOTMyLC0xODAzODQ1NTYzXX0=
+eyJoaXN0b3J5IjpbLTcwNzkzOTcwOSw5NDc5MjIxMjEsLTMxMj
+g0MDkzMiwtMTgwMzg0NTU2M119
 -->
