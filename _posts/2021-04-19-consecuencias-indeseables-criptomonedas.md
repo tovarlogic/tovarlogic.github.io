@@ -66,7 +66,7 @@ En la actualidad se consume mucho entretenimiento en internet a través de los s
 La adopción masiva de esta tecnología, como uso dinerario, ha generado un problema que podría haber sido fácilmente previsible por quienes conocen bien sus entrañas, pero probablemente desconocida o directamente ignorada la mayoría de usuarios a los que solo importa la utilidad o beneficio que les aporta. Se trata del impacto medioambiental, a través del abismal consumo eléctrico que supone la minería y que aumenta, si no de manera exponencial si muy aceleradamente. En la actividad minera, es de hecho, el consumo eléctrico el principal factor limitante para determinar la rentabilidad. El consumo es tan descomunal que de nada sirve dar cifras, es mejor ilustrarlo con ejemplos que nos ayuden a visualizar su magnitud:
 
 <figure>
-  <img src="/assets/images/blog/bitcoin/consumo-electrico-bitcoin-historico.png">
+  <img src="/assets/images/blog/bitcoin/consumo-electrico-bitcoin-historico.PNG">
   <figcaption>
 	  Estimación de consumo eléctrico histórico del Bitcoin 2015-2021
  Crédito:  <a href="https://cbeci.org/">Cambridge Centre for Alternative Finance</a>
@@ -175,6 +175,6 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzU3NzAwMzUsLTEzNzc4NjY1MTIsOT
-Q3OTIyMTIxLC0zMTI4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
+eyJoaXN0b3J5IjpbMTk4NDEzMzQyMSwtMTM3Nzg2NjUxMiw5ND
+c5MjIxMjEsLTMxMjg0MDkzMiwtMTgwMzg0NTU2M119
 -->
