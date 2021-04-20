@@ -123,9 +123,9 @@ Ya ha quedado claro, que el uso de criptomonedas dificulta su control por parte 
 
 La corrupción generalmente busca aumentar el poder y/o la riqueza, de la que muchas multinacionales ya disfrutan de manera desproporcionada. Un efecto del desarrollo de economías de escala en un mundo globalizado, con acceso unioversal y barato a la energía, y por tanto al transporte, es la deslocalización de muchas de sus actividades, primordialmente la producción. Los controles de calidad, prevención de riesgos laborales y condiciones económicas de los trabajadores en occidente son mucho más rigurosas y costosas que en otras partes del mundo. La búsqueda de reducción de costes es lo que ha motivado precisamente dicha deslocalilzación. El uso de Bitcoin, una vez más, facilita llevar a cabo operaciones opacas, como sobornar a las autoridades locales, para que les permitan llevar a cabo actividades de dudosa moralidad como usar mano de obra infantil.
 
-Los efectos negativos, no obstante, no se limitan a paises menos desarrollados. En occidente ya se emplean las criptomonedas como medio para el blanqueo de capital y evasión fiscal. ¿Que pasaría si su uso se generalizara? No me cabe duda, de que si la mayoría tenemos acceso a dinero opaco, sin que nadie sepa cuánto tenemos, cuánto gastamos, en dónde y cómo; nuestro comportamiento económico y fiscal no se vería tan condicionado por los valores morales. Hay infinidad de ejemplos análogos que ilustran perfectamente que el comportamiento humano se desvía de los cánones morales cuando no está sujeto a "control" por el resto. 
+Los efectos negativos, no obstante, no se limitan a paises menos desarrollados. En occidente ya se emplean las criptomonedas como medio para el blanqueo de capital y evasión fiscal. ¿Que pasaría si su uso se generalizara? No me cabe duda, de que si la mayoría tenemos acceso a dinero opaco, sin que nadie sepa cuánto tenemos, cuánto gastamos, en dónde y cómo; nuestro comportamiento económico y fiscal no se vería tan condicionado por los valores morales. Hay infinidad de ejemplos análogos que ilustran perfectamente que el comportamiento humano se desvía de los cánones morales cuando no está sujeto a "control" por el resto. Cuanto menos veríamos, probablemente, una caída en la 
 
-**Ejemplos:** Los casos de corrupción "suave", como malversación de fondos públicos, el cobro de suplementos en tarjetas black o sobres, e incluso el pago y cobro de servicios sin factura son ejemplos de ello. Cuando pensamos que nadie nos ve, tenemos comportamientos reprobables. Todo ello son ejemplos que pueden representar a la gran mayoría de la población. Todos nos quejamos de la corrupción pero pocos somos capaces de evitar la tentación de pagar alguna que otra factura sin impuestos. Otro gran ejemplo es internet y su efecto "ano
+**Ejemplos:** Los casos de corrupción "suave", como malversación de fondos públicos, el cobro de suplementos en tarjetas black o sobres, e incluso el pago y cobro de servicios sin factura son ejemplos de ello. Cuando pensamos que nadie nos ve, tenemos comportamientos reprobables. Todo ello son ejemplos que pueden representar a la gran mayoría de la población. Todos nos quejamos de la corrupción pero pocos somos capaces de evitar la tentación de pagar alguna que otra factura sin impuestos. Otro gran ejemplo es internet y su efecto anonimizador, las personas cuando interactuan con otras sabiendo que no pueden conocer su identidad se suelen comportar de manera muy diferente. 
 {: .notice--info}
 
 
@@ -148,6 +148,6 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjI2ODIwNjMsOTQ3OTIyMTIxLC0zMT
-I4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
+eyJoaXN0b3J5IjpbMzk3ODc5NzQyLDk0NzkyMjEyMSwtMzEyOD
+QwOTMyLC0xODAzODQ1NTYzXX0=
 -->
