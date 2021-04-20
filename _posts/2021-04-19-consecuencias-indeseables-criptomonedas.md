@@ -153,7 +153,7 @@ Otra consecuencia indeseable es que, como resultado de la especulación, el valo
 Existe un gran número de "Altcoins" que relacionan su valor directamente con cualquier otra moneda fiat como el USD o EUR. De este modo se pretende evitar la mencionada volatilidad y reducir la incertidumbre. Hasta que no se generalice su uso, es posible que el potencial democratizador de las criptomonedas sólo sea eso, un potencial beneficio que nunca llega a materializarse.  
 
 ## Culturales
-Quizás en este caso, este rizando el rizo, o estirando demasiado la imaginació
+Quizás en este caso, este rizando el rizo, o estirando demasiado la imaginación. Pero personalmente no me cuesta imaginar un futuro en el que se ha generalizado el uso de documentos digitales. Actualmente ya la mayoría de publicaciones científicas se hacen en formato digital. Y es posible que la producción literaria 
 
 ## Inseguridad e incertidumbre
 No se vislumbra, en un futuro a corto plazo, que ni el interés, ni la utilidad, ni la adopción de esta tecnología decaiga, más bien todo lo contrario. Todo apunta a que nuevas mejoras e innovaciones, y tanto un aumento de la popularidad como conocimiento generalizado logren incrementar inmensamente la adopción de esta tecnología. Aun queda para que su beneficio real se aproxime a su potencial, pero no me cabe duda que es cuestión de tiempo.
@@ -182,7 +182,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjM4ODY2NzAsMTM0ODkyMTc0MSwtMT
-M3Nzg2NjUxMiw5NDc5MjIxMjEsLTMxMjg0MDkzMiwtMTgwMzg0
-NTU2M119
+eyJoaXN0b3J5IjpbOTkxNzIzNTI2LDEzNDg5MjE3NDEsLTEzNz
+c4NjY1MTIsOTQ3OTIyMTIxLC0zMTI4NDA5MzIsLTE4MDM4NDU1
+NjNdfQ==
 -->
