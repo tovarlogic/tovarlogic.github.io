@@ -117,12 +117,13 @@ Uno de los problemas evidentes es que este sistema, al ser totalmente transparen
 
 Por su naturaleza, resulta difícil determinar el uso primordial que se le da a la moneda virtual, muy probablemente las mafias, contrabandistas y blanqueadores de moneda encuentran en Bitcoin un medio sin parangón para esquivar al control gubernamental. Es de esperar por tanto, que su uso sea generalizado por estos colectivos.
 
-Otra consecuencia indeseable es que, como resultado de la especulación, el valor de estas monedas suele ser muy volátil. Este hecho dicifulta enermomente a aquellos usuarios que quieran darle un uso cotidiano y típico de una moneda estandar. No me imagino a nadie usando Bitcoins para comprar una alimentos, ya lo que en un momento resulta un precio razonable, al poco puede ser irrisorio o carísimo. Esto implica también, que para cualquier mortal sus ahorros pueden pasar de tener cierto valor a prácticamente nada en cualquier momento.
+## Económicas
+Otra consecuencia indeseable es que, como resultado de la especulación, el valor de estas monedas suele ser muy volátil. Este hecho dicifulta enermomente a aquellos usuarios que quieran darle un uso cotidiano y típico de una moneda estandar. No me imagino a nadie usando Bitcoins para comprar una alimentos, ya lo que en un momento resulta un precio razonable, al poco puede ser irrisorio o carísimo. Esto implica también, que para cualquier mortal sus ahorros apueden pasar de tener cierto valor a prácticamente nada en cualquier momento.
 
 **Nota:**en el pasado ya se compró una pizza de este modo y no mucho después se convirtió en [la pizza mas cara del mundo](https://platzi.com/blog/la-pizza-mas-cara-de-la-historia-bitcoin-pizza-day/).
 {: .notice--warning}
 
-Por suerte para ello, existen gran número de "Altcoins" que relacionan su valor directamente con cu
+Por suerte para ello, existen gran número de "Altcoins" que relacionan su valor directamente con cualquier otra moneda fiat como el USD o EUR. De este modo se pretende evitar la mencionada volatilidad, pero hasta que no 
 
 *[p2p]: Peer to peer
 *[b2b]: Bussines to Bussines
@@ -136,6 +137,6 @@ Por suerte para ello, existen gran número de "Altcoins" que relacionan su valor
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjk5NTU4NCw5NDc5MjIxMjEsLTMxMj
+eyJoaXN0b3J5IjpbLTcwOTEzMDYyNCw5NDc5MjIxMjEsLTMxMj
 g0MDkzMiwtMTgwMzg0NTU2M119
 -->
