@@ -1,5 +1,5 @@
 ---
-title: Artículos que aglutinan mi base cultural y de conocimiento
+title: Artículos que aglutinan mi base cultural y de conocimiento de manera más o menos objetiva
 layout: category_left
 breadcrumb_name: Conocimiento
 permalink: /conocimiento/
