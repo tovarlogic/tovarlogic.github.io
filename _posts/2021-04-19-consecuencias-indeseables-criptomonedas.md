@@ -60,7 +60,7 @@ Este caso de uso se conoce por NFT. Básicamente lo que significa es que cualqui
 
 En la actualidad se consume mucho entretenimiento en internet a través de los servicios de streaming, que desconozco como pueden ser afectados. Sin embargo, existen otros productos que aún se comercializan en un modo más clásico, como los libros electrónicos.
 
-Cuando uno compra un libro, no compra su visualización mientras lee (que es lo que ocurre con los servicios de streaming) sino que recibe una copia digital, pero real al fin y al cabo. Esta copia, la podemos manipular
+Cuando uno compra un libro, no compra su visualización mientras lee (que es lo que ocurre con los servicios de streaming) sino que recibe una copia digital, pero real al fin y al cabo. Esta copia, la podemos manipular, compiar y compartir, es decir la podemos piratear. El uso de NFTs implicaría que no podrías hacer copias de nuestro libro sino que lo podrías usar y compartir. , algo similar ocurre con un libro físico de papel que si se lo porestamos
 
 
 # Consecuencias indeseables
@@ -177,7 +177,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjUxNTIyOCwxMzQ4OTIxNzQxLC0xMz
-c3ODY2NTEyLDk0NzkyMjEyMSwtMzEyODQwOTMyLC0xODAzODQ1
-NTYzXX0=
+eyJoaXN0b3J5IjpbNDI4MDU4NDQ4LDEzNDg5MjE3NDEsLTEzNz
+c4NjY1MTIsOTQ3OTIyMTIxLC0zMTI4NDA5MzIsLTE4MDM4NDU1
+NjNdfQ==
 -->
