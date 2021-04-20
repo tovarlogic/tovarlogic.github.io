@@ -122,11 +122,11 @@ Queda patente que el impacto medioambiental de todo el ecosistema de criptomoned
 
 # Enlaces de interés
 - [Amnistía Internacional: Police and Human Rights Resources](https://policehumanrightsresources.org/)
-- [https://www.bitdegree.org/](https://www.bitdegree.org/crypto/tutorials/proof-of-work-vs-proof-of-stake)
+- [BitDegree: Tutorial PoW vs PoS](https://www.bitdegree.org/crypto/tutorials/proof-of-work-vs-proof-of-stake)
 
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ3OTIyMTIxLC0zMTI4NDA5MzIsLTE4MD
-M4NDU1NjNdfQ==
+eyJoaXN0b3J5IjpbMTEzNjEwMDc5OSw5NDc5MjIxMjEsLTMxMj
+g0MDkzMiwtMTgwMzg0NTU2M119
 -->
