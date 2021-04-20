@@ -46,7 +46,11 @@ Hasta ahora hemos hablado de Criptomonedas que hacen referencia a uno de los uso
 
 Otro uso posible, no tan generalizado pero con valor cuanto menos equivalente es el de *Ledger* o libro de contabilidad. De hecho este uso es el que mejor refleja la naturaleza de la tecnología. Una cadena de bloques no es otra cosa que un registro público, lo que represente cada entrada de dicho registro es lo que determina el "uso" que se le dé. Y su valor estará vinculado a lo que registre. Se puede registrar prácticamente cualquier cosa.
 
-Si 
+Si pensamos en registros públicos en sentido estricto, a mí personalmente se me vienen a la mente casi de inmediato dos ejemplos, seguro que hay más:
+- Registro de la propiedad
+- Registro notarial
+
+Imaginemos que 
 
 
 
@@ -123,6 +127,6 @@ Queda patente que el impacto medioambiental de todo el ecosistema de criptomoned
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNjQ0Njc3MywtMzEyODQwOTMyLC0xOD
-AzODQ1NTYzXX0=
+eyJoaXN0b3J5IjpbOTQ3OTIyMTIxLC0zMTI4NDA5MzIsLTE4MD
+M4NDU1NjNdfQ==
 -->
