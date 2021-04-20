@@ -40,6 +40,13 @@ Dicha popularidad a su vez, ha permitido el surgimiento de miles de nuevas cript
 
 Hay que dejar claro que no todas las "Altcoins", como se conocen a las criptomonedas alternativas a Bitcoin, son estafas, ni mucho menos, algunas han sido creadas con verdadero espíritu innovador y proponiendo nuevos usos de esta tecnología. Estos casos los veremos más adelante.
 
+
+
+
+## Como activo no fungible
+
+# Consecuencias
+## Medioambientales
 La adopción masiva de esta tecnología, como uso dinerario, ha generado un problema que podría haber sido fácilmente previsible por quienes conocen bien sus entrañas, pero probablemente desconocida o directamente ignorada la mayoría de usuarios a los que solo importa la utilidad o beneficio que les aporta. Se trata del impacto medioambiental, a través del abismal consumo eléctrico que supone la minería y que aumenta, si no de manera exponencial si muy aceleradamente. En la actividad minera, es de hecho, el consumo eléctrico el principal factor limitante para determinar la rentabilidad. El consumo es tan descomunal que de nada sirve dar cifras, es mejor ilustrarlo con ejemplos que nos ayuden a visualizar su magnitud:
 
 <figure>
@@ -96,10 +103,6 @@ Queda patente que el impacto medioambiental de todo el ecosistema de criptomoned
 **PoS:** La diferencia con respecto a PoW radica en que se elije a quién debe hacer la validación de la transacción en base a su nivel de participación en el sistema. La consecuencia es que se excluye automáticamente al resto de competencia, y sólo un "nodo" es el responsable de relizar este costoco cálculo, reduciendo el consumo eléctrico en varios órdenes de magnitud. El consumo sigue siendo proporcional al número de transacciones, pero ya no al número de nodos mineros. Por tanto, el consumo se mantiene constante por cada transacción y ya no aumentaría aceleradamente a medida que aumente la adopción de la tecnología.
 {: .notice--info}
 
-## Como activo no fungible
-
-# Consecuencias
-
 
 *[p2p]: Peer to peer
 *[b2b]: Bussines to Bussines
@@ -113,6 +116,5 @@ Queda patente que el impacto medioambiental de todo el ecosistema de criptomoned
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDM1NDgyOTAsLTE4MDM4NDU1NjNdfQ
-==
+eyJoaXN0b3J5IjpbOTgxMjE1NjM5LC0xODAzODQ1NTYzXX0=
 -->
