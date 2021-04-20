@@ -121,7 +121,7 @@ Precisamente de esto, es lo que trata el Podcast que incluí al inicio. Se ha co
 
 Ya ha quedado claro, que el uso de criptomonedas dificulta su control por parte de las autoridades. Esto no sólo tiene efectos nocivos en las sociedades más pobres y menos democráticas. Las sociedades más avanzadas y democráticas, también pueden sufrir sus efectos. 
 
-Por un lado, pertenecen a estas sociedades muchas grandes multinacionales con actividades, como la producción, deslocalizadas en terceros paises menos desarrollados y por tanto más baratos y con menor control en cualquier ámbito.
+La corrupción generalmente busca aumentar el poder y/o la riqueza, de la que muchas multinacionales occidentales ya disfrutan de manera desproporcionada. Un efecto dedeslocalizadas en terceros paises menos desarrollados y por tanto más baratos y con menor control en cualquier ámbito. 
 
 
 Otra consecuencia indeseable es que, como resultado de la especulación, el valor de estas monedas suele ser muy volátil. Este hecho dicifulta enermomente a aquellos usuarios que quieran darle un uso cotidiano y típico de una moneda estandar. No me imagino a nadie usando Bitcoins para comprar una alimentos, ya lo que en un momento resulta un precio razonable, al poco puede ser irrisorio o carísimo. Esto implica también, que para cualquier mortal sus ahorros almacenados en forma de criptomoneda, pueden pasar de tener cierto valor a prácticamente nada en cualquier momento. La incertidumbre económica que genera frena su adopción como dinero real.
@@ -143,6 +143,6 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODIwNjE2OSw5NDc5MjIxMjEsLTMxMj
+eyJoaXN0b3J5IjpbLTkyMzMyMTA1Nyw5NDc5MjIxMjEsLTMxMj
 g0MDkzMiwtMTgwMzg0NTU2M119
 -->
