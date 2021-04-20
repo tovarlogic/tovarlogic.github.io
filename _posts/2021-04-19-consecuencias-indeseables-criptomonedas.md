@@ -148,13 +148,8 @@ Otra consecuencia indeseable es que, como resultado de la especulación, el valo
 
 Existe un gran número de "Altcoins" que relacionan su valor directamente con cualquier otra moneda fiat como el USD o EUR. De este modo se pretende evitar la mencionada volatilidad y reducir la incertidumbre. Hasta que no se generalice su uso, es posible que el potencial democratizador de las criptomonedas sólo sea eso, un potencial beneficio que nunca llega a materializarse.  
 
-*[p2p]: Peer to peer
-*[b2b]: Bussines to Bussines
-*[PoW]: Prove of work
-*[PoS]: Prove of stake
-*[NFT]: Non-fungible token
-
-# Declive
+## Inseguridad
+A priori, la fuerza de esta tecnología está en su seguridad y transparencia. Se trata de un 
 No se vislumbra, en un futuro a corto plazo, que ni el interés, ni la utilidad, ni la adopción de esta tecnología decaiga, más bien todo lo contrario. Todo apunta a que nuevas mejoras e innovaciones, y tanto un aumento de la popularidad como conocimiento generalizado logren incrementar inmensamente la adopción de esta tecnología. Aun queda para que su beneficio real se aproxime a su potencial, pero no me cabe duda que es cuestión de tiempo.
 
 Sin embargo, quiero dejar aquí constancia de un gran riesgo o debilidad que implica el uso generalizado de este tipo de tecnología. Como ya he dicho anteriormente, los cimientos de las cadenas de bloques son la criptografía. Hasta ahora los avances en criptografía se han mantenido por delante de los avances en potencia computacional, pero es posible que, por primera vez en la historia, esto deje de ser así. Es también cuestión de tiempo, de poco tiempo, que la computación cuántica ponga en jaque a la criptografía actual.
@@ -165,6 +160,13 @@ Supongo, que una vez se logre un ordenador cuántico habrán dos fases:
 
 Imagino que a finales de la primera fase, las grandes instituciones de investigación y desarrollo, las militares o de inteligencia ya contarán con tecnología viable, y esto es lo que precisamente generará "inseguridad" e incertidumbre. Llegados a este punto entiendo que todo lo que se haya almacenado en cadenas de bloques "pre-cuánticas" quedarán expuestas y perderán todo su valor y utilidad. Posteriormente, una vez haya acabado el periodo de transición y ya sea una tecnología asequible, todos estaremos nuevamente al mismo nivel y los nuevos algoritmos criptográficos volverán a ser seguros.
 
+*[p2p]: Peer to peer
+*[b2b]: Bussines to Bussines
+*[PoW]: Prove of work
+*[PoS]: Prove of stake
+*[NFT]: Non-fungible token
+
+
 # Enlaces de interés
 - [Amnistía Internacional: Police and Human Rights Resources](https://policehumanrightsresources.org/)
 - [BitDegree: Tutorial PoW vs PoS](https://www.bitdegree.org/crypto/tutorials/proof-of-work-vs-proof-of-stake)
@@ -172,6 +174,6 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODMyMjYzMCwtMTM3Nzg2NjUxMiw5ND
-c5MjIxMjEsLTMxMjg0MDkzMiwtMTgwMzg0NTU2M119
+eyJoaXN0b3J5IjpbMzQzOTM5NDUsLTEzNzc4NjY1MTIsOTQ3OT
+IyMTIxLC0zMTI4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
 -->
