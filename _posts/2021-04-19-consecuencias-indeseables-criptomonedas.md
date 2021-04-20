@@ -151,7 +151,7 @@ No se vislumbra, en un futuro a corto plazo, que ni el interés, ni la utilidad,
 
 Sin embargo, quiero dejar aquí constancia de un gran riesgo o debilidad que implica el uso generalizado de este tipo de tecnología. Como ya he dicho anteriormente, los cimientos de las cadenas de bloques son la criptografía. Hasta ahora los avances en criptografía se han mantenido por delante de los avances en potencia computacional, pero es posible que, por primera vez en la historia, esto deje de ser así. Es también cuestión de tiempo, de poco tiempo, que la computación cuántica ponga en jaque a la criptografía actual.
 
-Supongo
+Supongo, q
 
 
 # Enlaces de interés
@@ -161,6 +161,6 @@ Supongo
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc4NjY1MTIsOTQ3OTIyMTIxLC0zMT
-I4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
+eyJoaXN0b3J5IjpbMTUwNzI4OTg5LC0xMzc3ODY2NTEyLDk0Nz
+kyMjEyMSwtMzEyODQwOTMyLC0xODAzODQ1NTYzXX0=
 -->
