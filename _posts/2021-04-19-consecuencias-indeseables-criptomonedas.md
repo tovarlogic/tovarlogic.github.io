@@ -149,7 +149,9 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
 # Declive
 No se vislumbra, en un futuro a corto plazo, que ni el interés, ni la utilidad, ni la adopción de esta tecnología decaiga, más bien todo lo contrario. Todo apunta a que nuevas mejoras e innovaciones, y tanto un aumento de la popularidad como conocimiento generalizado logren incrementar inmensamente la adopción de esta tecnología. Aun queda para que su beneficio real se aproxime a su potencial, pero no me cabe duda que es cuestión de tiempo.
 
-Sin embargo, quiero dejar aquí constancia de un gran riesgo o debilidad que implica el uso generalizado de este tipo de tecnología. Como ya he dicho anteriormente, los cimientos de las cadenas de bloques son la criptografía. Hasta ahora los avances en c
+Sin embargo, quiero dejar aquí constancia de un gran riesgo o debilidad que implica el uso generalizado de este tipo de tecnología. Como ya he dicho anteriormente, los cimientos de las cadenas de bloques son la criptografía. Hasta ahora los avances en criptografía se han mantenido por delante de los avances en potencia computacional, pero es posible que, por primera vez en la historia, esto deje de ser así. Es también cuestión de tiempo, de poco tiempo, que la computación cuántica ponga en jaque a la criptografía actual.
+
+Sup
 
 
 # Enlaces de interés
@@ -159,6 +161,6 @@ Sin embargo, quiero dejar aquí constancia de un gran riesgo o debilidad que imp
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzEyMzE4NTUsOTQ3OTIyMTIxLC0zMT
+eyJoaXN0b3J5IjpbLTE0NDU0MzIzNjEsOTQ3OTIyMTIxLC0zMT
 I4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
 -->
