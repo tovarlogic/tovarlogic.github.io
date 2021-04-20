@@ -155,9 +155,9 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
 ## Culturales
 Quizás en este caso, este rizando el rizo, o estirando demasiado la imaginación. Pero personalmente no me cuesta imaginar un futuro en el que se ha generalizado el uso de documentos digitales a través de cadenas de bloques. Actualmente ya la mayoría de publicaciones científicas se hacen en formato digital, el siguiente paso es relativamente sencillo. Y es posible que la producción literaria digital vaya comiendo terreno a la de papel.
 
-En este caso hipotético, resultaría mucho más sencillo limitar el acceso indeseado a dichas publicaciones. Sería un solución casi perfecta para la protección del derecho de autor y los copyright. Actualmente, el copyright no es una barrera eficaz para la libre circulación de información. Incluso en el ámbito científico, donde el acceso a las publicaciones se obtiene casi exclusivamente a través de revistas especializadas como Nature, existe la posibilidad de acceder a copias pirateadas con mucha facilidad. Como muchas cosas, resulta complicado argumentar si esto es algo bueno o malo, ya que tiene consecuencias reales buenas y malas. 
+En este caso hipotético, resultaría mucho más sencillo limitar el acceso indeseado a dichas publicaciones. Sería un solución casi perfecta para la protección del derecho de autor y los copyright. Actualmente, el copyright no es una barrera eficaz para la libre circulación de información. Incluso en el ámbito científico, donde el acceso a las publicaciones se obtiene casi exclusivamente a través de revistas especializadas como Nature, existe la posibilidad de acceder a copias pirateadas con mucha facilidad. Como muchas cosas, resulta complicado argumentar si esto es algo bueno o malo, ya que tiene consecuencias reales buenas y malas. Las revistas especializadas y serias realizan un esfuerzo de revisión con valor real para la ciencia, no publican cualquier cosa.
 
-Si aceptamos la mayor de que el libre acceso a la información es bueno para la sociedad en general, y obviamos las consecuencias negativas
+Si aceptamos que el principio de libre acceso a la información ees bueno para la sociedad en general, y obviamos las consecuencias negativas
  esto es un arma de doble filo
 
 estas restricciones como las de las patentes suponen, en mi opinión una gran barrera para el desarrollo y accesoDesde el punto de vista de libre acceso de la información
@@ -189,7 +189,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjg2MjEzMjEsMTM0ODkyMTc0MSwtMT
-M3Nzg2NjUxMiw5NDc5MjIxMjEsLTMxMjg0MDkzMiwtMTgwMzg0
-NTU2M119
+eyJoaXN0b3J5IjpbMzkyOTQ3NTU4LDEzNDg5MjE3NDEsLTEzNz
+c4NjY1MTIsOTQ3OTIyMTIxLC0zMTI4NDA5MzIsLTE4MDM4NDU1
+NjNdfQ==
 -->
