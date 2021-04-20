@@ -53,7 +53,9 @@ En la actualidad estos registros disfrutan de gran confianza por nuestra parte. 
 Teoricamente, las cadenas de bloques pueden solucionar todas y cada una de estas desventajas sin reducir la confiabilidad.
 
 ## Como activo no fungible
-Este caso de uso se conoce por NFT. Básicamente lo que significa es que cualquier artículo no fungible, susceptible a ser digitalizado, puede ser guardado y transferidoen una cadena de bloques.
+Este caso de uso se conoce por NFT. Básicamente lo que significa es que cualquier artículo no fungible, susceptible de ser digitalizado, puede ser guardado en una cadena de bloques. Posteriormente la titularidad de dicho activo puede ser transferida.
+
+En la actualidad se consume mucho entretenimiento en internet a través de los servicios de streaming
 
 
 # Consecuencias indeseables
@@ -167,6 +169,6 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ3MzgyMTksLTEzNzc4NjY1MTIsOTQ3OT
-IyMTIxLC0zMTI4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
+eyJoaXN0b3J5IjpbLTEwODQ0MTU5MiwtMTM3Nzg2NjUxMiw5ND
+c5MjIxMjEsLTMxMjg0MDkzMiwtMTgwMzg0NTU2M119
 -->
