@@ -155,7 +155,9 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
 ## Culturales
 Quizás en este caso, este rizando el rizo, o estirando demasiado la imaginación. Pero personalmente no me cuesta imaginar un futuro en el que se ha generalizado el uso de documentos digitales a través de cadenas de bloques. Actualmente ya la mayoría de publicaciones científicas se hacen en formato digital, el siguiente paso es relativamente sencillo. Y es posible que la producción literaria digital vaya comiendo terreno a la de papel.
 
-En este caso hipotético, resultaría mucho más sencillo limitar el acceso indeseado a dichas publicaciones. Sería un solución casi perfecta para la protección del derecho de autor y los copyright. Actualmente, el copyright no es una barrera eficazestas restricciones como las de las patentes suponen, en mi opinión una gran barrera para el desarrollo y accesoDesde el punto de vista de libre acceso de la información
+En este caso hipotético, resultaría mucho más sencillo limitar el acceso indeseado a dichas publicaciones. Sería un solución casi perfecta para la protección del derecho de autor y los copyright. Actualmente, el copyright no es una barrera eficaz para la libre circulación de información. Incluso en el ámbito científico, donde el acceso a las publicaciones se obtiene casi exclusivamente a través de revistas especializadas como Nature, existe la posibilidad de acceder a copias pirateadas con mucha facilidad. Como todo, esto es un arma de doble filo
+
+estas restricciones como las de las patentes suponen, en mi opinión una gran barrera para el desarrollo y accesoDesde el punto de vista de libre acceso de la información
 
 ## Inseguridad e incertidumbre
 No se vislumbra, en un futuro a corto plazo, que ni el interés, ni la utilidad, ni la adopción de esta tecnología decaiga, más bien todo lo contrario. Todo apunta a que nuevas mejoras e innovaciones, y tanto un aumento de la popularidad como conocimiento generalizado logren incrementar inmensamente la adopción de esta tecnología. Aun queda para que su beneficio real se aproxime a su potencial, pero no me cabe duda que es cuestión de tiempo.
@@ -184,7 +186,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NzU3NDM1MiwxMzQ4OTIxNzQxLC0xMz
-c3ODY2NTEyLDk0NzkyMjEyMSwtMzEyODQwOTMyLC0xODAzODQ1
-NTYzXX0=
+eyJoaXN0b3J5IjpbLTEzMTcyODIzMTgsMTM0ODkyMTc0MSwtMT
+M3Nzg2NjUxMiw5NDc5MjIxMjEsLTMxMjg0MDkzMiwtMTgwMzg0
+NTU2M119
 -->
