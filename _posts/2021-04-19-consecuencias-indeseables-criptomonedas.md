@@ -155,8 +155,7 @@ Supongo, que una vez se logre un ordenador cuántico habrán dos fases:
  1. De inseguridad e incertidumbre: Los primeros ordenadores serán muy costosos y complejos. Sólo los desarrolladores tendrán acceso a ellas, aunque ya existen iniciativas para compartir su acceso online. 
  2. De democratización cuántica: Ignoro a que ritmo se desarrollarán soluciones económicas y se popularizará su uso, al estilo de lo que ocurrió en los 80 con los PCs. 
 
-Imagino que aA finales de esta fase, las instituciones de investigación y desarrollo, las militares o de inteligencia se las podrán permitir. Llegados a este punto entiendo que todo lo que se haya almacenado en cadenas de bloques "pre-cuánticas" quedarán expuestas y perderán todo su valor y utilidad.
-Una vez haya acabado el periodo de transición y ya sea una tecnología asequible, todos estaremos nuevamente al mismo nivel y los nuevos algoritmos criptográficos volverán a ser seguros.
+Imagino que a finales de la primera fase, las grandes instituciones de investigación y desarrollo, las militares o de inteligencia ya contarán con tecnología viable, y esto es lo que precisamente generará "inseguridad" e incertidumbre. Llegados a este punto entiendo que todo lo que se haya almacenado en cadenas de bloques "pre-cuánticas" quedarán expuestas y perderán todo su valor y utilidad. Posteriormente, una vez haya acabado el periodo de transición y ya sea una tecnología asequible, todos estaremos nuevamente al mismo nivel y los nuevos algoritmos criptográficos volverán a ser seguros.
 
 # Enlaces de interés
 - [Amnistía Internacional: Police and Human Rights Resources](https://policehumanrightsresources.org/)
@@ -165,6 +164,6 @@ Una vez haya acabado el periodo de transición y ya sea una tecnología asequibl
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzMwMjE1NywtMTM3Nzg2NjUxMiw5ND
-c5MjIxMjEsLTMxMjg0MDkzMiwtMTgwMzg0NTU2M119
+eyJoaXN0b3J5IjpbLTE5Mjk5NTk4OTQsLTEzNzc4NjY1MTIsOT
+Q3OTIyMTIxLC0zMTI4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
 -->
