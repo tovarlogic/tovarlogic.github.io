@@ -4,8 +4,7 @@ title:  "Derechos Humanos"
 date:   2018-08-10
 update: 
 tags: [Derechos humanos]
-categories: [Conocimient]
-categories: [Filosofia,Derecho]
+categories: [Conocimiento]
 toc: true
 toc_sticky: true
 excerpt: Declaración de Derechos Humanos de la ONU comentada.
@@ -257,7 +256,7 @@ Nada en esta Declaración podrá interpretarse en el sentido de que confiere der
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1OTU2Mjg0LDEyMjc3MzAyNTIsLTI0Mz
+eyJoaXN0b3J5IjpbNDExNjQ4NzE5LDEyMjc3MzAyNTIsLTI0Mz
 AxNzIyLDE0NzIyODYwMzgsLTE0NDUxODE2NCwtMTA1OTM0MDk5
 NiwyMDk5MzIwOTUwXX0=
 -->
