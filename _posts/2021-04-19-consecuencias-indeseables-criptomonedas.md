@@ -58,7 +58,9 @@ Teoricamente, las cadenas de bloques pueden solucionar todas y cada una de estas
 ## Como activo no fungible
 Este caso de uso se conoce por NFT. Básicamente lo que significa es que cualquier artículo no fungible, susceptible de ser digitalizado, puede ser guardado en una cadena de bloques. Posteriormente la titularidad de dicho activo puede ser transferida.
 
-En la actualidad se consume mucho entretenimiento en internet a través de los servicios de streaming, que desconozco como pueden ser afectados. Sin embargo, existen otros productos que aún se comercializan en un modo más clásico, como los libros electrónic
+En la actualidad se consume mucho entretenimiento en internet a través de los servicios de streaming, que desconozco como pueden ser afectados. Sin embargo, existen otros productos que aún se comercializan en un modo más clásico, como los libros electrónicos.
+
+Cuando uno compra un libro, no compra su visualización mientras lee (que es lo que ocurre con los servicios de streaming) sino que recibe una copia digital, pero real al fin y al cabo. Esta copia, la podemos manipular
 
 
 # Consecuencias indeseables
@@ -175,7 +177,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg0ODQyMTMsMTM0ODkyMTc0MSwtMT
-M3Nzg2NjUxMiw5NDc5MjIxMjEsLTMxMjg0MDkzMiwtMTgwMzg0
-NTU2M119
+eyJoaXN0b3J5IjpbLTQ2NjUxNTIyOCwxMzQ4OTIxNzQxLC0xMz
+c3ODY2NTEyLDk0NzkyMjEyMSwtMzEyODQwOTMyLC0xODAzODQ1
+NTYzXX0=
 -->
