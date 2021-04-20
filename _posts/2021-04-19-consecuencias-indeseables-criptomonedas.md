@@ -52,6 +52,8 @@ En la actualidad estos registros disfrutan de gran confianza por nuestra parte. 
 
 Teoricamente, las cadenas de bloques pueden solucionar todas y cada una de estas desventajas sin reducir la confiabilidad.
 
+Ya existen proyectos en los que los propios bancos y empresas de energía están adoptando esta tecnología para gestionar y certificar sus propias transacciones
+
 ## Como activo no fungible
 Este caso de uso se conoce por NFT. Básicamente lo que significa es que cualquier artículo no fungible, susceptible de ser digitalizado, puede ser guardado en una cadena de bloques. Posteriormente la titularidad de dicho activo puede ser transferida.
 
@@ -169,6 +171,6 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQ0MTU5MiwtMTM3Nzg2NjUxMiw5ND
+eyJoaXN0b3J5IjpbLTkwMDE3NTY0OSwtMTM3Nzg2NjUxMiw5ND
 c5MjIxMjEsLTMxMjg0MDkzMiwtMTgwMzg0NTU2M119
 -->
