@@ -96,7 +96,9 @@ Queda patente que el impacto medioambiental de todo el ecosistema de criptomoned
 **PoS:** La diferencia con respecto a PoW radica en que se elije a quién debe hacer la validación de la transacción en base a su nivel de participación en el sistema. La consecuencia es que se excluye automáticamente al resto de competencia, y sólo un "nodo" es el responsable de relizar este costoco cálculo, reduciendo el consumo eléctrico en varios órdenes de magnitud. El consumo sigue siendo proporcional al número de transacciones, pero ya no al número de nodos mineros. Por tanto, el consumo se mantiene constante por cada transacción y ya no aumentaría aceleradamente a medida que aumente la adopción de la tecnología.
 {: .notice--info}
 
+## Como activo no fungible
 
+# Consecuencias
 
 
 *[p2p]: Peer to peer
@@ -111,5 +113,6 @@ Queda patente que el impacto medioambiental de todo el ecosistema de criptomoned
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDM4NDU1NjNdfQ==
+eyJoaXN0b3J5IjpbLTIwMDM1NDgyOTAsLTE4MDM4NDU1NjNdfQ
+==
 -->
