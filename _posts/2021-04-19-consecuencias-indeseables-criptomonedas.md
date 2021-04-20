@@ -15,7 +15,7 @@ Las criptomonedas en general son una innovación tecnológica que, como tantas o
 
 Resulta imprescindible en este caso, dejar bien claro que desde mi primer contacto con las criptomonedas en 2012-2013 hasta la actualidad 2021, he cambiado radicalmente mi opinión en más de una ocasión. Es por tanto, mi principal motivación con este artículo establecer un mecanismo con el que poder ordenar y revisar mis opiniones sobre el asunto y quizás más adelante, con carácter iterativo, ampliar, matizar e incluso contradecir lo expuesto inicialmente.
 
-Por último, he de recordarme a mí mismo, que esta entrada en el blog viene inspirada tras escuchar el siguiente, y más que recomendable, [^1][^1]:[Podcast](https://www.ivoox.com/podcast-intelligence-squared_sq_f1130665_1.html) de [Intelligence Squared](https://www.intelligencesquared.com/) relacionado en general con el cumplimiento de los Derechos humanos, mediante un nuevo modelo, que no depende del Principio de justicia universal - no reconocido en paises como EE.UU., Rusia o China -, sino del desarrollo de leyes nacionales que se han ido promoviendo en distintas naciones. Algunas de las últimas leyes de este tipo están enmarcadas por el caso de Sergei Magnitsky, un abogado ruso que tras exponer casos de corrupción sistémica murió a finales de 2009, tras un año de encarcelación preventiva, donde sufrió continuo maltrato e incluso tortura, presuntamente por las mismas personas que denunciaba.
+Por último, he de recordarme a mí mismo, que esta entrada en el blog viene inspirada tras escuchar el siguiente, y más que recomendable, [Podcast](https://www.ivoox.com/podcast-intelligence-squared_sq_f1130665_1.html) de [Intelligence Squared](https://www.intelligencesquared.com/) relacionado en general con el cumplimiento de los Derechos humanos, mediante un nuevo modelo, que no depende del Principio de justicia universal - no reconocido en paises como EE.UU., Rusia o China -, sino del desarrollo de leyes nacionales que se han ido promoviendo en distintas naciones. Algunas de las últimas leyes de este tipo están enmarcadas por el caso de Sergei Magnitsky, un abogado ruso que tras exponer casos de corrupción sistémica murió a finales de 2009, tras un año de encarcelación preventiva, donde sufrió continuo maltrato e incluso tortura, presuntamente por las mismas personas que denunciaba.
 
 <iframe id='audio_68577406' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='width:100%;' src='https://www.ivoox.com/player_ej_68577406_6_1.html'></iframe>
 
@@ -117,7 +117,7 @@ Uno de los problemas evidentes es que este sistema, al ser totalmente transparen
 
 Por su naturaleza, resulta difícil determinar el uso primordial que se le da a la moneda virtual, muy probablemente las mafias, contrabandistas y blanqueadores de moneda encuentran en Bitcoin un medio sin parangón para esquivar al control gubernamental. Es de esperar por tanto, que su uso sea generalizado por estos colectivos.
 
-Precisamente de esto, es lo que trata el Podcast que 
+Precisamente de esto, es lo que trata el Podcast que incluí al inicio. Se ha comprobado que uno de los mejores mecanismos para desincentivar los ag 
 
 Otra consecuencia indeseable es que, como resultado de la especulación, el valor de estas monedas suele ser muy volátil. Este hecho dicifulta enermomente a aquellos usuarios que quieran darle un uso cotidiano y típico de una moneda estandar. No me imagino a nadie usando Bitcoins para comprar una alimentos, ya lo que en un momento resulta un precio razonable, al poco puede ser irrisorio o carísimo. Esto implica también, que para cualquier mortal sus ahorros almacenados en forma de criptomoneda, pueden pasar de tener cierto valor a prácticamente nada en cualquier momento. La incertidumbre económica que genera frena su adopción como dinero real.
 
@@ -138,6 +138,6 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTEyMDI4MjQsOTQ3OTIyMTIxLC0zMT
+eyJoaXN0b3J5IjpbLTE3MjI2NTA3MzIsOTQ3OTIyMTIxLC0zMT
 I4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
 -->
