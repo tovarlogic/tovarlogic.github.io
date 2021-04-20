@@ -29,7 +29,7 @@ La creación del Bitcoin fue publicada en Octubre 2008, mediante un [white paper
 
 Desde entonces las criptodivisas podían convertirse en una solución para millones de personas en el mundo que, dada su situación de exclusión y probable indocumentación, por fin podrían tener acceso diversos servicios financieros que previamente les estaban vedados por no tener acceso a una cuenta bancaria ni pasaporte. Podrían, por ejemplo, enviar y recibir dinero, sin limitaciones territoriales, a gran velocidad y mínimo coste o incluso solicitar financiamiento colectivo o mecenazgo.  Es decir, las criptomonedas eliminan a los bancos como intermediarios necesarios y con ello las barreras de entrada al sistema financiero, o lo que es lo mismo, democratizándolo. Ahora es posible el movimiento de dinero entre personas (p2p) y entre negocios (b2b) en distintas partes del mundo, en cuestión de segundos y sin comisiones.
 
-Otro caso de uso más que evidente es el de las inversiones capitalistas. Las criptomonedas son diseñadas con un límite de "tokens" posible. Una vez llegado a ese límite simplemente ya no se generan nuevas monedas. Es un misterio para mí lo que ocurriría una vez llegado ese momento, supongo que es ahí cuando el sistema deja de ser útil porque no se podrían validar nuevas operaciones. Lo que es obvio sin embargo, es que hasta que eso no ocurra el sistema se encuentra en un escenario inflacionario forzado, ya que, sea cual sea la demanda, la oferta se sabe limitada. Desde los comienzos de Bitcoin se ha mantenido una clara tendencia alcista en el valor de las monedas, lo que ha generado inmensas ganancias a los primeros adoptantes y otras no desdeñables a los que han ido adquiriendo monedas a posterioridad. Esta es la razón primordial de la popularidad de las criptomonedas y el Bitcoin en particular, que ha cristalizado la idea de que con ellas se consigue dinero fácil, alimentando la avaricia por doquier.
+Como cualquier otra moneda, se puede emplear para el comercio y transferencia de dinero o como medio puramente especulativo. Las criptomonedas son diseñadas con un límite de "tokens" posible. Una vez llegado a ese límite simplemente ya no se generan nuevas monedas. Es un misterio para mí lo que ocurriría una vez llegado ese momento, supongo que es ahí cuando el sistema deja de ser útil porque no se podrían validar nuevas operaciones. Lo que es obvio sin embargo, es que hasta que eso no ocurra el sistema se encuentra en un escenario inflacionario forzado, ya que, sea cual sea la demanda, la oferta se sabe limitada. Desde los comienzos de Bitcoin se ha mantenido una clara tendencia alcista en el valor de las monedas, lo que ha generado inmensas ganancias a los primeros adoptantes y otras no desdeñables a los que han ido adquiriendo monedas a posterioridad. Esta es la razón primordial de la popularidad de las criptomonedas y el Bitcoin en particular, que ha cristalizado la idea de que con ellas se consigue dinero fácil, alimentando la avaricia por doquier.
 
 Dicha popularidad a su vez, ha permitido el surgimiento de miles de nuevas criptodivisas, algunas con periodos de vida ínfimos, ya que sus creadores únicamente buscaban el pelotazo inicial, lo que a posteriori ha supuesto pérdidas millonarias a sus usuarios y acarreado litigios por supuesta estafa, con desenlace para mí totalmente desconocidos.
 
@@ -109,6 +109,10 @@ Queda patente que el impacto medioambiental de todo el ecosistema de criptomoned
 **PoS:** La diferencia con respecto a PoW radica en que se elije a quién debe hacer la validación de la transacción en base a su nivel de participación en el sistema. La consecuencia es que se excluye automáticamente al resto de competencia, y sólo un "nodo" es el responsable de relizar este costoco cálculo, reduciendo el consumo eléctrico en varios órdenes de magnitud. El consumo sigue siendo proporcional al número de transacciones, pero ya no al número de nodos mineros. Por tanto, el consumo se mantiene constante por cada transacción y ya no aumentaría aceleradamente a medida que aumente la adopción de la tecnología.
 {: .notice--info}
 
+## Derechos humanos
+Uno de los problemas evidentes es que este sistema, al ser totalmente transparente pero encriptado es que imposibilita a los gobiernos su regularización, abriendo la puerta al uso delictivo con cierta impunidad de la cibermoneda. Esto resultó ser el caso, cuando desde muy temprano se evidenciaron casos de uso para el menudeo de drogas, armas y demás productos ilegales en mercados negros establecidos en la "Darknet". Uno de los casos más famosos fue el de "Silkroad" que no pudo ser desmantelada por el FBI hasta varios años de actividad impune, entre otras razones porque el medio de pago habitual era Bitcoin.
+
+Por su naturaleza, resulta difícil determinar el uso primordial que se le da a la moneda virtual, muy probablemente las mafias, contrabandistas y blanqueadores de moneda encuentran en Bitcoin un medio sin parangón para esquivar al control gubernamental. Es de esperar por tanto, que su uso sea generalizado por estos colectivos.
 
 *[p2p]: Peer to peer
 *[b2b]: Bussines to Bussines
@@ -122,6 +126,6 @@ Queda patente que el impacto medioambiental de todo el ecosistema de criptomoned
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODUxMDc4MCw5NDc5MjIxMjEsLTMxMj
-g0MDkzMiwtMTgwMzg0NTU2M119
+eyJoaXN0b3J5IjpbLTk5NzY5MzM2LDk0NzkyMjEyMSwtMzEyOD
+QwOTMyLC0xODAzODQ1NTYzXX0=
 -->
