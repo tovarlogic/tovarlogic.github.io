@@ -98,7 +98,7 @@ analytics:
 author:
   name             : "Kinsay"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Mis circunstancias y yo."
+  bio              : "Este es un espacio abierto, aunque destinado a uso personal, para gestionar mi proceso de aprendizaje continuo."
   location         : "Somewhere"
   email            :
   links:
@@ -244,7 +244,7 @@ whitelist:
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
-  path: /categories/
+  path: /
 tag_archive:
   type: liquid
   path: /tags/
