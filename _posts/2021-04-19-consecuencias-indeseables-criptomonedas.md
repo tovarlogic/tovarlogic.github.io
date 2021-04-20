@@ -119,7 +119,9 @@ Por su naturaleza, resulta difícil determinar el uso primordial que se le da a 
 
 Precisamente de esto, es lo que trata el Podcast que incluí al inicio. Se ha comprobado que uno de los mejores mecanismos para desincentivar la violación de los Derechos humanos, son las sanciones económicas a los delincuentes, generalmente dictadores y altos cargos políticos u empresariales. Es común que los corruptos muevan sus botines a bancos extranjeros (fuera del control de sus gobiernos nacionales) y disfruten de cierta impunidad. No obstante, el resto de paises tienen capacidad para congelar sus cuentas o dificultar el acceso tanto a crédito como a efectivo, por tanto, aunque hayan acumulado riquezas tendrán dificultad en gastarla a su antojo, al menos fuera de sus paises.  Las criptomonedas, en este sentido son un gran aliado para todo tipo de delincuentes. En la actualidad les puede resultar dificil obtener efectivo superior a 2000€ o $10.000 sin estar sujetos a control gubernamental, pero pueden mover millones en forma de Bitcoin sin limitación ni control alguna. Hasta que no se logre de algún modo regular las criptodivisas estas van a suponer un grave riesgo para nuestras sociedades.
 
-Ya ha quedado claro, que el uso de criptomonedas dificulta su control por parte de las autoridades. Esto no sólo tiene efectos nocivos en las sociedades más pobres y menos democráticas. Las sociedades más avanzadas y democráticas, también pueden sufrir sus efectos. P
+Ya ha quedado claro, que el uso de criptomonedas dificulta su control por parte de las autoridades. Esto no sólo tiene efectos nocivos en las sociedades más pobres y menos democráticas. Las sociedades más avanzadas y democráticas, también pueden sufrir sus efectos. 
+
+Por un lado, pertenecen a estas sociedades muchas grandes multinacionales con actividades, como la producción, deslocalizadas en terceros paises menos desarrollados y por tanto más baratos y con menor control en cualquier ámbito.
 
 
 Otra consecuencia indeseable es que, como resultado de la especulación, el valor de estas monedas suele ser muy volátil. Este hecho dicifulta enermomente a aquellos usuarios que quieran darle un uso cotidiano y típico de una moneda estandar. No me imagino a nadie usando Bitcoins para comprar una alimentos, ya lo que en un momento resulta un precio razonable, al poco puede ser irrisorio o carísimo. Esto implica también, que para cualquier mortal sus ahorros almacenados en forma de criptomoneda, pueden pasar de tener cierto valor a prácticamente nada en cualquier momento. La incertidumbre económica que genera frena su adopción como dinero real.
@@ -141,6 +143,6 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODgxMjMxOSw5NDc5MjIxMjEsLTMxMj
+eyJoaXN0b3J5IjpbMTk4ODIwNjE2OSw5NDc5MjIxMjEsLTMxMj
 g0MDkzMiwtMTgwMzg0NTU2M119
 -->
