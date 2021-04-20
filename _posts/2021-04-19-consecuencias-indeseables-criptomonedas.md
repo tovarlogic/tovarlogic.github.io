@@ -147,7 +147,7 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
 *[PoS]: Prove of stake
 
 # Declive
-No se vislumbra, en un futuro a corto plazo, que ni el interés, ni la utilidad, ni la adopción de esta tecnología decaiga, más bien todo lo contrario. Todo apunta a que nuevas mejoras e innovaciones, y un aumento de la popularidad y conocimiento generalizado logren que el potencial
+No se vislumbra, en un futuro a corto plazo, que ni el interés, ni la utilidad, ni la adopción de esta tecnología decaiga, más bien todo lo contrario. Todo apunta a que nuevas mejoras e innovaciones, y tanto un aumento de la popularidad como conocimiento generalizado logren incrementar inmensamente la adopción de esta tecnología. Aun queda para que su beneficio real se aproxime a su potencial, pero no me cabe duda que es cuestión de
 # Enlaces de interés
 - [Amnistía Internacional: Police and Human Rights Resources](https://policehumanrightsresources.org/)
 - [BitDegree: Tutorial PoW vs PoS](https://www.bitdegree.org/crypto/tutorials/proof-of-work-vs-proof-of-stake)
@@ -155,6 +155,6 @@ No se vislumbra, en un futuro a corto plazo, que ni el interés, ni la utilidad,
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNDYyODE1Nyw5NDc5MjIxMjEsLTMxMj
-g0MDkzMiwtMTgwMzg0NTU2M119
+eyJoaXN0b3J5IjpbMzQ1MTkxMiw5NDc5MjIxMjEsLTMxMjg0MD
+kzMiwtMTgwMzg0NTU2M119
 -->
