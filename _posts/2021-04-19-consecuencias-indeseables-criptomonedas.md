@@ -117,7 +117,7 @@ Uno de los problemas evidentes es que este sistema, al ser totalmente transparen
 
 Por su naturaleza, resulta difícil determinar el uso primordial que se le da a la moneda virtual, muy probablemente las mafias, contrabandistas y blanqueadores de moneda encuentran en Bitcoin un medio sin parangón para esquivar al control gubernamental. Es de esperar por tanto, que su uso sea generalizado por estos colectivos.
 
-Precisamente de esto, es lo que trata el Podcast que incluí al inicio. Se ha comprobado que uno de los mejores mecanismos para desincentivar la violación de los Derechos humanos, son las sanciones económicas a los delincuentes, generalmente dictadores y altos cargos políticos u empresariales. Es común que los corruptos muevan sus botines a bancos  
+Precisamente de esto, es lo que trata el Podcast que incluí al inicio. Se ha comprobado que uno de los mejores mecanismos para desincentivar la violación de los Derechos humanos, son las sanciones económicas a los delincuentes, generalmente dictadores y altos cargos políticos u empresariales. Es común que los corruptos muevan sus botines a bancos extranjeros (fuera del control de sus gobiernos nacionales) y disfruten de cierta impunidad. No obstante, el resto de paises tienen capacidad para congelar sus cuentas o dificultar el acceso tanto a crédito como a efectivo, por tanto, aunque  
 
 Otra consecuencia indeseable es que, como resultado de la especulación, el valor de estas monedas suele ser muy volátil. Este hecho dicifulta enermomente a aquellos usuarios que quieran darle un uso cotidiano y típico de una moneda estandar. No me imagino a nadie usando Bitcoins para comprar una alimentos, ya lo que en un momento resulta un precio razonable, al poco puede ser irrisorio o carísimo. Esto implica también, que para cualquier mortal sus ahorros almacenados en forma de criptomoneda, pueden pasar de tener cierto valor a prácticamente nada en cualquier momento. La incertidumbre económica que genera frena su adopción como dinero real.
 
@@ -138,6 +138,6 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTQxNDc2OSw5NDc5MjIxMjEsLTMxMj
+eyJoaXN0b3J5IjpbMTc5OTA5MzMwOSw5NDc5MjIxMjEsLTMxMj
 g0MDkzMiwtMTgwMzg0NTU2M119
 -->
