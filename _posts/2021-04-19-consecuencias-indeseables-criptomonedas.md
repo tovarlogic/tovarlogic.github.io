@@ -44,7 +44,9 @@ Hay que dejar claro que no todas las "Altcoins", como se conocen a las criptomon
 ## Como registro público
 Hasta ahora hemos hablado de Criptomonedas que hacen referencia a uno de los usos posibles de la tecnología que en realidad se llama *Blockchain* o cadena de bloques en castellano. 
 
-Otro uso posible, no tan generalizado pero con valor cuanto menos equivalente es el de *Ledger* o libro de contabilidad. De hecho este uso es el que mejor refleja la naturaleza de la tecnología. Una cadena de bloques no es otra cosa que un registro público, lo que represente cada entrada de dicho registro es lo que determina el "uso" que se le dé.
+Otro uso posible, no tan generalizado pero con valor cuanto menos equivalente es el de *Ledger* o libro de contabilidad. De hecho este uso es el que mejor refleja la naturaleza de la tecnología. Una cadena de bloques no es otra cosa que un registro público, lo que represente cada entrada de dicho registro es lo que determina el "uso" que se le dé. Y su valor estará vinculado a lo que registre. Se puede registrar prácticamente cualquier cosa.
+
+Si 
 
 
 
@@ -121,5 +123,6 @@ Queda patente que el impacto medioambiental de todo el ecosistema de criptomoned
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjg0MDkzMiwtMTgwMzg0NTU2M119
+eyJoaXN0b3J5IjpbMTEwNjQ0Njc3MywtMzEyODQwOTMyLC0xOD
+AzODQ1NTYzXX0=
 -->
