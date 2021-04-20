@@ -119,7 +119,7 @@ Por su naturaleza, resulta difícil determinar el uso primordial que se le da a 
 
 Otra consecuencia indeseable es que, como resultado de la especulación, el valor de estas monedas suele ser muy volátil. Este hecho dicifulta enermomente a aquellos usuarios que quieran darle un uso cotidiano y típico de una moneda estandar. No me imagino a nadie usando Bitcoins para comprar una pizza ()
 
-**Nota:**en el pasado ya se compró una pizza de este modo y no mucho después se convirtió en la pizza mas cara del mundo.
+**Nota:**en el pasado ya se compró una pizza de este modo y no mucho después se convirtió en [la pizza mas cara del mundo](https://platzi.com/blog/la-pizza-mas-cara-de-la-historia-bitcoin-pizza-day/).
 {: .notice--warning}
 
 *[p2p]: Peer to peer
@@ -134,6 +134,6 @@ Otra consecuencia indeseable es que, como resultado de la especulación, el valo
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0Mjk1MzE0LDk0NzkyMjEyMSwtMzEyOD
-QwOTMyLC0xODAzODQ1NTYzXX0=
+eyJoaXN0b3J5IjpbMTI2OTQzNzIxNSw5NDc5MjIxMjEsLTMxMj
+g0MDkzMiwtMTgwMzg0NTU2M119
 -->
