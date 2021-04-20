@@ -53,7 +53,7 @@ En la actualidad estos registros disfrutan de gran confianza por nuestra parte. 
 Teoricamente, las cadenas de bloques pueden solucionar todas y cada una de estas desventajas sin reducir la confiabilidad.
 
 ## Como activo no fungible
-
+Este caso de uso se
 # Consecuencias indeseables
 ## Medioambientales
 La adopción masiva de esta tecnología, como uso dinerario, ha generado un problema que podría haber sido fácilmente previsible por quienes conocen bien sus entrañas, pero probablemente desconocida o directamente ignorada la mayoría de usuarios a los que solo importa la utilidad o beneficio que les aporta. Se trata del impacto medioambiental, a través del abismal consumo eléctrico que supone la minería y que aumenta, si no de manera exponencial si muy aceleradamente. En la actividad minera, es de hecho, el consumo eléctrico el principal factor limitante para determinar la rentabilidad. El consumo es tan descomunal que de nada sirve dar cifras, es mejor ilustrarlo con ejemplos que nos ayuden a visualizar su magnitud:
@@ -145,6 +145,7 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
 *[b2b]: Bussines to Bussines
 *[PoW]: Prove of work
 *[PoS]: Prove of stake
+*[NFT]: Non-fungible token
 
 # Declive
 No se vislumbra, en un futuro a corto plazo, que ni el interés, ni la utilidad, ni la adopción de esta tecnología decaiga, más bien todo lo contrario. Todo apunta a que nuevas mejoras e innovaciones, y tanto un aumento de la popularidad como conocimiento generalizado logren incrementar inmensamente la adopción de esta tecnología. Aun queda para que su beneficio real se aproxime a su potencial, pero no me cabe duda que es cuestión de tiempo.
@@ -164,6 +165,6 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjk5NTk4OTQsLTEzNzc4NjY1MTIsOT
-Q3OTIyMTIxLC0zMTI4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
+eyJoaXN0b3J5IjpbMjAyMTcxMTk0LC0xMzc3ODY2NTEyLDk0Nz
+kyMjEyMSwtMzEyODQwOTMyLC0xODAzODQ1NTYzXX0=
 -->
