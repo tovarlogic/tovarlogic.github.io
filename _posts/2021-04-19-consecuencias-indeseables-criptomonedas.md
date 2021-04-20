@@ -9,10 +9,9 @@ author_profile: false
 draft: true
 ---
 # Introducción
-Las criptomonedas tienen una larga historia, no obstante se popularizaron tras la creación del Bitcoin a finales de 2008. Este artículo no tiene intención de cubrir dicha historia ni descubrir sus fundamentos (aunque se aclara todo lo imprescindible para comprender sus implicaciones), para ello puedes empezar por la [Wikipedia](https://es.wikipedia.org/wiki/Criptomoneda). Por el contrario, lo que pretendo es articular dentro de mis propias limitaciones algunas de las consecuencias de su adopción. Las mas relevantes, en mi opinión, las relativas al *Medio ambiente* y los *Derechos humanos*.
+Las criptomonedas tienen una larga historia, no obstante se popularizaron tras la creación del Bitcoin a finales de 2008. Este artículo no tiene intención de cubrir dicha historia ni descubrir sus fundamentos (aunque se aclara todo lo imprescindible para comprender sus implicaciones), para ello puedes empezar por la [Wikipedia](https://es.wikipedia.org/wiki/Criptomoneda) y los enlaces que incluyo al final del artículo. Por el contrario, lo que pretendo es articular dentro de mis propias limitaciones algunas de las consecuencias de su adopción. Las mas relevantes, en mi opinión, las relativas al *Medio ambiente* y los *Derechos humanos*.
 
-Las criptomonedas en general son una innovación tecnológica que, como tantas otras en el pasado, exponen claramente nuestras debilidades y defectos, tanto individuales como de las sociedades en las que vivimos. Por supuesto, la tecnología en sí no es ni buena ni mala, sin
-o el uso que le demos, y aquí describiré algunos de los usos, reales y potenciales, que traen consigo consecuencias no intencionadas.
+Las criptomonedas en general son una innovación tecnológica que, como tantas otras en el pasado, exponen claramente nuestras debilidades y defectos, tanto individuales como de las sociedades en las que vivimos. Por supuesto, la tecnología en sí no es ni buena ni mala, sino el uso que le demos, y aquí describiré algunos de los usos, reales y potenciales, que traen consigo consecuencias no intencionadas.
 
 Resulta imprescindible en este caso, dejar bien claro que desde mi primer contacto con las criptomonedas en 2012-2013 hasta la actualidad 2021, he cambiado radicalmente mi opinión en más de una ocasión. Es por tanto, mi principal motivación con este artículo establecer un mecanismo con el que poder ordenar y revisar mis opiniones sobre el asunto y quizás más adelante, con carácter iterativo, ampliar, matizar e incluso contradecir lo expuesto inicialmente.
 
@@ -29,10 +28,6 @@ El desarrollo de la idea de criptomoneda está directamente vinculado con el mov
 La creación del Bitcoin fue publicada en Octubre 2008, mediante un [white paper](https://bitcoin.org/es/bitcoin-documento), precisamente en la lista de correos de dicho movimiento. Se anunció como un medio de pago y circulación descentralizado e independiente de los gobiernos nacionales.
 
 Desde entonces las criptodivisas podían convertirse en una solución para millones de personas en el mundo que, dada su situación de exclusión y probable indocumentación, por fin podrían tener acceso diversos servicios financieros que previamente les estaban vedados por no tener acceso a una cuenta bancaria ni pasaporte. Podrían, por ejemplo, enviar y recibir dinero, sin limitaciones territoriales, a gran velocidad y mínimo coste o incluso solicitar financiamiento colectivo o mecenazgo.  Es decir, las criptomonedas eliminan a los bancos como intermediarios necesarios y con ello las barreras de entrada al sistema financiero, o lo que es lo mismo, democratizándolo. Ahora es posible el movimiento de dinero entre personas (p2p) y entre negocios (b2b) en distintas partes del mundo, en cuestión de segundos y sin comisiones.
-
-Uno de los problemas evidentes es que este sistema, al ser totalmente transparente pero encriptado, imposibilita a los gobiernos su regularización, abriendo la puerta al uso delictivo con cierta impunidad de la cibermoneda. Esto resultó ser el caso, cuando desde muy temprano se evidenciaron casos de uso para el menudeo de drogas, armas y demás productos ilegales en mercados negros establecidos en la "Darknet". Uno de los casos más famosos fue el de "Silkroad" que no pudo ser desmantelada por el FBI hasta varios años de actividad impune, entre otras razones porque el medio de pago habitual era Bitcoin.
-
-Por su naturaleza, resulta difícil determinar el uso primordial que se le da a la moneda virtual, muy probablemente las mafias, contrabandistas y blanqueadores de moneda encuentran en Bitcoin un medio sin parangón para esquivar al control gubernamental. Es de esperar por tanto, que su uso sea generalizado por estos colectivos.
 
 Otro caso de uso más que evidente es el de las inversiones capitalistas. Las criptomonedas son diseñadas con un límite de "tokens" posible. Una vez llegado a ese límite simplemente ya no se generan nuevas monedas. Es un misterio para mí lo que ocurriría una vez llegado ese momento, supongo que es ahí cuando el sistema deja de ser útil porque no se podrían validar nuevas operaciones. Lo que es obvio sin embargo, es que hasta que eso no ocurra el sistema se encuentra en un escenario inflacionario forzado, ya que, sea cual sea la demanda, la oferta se sabe limitada. Desde los comienzos de Bitcoin se ha mantenido una clara tendencia alcista en el valor de las monedas, lo que ha generado inmensas ganancias a los primeros adoptantes y otras no desdeñables a los que han ido adquiriendo monedas a posterioridad. Esta es la razón primordial de la popularidad de las criptomonedas y el Bitcoin en particular, que ha cristalizado la idea de que con ellas se consigue dinero fácil, alimentando la avaricia por doquier.
 
@@ -127,6 +122,6 @@ Queda patente que el impacto medioambiental de todo el ecosistema de criptomoned
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjEwMDc5OSw5NDc5MjIxMjEsLTMxMj
+eyJoaXN0b3J5IjpbLTk1ODUxMDc4MCw5NDc5MjIxMjEsLTMxMj
 g0MDkzMiwtMTgwMzg0NTU2M119
 -->
