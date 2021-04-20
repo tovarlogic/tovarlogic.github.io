@@ -125,7 +125,8 @@ La corrupción generalmente busca aumentar el poder y/o la riqueza, de la que mu
 
 Los efectos negativos, no obstante, no se limitan a paises menos desarrollados. En occidente ya se emplean las criptomonedas como medio para el blanqueo de capital y evasión fiscal. ¿Que pasaría si su uso se generalizara? No me cabe duda, de que si la mayoría tenemos acceso a dinero opaco, sin que nadie sepa cuánto tenemos, cuánto gastamos, en dónde y cómo; nuestro comportamiento económico y fiscal no se vería tan condicionado por los valores morales. Hay infinidad de ejemplos análogos que ilustran perfectamente que el comportamiento humano se desvía de los cánones morales cuando no está sujeto a "control" por el resto. 
 
-**Ejemplos:** Los casos de corrupción "suave", como malversación de fondos públicos, el cobro
+**Ejemplos:** Los casos de corrupción "suave", como malversación de fondos públicos, el cobro de suplementos en tarjetas black o sobres, e incluso el pago y cobro de servicios sin factura son ejemplos de ello. Cuando pensamos que nadie nos ve, tenemos comportamientos reprobables.
+
 {: .notice--info}
 
 
@@ -148,6 +149,6 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzE1NTU4MjEsOTQ3OTIyMTIxLC0zMT
-I4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
+eyJoaXN0b3J5IjpbMTg0MDEyMDUwMyw5NDc5MjIxMjEsLTMxMj
+g0MDkzMiwtMTgwMzg0NTU2M119
 -->
