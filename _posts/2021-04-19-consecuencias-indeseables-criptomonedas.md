@@ -50,7 +50,7 @@ En la actualidad estos registros disfrutan de gran confianza por nuestra parte. 
  - El acceso es costoso.
  - Su gestión y mantenimiento también es costoso.
 
-Teoricamente, las cadenas de bloques pueden solucionar todas y
+Teoricamente, las cadenas de bloques pueden solucionar todas y cada una de estas desventajas sin reducir la confiabilidad.
 
 ## Como activo no fungible
 
@@ -146,6 +146,8 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
 *[PoW]: Prove of work
 *[PoS]: Prove of stake
 
+# Declive
+A 
 # Enlaces de interés
 - [Amnistía Internacional: Police and Human Rights Resources](https://policehumanrightsresources.org/)
 - [BitDegree: Tutorial PoW vs PoS](https://www.bitdegree.org/crypto/tutorials/proof-of-work-vs-proof-of-stake)
@@ -153,6 +155,6 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDkyMDQyNDEsOTQ3OTIyMTIxLC0zMT
-I4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
+eyJoaXN0b3J5IjpbMzE2NDU4NzI5LDk0NzkyMjEyMSwtMzEyOD
+QwOTMyLC0xODAzODQ1NTYzXX0=
 -->
