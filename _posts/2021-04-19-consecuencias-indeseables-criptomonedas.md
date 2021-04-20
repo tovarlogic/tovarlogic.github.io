@@ -117,13 +117,12 @@ Uno de los problemas evidentes es que este sistema, al ser totalmente transparen
 
 Por su naturaleza, resulta difícil determinar el uso primordial que se le da a la moneda virtual, muy probablemente las mafias, contrabandistas y blanqueadores de moneda encuentran en Bitcoin un medio sin parangón para esquivar al control gubernamental. Es de esperar por tanto, que su uso sea generalizado por estos colectivos.
 
-## Económicas
 Otra consecuencia indeseable es que, como resultado de la especulación, el valor de estas monedas suele ser muy volátil. Este hecho dicifulta enermomente a aquellos usuarios que quieran darle un uso cotidiano y típico de una moneda estandar. No me imagino a nadie usando Bitcoins para comprar una alimentos, ya lo que en un momento resulta un precio razonable, al poco puede ser irrisorio o carísimo. Esto implica también, que para cualquier mortal sus ahorros almacenados en forma de criptomoneda, pueden pasar de tener cierto valor a prácticamente nada en cualquier momento. La incertidumbre económica que genera frena su adopción como dinero real.
 
 **Nota:**en el pasado ya se compró una pizza de este modo y no mucho después se convirtió en [la pizza mas cara del mundo](https://platzi.com/blog/la-pizza-mas-cara-de-la-historia-bitcoin-pizza-day/).
 {: .notice--warning}
 
-Existe un gran número de "Altcoins" que relacionan su valor directamente con cualquier otra moneda fiat como el USD o EUR. De este modo se pretende evitar la mencionada volatilidad y reducir la inc, pero hasta que no 
+Existe un gran número de "Altcoins" que relacionan su valor directamente con cualquier otra moneda fiat como el USD o EUR. De este modo se pretende evitar la mencionada volatilidad y reducir la incertidumbre. Hasta que no se generalice su uso, es posible que el potencial democratizador de las criptomonedas sólo sea eso, un potencial beneficio que nunca llega a materializarse.  
 
 *[p2p]: Peer to peer
 *[b2b]: Bussines to Bussines
@@ -137,6 +136,6 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDY5ODAxNCw5NDc5MjIxMjEsLTMxMj
-g0MDkzMiwtMTgwMzg0NTU2M119
+eyJoaXN0b3J5IjpbLTE0NzQwMDgxMTgsOTQ3OTIyMTIxLC0zMT
+I4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
 -->
