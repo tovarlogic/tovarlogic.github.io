@@ -42,7 +42,7 @@ Hay que dejar claro que no todas las "Altcoins", como se conocen a las criptomon
 
 
 ## Como registro público
-Hasta ahora hemos hablado de Criptomonedas, sin embargo, e
+Hasta ahora hemos hablado de Criptomonedas. Este nombre  hace referencia a uno de los usos posibles de la tecnología que en realidad se llama *Blockchain" aunque en realidad estás no son más que un uso más de 
 
 ## Como activo no fungible
 
@@ -117,5 +117,5 @@ Queda patente que el impacto medioambiental de todo el ecosistema de criptomoned
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIxNDk5NDQzLC0xODAzODQ1NTYzXX0=
+eyJoaXN0b3J5IjpbLTQ1Mjg5ODg2MiwtMTgwMzg0NTU2M119
 -->
