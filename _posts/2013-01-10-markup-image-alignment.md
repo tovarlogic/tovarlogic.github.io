@@ -1,7 +1,8 @@
 ---
 title: "Markup: Image Alignment"
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies:
+  - Markup
 tags:
   - alignment
   - captions
@@ -71,5 +72,5 @@ In just a bit here, you should see the text start to wrap below the right aligne
 
 And that's a wrap, yo! You survived the tumultuous waters of alignment. Image alignment achievement unlocked!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTk4ODk5NV19
+eyJoaXN0b3J5IjpbLTEwMDM1OTg2MjIsLTUzNTk4ODk5NV19
 -->
