@@ -8,20 +8,7 @@ toc_sticky: true
 author_profile: false
 ---
 # Fundamentos aprendizaje
-
-[Ir a la navegación](http://tovarlogic.shoutwiki.com/wiki/Fundamentos_aprendizaje#column-one)[Ir a la búsqueda](http://tovarlogic.shoutwiki.com/wiki/Fundamentos_aprendizaje#searchInput)
-
-## Sumario
-
--   [1 Introducción](http://tovarlogic.shoutwiki.com/wiki/Fundamentos_aprendizaje#Introducci.C3.B3n)
--   [2 El conocimiento](http://tovarlogic.shoutwiki.com/wiki/Fundamentos_aprendizaje#El_conocimiento)
--   [3 La creatividad](http://tovarlogic.shoutwiki.com/wiki/Fundamentos_aprendizaje#La_creatividad)
--   [4 Técnicas de aprendizaje](http://tovarlogic.shoutwiki.com/wiki/Fundamentos_aprendizaje#T.C3.A9cnicas_de_aprendizaje)
--   [5 Autoevaluar nuestros conocimientos](http://tovarlogic.shoutwiki.com/wiki/Fundamentos_aprendizaje#Autoevaluar_nuestros_conocimientos)
--   [6 Conclusiones](http://tovarlogic.shoutwiki.com/wiki/Fundamentos_aprendizaje#Conclusiones)
-
 ## Introducción
-
 Habitualmente el deseo de adquirir conocimiento surge de una necesidad. Si no controlamos la ansiedad que esta necesidad nos provoca podemos caer en el error de querer aprender rápido, cuando lo realmente importante es aprender bien.
 
 Siempre, ante cualquier acción por nuestra parte, **lo primero es conseguir ser eficaces**, es decir, lograr nuestro objetivo. En un segundo orden de importancia viene la eficiencia, es decir, conseguirlo empleando la menor cantidad de recursos y tiempo posibles.
@@ -36,11 +23,18 @@ Partiendo de lo anterior, se puede deducir que el buen aprendizaje debe aportarn
 -   Capacidad de recordar a largo plazo lo aprendido: aunque en su momento lo hayamos comprendido, si lo hemos olvidado tampoco podremos aplicarlo.
 
 ## El conocimiento
-
 El conocimiento es jerarquizado y relacionado.
 
 Hay que ver el conocimiento como un árbol, donde el tronco más grueso que las ramas sirve de fundamento u agarre a estas, que a su vez serán soporte a otras más finas hasta llegar a las hojas que representan el mayor detalle de una cuestión particular. Si no se dominan primero los principios fundamentales, nuestro conocimiento no tendrá de donde sustentarse.
 
+
+<figure>
+  <img src="/assets/images/blog/aprender/Tree_of_knoledge.PNG">
+  <figcaption>
+	  Estimación de consumo eléctrico histórico del Bitcoin 2015-2021
+ Crédito:  <a href="https://cbeci.org/">Cambridge Centre for Alternative Finance</a>
+  </figcaption>
+</figure>
 [![](http://images.shoutwiki.com/tovarlogic/thumb/3/38/Tree_of_knoledge.PNG/320px-Tree_of_knoledge.PNG)](http://tovarlogic.shoutwiki.com/wiki/Archivo:Tree_of_knoledge.PNG)
 
 Tree of Knowledge. Credits: The art of improvement
@@ -105,5 +99,5 @@ Your state is a snapshot of your mood – the mood of your mind and your body. I
 
 If you want to cut your learning curve in half, learn with the intention of teaching it to somebody else. If you had to give a presentation on what you’re learning today, you would learn it differently. You would pay closer attention. You would take more detailed notes. You would ask better questions. When I teach something, I get to learn it twice. People often say that those who can’t do teach. But I never saw that as a negative. I always thought, wow, if I can’t do something, I can teach it, and then I can do it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTUwMTg2M119
+eyJoaXN0b3J5IjpbMTI5Mzg2MTgwOF19
 -->
