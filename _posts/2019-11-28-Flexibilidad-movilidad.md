@@ -18,45 +18,36 @@ La flexibilidad determina el máximo rango de movimiento de una persona, por lo 
 Las diferentes técnicas o tipos de ejercicios se pueden categorizar en:
 1.  **Estáticos**: No requieren movimiento.
 2.  **Dinámicos**: Si requieren movimiento.
-
 y
-
 1.  **Pasivos**: Requieren de una fuerza/carga externa.
 2.  **Activos**: Requiere crear la fuerza/carga de manera autónoma.
 
-Todas las técnicas son contexto dependientes por lo que es recomendable:
-
+Todas las técnicas son contexto-dependientes por lo que es recomendable:
 1.  Realizar los estiramientos con buena postura
 2.  Realizar los estiramientos en las posiciones en las que se requiere la movilidad. Ej: En posición de sentadilla
 
 Del mismo modo, todas las técnicas se benefician de una respiración controlada y que "abra espacios" para incrementar paulatinamente el ROM.
 
-### Estáticos
-
-Resultan ideales para volver a la calma y recuperar el ROM original. También para incrementar la longitud de los tejidos blandos para aumentar la flexibilidad.
-
-### Dinámicos
+## Estáticos y Dinámicos
+Los estiramientos estáticos, esultan ideales para volver a la calma y recuperar el ROM original. También para incrementar la longitud de los tejidos blandos para aumentar la flexibilidad.
 
 Son estiramientos con movimiento articular, que para realizarlos correctamente se debe:
-
--   Ir incrememntando paulatinamente el rango de las rotaciones su velocidad.
+-   Ir incrementando paulatinamente el rango de las rotaciones su velocidad.
 -   El cambio de dirección del movimiento se tiene que realizar activamente y ANTES de sentir el estiramiento.
 
-### Activos y Pasivos
-
+## Activos y Pasivos
 -   La carga o fuerza externa se suele obtener con pesos, la propia gravedad o elásticos.
--   La carga autonoma se obtiene mediante contracción activa de los músculos.
+-   La carga autónoma se obtiene mediante contracción activa de los músculos.
 
 Este tipo de ejercicios afectan a la coordinación, por lo que se suele recomendar que se ejecuten como un workout por separada y preferiblemente por la tarde o noche.
 
 Generalmente este tipo de ejercicios se hacen a modo de repeticiones con las siguientes fases, para completar una de ellas:
 
 1.  Estirar hasta ligero estiramiento
-2.  Contraer el musculo a estirar o mover el cuerpo para relajarlo
+2.  Contraer el músculo a estirar o mover el cuerpo para relajarlo
 3.  Volver a estirar, incrementando ligeramente el ROM
 
-### Otras técnicas
-
+## Otras técnicas
 -   **liberación miofascial**: La Fascia es un tejido conjuntivo denso irregular que rodea y conecta todos los músculo, que en respuesta a la inactividad, posición postural o lesiones, esta puede contraerse y adherirse a los músculos. Su liberación consiste en ejercer presión en las zonas donde la movilidad está restringida y donde existe más tensión, para permitir que los tejidos contiguos puedan moverse con mayor facilidad. Resulta especialmente útil para:
     -   Aumentar el riego sanguíneo mejorando la recuperación y
     -   Aumento del ROM de manera aguda mediante inhibición autogénica, reducción de adherencias y cicatrices tisulares.
@@ -85,5 +76,5 @@ Por regla general se recomienda lo siguiente:
 
 -   [Crossfit Flexibility Training Guide](http://assets.crossfit.com/pdfs/seminars/Flexibility_Training_Guide.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ2NTk1MTYzXX0=
+eyJoaXN0b3J5IjpbMTM1MzU0NDI5XX0=
 -->
