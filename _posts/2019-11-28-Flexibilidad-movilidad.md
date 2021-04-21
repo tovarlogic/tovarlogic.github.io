@@ -11,7 +11,8 @@ Flexibilidad:
 es el rango de movimiento que se puede obtener de manera PASIVA. 
 Movilidad:
 es el rango de movimiento que se puede obtener de manera ACTIVA.
-
+ROM:
+Range of Motion o rango de moviemiento en español.
 La flexibilidad determina el máximo rango de movimiento de una persona, por lo que la movilidad viene determinada por ésta.
 
 # Técnicas para aumentar el ROM
@@ -29,9 +30,9 @@ Todas las técnicas son contexto-dependientes por lo que es recomendable:
 Del mismo modo, todas las técnicas se benefician de una respiración controlada y que "abra espacios" para incrementar paulatinamente el ROM.
 
 ## Estáticos y Dinámicos
-Los estiramientos estáticos, esultan ideales para volver a la calma y recuperar el ROM original. También para incrementar la longitud de los tejidos blandos para aumentar la flexibilidad.
+Los estiramientos estáticos, resultan ideales para volver a la calma y recuperar el ROM original. También para incrementar la longitud de los tejidos blandos para aumentar la flexibilidad.
 
-Son estiramientos con movimiento articular, que para realizarlos correctamente se debe:
+Por su parte, los dinámicos, son estiramientos con movimiento articular, que para realizarlos correctamente se debe:
 -   Ir incrementando paulatinamente el rango de las rotaciones su velocidad.
 -   El cambio de dirección del movimiento se tiene que realizar activamente y ANTES de sentir el estiramiento.
 
@@ -52,12 +53,12 @@ Generalmente este tipo de ejercicios se hacen a modo de repeticiones con las sig
     -   Aumentar el riego sanguíneo mejorando la recuperación y
     -   Aumento del ROM de manera aguda mediante inhibición autogénica, reducción de adherencias y cicatrices tisulares.
 
-Se peude emplear mediante:
+Se puede emplear mediante:
 
 -   -   Fisioterapeuta
     -   Automasaje mediante foam roller o pelotas
 
--   **Flossing o joint distraction**: Consiste en emplear bandas elásticas que ejerzan una fuerza tangencian dentro de la articulación para aumentar el espacio dentro de esta y así facilitar el movimiento. Se suele emplear en combinación con PNF.
+-   **Flossing o joint distraction**: Consiste en emplear bandas elásticas que ejerzan una fuerza tangencial dentro de la articulación para aumentar el espacio dentro de esta y así facilitar el movimiento. Se suele emplear en combinación con PNF.
 
 -   **Excéntricos**: Suelen emplearse para el tratamiento de tendinopatías
 
@@ -76,5 +77,5 @@ Por regla general se recomienda lo siguiente:
 
 -   [Crossfit Flexibility Training Guide](http://assets.crossfit.com/pdfs/seminars/Flexibility_Training_Guide.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzU0NDI5XX0=
+eyJoaXN0b3J5IjpbMTM1MDg0OTA1MF19
 -->
