@@ -3,6 +3,8 @@ title:  "Flexibilidad y movilidad"
 date:   2019-11-28 15:14:54
 tags: [Fitness]
 category: [Conocimiento]
+toc: true
+toc_sticky: true
 excerpt: Definiciones e indicaciones de cuándo y cómo realizar estos ejercicios
 ---
 # Definiciones
@@ -80,5 +82,5 @@ Por regla general se recomienda lo siguiente:
 
 -   [Crossfit Flexibility Training Guide](http://assets.crossfit.com/pdfs/seminars/Flexibility_Training_Guide.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzY1NzkxMTddfQ==
+eyJoaXN0b3J5IjpbLTM5NDc3NjI2NSwtMTg3NjU3OTExN119
 -->
