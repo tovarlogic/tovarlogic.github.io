@@ -5,16 +5,17 @@ tags: [Fitness]
 category: [Conocimiento]
 excerpt: Definiciones e indicaciones de cuándo y cómo realizar estos ejercicios
 ---
-## Definiciones
+# Definiciones
 
-**Flexibilidad**, es el rango de movimiento que se puede obtener de manera PASIVA. **Movilidad**, es el rango de movimiento que se puede obtener de manera ACTIVA.
+Flexibilidad:
+es el rango de movimiento que se puede obtener de manera PASIVA. 
+Movilidad:
+es el rango de movimiento que se puede obtener de manera ACTIVA.
 
 La flexibilidad determina el máximo rango de movimiento de una persona, por lo que la movilidad viene determinada por ésta.
 
-## Técnicas para aumentar el ROM
-
+# Técnicas para aumentar el ROM
 Las diferentes técnicas o tipos de ejercicios se pueden categorizar en:
-
 1.  **Estáticos**: No requieren movimiento.
 2.  **Dinámicos**: Si requieren movimiento.
 
@@ -78,9 +79,11 @@ Por regla general se recomienda lo siguiente:
 -   **Vuelta a la calma post-workout**, estiramientos estáticos.
 -   **Mantenimiento o mejora ROM**, estiramientos estáticos, pasivos y activos.
 
+*[ROM]: Range of Motion
+
 ## Bibliografía
 
 -   [Crossfit Flexibility Training Guide](http://assets.crossfit.com/pdfs/seminars/Flexibility_Training_Guide.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE1OTY4MzldfQ==
+eyJoaXN0b3J5IjpbNDQ2NTk1MTYzXX0=
 -->
