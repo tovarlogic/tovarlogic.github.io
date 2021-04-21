@@ -2,9 +2,9 @@
 title:  "Constitución Española de 1978"
 date:   2021-02-07
 update: 
-draft: true
-tags: [Derecho, Constitución]
-category: [Conocimiento]
+draft: truemeta: borrador
+tags: [Dderecho, Cconstitucióon]
+category: [Conocimienties: [Filosofia,Derecho]
 toc: true
 toc_sticky: true
 excerpt: Constitución Española de 1978 comentada.
@@ -242,11 +242,11 @@ CAPÍTULO CUARTODe las garantías de las libertades y derechos fundamentalesArt�
 [^3] Perez Luño.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3ODUwNTczNCwtMjMzMjc4NzIxLC03Nz
-E0NDU5MDUsLTExNDA3OTIzOTYsLTU4Mzc1NjIwMiw2Mzc5ODc0
-Niw4NjI0NTcyNzQsLTIwNTYxMzY2NjEsLTEzOTQzNzUyNzksMT
-gwNzE4NzI2NiwxNzMwNTA3NDcxLDIwOTg4NDUxNTUsLTIwODQ2
-Mzg5OTMsNzg3NDg0NjYzLDc4NDY2MzUzMCwtMTYyMTYzOTUzMS
-wtMTE4MTg2MTM3NiwxNjA3MDc1NDMzLC01NTIxMjAwNDMsNjUw
-OTU3NTE0XX0=
+eyJoaXN0b3J5IjpbLTIwMTk1NTQ4ODYsMjA3ODUwNTczNCwtMj
+MzMjc4NzIxLC03NzE0NDU5MDUsLTExNDA3OTIzOTYsLTU4Mzc1
+NjIwMiw2Mzc5ODc0Niw4NjI0NTcyNzQsLTIwNTYxMzY2NjEsLT
+EzOTQzNzUyNzksMTgwNzE4NzI2NiwxNzMwNTA3NDcxLDIwOTg4
+NDUxNTUsLTIwODQ2Mzg5OTMsNzg3NDg0NjYzLDc4NDY2MzUzMC
+wtMTYyMTYzOTUzMSwtMTE4MTg2MTM3NiwxNjA3MDc1NDMzLC01
+NTIxMjAwNDNdfQ==
 -->
