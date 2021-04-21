@@ -1,7 +1,7 @@
 ---
 title:  Argumentos de Autoridad
 date:   2018-08-18
-tags: [Lógica, Pensamiento crítico]
+tags: [Mind tools, Lógica, Pensamiento crítico]
 category: [Conocimiento]
 serie: razonamiento
 toc: true
@@ -106,5 +106,5 @@ Llamamos falaz al mal argumento de autoridad que se emplea abusivamente y distin
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxNjUyNTc5XX0=
+eyJoaXN0b3J5IjpbNDQ3NjIyNjY1LDYwMTY1MjU3OV19
 -->
