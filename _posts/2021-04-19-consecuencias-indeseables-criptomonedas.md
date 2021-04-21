@@ -6,7 +6,6 @@ category: Opinion
 toc: true
 toc_sticky: true
 author_profile: false
-draft: true
 ---
 # Introducción
 Las criptomonedas tienen una larga historia, no obstante se popularizaron tras la creación del Bitcoin a finales de 2008. Este artículo no tiene intención de cubrir dicha historia ni descubrir sus fundamentos (aunque se aclara todo lo imprescindible para comprender sus implicaciones), para ello puedes empezar por la [Wikipedia](https://es.wikipedia.org/wiki/Criptomoneda) y los enlaces que incluyo al final del artículo. Por el contrario, lo que pretendo es articular dentro de mis propias limitaciones algunas de las consecuencias de su adopción. Las mas relevantes, en mi opinión, las relativas al *Medio ambiente* y los *Derechos humanos*.
@@ -188,7 +187,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYyNjA0Mjk1LDEzNDg5MjE3NDEsLTEzNz
-c4NjY1MTIsOTQ3OTIyMTIxLC0zMTI4NDA5MzIsLTE4MDM4NDU1
-NjNdfQ==
+eyJoaXN0b3J5IjpbMTkzOTQwMTg4OCw4NjI2MDQyOTUsMTM0OD
+kyMTc0MSwtMTM3Nzg2NjUxMiw5NDc5MjIxMjEsLTMxMjg0MDkz
+MiwtMTgwMzg0NTU2M119
 -->
