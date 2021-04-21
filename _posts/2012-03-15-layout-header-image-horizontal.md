@@ -4,7 +4,9 @@ header:
   image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies:
+  - Layout
+  - Uncategorized
 tags:
   - edge case
   - featured image
@@ -18,5 +20,5 @@ Non-square images can provide some unique styling issues.
 
 This post tests a horizontal header image.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2MDA4OTQ0XX0=
+eyJoaXN0b3J5IjpbLTI5MDgyMDI0NSw4MjYwMDg5NDRdfQ==
 -->
