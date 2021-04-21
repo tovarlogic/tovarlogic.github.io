@@ -51,7 +51,7 @@ En la actualidad estos registros disfrutan de gran confianza por nuestra parte. 
 
 Teoricamente, las cadenas de bloques pueden solucionar todas y cada una de estas desventajas sin reducir la confiabilidad.
 
-**Nota:** Ya existen proyectos en los que los propios bancos y empresas de energía están adoptando esta tecnología para gestionar y certificar sus propias transacciones con mayor transparencia y eficacia que sus sistemas clásicos reduciendo además los costes. Existen también iniciativas democráticas como la de Estonia. En este país han conseguido, con el apoyo de esta tecnología, que el 99% de sus servicios públicos e
+**Nota:** Ya existen proyectos en los que los propios bancos y empresas de energía están adoptando esta tecnología para gestionar y certificar sus propias transacciones con mayor transparencia y eficacia que sus sistemas clásicos reduciendo además los costes. Existen también iniciativas democráticas como la de Estonia. En este país han conseguido, con el apoyo de esta tecnología, que el [99% de sus servicios públicos estén disponibles de manera online](https://e-estonia.com/solutions/e-governance/), incluso las votaciones.
 {: .notice--warning}
 
 ## Como activo no fungible
@@ -68,7 +68,7 @@ Canciones, películas, obras de arte, libros y documentos en general, claves de 
 # Como contratos inteligentes
 El ecosistema de Ethereum fue el primero en desarrollar esta idea. Básicamente, se puede programar la cadena de bloques para que se comporte de manera autónoma basada en una serie de condiciones previas codificadas en el contrato. Una vez se den dichas condiciones ejecutará las acciones predefinidas también en el contrato.
 
-**Nota:** Existe un caso particular muy llamativo, en el que se ha usado la moneda.
+**Nota:** Existe un caso particular muy llamativo, en el que se ha usado la moneda XX.
 {: .notice--warning}
 
 # Consecuencias indeseables
@@ -194,7 +194,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTA5MjEzNywxOTM5NDAxODg4LDg2Mj
+eyJoaXN0b3J5IjpbMjA1NTM1ODU0NiwxOTM5NDAxODg4LDg2Mj
 YwNDI5NSwxMzQ4OTIxNzQxLC0xMzc3ODY2NTEyLDk0NzkyMjEy
 MSwtMzEyODQwOTMyLC0xODAzODQ1NTYzXX0=
 -->
