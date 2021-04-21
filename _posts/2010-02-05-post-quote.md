@@ -1,7 +1,8 @@
 ---
 title: "Post: Quote"
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies:
+  - Post Formats
 tags:
   - Post Formats
   - quote
@@ -11,5 +12,5 @@ tags:
   
 > <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDc0NDQ2MDhdfQ==
+eyJoaXN0b3J5IjpbMjgzNTEyNTQ5LC0xMjQ3NDQ0NjA4XX0=
 -->
