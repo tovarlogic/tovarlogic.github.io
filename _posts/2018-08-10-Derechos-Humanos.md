@@ -3,7 +3,7 @@ layout: post
 title:  "Derechos Humanos"
 date:   2018-08-10
 update: 
-tags: [Derechos humanos]
+tags: [Derecho, Derechos humanos]
 category: [Conocimiento]
 toc: true
 toc_sticky: true
@@ -256,7 +256,7 @@ Nada en esta Declaración podrá interpretarse en el sentido de que confiere der
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODIyNDYyMSw0MTE2NDg3MTksMTIyNz
-czMDI1MiwtMjQzMDE3MjIsMTQ3MjI4NjAzOCwtMTQ0NTE4MTY0
-LC0xMDU5MzQwOTk2LDIwOTkzMjA5NTBdfQ==
+eyJoaXN0b3J5IjpbLTE2Njk3MTUxNjEsNDExNjQ4NzE5LDEyMj
+c3MzAyNTIsLTI0MzAxNzIyLDE0NzIyODYwMzgsLTE0NDUxODE2
+NCwtMTA1OTM0MDk5NiwyMDk5MzIwOTUwXX0=
 -->
