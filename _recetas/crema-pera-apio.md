@@ -1,7 +1,6 @@
 ---
 title: "Crema de pera y apio"
 date: 2021-01-01
-receta: Cremas
 ingredients:
  Apio: 10 tallos
  Peras conferencia: 5 
@@ -25,12 +24,12 @@ show_abreviations: true
 prepmins: 5
 cookmins: 20
 yield: 6
-authortags: [Vegetariana]
-categories: [Crema]
-fuente: "'Vegesanísimo' de Álvaro Vargas"
+tags: [Vegetariana]
+receta: Cremas
+author: "'Vegesanísimo' de Álvaro Vargas"
 ---
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzNzc1Nzk3LDE4Njc4NDc5NTZdfQ==
+eyJoaXN0b3J5IjpbMTE4NzkzODgsMTg2Nzg0Nzk1Nl19
 -->
