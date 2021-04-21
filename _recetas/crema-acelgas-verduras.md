@@ -1,7 +1,6 @@
 ---
 title: "Crema de acelgas y verduras"
 date: 2021-02-10
-receta: Cremas
 ingredients:
  Agua: 1 litro
  Caldo de verduras: 250ml
@@ -23,13 +22,13 @@ show_abreviations: true
 prepmins: 5
 cookmins: 20
 yield: 6
-authortags: [Vegetariana, FODMAP, Paleo]
-categories: [Cremas]
-fuente: Karlos Arguiñano
+tags: [Vegetariana, FODMAP, Paleo]
+receta: Cremas
+author: Karlos Arguiñano
 ---
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjgyMTMzMDAsLTEzNTQ3OTk2MjBdfQ
+eyJoaXN0b3J5IjpbLTE5NDIxODE2NDIsLTEzNTQ3OTk2MjBdfQ
 ==
 -->
