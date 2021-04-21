@@ -2,7 +2,9 @@
 title: "Layout: More Tag"
 excerpt_separator: <!--more-->
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies:
+  - Layout
+  - Uncategorized
 tags:
   - content
   - read more
@@ -17,5 +19,5 @@ Additional content before the more tag.
 
 And this content is after the more tag.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NjUzMDUzMV19
+eyJoaXN0b3J5IjpbLTE0MjAwMjQyOTYsLTY5NjUzMDUzMV19
 -->
