@@ -9,7 +9,7 @@ layout: archive_left
 <ul class="taxonomy__index">
     {% for tag in sorted_tags %}
       {% if tag[1].size > 0 %}
-      	{% assign category_tag = tag[1] | where: "categories", page.taxonomy | sort %}
+      	{% assign category_tag = tag[1] | where: "category", page.taxonomy | sort %}
 		{% if category_tag != empty %}
         <li>
           <a href="#{{ tag[0] | slugify }}">
@@ -25,7 +25,7 @@ layout: archive_left
 
 {% for tag in sorted_tags %}
     {% if tag[1].size > 0 %}
-    	{% assign category_tag = tag[1] | where: "categories", page.taxonomy | sort %}
+    	{% assign category_tag = tag[1] | where: "category", page.taxonomy | sort %}
 		{% if category_tag != empty %}
       <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
         <h2 class="archive__subtitle">{{ tag[0] }}</h2>
