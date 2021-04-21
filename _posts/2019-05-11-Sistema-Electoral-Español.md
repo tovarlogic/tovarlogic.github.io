@@ -4,6 +4,8 @@ date:   2019-05-11
 update: 
 tags: [Derecho, Política, Sociología]
 category: [Conocimiento]
+toc: true
+toc_sticky: true
 excerpt: Resumen sobre el actual sistema electoral en España y una propuesta para su reforma.
 ---
 
@@ -107,7 +109,7 @@ De acuerdo a lo estudiado en el excel adjunto, la opción con mejor proporcional
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzYxNjUwMTIsLTE0ODA0MTM4MTQsMT
-UwNDc2NzAxNCwtNDg0ODIxMjM2LC0xNDYzNjE2ODA0LC0yNzg0
-NjMyMCwtMjA2OTM3MDE0NF19
+eyJoaXN0b3J5IjpbLTgwMTk3OTYxLC0yMDM2MTY1MDEyLC0xND
+gwNDEzODE0LDE1MDQ3NjcwMTQsLTQ4NDgyMTIzNiwtMTQ2MzYx
+NjgwNCwtMjc4NDYzMjAsLTIwNjkzNzAxNDRdfQ==
 -->
