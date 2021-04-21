@@ -28,7 +28,7 @@ La creación del Bitcoin fue publicada en Octubre 2008, mediante un [white paper
 
 Desde entonces las criptodivisas podían convertirse en una solución para millones de personas en el mundo que, dada su situación de exclusión y probable indocumentación, por fin podrían tener acceso diversos servicios financieros que previamente les estaban vedados por no tener acceso a una cuenta bancaria ni pasaporte. Podrían, por ejemplo, enviar y recibir dinero, sin limitaciones territoriales, a gran velocidad y mínimo coste o incluso solicitar financiamiento colectivo o mecenazgo.  Es decir, las criptomonedas eliminan a los bancos como intermediarios necesarios y con ello las barreras de entrada al sistema financiero, o lo que es lo mismo, democratizándolo. Ahora es posible el movimiento de dinero entre personas (p2p) y entre negocios (b2b) en distintas partes del mundo, en cuestión de segundos y sin comisiones.
 
-Como cualquier otra moneda, se puede emplear para el comercio y transferencia de dinero o como medio puramente especulativo. Las criptomonedas son diseñadas con un límite de "tokens" posible. Una vez llegado a ese límite simplemente ya no se generan nuevas monedas. Es un misterio para mí lo que ocurriría una vez llegado ese momento, supongo que es ahí cuando el sistema deja de ser útil porque no se podrían validar nuevas operaciones. Lo que es obvio sin embargo, es que hasta que eso no ocurra el sistema se encuentra en un escenario inflacionario forzado, ya que, sea cual sea la demanda, la oferta se sabe limitada. Desde los comienzos de Bitcoin se ha mantenido una clara tendencia alcista en el valor de las monedas, lo que ha generado inmensas ganancias a los primeros adoptantes y otras no desdeñables a los que han ido adquiriendo monedas a posterioridad. Esta es la razón primordial de la popularidad de las criptomonedas y el Bitcoin en particular, que ha cristalizado la idea de que con ellas se consigue dinero fácil, alimentando la avaricia por doquier.
+Como cualquier otra moneda, se puede emplear para el comercio y transferencia de dinero o como medio puramente especulativo. Las criptomonedas son diseñadas con un límite de "tokens" posible. Una vez llegado a ese límite simplemente ya no se generan nuevas monedas. Es un misterio para mí lo que ocurriría una vez llegado ese momento, supongo que es ahí cuando el sistema deja de ser útil porque no se podrían validar nuevas operaciones. Lo que es obvio sin embargo, es que hasta que eso no ocurra el sistema se encuentra en un escenario inflacionario forzado, ya que, sea cual sea la demanda, la oferta se sabe limitada. Desde los comienzos de Bitcoin se ha mantenido en una clara tendencia alcista sobre el valor de las monedas, lo que ha generado inmensas ganancias a los primeros adoptantes y otras no desdeñables a los que han ido adquiriendo monedas a posterioridad. Esta es la razón primordial de la popularidad de las criptomonedas y el Bitcoin en particular, que ha cristalizado la idea de que con ellas se consigue dinero fácil, alimentando la avaricia por doquier.
 
 Dicha popularidad a su vez, ha permitido el surgimiento de miles de nuevas criptodivisas, algunas con periodos de vida ínfimos, ya que sus creadores únicamente buscaban el pelotazo inicial, lo que a posteriori ha supuesto pérdidas millonarias a sus usuarios y acarreado litigios por supuesta estafa, con desenlace para mí totalmente desconocidos.
 
@@ -187,7 +187,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzOTQwMTg4OCw4NjI2MDQyOTUsMTM0OD
-kyMTc0MSwtMTM3Nzg2NjUxMiw5NDc5MjIxMjEsLTMxMjg0MDkz
-MiwtMTgwMzg0NTU2M119
+eyJoaXN0b3J5IjpbLTExODI0MzM2NzUsMTkzOTQwMTg4OCw4Nj
+I2MDQyOTUsMTM0ODkyMTc0MSwtMTM3Nzg2NjUxMiw5NDc5MjIx
+MjEsLTMxMjg0MDkzMiwtMTgwMzg0NTU2M119
 -->
