@@ -4,6 +4,8 @@ date:   2020-05-26 15:14:54
 update: 2020-05-18
 tags: [Política]
 category: [Opinion]
+toc: true
+toc_sticky: true
 excerpt: Discusión sobre las distintas formas de censura, sus riesgos y alternativas.
 ---
 
@@ -184,6 +186,7 @@ Justicia,.. Sin embargo, el que mejor refleja la propia naturaleza humana, y por
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjIxNDM4OTAyLDE3NDQwOTAwODIsLTYwMz
-MzMjY3MCwtMTUyNDg3NzI2LDIxODc3NjIzNl19
+eyJoaXN0b3J5IjpbLTQ0OTA0MDYyMiw2MjE0Mzg5MDIsMTc0ND
+A5MDA4MiwtNjAzMzMyNjcwLC0xNTI0ODc3MjYsMjE4Nzc2MjM2
+XX0=
 -->
