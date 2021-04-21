@@ -4,7 +4,7 @@ date:   2021-02-07
 update: 
 draft: truemeta: borrador
 tags: [Dderecho,constitucion]
-categories: [Conocimientos]
+category: [Conocimientos]
 toc: true
 toc_sticky: true
 excerpt: Constitución Española de 1978 comentada.

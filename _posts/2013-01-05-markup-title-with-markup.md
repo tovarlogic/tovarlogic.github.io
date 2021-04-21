@@ -1,8 +1,7 @@
 ---
 title: "Markup: Title *with* **Markdown**"
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Markdown
 tags:
   - css
   - html

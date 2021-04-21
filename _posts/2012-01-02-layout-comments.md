@@ -1,10 +1,8 @@
 ---
 title: "Layout: Comments Enabled"
 comments: true
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Layout
-  - Uncategorized
 tags:
   - comments
   - layout

@@ -3,10 +3,8 @@ title: "Post: Teaser Image with OpenGraph Override"
 header:
   teaser: /assets/images/page-header-teaser.png
   og_image: /assets/images/page-header-og-image.png
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Layout
-  - Uncategorized
 tags:
   - edge case
   - image

@@ -1,10 +1,8 @@
 ---
 title: "Layout: More Tag"
 excerpt_separator: <!--more-->
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Layout
-  - Uncategorized
 tags:
   - content
   - read more

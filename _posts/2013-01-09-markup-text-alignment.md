@@ -1,8 +1,7 @@
 ---
 title: "Markup: Text Alignment"
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Markup
 tags:
   - alignment
   - content

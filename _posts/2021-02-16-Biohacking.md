@@ -2,7 +2,7 @@
 title: "Biohacking"
 date:   2021-02-16
 tags: [Suplementos]
-categories: [Opinión]
+category: [Opinion]
 toc: true
 toc_sticky: true
 author_profile: false

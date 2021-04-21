@@ -2,9 +2,8 @@
 title:  "Welcome to Jekyll!"
 header:
   teaser: "/assets/images/500x300.png"
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Jekyll
 tags:
   - update
 ---

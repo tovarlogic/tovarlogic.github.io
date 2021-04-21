@@ -7,10 +7,8 @@ header:
   actions:
     - label: "Learn more"
       url: "https://unsplash.com"
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Layout
-  - Uncategorized
 tags:
   - edge case
   - image

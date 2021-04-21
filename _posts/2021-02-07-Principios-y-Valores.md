@@ -3,7 +3,7 @@ title:  "Principios y Valores"
 date:   2021-02-07
 update: 
 tags: [Ética]
-categories: [Conocimiento]
+category: [Conocimiento]
 excerpt: Análisis sobre la naturaleza de los Principios y Valores. ¿Son la misma cosa? Si no es así ¿Cuál es su relación?.
 ---
 

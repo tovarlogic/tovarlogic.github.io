@@ -1,9 +1,8 @@
 ---
 title: "Post: Standard"
 excerpt_separator: "<!--more-->"
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Post Formats
 tags:
   - Post Formats
   - readability

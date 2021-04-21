@@ -2,7 +2,7 @@
 title:  "Razonamiento"
 date:   2018-08-08
 tags: [Lógica, Pensamiento crítico]
-categories: [Conocimiento]
+category: [Conocimiento]
 serie: razonamiento
 toc: true
 toc_sticky: true

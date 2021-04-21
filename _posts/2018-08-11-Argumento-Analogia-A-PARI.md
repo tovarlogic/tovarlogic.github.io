@@ -2,7 +2,7 @@
 title:  Argumentos por Analogía "A Pari"
 date:   2018-08-11
 tags: [Lógica, Pensamiento crítico]
-categories: [Conocimiento]
+category: [Conocimiento]
 serie: razonamiento
 toc: true
 toc_sticky: true

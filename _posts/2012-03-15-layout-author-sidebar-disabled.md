@@ -2,7 +2,7 @@
 title: "Layout: Author Sidebar Disabled"
 excerpt: "A post to test disabling author sidebar."
 author_profile: false
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
 ---
 

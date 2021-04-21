@@ -1,8 +1,7 @@
 ---
 title: "Post: Image (with Link)"
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Post Formats
 tags:
   - image
   - Post Formats

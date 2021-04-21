@@ -10,7 +10,7 @@ sidebar:
   - title: "Another Title"
     text: "More text here."
     nav: sidebar-sample
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
 ---
 

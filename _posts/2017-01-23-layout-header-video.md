@@ -4,10 +4,8 @@ header:
   video:
     id: XsxDH4HcOWA
     provider: youtube
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Layout
-  - Uncategorized
 tags:
   - video
   - layout

@@ -23,17 +23,11 @@ main:
   - title: "Conocimiento"
     url: /conocimiento/
   - title: "Opinión"
-    url: /opinión/
+    url: /opinion/
   - title: "Series"
     url: /series/
   - title: "Recetas"
     url: /recetas/
-  - title: "Artículos por categoría"
-    url: /categories/
-  - title: "Artículos por etiqueta"
-    url: /tags/
-  - title: "Artículos por fecha"
-    url: /articulos-fecha/
   - title: "Guide"
     url: /docs/quick-start-guide/
 

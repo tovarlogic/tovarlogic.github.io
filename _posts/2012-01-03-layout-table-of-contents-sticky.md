@@ -1,6 +1,6 @@
 ---
 title: "Layout: Post with Sticky Table of Contents"
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
 tags:
   - table of contents

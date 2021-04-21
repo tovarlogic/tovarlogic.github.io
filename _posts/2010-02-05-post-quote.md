@@ -1,8 +1,7 @@
 ---
 title: "Post: Quote"
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Post Formats
 tags:
   - Post Formats
   - quote

@@ -5,7 +5,7 @@ date:   2018-08-13
 update: 
 draft: true
 tags: [Política]
-categories: [Conocimiento]
+category: [Conocimiento]
 excerpt:
 
 ---

@@ -2,10 +2,8 @@
 title: "Layout: Header Overlay with Background Fill"
 header:
   overlay_color: "#333"
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Layout
-  - Uncategorized
 tags:
   - edge case
   - image

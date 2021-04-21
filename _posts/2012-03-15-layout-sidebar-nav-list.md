@@ -5,7 +5,7 @@ author_profile: false
 sidebar:
   title: "Sample Title"
   nav: sidebar-sample
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
 ---
 

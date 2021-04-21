@@ -2,7 +2,7 @@
 title: Artículos que aglutinan mi base cultural y de conocimiento de manera más o menos objetiva
 layout: category_left
 breadcrumb_name: Conocimiento
-permalink: /categories/conocimiento/
+permalink: /conocimiento/
 taxonomy: Conocimiento
 author_profile: false
 classes: wide

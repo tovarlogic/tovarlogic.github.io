@@ -1,7 +1,7 @@
 ---
 title: "Layout: Post Date Disabled"
 show_date: false
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
 tags:
   - post date

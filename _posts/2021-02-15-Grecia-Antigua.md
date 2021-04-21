@@ -2,7 +2,7 @@
 title:  "Grecia antigua"
 date:   2021-02-15
 tags: [Historia]
-categories: [Conocimiento]
+category: [Conocimiento]
 serie: civilizaciones
 sidebar: civilizaciones
 toc: true

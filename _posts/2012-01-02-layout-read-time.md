@@ -1,7 +1,7 @@
 ---
 title: "Layout: Read Time Enabled"
 read_time: true
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
 tags:
   - read time

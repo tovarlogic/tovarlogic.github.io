@@ -4,10 +4,8 @@ read_time: false
 comments: false
 share: false
 related: false
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Layout
-  - Uncategorized
 tags:
   - related posts
   - social

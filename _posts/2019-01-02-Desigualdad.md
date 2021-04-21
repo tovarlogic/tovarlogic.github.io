@@ -3,7 +3,7 @@ title:  "Desigualdad"
 date:   2019-12-20 15:14:54
 update: 2020-05-18
 tags: [Política, Sociología]
-categories: [Conocimiento]
+category: [Conocimiento]
 excerpt: La propia existencia de distintos individuos supone por naturaleza la existencia de desigualdades inherentes. Una sociedad variada puede significar un mayor potencial de capital social, pero ¿que condiciones han de darse para que así sea? o ¿Que condiciones lo dificultan?.
 ---
 

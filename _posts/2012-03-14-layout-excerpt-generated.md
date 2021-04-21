@@ -1,10 +1,8 @@
 ---
 title: "Layout: Excerpt (Generated)"
 excerpt_separator: "<!--more-->"
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Layout
-  - Uncategorized
 tags:
   - content
   - excerpt

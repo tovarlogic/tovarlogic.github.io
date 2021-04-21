@@ -1,8 +1,7 @@
 ---
 title: "Post: Twitter Embed"
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Media
 tags:
   - content
   - embeds

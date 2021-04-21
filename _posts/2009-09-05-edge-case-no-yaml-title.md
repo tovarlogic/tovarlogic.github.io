@@ -1,5 +1,5 @@
 ---
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: tru
   - Edge Case
 tags:

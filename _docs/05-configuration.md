@@ -956,7 +956,7 @@ And of course any default value can be overridden by settings in a post, page, o
 
 ## Outputting
 
-The default permalink style used by the theme is `permalink: /:categories/:title/`. If you have a post named `2016-01-01-my-post.md` with `categories: foo` in the YAML Front Matter, Jekyll will generate `_site/foo/my-post/index.html`.
+The default permalink style used by the theme is `permalink: /:categories/:title/`. If you have a post named `2016-01-01-my-post.md` with `category: foo` in the YAML Front Matter, Jekyll will generate `_site/foo/my-post/index.html`.
 
 **Note:** If you plan on enabling breadcrumb links --- including category names in permalinks is a big part of how those are created.
 {: .notice--warning}

@@ -1,8 +1,7 @@
 ---
 title: "Markup: Title with Special&nbsp;---&nbsp;Characters"
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Markup
 tags:
   - html
   - markup

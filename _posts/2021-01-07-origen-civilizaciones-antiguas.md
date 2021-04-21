@@ -2,7 +2,7 @@
 title:  "Origen Civilizaciones Antiguas"
 date:   2021-01-07
 tags: [Historia]
-categories: [Conocimiento]
+category: [Conocimiento]
 serie: civilizaciones
 sidebar: civilizaciones
 toc: true

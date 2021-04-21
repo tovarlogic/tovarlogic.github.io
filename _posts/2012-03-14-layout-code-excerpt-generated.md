@@ -1,9 +1,7 @@
 ---
 title: "Layout: Code Excerpt (Generated)"
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Layout
-  - Uncategorized
 tags:
   - content
   - excerpt

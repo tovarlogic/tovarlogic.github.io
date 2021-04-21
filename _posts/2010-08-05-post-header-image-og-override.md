@@ -3,10 +3,8 @@ title: "Post: Header Image with OpenGraph Override"
 header:
   image: /assets/images/page-header-image.png
   og_image: /assets/images/page-header-og-image.png
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Layout
-  - Uncategorized
 tags:
   - edge case
   - image

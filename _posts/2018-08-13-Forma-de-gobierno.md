@@ -3,7 +3,7 @@ title:  "Formas de gobierno"
 date:   2018-08-13
 update: 
 tags: [Política]
-categories: [Conocimiento]
+category: [Conocimiento]
 excerpt: Breve descripción de las distintas formas de gobierno y poderes.
 ---
 

@@ -3,10 +3,8 @@ title: "Layout: Header Image (Horizontal)"
 header:
   image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-categories: [minimal-mistakes]
+category: [minimal-mistakes]
 hidden: true
-  - Layout
-  - Uncategorized
 tags:
   - edge case
   - featured image
