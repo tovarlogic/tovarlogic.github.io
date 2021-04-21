@@ -1,7 +1,6 @@
 ---
 title: "Ensalada marroquí de verduras asadas y quinoa"
 date: 2021-02-15
-receta: [Ensaladas, Árabe]
 ingredients:
  agua: 3 tazas
  pimiento rojo: 1
@@ -34,11 +33,12 @@ show_abreviations: true
 prepmins: 5
 cookmins: 15
 yield: 6
-author: xevi verdaguertags: [vegetariana, FODMAP]
-categories: [Ensaladas]
+author: xevi verdaguer
+tags: [vegetariana, FODMAP]
+receta: [Ensaladas, Árabe]
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MzYwODY4OSwxNzkzNTU5MTU4LC01Mj
-EzNDgxMjUsLTE2NzcwOTg5NF19
+eyJoaXN0b3J5IjpbLTE5NDY5MTExODEsMTc5MzU1OTE1OCwtNT
+IxMzQ4MTI1LC0xNjc3MDk4OTRdfQ==
 -->
