@@ -2,8 +2,8 @@
 title:  "Arquitectura de las decisiones"
 date:   2020-12-28
 update: 
-draft: truemeta: borrador
-tags: [Llibros, Economía, Sociología]
+draft: true
+tags: [Libros, Economía, Sociología]
 category: [Conocimiento]
 toc: true
 toc_sticky: true
@@ -190,11 +190,11 @@ En esta faceta de la vida, también son aplicables los típicos nudges descritos
 * "Un pequeño empujón" por Richard H. Thaler and Cass R. Sunstein
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjI0NDk0NywtMTEwNjM5MDMwOCwtMT
-c5ODI5NTcxNiw2NTQ3MjY4MjIsLTEyMjcwODg1ODIsMTkyNzE1
-MTYyNiwxODY5MjYyNDAxLC00NjUzOTkxMTUsLTIwNjgxOTAyNS
-wtMTQ5ODM4OTY4MywyMDAxNzE5MzQ1LC03OTY5MTc3ODgsLTE1
-MzcwNTc0OTYsLTYwNDEyMTEzLC0yMTE5OTAxMzM2LDEwODUwMT
-U2MjEsMTYyNTk5MzUyMywtMTc2NDA4NDE0OCwxODk0Njg2NDg0
-LC0yODM5MjU3NF19
+eyJoaXN0b3J5IjpbLTEzNzIzMjQ2NTUsLTExMDYzOTAzMDgsLT
+E3OTgyOTU3MTYsNjU0NzI2ODIyLC0xMjI3MDg4NTgyLDE5Mjcx
+NTE2MjYsMTg2OTI2MjQwMSwtNDY1Mzk5MTE1LC0yMDY4MTkwMj
+UsLTE0OTgzODk2ODMsMjAwMTcxOTM0NSwtNzk2OTE3Nzg4LC0x
+NTM3MDU3NDk2LC02MDQxMjExMywtMjExOTkwMTMzNiwxMDg1MD
+E1NjIxLDE2MjU5OTM1MjMsLTE3NjQwODQxNDgsMTg5NDY4NjQ4
+NCwtMjgzOTI1NzRdfQ==
 -->
