@@ -1,7 +1,9 @@
 ---
 title: "Layout: Code Excerpt (Generated)"
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies:
+  - Layout
+  - Uncategorized
 tags:
   - content
   - excerpt
@@ -12,5 +14,5 @@ This is the post content with inline code, (e.g. `<span style="color: red;">red<
 
 Be sure to test the formatting of the auto-generated excerpt, to ensure that it doesn't create any layout problems.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NDYyNTI5Nl19
+eyJoaXN0b3J5IjpbLTExMDUwNTk1NDEsLTg4NDYyNTI5Nl19
 -->
