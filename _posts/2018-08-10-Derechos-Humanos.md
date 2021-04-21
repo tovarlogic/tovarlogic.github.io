@@ -5,7 +5,6 @@ date:   2018-08-10
 update: 
 tags: [Derechos humanos]
 category: [Conocimiento]
-categories: [Derecho]
 toc: true
 toc_sticky: true
 excerpt: Declaración de Derechos Humanos de la ONU comentada.
@@ -257,7 +256,7 @@ Nada en esta Declaración podrá interpretarse en el sentido de que confiere der
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTU5MzYyNjUsNDExNjQ4NzE5LDEyMj
-c3MzAyNTIsLTI0MzAxNzIyLDE0NzIyODYwMzgsLTE0NDUxODE2
-NCwtMTA1OTM0MDk5NiwyMDk5MzIwOTUwXX0=
+eyJoaXN0b3J5IjpbMTEwODIyNDYyMSw0MTE2NDg3MTksMTIyNz
+czMDI1MiwtMjQzMDE3MjIsMTQ3MjI4NjAzOCwtMTQ0NTE4MTY0
+LC0xMDU5MzQwOTk2LDIwOTkzMjA5NTBdfQ==
 -->
