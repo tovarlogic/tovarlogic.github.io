@@ -61,7 +61,7 @@ En la actualidad se consume mucho entretenimiento en internet a través de los s
 
 Cuando uno compra un libro, no recibe porciones a medida que avanza en la lectura (que es lo que ocurre con los servicios de streaming de música y vídeo) sino que recibe una copia digital completa. Esta copia, la podemos manipular, copiar y compartir de manera ilimitada, es decir, la podemos piratear. 
 
-El uso de NFTs implicaría que no podrías hacer copias del libro, únicamente lo podrías usar o compartir. Si lo compartes, ya no lo tienes tu, no lo puedes leer, solo la persona a la que se lo has dado. Es algo muy similar a lo que ocurre con un libro físico de papel, que si se lo prestamos, ya no lo podemos leer hasta que nos lo devuelvan. No se trata de un sistema perfecto, ya que al igual que con el formato papel tendrías maneras de copiarlo. Una foto a la pantalla de tu ebook sería el equivalente a la fotocopiadora actual, nadie te impide hacer una copia así. Sin embargo, en ambos casos, únicamente el que posee la copia original realmente la tiene, en el sentiudo estricto de la palabra, y puede demostrarlo.
+El uso de NFTs implicaría que no podrías hacer copias del libro, únicamente lo podrías usar o compartir. Si lo compartes, ya no lo tienes tu y solo la persona a la que se lo has dado podrá leerlo. Es algo muy similar a lo que ocurre con un libro físico de papel, que si se lo prestamos, ya no lo podemos leer hasta que nos lo devuelvan. No se trata de un sistema perfecto, ya que al igual que con el formato papel tendrías maneras de copiarlo. Una foto a la pantalla de tu ebook sería el equivalente a la fotocopiadora actual, nada te impide hacer eso. Sin embargo, en ambos casos, únicamente el que posee la copia original realmente la posee, en el sentido estricto de la palabra, y puede demostrarlo.
 
 Canciones, películas, obras de arte, libros y documentos en general, claves de acceso, son sólo uno de los pocos ejemplos que se me ocurren.
 
@@ -189,7 +189,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQ5MDM5ODcsMTkzOTQwMTg4OCw4Nj
+eyJoaXN0b3J5IjpbLTExMDk4Mjc1MTAsMTkzOTQwMTg4OCw4Nj
 I2MDQyOTUsMTM0ODkyMTc0MSwtMTM3Nzg2NjUxMiw5NDc5MjIx
 MjEsLTMxMjg0MDkzMiwtMTgwMzg0NTU2M119
 -->
