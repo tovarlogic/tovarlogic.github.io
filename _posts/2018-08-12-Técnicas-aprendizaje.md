@@ -103,16 +103,6 @@ Esta técnica está considerada como un medio de estudio que nos permite la comp
 Para llevar a cabo la comprensión de un texto al leer, es necesario relacionar los conocimientos nuevos con los conocimientos previos y clasificar y recordar de forma sistemática los nuevos conocimientos.
 
 ## Síntesis
-
-<figure>
-  <img src="/assets/images/blog/aprender/SQ3R.jpg">
-  <figcaption>
-	  SQ3R.
- Crédito:  <a href="https://miuc.org/sq3r-study-method/">MIUC: Marbella International University Centre</a>
-  </figcaption>
-</figure>
-[![](http://images.shoutwiki.com/tovarlogic/thumb/b/b7/SQ3R.jpg/300px-SQ3R.jpg)](http://tovarlogic.shoutwiki.com/wiki/Archivo:SQ3R.jpg)
-
 La técnica SQ3R pretende lograr ese nivel de comprensión que nos permitirá llegar a un estudio inteligente. Comprende **5 fases:**
 
 -   Survey
@@ -121,8 +111,15 @@ La técnica SQ3R pretende lograr ese nivel de comprensión que nos permitirá ll
 -   Recite
 -   Review
 
-### Survey (Examinar)
+<figure>
+  <img src="/assets/images/blog/aprender/SQ3R.jpg">
+  <figcaption>
+	  SQ3R.
+ Crédito:  <a href="https://miuc.org/sq3r-study-method/">MIUC: Marbella International University Centre</a>
+  </figcaption>
+</figure>
 
+### Survey (Examinar)
 Dedicar no más de **10 minutos** a dar un vistazo por encima para poder proporcionar un panorama general:
 
 -   Leer el título de cada capítulo.
@@ -132,11 +129,9 @@ Dedicar no más de **10 minutos** a dar un vistazo por encima para poder proporc
 -   Observar preguntas o actividades de estudio.
 
 ### Question (Preguntar)
-
 **Leer con el propósito de responder alguna pregunta**: ¿quién?, ¿qué?, ¿cómo?, ¿cuándo? y/o ¿dónde? Esta parte obliga a pensar y a organizar los conocimientos que se adquirieron con la exploración.
 
 ### Read (Leer)
-
 **Leer detenidamente** teniendo en mente las preguntas desarrolladas **y regresar para resaltar** el material. Para marcar la información se puede:
 
 -   Subrayar después de leer.
@@ -151,7 +146,6 @@ Dedicar no más de **10 minutos** a dar un vistazo por encima para poder proporc
 -   Practicar.
 
 ### Recite/Recall (Recitar)
-
 **Contestar las preguntas** antes formuladas utilizando como guía lo marcado en el paso anterior **y repetir las respuestas en voz alta**. Se pueden escribir notas de estudio breves. Para reconocer cuando hemos recitado lo suficiente, podemos tomar en cuenta lo siguiente:
 
 -   Si somos capaces de establecer la idea principal debajo de cada título y subtítulo.
@@ -161,7 +155,6 @@ Dedicar no más de **10 minutos** a dar un vistazo por encima para poder proporc
 La recitación puede considerarse un método anticuado, pero esto no significa que se debe repetir palabras por palabra. Debemos evitar memorizar algo aisladamente como una unidad sin sentido.
 
 ### Review (Repasar)
-
 Repasar la información como último paso para entender el material. Aquí se puede:
 
 -   Releer cada título.
@@ -172,5 +165,5 @@ Repasar la información como último paso para entender el material. Aquí se pu
 
 # Conclusiones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Nzk5NTA4Ml19
+eyJoaXN0b3J5IjpbMTUxMTM1MjMxOF19
 -->
