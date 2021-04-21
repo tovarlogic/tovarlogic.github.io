@@ -1,7 +1,6 @@
 ---
 title: "Falafel de guisantes y garbanzos"
 date: 2018-12-27
-receta: [Árabe, Legumbres]
 ingredients:
  Guisantes: 500 g
  Garbanzos: 400 g
@@ -29,8 +28,10 @@ show_abreviations: true
 prepmins: 5
 cookmins: 50
 yield: 6
+receta: [Árabe, Legumbres]
 author: Carlos
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MzM4NjA2NywtMTkzMjc4MjkxOF19
+eyJoaXN0b3J5IjpbLTEwODEyODc4ODcsMTU5MzM4NjA2NywtMT
+kzMjc4MjkxOF19
 -->
