@@ -2,8 +2,7 @@
 title:  "Origen Civilizaciones Antiguas"
 date:   2021-01-07
 tags: [Historia]
-category: [Conocimientocivilizaciones]
-categories: [Historia]
+category: [Conocimiento]
 serie: civilizaciones
 sidebar: civilizaciones
 toc: true
@@ -670,7 +669,7 @@ Battles of Thermopylae and Salamis.
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0NTA0MTYzLDIwNTk0MDc5MCwyMDQ1Mz
+eyJoaXN0b3J5IjpbODU5NzY3MDk4LDIwNTk0MDc5MCwyMDQ1Mz
 Q5MDIxLC0xNTU4MjYyNzYxLDg1MzM3MDc4Nyw2NjM0NjE5MjEs
 MzQ3NDMzNDcyLC03ODAwNDk5MTYsLTE4NjkyODc5NDgsLTE3OT
 I2NzUzMzIsLTEzODA1MzA5OTYsLTY4MjY3Mjg5LDg0ODQ3NzY2
