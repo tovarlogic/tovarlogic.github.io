@@ -1,6 +1,7 @@
 ---
 title: "Técnicas de aprendizaje"
 date:   2018-08-12
+update: 2020-12-10 13:31
 tags: [Mind tools]
 category: [Conocimiento]
 toc: true
@@ -100,5 +101,5 @@ If you want to cut your learning curve in half, learn with the intention of teac
 
 # Conclusiones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQxNTQ4NDddfQ==
+eyJoaXN0b3J5IjpbMTQ4NTIwODMwNF19
 -->
