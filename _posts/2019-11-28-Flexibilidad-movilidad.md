@@ -1,3 +1,10 @@
+---
+title:  "Flexibilidad y movilidad"
+date:   2019-11-28 15:14:54
+tags: [Fitness]
+category: [Conocimiento]
+excerpt: Definiciones e indicaciones de cuándo y cómo realizar estos ejercicios
+---
 ## Definiciones
 
 **Flexibilidad**, es el rango de movimiento que se puede obtener de manera PASIVA. **Movilidad**, es el rango de movimiento que se puede obtener de manera ACTIVA.
@@ -75,5 +82,5 @@ Por regla general se recomienda lo siguiente:
 
 -   [Crossfit Flexibility Training Guide](http://assets.crossfit.com/pdfs/seminars/Flexibility_Training_Guide.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzI2MzI2MV19
+eyJoaXN0b3J5IjpbLTEwNzE1OTY4MzldfQ==
 -->
