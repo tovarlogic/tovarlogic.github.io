@@ -2,7 +2,8 @@
 title:  "Exclude Post from Search Index"
 search: false
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies: 
+  - Jekyll
 last_modified_at: 2018-02-19T08:06:00-05:00
 ---
 
@@ -28,5 +29,5 @@ algolia:
     - subdirectory/*.html
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzIzNDIzNF19
+eyJoaXN0b3J5IjpbMTgwMzYzNjI3MSwxOTczMjM0MjM0XX0=
 -->
