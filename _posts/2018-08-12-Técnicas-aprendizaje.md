@@ -117,7 +117,7 @@ La técnica SQ3R pretende lograr ese nivel de comprensión que nos permitirá ll
 </figure>
 
 - **Survey (Examinar)**
-Dedicar no más de 10 minutos a dar un vistazo por encima para poder proporcionar un panorama general:
+Dedicar no más de 10 minutos a dar un **vistazo por encima** para poder proporcionar un panorama general:
 	-   Leer el título de cada capítulo.
 	-   Leer subtítulos.
 	-   Ver diagramas, gráficos o imágenes.
@@ -125,7 +125,7 @@ Dedicar no más de 10 minutos a dar un vistazo por encima para poder proporciona
 	-   Observar preguntas o actividades de estudio.
 
 - **Question (Preguntar)**
-Leer con el propósito de responder alguna pregunta: ¿quién?, ¿qué?, ¿cómo?, ¿cuándo? y/o ¿dónde? Esta parte obliga a pensar y a organizar los conocimientos que se adquirieron con la exploración.
+**Leer con el propósito** de responder alguna pregunta: ¿quién?, ¿qué?, ¿cómo?, ¿cuándo? y/o ¿dónde? Esta parte obliga a pensar y a organizar los conocimientos que se adquirieron con la exploración.
 
 - **Read (Leer)**
 **Leer detenidamente** teniendo en mente las preguntas desarrolladas **y regresar para resaltar** el material. Para marcar la información se puede:
@@ -158,6 +158,6 @@ Repasar la información como último paso para entender el material. Aquí se pu
 
 # Conclusiones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjI3OTM1NTMsLTE2OTUzMTUzNSwxNz
-UzNTIzNzg5XX0=
+eyJoaXN0b3J5IjpbMTQwNjY5MDQ3OSwtMTY5NTMxNTM1LDE3NT
+M1MjM3ODldfQ==
 -->
