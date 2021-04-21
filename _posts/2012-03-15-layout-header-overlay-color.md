@@ -3,7 +3,9 @@ title: "Layout: Header Overlay with Background Fill"
 header:
   overlay_color: "#333"
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies:
+  - Layout
+  - Uncategorized
 tags:
   - edge case
   - image
@@ -16,5 +18,5 @@ Non-square images can provide some unique styling issues.
 
 This post tests overlay headers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODAzNTM5OF19
+eyJoaXN0b3J5IjpbNDI2NzA3NjQ5LDE4ODgwMzUzOThdfQ==
 -->
