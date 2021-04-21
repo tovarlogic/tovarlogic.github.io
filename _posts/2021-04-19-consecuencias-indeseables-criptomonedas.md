@@ -68,7 +68,7 @@ Canciones, películas, obras de arte, libros y documentos en general, claves de 
 # Como contratos inteligentes
 El ecosistema de Ethereum fue el primero en desarrollar esta idea. Básicamente, se puede programar la cadena de bloques para que se comporte de manera autónoma basada en una serie de condiciones previas codificadas en el contrato. Una vez se den dichas condiciones ejecutará las acciones predefinidas también en el contrato.
 
-Un ejemplo real, es el de las DAO Organizaciones Autónomas Descentralizadas
+Un ejemplo real, es el de las DAO, organizaciones capaces de operar de manera autónoma, donde se gestionan sus recursos a tra
 
 **Nota:** Existe un caso particular muy llamativo, en el que se ha usado la moneda XX.
 {: .notice--warning}
@@ -187,6 +187,9 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
 *[PoW]: Prove of work
 *[PoS]: Prove of stake
 *[NFT]: Non-fungible token
+*[DAO]: Decentralized Autonomous Organization
+
+### Decentralized autonomous organization
 
 
 # Enlaces de interés
@@ -196,7 +199,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNTQ0ODY4OSwxOTM5NDAxODg4LDg2Mj
+eyJoaXN0b3J5IjpbMTg0MTMyMzg4NCwxOTM5NDAxODg4LDg2Mj
 YwNDI5NSwxMzQ4OTIxNzQxLC0xMzc3ODY2NTEyLDk0NzkyMjEy
 MSwtMzEyODQwOTMyLC0xODAzODQ1NTYzXX0=
 -->
