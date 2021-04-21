@@ -98,15 +98,20 @@ Your state is a snapshot of your mood – the mood of your mind and your body. I
 If you want to cut your learning curve in half, learn with the intention of teaching it to somebody else. If you had to give a presentation on what you’re learning today, you would learn it differently. You would pay closer attention. You would take more detailed notes. You would ask better questions. When I teach something, I get to learn it twice. People often say that those who can’t do teach. But I never saw that as a negative. I always thought, wow, if I can’t do something, I can teach it, and then I can do it.
 
 ## SQR
-## Introducción
-
-[![](http://images.shoutwiki.com/tovarlogic/thumb/b/b7/SQ3R.jpg/300px-SQ3R.jpg)](http://tovarlogic.shoutwiki.com/wiki/Archivo:SQ3R.jpg)
-
-Método SQ3R resumido.
-
 Esta técnica está considerada como un medio de estudio que nos permite la comprensión de la información. El desarrollo de esta técnica nos permite disminuir el tiempo de estudio y aumentar la habilidad para comprender la información esencial.
 
 Para llevar a cabo la comprensión de un texto al leer, es necesario relacionar los conocimientos nuevos con los conocimientos previos y clasificar y recordar de forma sistemática los nuevos conocimientos.
+
+## Síntesis
+
+<figure>
+  <img src="/assets/images/blog/aprender/Forest_of_knowledge.PNG">
+  <figcaption>
+	  Forest of Knowledge.
+ Crédito:  <a href="https://www.youtube.com/channel/UCtYzVCmNxrshH4_bPO_-Y-A">The art of improvement</a>
+  </figcaption>
+</figure>
+[![](http://images.shoutwiki.com/tovarlogic/thumb/b/b7/SQ3R.jpg/300px-SQ3R.jpg)](http://tovarlogic.shoutwiki.com/wiki/Archivo:SQ3R.jpg)
 
 La técnica SQ3R pretende lograr ese nivel de comprensión que nos permitirá llegar a un estudio inteligente. Comprende **5 fases:**
 
@@ -116,7 +121,7 @@ La técnica SQ3R pretende lograr ese nivel de comprensión que nos permitirá ll
 -   Recite
 -   Review
 
-## Survey (Examinar)
+### Survey (Examinar)
 
 Dedicar no más de **10 minutos** a dar un vistazo por encima para poder proporcionar un panorama general:
 
@@ -167,5 +172,5 @@ Repasar la información como último paso para entender el material. Aquí se pu
 
 # Conclusiones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTQzNjE1Nl19
+eyJoaXN0b3J5IjpbMTk4NDEyNDkwM119
 -->
