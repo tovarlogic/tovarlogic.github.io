@@ -160,7 +160,7 @@ Otra consecuencia indeseable es que, como resultado de la especulación, el valo
 
 Existe un gran número de "Altcoins" que relacionan su valor directamente con cualquier otra moneda fiat como el USD o EUR. De este modo se pretende evitar la mencionada volatilidad y reducir la incertidumbre. Hasta que no se generalice su uso, es posible que el potencial democratizador de las criptomonedas sólo sea eso, un potencial beneficio que nunca llega a materializarse.  
 
-La formación de una DAO puede suponer grandes ventajas para prácticamente todas las partes implicadas. No obstante, se trata de un nuevo modo de organización más anárquica si se me permite. Con esto no quiero decir que cualquiera puede hacer lo que le plazca, sino más bien que no existe una organización
+La formación de una DAO puede suponer grandes ventajas para prácticamente todas las partes implicadas. No obstante, se trata de un nuevo modo de organización más anárquica si se me permite. Con esto no quiero decir que cualquiera puede hacer lo que le plazca, sino más bien que no tiene porqué existir una organización predefinida. Pueden establecerse mecanismos que aportarían muchísima agilidad y plasticidad a la organización. El potencial problema que veo con esto, es que las naciones actualmente no estan preparadas 
 
 
 ## Culturales
@@ -202,7 +202,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkxMTYzOTkyLDE5Mzk0MDE4ODgsODYyNj
-A0Mjk1LDEzNDg5MjE3NDEsLTEzNzc4NjY1MTIsOTQ3OTIyMTIx
-LC0zMTI4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
+eyJoaXN0b3J5IjpbLTExMDMzODk3OTEsMTkzOTQwMTg4OCw4Nj
+I2MDQyOTUsMTM0ODkyMTc0MSwtMTM3Nzg2NjUxMiw5NDc5MjIx
+MjEsLTMxMjg0MDkzMiwtMTgwMzg0NTU2M119
 -->
