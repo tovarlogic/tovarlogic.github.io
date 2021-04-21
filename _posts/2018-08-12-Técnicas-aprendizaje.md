@@ -89,7 +89,10 @@ Many of us don’t remember what we learned in school because the umbrella emoti
 
 >Choose states of joy, fascination, and curiosity. Sell your cleverness for bewilderment – Rumi.
 
-- **TEACH**: If you want to cut your learning curve in half, learn with the intention of teaching it to somebody else. If you had to give a presentation on what you’re learning today, you would learn it differently. You would pay closer attention. You would take more detailed notes. You would ask better questions. 
+- **TEACH**: If you want to cut your learning curve in half, learn with the intention of teaching it to somebody else. 
+
+If you had to give a presentation on what you’re learning today, you would learn it differently. You would pay closer attention. You would take more detailed notes. You would ask better questions. 
+{: .notice--info}
 
 ## SQ3R
 Esta técnica está considerada como un medio de estudio que nos permite la comprensión de la información. El desarrollo de esta técnica nos permite disminuir el tiempo de estudio y aumentar la habilidad para comprender la información esencial.
@@ -155,5 +158,5 @@ Repasar la información como último paso para entender el material. Aquí se pu
 
 # Conclusiones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTIyNTY1NSwxNzUzNTIzNzg5XX0=
+eyJoaXN0b3J5IjpbLTE2OTUzMTUzNSwxNzUzNTIzNzg5XX0=
 -->
