@@ -1,7 +1,8 @@
 ---
 title: "Post: Image (Linked with Caption)"
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies:
+  - Post Formats
 tags:
   - image
   - Post Formats
@@ -20,5 +21,5 @@ Image with a caption.
   <figcaption>{{ fig_caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
 </figure>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMTA1NDE4MV19
+eyJoaXN0b3J5IjpbLTU1NjA0NjMyNiwxNzMxMDU0MTgxXX0=
 -->
