@@ -97,9 +97,75 @@ Your state is a snapshot of your mood – the mood of your mind and your body. I
 
 If you want to cut your learning curve in half, learn with the intention of teaching it to somebody else. If you had to give a presentation on what you’re learning today, you would learn it differently. You would pay closer attention. You would take more detailed notes. You would ask better questions. When I teach something, I get to learn it twice. People often say that those who can’t do teach. But I never saw that as a negative. I always thought, wow, if I can’t do something, I can teach it, and then I can do it.
 
+## SQR
+## Introducción
+
+[![](http://images.shoutwiki.com/tovarlogic/thumb/b/b7/SQ3R.jpg/300px-SQ3R.jpg)](http://tovarlogic.shoutwiki.com/wiki/Archivo:SQ3R.jpg)
+
+Método SQ3R resumido.
+
+Esta técnica está considerada como un medio de estudio que nos permite la comprensión de la información. El desarrollo de esta técnica nos permite disminuir el tiempo de estudio y aumentar la habilidad para comprender la información esencial.
+
+Para llevar a cabo la comprensión de un texto al leer, es necesario relacionar los conocimientos nuevos con los conocimientos previos y clasificar y recordar de forma sistemática los nuevos conocimientos.
+
+La técnica SQ3R pretende lograr ese nivel de comprensión que nos permitirá llegar a un estudio inteligente. Comprende **5 fases:**
+
+-   Survey
+-   Question
+-   Read
+-   Recite
+-   Review
+
+## Survey (Examinar)
+
+Dedicar no más de **10 minutos** a dar un vistazo por encima para poder proporcionar un panorama general:
+
+-   Leer el título de cada capítulo.
+-   Leer subtítulos.
+-   Ver diagramas, gráficos o imágenes.
+-   Leer superficialmente la introducción y la conclusión.
+-   Observar preguntas o actividades de estudio.
+
+### Question (Preguntar)
+
+**Leer con el propósito de responder alguna pregunta**: ¿quién?, ¿qué?, ¿cómo?, ¿cuándo? y/o ¿dónde? Esta parte obliga a pensar y a organizar los conocimientos que se adquirieron con la exploración.
+
+### Read (Leer)
+
+**Leer detenidamente** teniendo en mente las preguntas desarrolladas **y regresar para resaltar** el material. Para marcar la información se puede:
+
+-   Subrayar después de leer.
+-   Numerar información.
+-   Utilizar líneas verticales para marcar puntos principales de varios renglones.
+-   Marcar con asteriscos cosas importantes.
+-   Escribir frases de recordatorio (preguntas o resúmenes).
+-   Escribir definiciones o poner ejemplos entre paréntesis para poder ubicar la información.
+-   Encerrar puntos principales en círculos o recuadros.
+-   Resaltar utilizando subrayados de colores.
+-   Utilizar signos de puntuación para llamar nuestra atención a algo importante.
+-   Practicar.
+
+### Recite/Recall (Recitar)
+
+**Contestar las preguntas** antes formuladas utilizando como guía lo marcado en el paso anterior **y repetir las respuestas en voz alta**. Se pueden escribir notas de estudio breves. Para reconocer cuando hemos recitado lo suficiente, podemos tomar en cuenta lo siguiente:
+
+-   Si somos capaces de establecer la idea principal debajo de cada título y subtítulo.
+-   Si podemos hacer un resumen del texto sin verlo.
+-   Si se han solucionado los errores más significativos para comprender.
+
+La recitación puede considerarse un método anticuado, pero esto no significa que se debe repetir palabras por palabra. Debemos evitar memorizar algo aisladamente como una unidad sin sentido.
+
+### Review (Repasar)
+
+Repasar la información como último paso para entender el material. Aquí se puede:
+
+-   Releer cada título.
+-   Repasar el material subrayado y resaltado.
+-   Responder a las preguntas formuladas.
+
 # Autoevaluar nuestros conocimientos
 
 # Conclusiones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NTIwODMwNF19
+eyJoaXN0b3J5IjpbLTUxOTQzNjE1Nl19
 -->
