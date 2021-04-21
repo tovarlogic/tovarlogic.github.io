@@ -31,13 +31,10 @@ Hay que ver el conocimiento como un árbol, donde el tronco más grueso que las 
 <figure>
   <img src="/assets/images/blog/aprender/Tree_of_knoledge.PNG">
   <figcaption>
-	  Estimación de consumo eléctrico histórico del Bitcoin 2015-2021
- Crédito:  <a href="https://cbeci.org/">Cambridge Centre for Alternative Finance</a>
+	  Tree of Knowledge.
+ Crédito:  <a href="https://www.youtube.com/channel/UCtYzVCmNxrshH4_bPO_-Y-A">The art of improvement</a>
   </figcaption>
 </figure>
-[![](http://images.shoutwiki.com/tovarlogic/thumb/3/38/Tree_of_knoledge.PNG/320px-Tree_of_knoledge.PNG)](http://tovarlogic.shoutwiki.com/wiki/Archivo:Tree_of_knoledge.PNG)
-
-Tree of Knowledge. Credits: The art of improvement
 
 Comprender una materia requiere de tiempo y dedicación. La manera en que obtenemos la información que queremos entender afecta a nuestra comprensión, nuestros conocimientos previos también.
 
@@ -99,5 +96,5 @@ Your state is a snapshot of your mood – the mood of your mind and your body. I
 
 If you want to cut your learning curve in half, learn with the intention of teaching it to somebody else. If you had to give a presentation on what you’re learning today, you would learn it differently. You would pay closer attention. You would take more detailed notes. You would ask better questions. When I teach something, I get to learn it twice. People often say that those who can’t do teach. But I never saw that as a negative. I always thought, wow, if I can’t do something, I can teach it, and then I can do it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5Mzg2MTgwOF19
+eyJoaXN0b3J5IjpbMzQxMDI5MzE1XX0=
 -->
