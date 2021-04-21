@@ -65,29 +65,15 @@ La creatividad es la solución de problemas a partir de ideas aparentemente no r
 
 Si contamos con un vasto bosque (con muchos campos de conocimiento) de fuertes árboles (donde dominamos los fundamentos), seremos capaces de encontrar y comprender las relaciones (no muy obvias) que existen entre ellos.
 
-## Resumen
-1.  Asegurate de estar construyendo un árbol de conocimiento, céntrate primero en los principios fundamentales.
-2.  No puedes recordar lo que no puedes relacionar, cualquier cosa que aprendes no está aislada, se debe conectar a algún conocimiento fundamental previo
 
 # Técnicas de aprendizaje
 ## BE FAST
 Start by thinking of a specific subject you want to learn faster, like a language or a musical skill. You need something specific for this four-step process to make sense.
 
-### The B in Be stands for BELIEVE
-
--   Believe you are capable to learn what ever you want to learn.
-
-### The E in Be stands for EXCERCISE
-
--   Prime function of the brains is to move your body. As you move your body your brains groom.
-
-### The F in Fast stands for FORGET
-
-If you want to speed up ‘kwik brain,’ you must temporarily forget three things. Forget what you already know about the subject. A lot of people don’t learn faster because they feel like they already know the information. But your mind is like a parachute; it only works when it’s open. Forget about anything that’s not urgent and important. You can’t multitask. If your brain is thinking about 4 different things, you’re not fully present – so you won’t learn ‘kwik’ly. Forget your limitations. These are beliefs like your memory isn’t good, or you’re a slow reader, or you don’t have the right education to learn. But if you fight for your limitations, you get to keep them. Your memory isn’t fixed, and it is possible to remember hundreds of words and numbers the way I do onstage.
-
-### The A in FAST stands for ACTIVE
-
-In school, we were taught to learn by consuming information quietly. But you don’t learn by being lectured to. You learn by creating information and being active in the process. Learning is NOT a spectator sport. How can you be more active in your learning? Ask questions. Take notes. The more active you are, the more you will learn.
+- **BELIEVE**: Believe you are capable to learn what ever you want to learn.
+- **EXCERCISE**: Prime function of the brains is to move your body. As you move your body your brains groom.
+- **FORGET**: If you want to speed up ‘kwik brain,’ you must temporarily forget three things. Forget what you already know about the subject. A lot of people don’t learn faster because they feel like they already know the information. But your mind is like a parachute; it only works when it’s open. Forget about anything that’s not urgent and important. You can’t multitask. If your brain is thinking about 4 different things, you’re not fully present – so you won’t learn ‘kwik’ly. Forget your limitations. These are beliefs like your memory isn’t good, or you’re a slow reader, or you don’t have the right education to learn. But if you fight for your limitations, you get to keep them. Your memory isn’t fixed, and it is possible to remember hundreds of words and numbers the way I do onstage.
+- **ACTIVE**: In school, we were taught to learn by consuming information quietly. But you don’t learn by being lectured to. You learn by creating information and being active in the process. Learning is NOT a spectator sport. How can you be more active in your learning? Ask questions. Take notes. The more active you are, the more you will learn.
 
 ### The S in FAST stands for STATE
 
@@ -161,5 +147,5 @@ Repasar la información como último paso para entender el material. Aquí se pu
 
 # Conclusiones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MzUyMzc4OV19
+eyJoaXN0b3J5IjpbNTA2NTk0NzI2LDE3NTM1MjM3ODldfQ==
 -->
