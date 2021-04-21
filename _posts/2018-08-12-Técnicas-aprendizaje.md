@@ -108,7 +108,7 @@ Para llevar a cabo la comprensión de un texto al leer, es necesario relacionar 
   <img src="/assets/images/blog/aprender/SQ3R.jpg">
   <figcaption>
 	  SQ3R.
- Crédito:  <a href="https://www.youtube.com/channel/UCtYzVCmNxrshH4_bPO_-Y-A">MIUC: Marbella International </a>
+ Crédito:  <a href="https://miuc.org/sq3r-study-method/">MIUC: Marbella International University Centre</a>
   </figcaption>
 </figure>
 [![](http://images.shoutwiki.com/tovarlogic/thumb/b/b7/SQ3R.jpg/300px-SQ3R.jpg)](http://tovarlogic.shoutwiki.com/wiki/Archivo:SQ3R.jpg)
@@ -172,5 +172,5 @@ Repasar la información como último paso para entender el material. Aquí se pu
 
 # Conclusiones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5MTU1MzYzXX0=
+eyJoaXN0b3J5IjpbMTU5Nzk5NTA4Ml19
 -->
