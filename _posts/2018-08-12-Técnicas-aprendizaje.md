@@ -82,11 +82,14 @@ A lot of people don’t learn faster because they feel like they already know th
 How can you be more active in your learning? Ask questions. Take notes. The more active you are, the more you will learn.
 {: .notice--info}
 
-- **STATE**: Your state is a snapshot of your mood – the mood of your mind and your body. It’s the emotional well-being that you feel in that exact moment. Information combined with emotion becomes a long-term memory. Many of us don’t remember what we learned in school because the umbrella emotion for most people in school was boredom. You are the only person in control of your state. How can you improve your state? Change your posture or your body or breathing. Sit or stand the way you would if you were totally energized. Think about how you’ll benefit from the information. All learning is state-dependent. Choose states of joy, fascination, and curiosity. Sell your cleverness for bewilderment – Rumi.
+- **STATE**: Your state is a snapshot of your mood – the mood of your mind and your body. It’s the emotional well-being that you feel in that exact moment. Information combined with emotion becomes a long-term memory. 
 
-### The T in FAST stands for TEACH
+Many of us don’t remember what we learned in school because the umbrella emotion for most people in school was boredom. You are the only person in control of your state. How can you improve your state? Change your posture or your body or breathing. Sit or stand the way you would if you were totally energized. Think about how you’ll benefit from the information. All learning is state-dependent. 
+{: .notice--info}
 
-If you want to cut your learning curve in half, learn with the intention of teaching it to somebody else. If you had to give a presentation on what you’re learning today, you would learn it differently. You would pay closer attention. You would take more detailed notes. You would ask better questions. When I teach something, I get to learn it twice. People often say that those who can’t do teach. But I never saw that as a negative. I always thought, wow, if I can’t do something, I can teach it, and then I can do it.
+>Choose states of joy, fascination, and curiosity. Sell your cleverness for bewilderment – Rumi.
+
+- **TEACH**: If you want to cut your learning curve in half, learn with the intention of teaching it to somebody else. If you had to give a presentation on what you’re learning today, you would learn it differently. You would pay closer attention. You would take more detailed notes. You would ask better questions. 
 
 ## SQ3R
 Esta técnica está considerada como un medio de estudio que nos permite la comprensión de la información. El desarrollo de esta técnica nos permite disminuir el tiempo de estudio y aumentar la habilidad para comprender la información esencial.
@@ -152,5 +155,5 @@ Repasar la información como último paso para entender el material. Aquí se pu
 
 # Conclusiones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTI4MjQ2MSwxNzUzNTIzNzg5XX0=
+eyJoaXN0b3J5IjpbLTkxOTIyNTY1NSwxNzUzNTIzNzg5XX0=
 -->
