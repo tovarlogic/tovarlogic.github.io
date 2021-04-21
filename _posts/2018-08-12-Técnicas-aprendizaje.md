@@ -2,7 +2,7 @@
 title: "Técnicas de aprendizaje"
 date:   2018-08-12
 update: 2020-12-10 13:31
-tags: [Mind tools]
+tags: [Mind tools, Aprendizaje]
 category: [Conocimiento]
 toc: true
 toc_sticky: true
@@ -161,5 +161,5 @@ Repasar la información como último paso para entender el material. Aquí se pu
 
 # Conclusiones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MzkzMTc3OF19
+eyJoaXN0b3J5IjpbMTc1MzUyMzc4OV19
 -->
