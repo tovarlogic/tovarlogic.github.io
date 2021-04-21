@@ -1,7 +1,6 @@
 ---
 title: "Pesto de aguacate"
 date: 2021-04-15
-receta: Salsas
 ingredients:
  Aguacate: 30 g
  Albahaca: 20 g 
@@ -18,8 +17,9 @@ show_abreviations: true
 prepmins: 5
 cookmins: 5
 yield: 2
+receta: Salsas
 author: Xevi Verdaguer
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDc0NTY3MzNdfQ==
+eyJoaXN0b3J5IjpbLTkwOTM1MjI3LC0xOTQ3NDU2NzMzXX0=
 -->
