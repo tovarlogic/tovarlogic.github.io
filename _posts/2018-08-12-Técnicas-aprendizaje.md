@@ -27,7 +27,6 @@ El conocimiento es jerarquizado y relacionado.
 
 Hay que ver el conocimiento como un árbol, donde el tronco más grueso que las ramas sirve de fundamento u agarre a estas, que a su vez serán soporte a otras más finas hasta llegar a las hojas que representan el mayor detalle de una cuestión particular. Si no se dominan primero los principios fundamentales, nuestro conocimiento no tendrá de donde sustentarse.
 
-
 <figure>
   <img src="/assets/images/blog/aprender/Tree_of_knoledge.PNG">
   <figcaption>
@@ -44,10 +43,19 @@ Si hay algo que no comprendes solo hay un camino que seguir:
 2.  A partir de esta visión global, determinar los fundamentos de la materia (el tronco y ramas más gruesas) y revisar si estos los entendemos, de no ser así centrarse en ellos.
 3.  Una vez comprendidos los fundamentos puedes avanzar hacia los detalles.
 
- por supuesto, una misma cuestión se puede aprender y/o enseñar de distintas maneras, si te atascas y hay algo que no comprendes, busca nuevas fuentes de información que te den una visión alternativa. Tu imaginación también es útil, trata de visualizar de manera alternativa lo que estudias, busca similitudes y relaciones con otras cosas que conozcas y comprendas. 
+Por supuesto, una misma cuestión se puede aprender y/o enseñar de distintas maneras, si te atascas y hay algo que no comprendes, busca nuevas fuentes de información que te den una visión alternativa. Tu imaginación también es útil, trata de visualizar de manera alternativa lo que estudias, busca similitudes y relaciones con otras cosas que conozcas y comprendas. 
+{: .notice--info}
+
 
 Como es de suponer, un mismo fundamento (tronco) puede dar soporte a varias materias distintas (ramas), por lo que si comprendes y recuerdas uno te puede servir para dominar varias materias distintas pero relacionadas.
 
+<figure>
+  <img src="/assets/images/blog/aprender/Tree_of_knoledge.PNG">
+  <figcaption>
+	  Tree of Knowledge.
+ Crédito:  <a href="https://www.youtube.com/channel/UCtYzVCmNxrshH4_bPO_-Y-A">The art of improvement</a>
+  </figcaption>
+</figure>
 [![](http://images.shoutwiki.com/tovarlogic/thumb/5/58/Forest_of_knowledge.PNG/320px-Forest_of_knowledge.PNG)](http://tovarlogic.shoutwiki.com/wiki/Archivo:Forest_of_knowledge.PNG)
 
 Forest of Knowledge. Credits: The art of improvement
@@ -96,5 +104,5 @@ Your state is a snapshot of your mood – the mood of your mind and your body. I
 
 If you want to cut your learning curve in half, learn with the intention of teaching it to somebody else. If you had to give a presentation on what you’re learning today, you would learn it differently. You would pay closer attention. You would take more detailed notes. You would ask better questions. When I teach something, I get to learn it twice. People often say that those who can’t do teach. But I never saw that as a negative. I always thought, wow, if I can’t do something, I can teach it, and then I can do it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQxMDI5MzE1XX0=
+eyJoaXN0b3J5IjpbLTEzMDAxMTkyMTZdfQ==
 -->
