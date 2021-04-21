@@ -1,7 +1,7 @@
 ---
 title:  Argumentos por Analogía "A Fortiori"
 date:   2018-08-11
-tags: [Lógica, Pensamiento crítico]
+tags: [Mind tools, Lógica, Pensamiento crítico]
 category: [Conocimiento]
 serie: razonamiento
 toc: true
@@ -87,5 +87,5 @@ El procedimiento no es complicado. Cualquier argumento analógico se transforma 
 # Referencias
 - [Uso de razón](http://www.usoderazon.com) por Ricardo García Damborenea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMxNjk0ODJdfQ==
+eyJoaXN0b3J5IjpbNjk1OTY2OTI2LDYzMTY5NDgyXX0=
 -->
