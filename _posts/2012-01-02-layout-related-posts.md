@@ -2,7 +2,9 @@
 title: "Layout: Related Posts Enabled"
 related: true
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies:
+  - Layout
+  - Uncategorized
 tags:
   - related posts
   - layout
@@ -10,5 +12,5 @@ tags:
 
 This post has related posts enabled.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjM1Njk3XX0=
+eyJoaXN0b3J5IjpbLTY1ODE4MDg1NCwtMzEyMzU2OTddfQ==
 -->
