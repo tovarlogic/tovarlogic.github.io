@@ -1,7 +1,6 @@
 ---
 title: "Crema de calabaza y zanahorias asadas"
 date: 2021-02-18
-receta: Cremas
 header:
   teaser: "assets/images/recetas/crema-calabaza-asada.jpeg"
 ingredients:
@@ -29,10 +28,10 @@ prepmins: 5
 cookmins: 35
 yield: 6
 authortags: [Vegetariana, FODMAP, Paleo]
-categories: [Cremas]
+receta: Cremas
 fuente: Karlos Arguiñano
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTg0OTI5MCw1ODM3OTUxOTRdfQ==
+eyJoaXN0b3J5IjpbMTA4NjY4MDYwNSw1ODM3OTUxOTRdfQ==
 -->
