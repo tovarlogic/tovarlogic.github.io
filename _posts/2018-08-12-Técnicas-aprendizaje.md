@@ -121,7 +121,6 @@ La técnica SQ3R pretende lograr ese nivel de comprensión que nos permitirá ll
 
 ### Survey (Examinar)
 Dedicar no más de **10 minutos** a dar un vistazo por encima para poder proporcionar un panorama general:
-
 -   Leer el título de cada capítulo.
 -   Leer subtítulos.
 -   Ver diagramas, gráficos o imágenes.
@@ -133,7 +132,6 @@ Dedicar no más de **10 minutos** a dar un vistazo por encima para poder proporc
 
 ### Read (Leer)
 **Leer detenidamente** teniendo en mente las preguntas desarrolladas **y regresar para resaltar** el material. Para marcar la información se puede:
-
 -   Subrayar después de leer.
 -   Numerar información.
 -   Utilizar líneas verticales para marcar puntos principales de varios renglones.
@@ -147,7 +145,6 @@ Dedicar no más de **10 minutos** a dar un vistazo por encima para poder proporc
 
 ### Recite/Recall (Recitar)
 **Contestar las preguntas** antes formuladas utilizando como guía lo marcado en el paso anterior **y repetir las respuestas en voz alta**. Se pueden escribir notas de estudio breves. Para reconocer cuando hemos recitado lo suficiente, podemos tomar en cuenta lo siguiente:
-
 -   Si somos capaces de establecer la idea principal debajo de cada título y subtítulo.
 -   Si podemos hacer un resumen del texto sin verlo.
 -   Si se han solucionado los errores más significativos para comprender.
@@ -156,7 +153,6 @@ La recitación puede considerarse un método anticuado, pero esto no significa q
 
 ### Review (Repasar)
 Repasar la información como último paso para entender el material. Aquí se puede:
-
 -   Releer cada título.
 -   Repasar el material subrayado y resaltado.
 -   Responder a las preguntas formuladas.
@@ -165,5 +161,5 @@ Repasar la información como último paso para entender el material. Aquí se pu
 
 # Conclusiones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxMTM1MjMxOF19
+eyJoaXN0b3J5IjpbLTU1MzkzMTc3OF19
 -->
