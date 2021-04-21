@@ -1,7 +1,6 @@
 ---
 title: "Salsa Boloñesa vegetariana"
 date: 2021-02-05
-receta: Salsas
 ingredients:
  tomate natural: 1kg
  Salsa de tomate: 700ml
@@ -30,10 +29,10 @@ prepmins: 5
 cookmins: 25
 yield: 6
 tags: [Vegetariana]
-categories: [Salsas]
+receta: Salsas
 fuente: "[Las Marías cocinillas](https://lasmariacocinillas.com/)"
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzkwNjY4NzcsMTUwMjg3MDQ5OF19
+eyJoaXN0b3J5IjpbMTY2NDE1NTIyMCwxNTAyODcwNDk4XX0=
 -->
