@@ -2,7 +2,6 @@
 title:  "Constitución Española de 1978"
 date:   2021-02-07
 update: 
-draft: truemeta: borrador
 tags: [Derecho, Constitución]
 category: [Conocimiento]
 toc: true
@@ -287,11 +286,11 @@ Una ley orgánica regulará la institución del Defensor del Pueblo, como alto c
 [^3] Perez Luño.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTAyMDQzMCwyMDc4NTA1NzM0LC0yMz
-MyNzg3MjEsLTc3MTQ0NTkwNSwtMTE0MDc5MjM5NiwtNTgzNzU2
-MjAyLDYzNzk4NzQ2LDg2MjQ1NzI3NCwtMjA1NjEzNjY2MSwtMT
-M5NDM3NTI3OSwxODA3MTg3MjY2LDE3MzA1MDc0NzEsMjA5ODg0
-NTE1NSwtMjA4NDYzODk5Myw3ODc0ODQ2NjMsNzg0NjYzNTMwLC
-0xNjIxNjM5NTMxLC0xMTgxODYxMzc2LDE2MDcwNzU0MzMsLTU1
-MjEyMDA0M119
+eyJoaXN0b3J5IjpbLTE5MzkwNTE3MTMsMjA3ODUwNTczNCwtMj
+MzMjc4NzIxLC03NzE0NDU5MDUsLTExNDA3OTIzOTYsLTU4Mzc1
+NjIwMiw2Mzc5ODc0Niw4NjI0NTcyNzQsLTIwNTYxMzY2NjEsLT
+EzOTQzNzUyNzksMTgwNzE4NzI2NiwxNzMwNTA3NDcxLDIwOTg4
+NDUxNTUsLTIwODQ2Mzg5OTMsNzg3NDg0NjYzLDc4NDY2MzUzMC
+wtMTYyMTYzOTUzMSwtMTE4MTg2MTM3NiwxNjA3MDc1NDMzLC01
+NTIxMjAwNDNdfQ==
 -->
