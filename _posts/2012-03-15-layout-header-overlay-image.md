@@ -7,7 +7,9 @@ header:
     - label: "Learn more"
       url: "https://unsplash.com"
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies:
+  - Layout
+  - Uncategorized
 tags:
   - edge case
   - image
@@ -53,5 +55,5 @@ header:
       url: "https://unsplash.com"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDE3MzE5MV19
+eyJoaXN0b3J5IjpbMTYwMzY3MzA1NCwtODYwMTczMTkxXX0=
 -->
