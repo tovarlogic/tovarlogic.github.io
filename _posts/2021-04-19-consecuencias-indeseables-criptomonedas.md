@@ -66,7 +66,7 @@ El uso de NFTs implicaría que no podrías hacer copias del libro, únicamente l
 Canciones, películas, obras de arte, libros y documentos en general, claves de acceso, son sólo uno de los pocos ejemplos que se me ocurren.
 
 # Como contratos inteligentes
-Ethe
+El ecosistema de Ethereum fue el primero en desarrollar esta idea. Básicamente, se puede programar la cadena de bloques para que se comporte de manera autónoma basada en una serie de condiciones previas codificadas en el contrato. Una vez se den dichas condiciones ejecutará las acciones q
 
 # Consecuencias indeseables
 ## Medioambientales
@@ -191,7 +191,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTg3OTU0NywxOTM5NDAxODg4LDg2Mj
+eyJoaXN0b3J5IjpbLTYxMDgxMzg0MiwxOTM5NDAxODg4LDg2Mj
 YwNDI5NSwxMzQ4OTIxNzQxLC0xMzc3ODY2NTEyLDk0NzkyMjEy
 MSwtMzEyODQwOTMyLC0xODAzODQ1NTYzXX0=
 -->
