@@ -65,6 +65,8 @@ El uso de NFTs implicaría que no podrías hacer copias del libro, únicamente l
 
 Canciones, películas, obras de arte, libros y documentos en general, claves de acceso, son sólo uno de los pocos ejemplos que se me ocurren.
 
+# Como contratos inteligentes
+Ethe
 
 # Consecuencias indeseables
 ## Medioambientales
@@ -189,7 +191,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDk4Mjc1MTAsMTkzOTQwMTg4OCw4Nj
-I2MDQyOTUsMTM0ODkyMTc0MSwtMTM3Nzg2NjUxMiw5NDc5MjIx
-MjEsLTMxMjg0MDkzMiwtMTgwMzg0NTU2M119
+eyJoaXN0b3J5IjpbLTQyOTg3OTU0NywxOTM5NDAxODg4LDg2Mj
+YwNDI5NSwxMzQ4OTIxNzQxLC0xMzc3ODY2NTEyLDk0NzkyMjEy
+MSwtMzEyODQwOTMyLC0xODAzODQ1NTYzXX0=
 -->
