@@ -26,17 +26,18 @@ layout: archive_left
 {% for tag in sorted_tags %}
     {% if tag[1].size > 0 %}
     	{% assign category_tag = tag[1] | where: "category", page.taxonomy | sort %}
-		{% if category_tag != empty %}
-      <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
-        <h2 class="archive__subtitle">{{ tag[0] }}</h2>
-        <div class="entries-{{ entries_layout }}">
-          {% for post in tag.last %}
-            {% include archive-single.html type=entries_layout %}
-          {% endfor %}
-        </div>
-        <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-      </section>
+  		{% if category_tag != empty %}
+        <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
+          <h2 class="archive__subtitle">{{ tag[0] }}</h2>
+          <div class="entries-{{ entries_layout }}">
+            {% assign category_posts = tag.last | where: "category", page.taxonomy | sort %}
+            {% for post in category_posts %}
+              {% include archive-single.html type=entries_layout %}
+            {% endfor %}
+          </div>
+          <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+        </section>
       {% endif %}
     {% endif %}
- {% endfor %}
+{% endfor %}
 
