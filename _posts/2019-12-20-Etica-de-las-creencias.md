@@ -4,6 +4,8 @@ date:   2019-12-20 15:14:54
 update: 2020-05-18
 tags: [Pensamiento crítico, Ética]
 category: [Opinion]
+toc: true
+toc_sticky: true
 excerpt: Las creencias tienen el poder de modular nuestro comportamiento. Es natural que alberguemos creencias infundadas, no obstante somos, en cualquier caso, responsables de nuestras acciones y por ello estamos moralmente obligados, por el bien común, a cuestionar y revisar nuestros propios juicios buscando las evidencias que los sustenta.
 ---
 
@@ -66,7 +68,7 @@ En definitiva, es natural que alberguemos creencias infundadas, no obstante somo
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg0MTA5MTE3LC01NzYyMDg2NTUsLTEyMD
-c3ODUxOTksLTI1NTk1MTYzNSwtMzE1NjY1MzM5LC0xNzQyODU1
-MTYzLDQwNjY4NzYzMl19
+eyJoaXN0b3J5IjpbNTcxMDM0Mzg4LDk4NDEwOTExNywtNTc2Mj
+A4NjU1LC0xMjA3Nzg1MTk5LC0yNTU5NTE2MzUsLTMxNTY2NTMz
+OSwtMTc0Mjg1NTE2Myw0MDY2ODc2MzJdfQ==
 -->
