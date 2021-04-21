@@ -2,7 +2,8 @@
 title:  "Origen Civilizaciones Antiguas"
 date:   2021-01-07
 tags: [Historia]
-category: [Conocimiento]
+category: [Conocimientocivilizaciones]
+categories: [Historia]
 serie: civilizaciones
 sidebar: civilizaciones
 toc: true
@@ -669,11 +670,11 @@ Battles of Thermopylae and Salamis.
 > Written with [StackEdit](https://stackedit.io/).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTQwNzkwLDIwNDUzNDkwMjEsLTE1NT
-gyNjI3NjEsODUzMzcwNzg3LDY2MzQ2MTkyMSwzNDc0MzM0NzIs
-LTc4MDA0OTkxNiwtMTg2OTI4Nzk0OCwtMTc5MjY3NTMzMiwtMT
-M4MDUzMDk5NiwtNjgyNjcyODksODQ4NDc3NjYxLDE1MDU5NDQ3
-NzksLTQ1NTgwMjI0MywxMTgzNTQ1MzgwLDE3MDc0MTU5NywtMj
-EzMjY4MDkyOCwtMTI0MzgxNzc0NywtMTUwNTE2NzA0MywtOTc0
-MTU0NDY4XX0=
+eyJoaXN0b3J5IjpbNzk0NTA0MTYzLDIwNTk0MDc5MCwyMDQ1Mz
+Q5MDIxLC0xNTU4MjYyNzYxLDg1MzM3MDc4Nyw2NjM0NjE5MjEs
+MzQ3NDMzNDcyLC03ODAwNDk5MTYsLTE4NjkyODc5NDgsLTE3OT
+I2NzUzMzIsLTEzODA1MzA5OTYsLTY4MjY3Mjg5LDg0ODQ3NzY2
+MSwxNTA1OTQ0Nzc5LC00NTU4MDIyNDMsMTE4MzU0NTM4MCwxNz
+A3NDE1OTcsLTIxMzI2ODA5MjgsLTEyNDM4MTc3NDcsLTE1MDUx
+NjcwNDNdfQ==
 -->
