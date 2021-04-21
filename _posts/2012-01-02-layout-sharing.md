@@ -2,7 +2,9 @@
 title: "Layout: Social Sharing Links Enabled"
 share: true
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies:
+  - Layout
+  - Uncategorized
 tags:
   - social
   - layout
@@ -10,5 +12,5 @@ tags:
 
 This post should display social sharing links.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwMTE0OTIwXX0=
+eyJoaXN0b3J5IjpbLTI0MDIyNzU3MSw2MDAxMTQ5MjBdfQ==
 -->
