@@ -1,7 +1,7 @@
 ---
 title:  Argumentos por Analogía "A Pari"
 date:   2018-08-11
-tags: [Lógica, Pensamiento crítico]
+tags: [Mind tools, Lógica, Pensamiento crítico]
 category: [Conocimiento]
 serie: razonamiento
 toc: true
@@ -246,5 +246,6 @@ Cualquier exposición oral está plagada de comparaciones ilustrativas. Conviene
 # Referencias
 - [Uso de razón](http://www.usoderazon.com) por Ricardo García Damborenea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTUwMzM4NDRdfQ==
+eyJoaXN0b3J5IjpbLTE1MTU3NjUxMDQsLTE3MTUwMzM4NDRdfQ
+==
 -->
