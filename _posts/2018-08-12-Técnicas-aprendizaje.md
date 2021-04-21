@@ -99,9 +99,7 @@ Esta técnica está considerada como un medio de estudio que nos permite la comp
 
 Para llevar a cabo la comprensión de un texto al leer, es necesario relacionar los conocimientos nuevos con los conocimientos previos y clasificar y recordar de forma sistemática los nuevos conocimientos.
 
-## Síntesis
 La técnica SQ3R pretende lograr ese nivel de comprensión que nos permitirá llegar a un estudio inteligente. Comprende **5 fases:**
-
 -   Survey
 -   Question
 -   Read
@@ -158,6 +156,6 @@ Repasar la información como último paso para entender el material. Aquí se pu
 
 # Conclusiones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5OTI3MDgwMSwtMTY5NTMxNTM1LDE3NT
-M1MjM3ODldfQ==
+eyJoaXN0b3J5IjpbLTIwNjg5NjcxOTMsLTg5OTI3MDgwMSwtMT
+Y5NTMxNTM1LDE3NTM1MjM3ODldfQ==
 -->
