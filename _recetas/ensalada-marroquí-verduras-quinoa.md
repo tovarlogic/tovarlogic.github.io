@@ -33,12 +33,12 @@ show_abreviations: true
 prepmins: 5
 cookmins: 15
 yield: 6
-author: xevi verdaguer
 tags: [vegetariana, FODMAP]
 receta: [Ensaladas, Árabe]
+author: xevi verdaguer
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDY5MTExODEsMTc5MzU1OTE1OCwtNT
-IxMzQ4MTI1LC0xNjc3MDk4OTRdfQ==
+eyJoaXN0b3J5IjpbLTI3Njk3NjUyOSwxNzkzNTU5MTU4LC01Mj
+EzNDgxMjUsLTE2NzcwOTg5NF19
 -->
