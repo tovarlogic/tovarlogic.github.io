@@ -140,7 +140,7 @@ Dedicar no más de 10 minutos a dar un **vistazo por encima** para poder proporc
 -   Utilizar signos de puntuación para llamar nuestra atención a algo importante.
 -   Practicar.
 
-### Recite/Recall (Recitar)
+- **Recite/Recall (Recitar)**
 **Contestar las preguntas** antes formuladas utilizando como guía lo marcado en el paso anterior **y repetir las respuestas en voz alta**. Se pueden escribir notas de estudio breves. Para reconocer cuando hemos recitado lo suficiente, podemos tomar en cuenta lo siguiente:
 -   Si somos capaces de establecer la idea principal debajo de cada título y subtítulo.
 -   Si podemos hacer un resumen del texto sin verlo.
@@ -148,7 +148,7 @@ Dedicar no más de 10 minutos a dar un **vistazo por encima** para poder proporc
 
 La recitación puede considerarse un método anticuado, pero esto no significa que se debe repetir palabras por palabra. Debemos evitar memorizar algo aisladamente como una unidad sin sentido.
 
-### Review (Repasar)
+- **Review (Repasar)**
 Repasar la información como último paso para entender el material. Aquí se puede:
 -   Releer cada título.
 -   Repasar el material subrayado y resaltado.
@@ -158,6 +158,6 @@ Repasar la información como último paso para entender el material. Aquí se pu
 
 # Conclusiones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjY5MDQ3OSwtMTY5NTMxNTM1LDE3NT
+eyJoaXN0b3J5IjpbLTg5OTI3MDgwMSwtMTY5NTMxNTM1LDE3NT
 M1MjM3ODldfQ==
 -->
