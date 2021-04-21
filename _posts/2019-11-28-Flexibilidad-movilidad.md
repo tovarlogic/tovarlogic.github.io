@@ -11,9 +11,13 @@ Flexibilidad:
 es el rango de movimiento que se puede obtener de manera PASIVA. 
 Movilidad:
 es el rango de movimiento que se puede obtener de manera ACTIVA.
-ROM:
-Range of Motion o rango de moviemiento en español.
+
 La flexibilidad determina el máximo rango de movimiento de una persona, por lo que la movilidad viene determinada por ésta.
+
+ROM:
+Range of Motion o rango de movimiento en español.
+PNF:
+ni idea
 
 # Técnicas para aumentar el ROM
 Las diferentes técnicas o tipos de ejercicios se pueden categorizar en:
@@ -62,20 +66,19 @@ Se puede emplear mediante:
 
 -   **Excéntricos**: Suelen emplearse para el tratamiento de tendinopatías
 
-## Cúando aplicar las diferentes técnicas
-
+# Cúando aplicar las diferentes técnicas
 Por regla general se recomienda lo siguiente:
-
 -   **Calentamientos**, realizados con movimiento articular y estiramientos dinámicos.
 -   **Incrementar ROM pre-workout**, mediante trabajo de tejidos blandos y combinacion de PNF + (flossing o eccentricos o estáticos)
 -   **Vuelta a la calma post-workout**, estiramientos estáticos.
 -   **Mantenimiento o mejora ROM**, estiramientos estáticos, pasivos y activos.
 
 *[ROM]: Range of Motion
+*[PNF]:
 
 ## Bibliografía
 
 -   [Crossfit Flexibility Training Guide](http://assets.crossfit.com/pdfs/seminars/Flexibility_Training_Guide.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDg0OTA1MF19
+eyJoaXN0b3J5IjpbLTgyNTAyNzcyMF19
 -->
