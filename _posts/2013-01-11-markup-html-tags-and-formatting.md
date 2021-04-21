@@ -3,7 +3,8 @@ title: "Markup: HTML Tags and Formatting"
 header:
   teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies:
+  - Markup
 tags:
   - content
   - css
@@ -248,5 +249,5 @@ Still sticking with science and Albert Einstein's E = MC<sup>2</sup>, which shou
 
 This allows you to denote <var>variables</var>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQ2MzU1MTVdfQ==
+eyJoaXN0b3J5IjpbOTExMjY5MjI2LC0xOTg0NjM1NTE1XX0=
 -->
