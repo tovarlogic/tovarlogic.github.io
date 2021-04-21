@@ -160,7 +160,7 @@ Otra consecuencia indeseable es que, como resultado de la especulación, el valo
 
 Existe un gran número de "Altcoins" que relacionan su valor directamente con cualquier otra moneda fiat como el USD o EUR. De este modo se pretende evitar la mencionada volatilidad y reducir la incertidumbre. Hasta que no se generalice su uso, es posible que el potencial democratizador de las criptomonedas sólo sea eso, un potencial beneficio que nunca llega a materializarse.  
 
-La formación de una DAO puede suponer grandes ventajas para prácticamente todas las partes implicadas. No obstante, se trata de un nuevo modo de organización más anárquica si se me permite. Con esto no quiero decir que cualquiera puede hacer lo que le plazca, sino más bien que no tiene porqué existir una organización predefinida. Pueden establecerse mecanismos que aportarían muchísima agilidad y plasticidad a la organización. El potencial problema que veo con esto, es que las naciones actualmente no estan preparadas 
+La formación de una DAO puede suponer grandes ventajas para prácticamente todas las partes implicadas. No obstante, se trata de un nuevo modo de organización más anárquica si se me permite. Con esto no quiero decir que cualquiera puede hacer lo que le plazca, sino más bien que no tiene porqué existir una organización predefinida. Pueden establecerse mecanismos que aportarían muchísima agilidad y plasticidad a la organización. El potencial problema que veo con esto, es que las naciones actualmente no estan preparadas (no existe regulación) para este tipo de situaciones. Lo ilustro con un ejemplo; supongamos que una DAO es una empresa, que no tiene empleados. Se podría programar que cualquier persona, incluso sin relacion laboral previa con la empresa, pueda ejercer cualquier funcion u actividad que se requiera en un momento dado. La empresa publicaría en su web las ofertas, no de empleo, sino de Una vez ejecutada con éxito dicha actividad el sistema le pagaría la cantidad ofrecida inicialmente
 
 
 ## Culturales
@@ -202,7 +202,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDMzODk3OTEsMTkzOTQwMTg4OCw4Nj
-I2MDQyOTUsMTM0ODkyMTc0MSwtMTM3Nzg2NjUxMiw5NDc5MjIx
-MjEsLTMxMjg0MDkzMiwtMTgwMzg0NTU2M119
+eyJoaXN0b3J5IjpbMjA0NzMwNzgyMywxOTM5NDAxODg4LDg2Mj
+YwNDI5NSwxMzQ4OTIxNzQxLC0xMzc3ODY2NTEyLDk0NzkyMjEy
+MSwtMzEyODQwOTMyLC0xODAzODQ1NTYzXX0=
 -->
