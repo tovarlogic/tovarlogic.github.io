@@ -59,7 +59,9 @@ Este caso de uso se conoce por NFT. Básicamente lo que significa es que cualqui
 
 En la actualidad se consume mucho entretenimiento en internet a través de los servicios de streaming, que desconozco como pueden ser afectados. Sin embargo, existen otros productos que aún se comercializan en un modo más clásico, como los libros electrónicos.
 
-Cuando uno compra un libro, no recibe porciones a medida que avanza en la lectura (que es lo que ocurre con los servicios de streaming de música y vídeo) sino que recibe una copia digital completa. Esta copia, la podemos manipular, copiar ilimitadamente y compartir innumerables veces, es decir la podemos piratear. El uso de NFTs implicaría que no podrías hacer copias del libro sino que lo podrías usar y compartir. Si lo compartes, ya no lo tienes tu, no lo puedes leer, solo la persona a la que se lo has dado. Es algo muy similar a lo que ocurre con un libro físico de papel, que si se lo prestamos, ya no lo podemos leer hasta que nos lo devuelvan. No se trata de un sistema perfecto, ya que al igual que con el formato papel tendrías maneras de copiarlo. Una foto a la pantalla de tu ebook sería el equivalente a la fotocopiadora actual, nadie te impide hacer una copia así. Sin embargo, en ambos casos, únicamente el que posee la copia original realmente la tiene, en el sentiudo estricto de la palabra, y puede demostrarlo.
+Cuando uno compra un libro, no recibe porciones a medida que avanza en la lectura (que es lo que ocurre con los servicios de streaming de música y vídeo) sino que recibe una copia digital completa. Esta copia, la podemos manipular, copiar y compartir de manera ilimitada, es decir, la podemos piratear. 
+
+El uso de NFTs implicaría que no podrías hacer copias del libro, únicamente lo podrías usar o compartir. Si lo compartes, ya no lo tienes tu, no lo puedes leer, solo la persona a la que se lo has dado. Es algo muy similar a lo que ocurre con un libro físico de papel, que si se lo prestamos, ya no lo podemos leer hasta que nos lo devuelvan. No se trata de un sistema perfecto, ya que al igual que con el formato papel tendrías maneras de copiarlo. Una foto a la pantalla de tu ebook sería el equivalente a la fotocopiadora actual, nadie te impide hacer una copia así. Sin embargo, en ambos casos, únicamente el que posee la copia original realmente la tiene, en el sentiudo estricto de la palabra, y puede demostrarlo.
 
 Canciones, películas, obras de arte, libros y documentos en general, claves de acceso, son sólo uno de los pocos ejemplos que se me ocurren.
 
@@ -187,7 +189,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2MTc2NjIyLDE5Mzk0MDE4ODgsODYyNj
-A0Mjk1LDEzNDg5MjE3NDEsLTEzNzc4NjY1MTIsOTQ3OTIyMTIx
-LC0zMTI4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
+eyJoaXN0b3J5IjpbLTE5MjQ5MDM5ODcsMTkzOTQwMTg4OCw4Nj
+I2MDQyOTUsMTM0ODkyMTc0MSwtMTM3Nzg2NjUxMiw5NDc5MjIx
+MjEsLTMxMjg0MDkzMiwtMTgwMzg0NTU2M119
 -->
