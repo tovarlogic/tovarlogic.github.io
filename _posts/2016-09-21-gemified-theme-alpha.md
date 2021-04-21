@@ -2,7 +2,8 @@
 title:  "Gemified Theme -- Alpha Release"
 last_modified_at: 2018-03-20T16:00:58-04:00
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies: 
+  - Jekyll
 tags:
   - update
 toc: true
@@ -93,5 +94,5 @@ That's it! If all goes well running `bundle exec jekyll serve` should spin-up yo
 
 Thanks!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjg2MDQzM119
+eyJoaXN0b3J5IjpbMTUyNTY3NjE2LC04MTY4NjA0MzNdfQ==
 -->
