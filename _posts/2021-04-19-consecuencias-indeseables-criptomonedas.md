@@ -160,7 +160,7 @@ Otra consecuencia indeseable es que, como resultado de la especulación, el valo
 
 Existe un gran número de "Altcoins" que relacionan su valor directamente con cualquier otra moneda fiat como el USD o EUR. De este modo se pretende evitar la mencionada volatilidad y reducir la incertidumbre. Hasta que no se generalice su uso, es posible que el potencial democratizador de las criptomonedas sólo sea eso, un potencial beneficio que nunca llega a materializarse.  
 
-La formación de una DAO puede suponer grandes ventajas para prácticamente todas las partes implicadas. No obstante, se trata de un nuevo modo de organización más anárquica si se me permite. Con esto no quiero decir que cualquiera puede hacer lo que le plazca, sino más bien que no tiene porqué existir una organización predefinida. Pueden establecerse mecanismos que aportarían muchísima agilidad y plasticidad a la organización. El potencial problema que veo con esto, es que las naciones actualmente no estan preparadas (no existe regulación) para este tipo de situaciones. Lo ilustro con un ejemplo; supongamos que una DAO es una empresa, que no tiene empleados. Se podría programar que cualquier persona, incluso sin relacion laboral previa con la empresa, pueda ejercer cualquier funcion u actividad que se requiera en un momento dado. La empresa publicaría en su web las ofertas, no de empleo, sino de actividades y sus requisitos y condiciones. Cualquier persona que cumpliera dichos requisitos podría optar a llevar a cabo dicha actividad, únicamente esa. Se podría ver como una subcontratación hipreflexible y automatizada. Una vez ejecutada con éxito dicha actividad por la persona que el sistema escoja, este le pagaría la cantidad ofrecida inicialmente. ¿Como controlaría el estado DAOs de este estilo? No parece una tarea imposible, pero desde luego supone un reto para 
+La formación de una DAO puede suponer grandes ventajas para prácticamente todas las partes implicadas. No obstante, se trata de un nuevo modo de organización más anárquica si se me permite. Con esto no quiero decir que cualquiera puede hacer lo que le plazca, sino más bien que no tiene porqué existir una organización predefinida. Pueden establecerse mecanismos que aportarían muchísima agilidad y plasticidad a la organización. El potencial problema que veo con esto, es que las naciones actualmente no estan preparadas (no existe regulación) para este tipo de situaciones. Lo ilustro con un ejemplo; supongamos que una DAO es una empresa, que no tiene empleados. Se podría programar que cualquier persona, incluso sin relacion laboral previa con la empresa, pueda ejercer cualquier funcion u actividad que se requiera en un momento dado. La empresa publicaría en su web las ofertas, no de empleo, sino de actividades y sus requisitos y condiciones. Cualquier persona que cumpliera dichos requisitos podría optar a llevar a cabo dicha actividad, únicamente esa. Se podría ver como una subcontratación hipreflexible y automatizada. Una vez ejecutada con éxito dicha actividad por la persona que el sistema escoja, este le pagaría la cantidad ofrecida inicialmente. ¿Como controlaría el estado DAOs de este estilo? No parece una tarea imposible, pero desde luego supone un reto para la administración.
 
 
 ## Culturales
@@ -198,11 +198,12 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
 # Enlaces de interés
 - [Amnistía Internacional: Police and Human Rights Resources](https://policehumanrightsresources.org/)
 - [BitDegree: Tutorial PoW vs PoS](https://www.bitdegree.org/crypto/tutorials/proof-of-work-vs-proof-of-stake)
+- [Academy bit2me: DAO](https://academy.bit2me.com/que-es-una-dao/)
 
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDExMzU4OCwxOTM5NDAxODg4LDg2Mj
+eyJoaXN0b3J5IjpbMTczMTI3MjkwNiwxOTM5NDAxODg4LDg2Mj
 YwNDI5NSwxMzQ4OTIxNzQxLC0xMzc3ODY2NTEyLDk0NzkyMjEy
 MSwtMzEyODQwOTMyLC0xODAzODQ1NTYzXX0=
 -->
