@@ -1,7 +1,8 @@
 ---
 title: "Markup: Title with Special&nbsp;---&nbsp;Characters"
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies:
+  - Markup
 tags:
   - html
   - markup
@@ -431,5 +432,5 @@ This is a test to see if the fonts used in this theme support basic Latin charac
   </tr>
 </table>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMzI4NjE0OF19
+eyJoaXN0b3J5IjpbLTc1MDMzMjM4MywtOTAzMjg2MTQ4XX0=
 -->
