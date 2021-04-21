@@ -4,7 +4,9 @@ header:
   image: /assets/images/page-header-image.png
   og_image: /assets/images/page-header-og-image.png
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies:
+  - Layout
+  - Uncategorized
 tags:
   - edge case
   - image
@@ -20,5 +22,5 @@ header:
   og_image: /assets/images/page-header-og-image.png
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjg3MDEzMDldfQ==
+eyJoaXN0b3J5IjpbMTM2NzA1NzQ0OCwtMTkyODcwMTMwOV19
 -->
