@@ -46,19 +46,15 @@ Si hay algo que no comprendes solo hay un camino que seguir:
 Por supuesto, una misma cuestión se puede aprender y/o enseñar de distintas maneras, si te atascas y hay algo que no comprendes, busca nuevas fuentes de información que te den una visión alternativa. Tu imaginación también es útil, trata de visualizar de manera alternativa lo que estudias, busca similitudes y relaciones con otras cosas que conozcas y comprendas. 
 {: .notice--info}
 
-
 Como es de suponer, un mismo fundamento (tronco) puede dar soporte a varias materias distintas (ramas), por lo que si comprendes y recuerdas uno te puede servir para dominar varias materias distintas pero relacionadas.
 
 <figure>
-  <img src="/assets/images/blog/aprender/Tree_of_knoledge.PNG">
+  <img src="/assets/images/blog/aprender/Forest_of_knowledge.PNG">
   <figcaption>
-	  Tree of Knowledge.
+	  Forest of Knowledge.
  Crédito:  <a href="https://www.youtube.com/channel/UCtYzVCmNxrshH4_bPO_-Y-A">The art of improvement</a>
   </figcaption>
 </figure>
-[![](http://images.shoutwiki.com/tovarlogic/thumb/5/58/Forest_of_knowledge.PNG/320px-Forest_of_knowledge.PNG)](http://tovarlogic.shoutwiki.com/wiki/Archivo:Forest_of_knowledge.PNG)
-
-Forest of Knowledge. Credits: The art of improvement
 
 Si vemos los conocimientos sobre una materia concreta como un árbol, cada campo del conocimiento que dominemos supondría un árbol distinto. De este modo, todo nuestro saber formaría un bosque de árboles que se entrecruzan (conocimientos relacionados) y se dan soporte unos a otros.
 
@@ -104,5 +100,5 @@ Your state is a snapshot of your mood – the mood of your mind and your body. I
 
 If you want to cut your learning curve in half, learn with the intention of teaching it to somebody else. If you had to give a presentation on what you’re learning today, you would learn it differently. You would pay closer attention. You would take more detailed notes. You would ask better questions. When I teach something, I get to learn it twice. People often say that those who can’t do teach. But I never saw that as a negative. I always thought, wow, if I can’t do something, I can teach it, and then I can do it.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDAxMTkyMTZdfQ==
+eyJoaXN0b3J5IjpbMTYxMTk3MDU4MF19
 -->
