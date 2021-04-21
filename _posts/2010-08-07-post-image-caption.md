@@ -1,7 +1,8 @@
 ---
 title: "Post: Image (Caption)"
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies:
+  - Post Formats
 tags:
   - image
   - Post Formats
@@ -16,5 +17,5 @@ tags:
   <figcaption>Photo from Unsplash.</figcaption>
 </figure>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDU1MTYyM119
+eyJoaXN0b3J5IjpbMzQxODA3MzgsMTgxNDU1MTYyM119
 -->
