@@ -23,10 +23,13 @@ show_abreviations: true
 prepmins: 5
 cookmins: 20
 yield: 6
-author: Karlos Arguiñano
+authortags: [Vegetariana, FODMAP, Paleo]
+categories: [Cremas]
+fuente: Karlos Arguiñano
 ---
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQ3OTk2MjBdfQ==
+eyJoaXN0b3J5IjpbLTIxMjgyMTMzMDAsLTEzNTQ3OTk2MjBdfQ
+==
 -->
