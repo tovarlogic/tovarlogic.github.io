@@ -2,9 +2,9 @@
 title:  "Constitución Española de 1978"
 date:   2021-02-07
 update: 
-draft: truemeta: borrador
-tags: [Dderecho,constitucion]
-category: [Conocimientos]
+draft: true
+tags: [Derecho, Constitución]
+category: [Conocimiento]
 toc: true
 toc_sticky: true
 excerpt: Constitución Española de 1978 comentada.
