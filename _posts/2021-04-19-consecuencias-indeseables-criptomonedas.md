@@ -162,6 +162,8 @@ Existe un gran número de "Altcoins" que relacionan su valor directamente con cu
 
 La formación de una DAO puede suponer grandes ventajas para prácticamente todas las partes implicadas. No obstante, se trata de un nuevo modo de organización más anárquica si se me permite. Con esto no quiero decir que cualquiera puede hacer lo que le plazca, sino más bien que no tiene porqué existir una organización predefinida. Pueden establecerse mecanismos que aportarían muchísima agilidad y plasticidad a la organización. El potencial problema que veo con esto, es que las naciones actualmente no estan preparadas (no existe regulación) para este tipo de situaciones. Lo ilustro con un ejemplo; supongamos que una DAO es una empresa, que no tiene empleados. Se podría programar que cualquier persona, incluso sin relacion laboral previa con la empresa, pueda ejercer cualquier funcion u actividad que se requiera en un momento dado. La empresa publicaría en su web las ofertas, no de empleo, sino de actividades y sus requisitos y condiciones. Cualquier persona que cumpliera dichos requisitos podría optar a llevar a cabo dicha actividad, únicamente esa. Se podría ver como una subcontratación hipreflexible y automatizada. Una vez ejecutada con éxito dicha actividad por la persona que el sistema escoja, este le pagaría la cantidad ofrecida inicialmente. ¿Como controlaría el estado DAOs de este estilo? No parece una tarea imposible, pero desde luego supone un reto para la administración.
 
+Otra posible consecuencia de las DAO es que 
+
 
 ## Culturales
 Quizás en este caso, este rizando el rizo, o estirando demasiado la imaginación. Pero personalmente no me cuesta imaginar un futuro en el que se ha generalizado el uso de documentos digitales a través de cadenas de bloques. Actualmente ya la mayoría de publicaciones científicas se hacen en formato digital, el siguiente paso es relativamente sencillo. Y es posible que la producción literaria digital vaya comiendo terreno a la de papel.
@@ -203,7 +205,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ2NDIzMjE3LDE5Mzk0MDE4ODgsODYyNj
-A0Mjk1LDEzNDg5MjE3NDEsLTEzNzc4NjY1MTIsOTQ3OTIyMTIx
-LC0zMTI4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
+eyJoaXN0b3J5IjpbLTExMDk0OTQ1ODcsMTkzOTQwMTg4OCw4Nj
+I2MDQyOTUsMTM0ODkyMTc0MSwtMTM3Nzg2NjUxMiw5NDc5MjIx
+MjEsLTMxMjg0MDkzMiwtMTgwMzg0NTU2M119
 -->
