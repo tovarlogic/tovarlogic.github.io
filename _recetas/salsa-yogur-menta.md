@@ -1,7 +1,6 @@
 ---
 title: "Salsa de yogurt y menta"
 date: 2018-12-27
-receta: Salsas
 ingredients:
  Yogurt: 1 unidad
  Menta: 6 hojas
@@ -18,8 +17,9 @@ show_abreviations: true
 prepmins: 5
 cookmins: 5
 yield: 6
+receta: Salsas
 author: Carlos
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjAzODg3OF19
+eyJoaXN0b3J5IjpbLTEyMDIyMDU0MzYsLTEwMjAzODg3OF19
 -->
