@@ -68,7 +68,7 @@ Canciones, películas, obras de arte, libros y documentos en general, claves de 
 # Como contratos inteligentes
 El ecosistema de Ethereum fue el primero en desarrollar esta idea. Básicamente, se puede programar la cadena de bloques para que se comporte de manera autónoma basada en una serie de condiciones previas codificadas en el contrato. Una vez se den dichas condiciones ejecutará las acciones predefinidas también en el contrato.
 
-Un ejemplo real, es el de las DAO, organizaciones capaces de operar de manera autónoma, donde se gestionan sus recursos a través de dichos contratos. Se podría programar que cualquier persona, incluso sin relacion laboral previa con la empresa, pueda ejercer cualquier funcion u actividad que se requiera en un momento d
+Un ejemplo real, es el de las DAO, organizaciones capaces de operar de manera autónoma, donde se gestionan sus recursos a través de dichos contratos. Ilustremos la idea con un uso concreto. 
 
 **Nota:** Existe un caso particular muy llamativo, en el que se ha usado la moneda XX.
 {: .notice--warning}
@@ -199,7 +199,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NzQ2MTIxNCwxOTM5NDAxODg4LDg2Mj
-YwNDI5NSwxMzQ4OTIxNzQxLC0xMzc3ODY2NTEyLDk0NzkyMjEy
-MSwtMzEyODQwOTMyLC0xODAzODQ1NTYzXX0=
+eyJoaXN0b3J5IjpbLTExNTU5OTg5MDYsMTkzOTQwMTg4OCw4Nj
+I2MDQyOTUsMTM0ODkyMTc0MSwtMTM3Nzg2NjUxMiw5NDc5MjIx
+MjEsLTMxMjg0MDkzMiwtMTgwMzg0NTU2M119
 -->
