@@ -1,7 +1,6 @@
 ---
 title: "Wrap de tortilla francesa con salmon ahumado"
 date: 2018-06-27
-receta: [Desayunos y meriendas]
 header:
   teaser: "assets/images/recetas/wrap-salmon.png"
 ingredients:
@@ -28,10 +27,11 @@ show_abreviations: true
 prepmins: 5
 cookmins: 10
 yield: 2
+receta: [Desayunos y meriendas]
 Author: ketodietapp.com
 ---
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1ODczMzcxOCwtMjEwMjk2ODA0MywtMT
-A5NzQwMzM5MF19
+eyJoaXN0b3J5IjpbMTUzOTM4NDgzNCwxNDU4NzMzNzE4LC0yMT
+AyOTY4MDQzLC0xMDk3NDAzMzkwXX0=
 -->
