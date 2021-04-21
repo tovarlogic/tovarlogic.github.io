@@ -64,15 +64,11 @@ La creatividad es la solución de problemas a partir de ideas aparentemente no r
 
 Si contamos con un vasto bosque (con muchos campos de conocimiento) de fuertes árboles (donde dominamos los fundamentos), seremos capaces de encontrar y comprender las relaciones (no muy obvias) que existen entre ellos.
 
-## Técnicas de aprendizaje
-
-## Autoevaluar nuestros conocimientos
-
-## Conclusiones
-
+## Resumen
 1.  Asegurate de estar construyendo un árbol de conocimiento, céntrate primero en los principios fundamentales.
 2.  No puedes recordar lo que no puedes relacionar, cualquier cosa que aprendes no está aislada, se debe conectar a algún conocimiento fundamental previo
-# Técnicas
+
+# Técnicas de aprendizaje
 ## BE FAST
 Start by thinking of a specific subject you want to learn faster, like a language or a musical skill. You need something specific for this four-step process to make sense.
 
@@ -99,6 +95,10 @@ Your state is a snapshot of your mood – the mood of your mind and your body. I
 ### The T in FAST stands for TEACH
 
 If you want to cut your learning curve in half, learn with the intention of teaching it to somebody else. If you had to give a presentation on what you’re learning today, you would learn it differently. You would pay closer attention. You would take more detailed notes. You would ask better questions. When I teach something, I get to learn it twice. People often say that those who can’t do teach. But I never saw that as a negative. I always thought, wow, if I can’t do something, I can teach it, and then I can do it.
+
+# Autoevaluar nuestros conocimientos
+
+# Conclusiones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMTk3MDU4MF19
+eyJoaXN0b3J5IjpbLTIwMjQxNTQ4NDddfQ==
 -->
