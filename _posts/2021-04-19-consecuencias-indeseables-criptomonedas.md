@@ -160,6 +160,9 @@ Otra consecuencia indeseable es que, como resultado de la especulación, el valo
 
 Existe un gran número de "Altcoins" que relacionan su valor directamente con cualquier otra moneda fiat como el USD o EUR. De este modo se pretende evitar la mencionada volatilidad y reducir la incertidumbre. Hasta que no se generalice su uso, es posible que el potencial democratizador de las criptomonedas sólo sea eso, un potencial beneficio que nunca llega a materializarse.  
 
+La formación de una DAO puede suponer grandes ventajas para prácticamente todas las partes implicadas. No obstante, se trata de un nuevo modo de organización más anárquica si se me permite. Con esto no quiero decir que cualquiera puede hacer lo que le plazca, sino más bien que no existe una organización
+
+
 ## Culturales
 Quizás en este caso, este rizando el rizo, o estirando demasiado la imaginación. Pero personalmente no me cuesta imaginar un futuro en el que se ha generalizado el uso de documentos digitales a través de cadenas de bloques. Actualmente ya la mayoría de publicaciones científicas se hacen en formato digital, el siguiente paso es relativamente sencillo. Y es posible que la producción literaria digital vaya comiendo terreno a la de papel.
 
@@ -199,7 +202,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTI3OTEzOSwxOTM5NDAxODg4LDg2Mj
-YwNDI5NSwxMzQ4OTIxNzQxLC0xMzc3ODY2NTEyLDk0NzkyMjEy
-MSwtMzEyODQwOTMyLC0xODAzODQ1NTYzXX0=
+eyJoaXN0b3J5IjpbNDkxMTYzOTkyLDE5Mzk0MDE4ODgsODYyNj
+A0Mjk1LDEzNDg5MjE3NDEsLTEzNzc4NjY1MTIsOTQ3OTIyMTIx
+LC0zMTI4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
 -->
