@@ -5,7 +5,9 @@ header:
     id: XsxDH4HcOWA
     provider: youtube
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies:
+  - Layout
+  - Uncategorized
 tags:
   - video
   - layout
@@ -58,5 +60,5 @@ header:
     provider: vimeo
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI2NjY3NTI5XX0=
+eyJoaXN0b3J5IjpbLTE0NTc4Njk1ODYsNDI2NjY3NTI5XX0=
 -->
