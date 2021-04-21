@@ -1,7 +1,8 @@
 ---
 title: "Post: Twitter Embed"
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies:
+  - Media
 tags:
   - content
   - embeds
@@ -14,5 +15,5 @@ tags:
 
 This post tests Twitter Embeds.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NTI0ODg5NV19
+eyJoaXN0b3J5IjpbMTYwOTA2NzA2NiwxODg1MjQ4ODk1XX0=
 -->
