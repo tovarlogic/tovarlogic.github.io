@@ -9,6 +9,3 @@ classes: wide
 entries_layout: grid
 ---
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0NTc1Nzg4XX0=
--->
