@@ -5,7 +5,9 @@ header:
   overlay_image: /assets/images/unsplash-image-1.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 category: [minimal-mistakes]
-hidden: true
+hidden: trueies:
+  - Layout
+  - Uncategorized
 tags:
   - edge case
   - image
@@ -26,5 +28,5 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY0Mjg4NzM3XX0=
+eyJoaXN0b3J5IjpbLTE4MDg4NDU5MjQsNTY0Mjg4NzM3XX0=
 -->
