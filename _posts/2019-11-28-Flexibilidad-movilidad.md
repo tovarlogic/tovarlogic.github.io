@@ -17,7 +17,7 @@ La flexibilidad determina el máximo rango de movimiento de una persona, por lo 
 ROM:
 Range of Motion o rango de movimiento en español.
 PNF:
-ni idea
+Facilitación Neuromuscular Propioceptivo (FNP)
 
 # Técnicas para aumentar el ROM
 Las diferentes técnicas o tipos de ejercicios se pueden categorizar en:
@@ -74,11 +74,11 @@ Por regla general se recomienda lo siguiente:
 -   **Mantenimiento o mejora ROM**, estiramientos estáticos, pasivos y activos.
 
 *[ROM]: Range of Motion
-*[PNF]:
+*[PNF]: Facilitación Neuromuscular Propioceptivo
 
 ## Bibliografía
 
 -   [Crossfit Flexibility Training Guide](http://assets.crossfit.com/pdfs/seminars/Flexibility_Training_Guide.pdf)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNTAyNzcyMF19
+eyJoaXN0b3J5IjpbLTE4NzY1NzkxMTddfQ==
 -->
