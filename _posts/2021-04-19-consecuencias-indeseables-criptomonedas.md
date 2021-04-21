@@ -51,7 +51,7 @@ En la actualidad estos registros disfrutan de gran confianza por nuestra parte. 
 
 Teoricamente, las cadenas de bloques pueden solucionar todas y cada una de estas desventajas sin reducir la confiabilidad.
 
-**Nota:** Ya existen proyectos en los que los propios bancos y empresas de energía están adoptando esta tecnología para gestionar y certificar sus propias transacciones con mayor transparencia y eficacia que sus sistemas clásicos reduciendo además los costes. Existen también iniciativas democráticas como la de Estonia
+**Nota:** Ya existen proyectos en los que los propios bancos y empresas de energía están adoptando esta tecnología para gestionar y certificar sus propias transacciones con mayor transparencia y eficacia que sus sistemas clásicos reduciendo además los costes. Existen también iniciativas democráticas como la de Estonia. En este país han conseguido, con el apoyo de esta tecnología, que el 99% de sus servicios públicos e
 {: .notice--warning}
 
 ## Como activo no fungible
@@ -194,7 +194,7 @@ Imagino que a finales de la primera fase, las grandes instituciones de investiga
  
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4NzI4MDgwLDE5Mzk0MDE4ODgsODYyNj
-A0Mjk1LDEzNDg5MjE3NDEsLTEzNzc4NjY1MTIsOTQ3OTIyMTIx
-LC0zMTI4NDA5MzIsLTE4MDM4NDU1NjNdfQ==
+eyJoaXN0b3J5IjpbLTE5NTA5MjEzNywxOTM5NDAxODg4LDg2Mj
+YwNDI5NSwxMzQ4OTIxNzQxLC0xMzc3ODY2NTEyLDk0NzkyMjEy
+MSwtMzEyODQwOTMyLC0xODAzODQ1NTYzXX0=
 -->
