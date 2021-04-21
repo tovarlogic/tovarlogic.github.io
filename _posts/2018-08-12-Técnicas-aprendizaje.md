@@ -97,7 +97,7 @@ Your state is a snapshot of your mood – the mood of your mind and your body. I
 
 If you want to cut your learning curve in half, learn with the intention of teaching it to somebody else. If you had to give a presentation on what you’re learning today, you would learn it differently. You would pay closer attention. You would take more detailed notes. You would ask better questions. When I teach something, I get to learn it twice. People often say that those who can’t do teach. But I never saw that as a negative. I always thought, wow, if I can’t do something, I can teach it, and then I can do it.
 
-## SQR
+## SQ3R
 Esta técnica está considerada como un medio de estudio que nos permite la comprensión de la información. El desarrollo de esta técnica nos permite disminuir el tiempo de estudio y aumentar la habilidad para comprender la información esencial.
 
 Para llevar a cabo la comprensión de un texto al leer, es necesario relacionar los conocimientos nuevos con los conocimientos previos y clasificar y recordar de forma sistemática los nuevos conocimientos.
@@ -105,10 +105,10 @@ Para llevar a cabo la comprensión de un texto al leer, es necesario relacionar 
 ## Síntesis
 
 <figure>
-  <img src="/assets/images/blog/aprender/Forest_of_knowledge.PNG">
+  <img src="/assets/images/blog/aprender/SQ3R.jpg">
   <figcaption>
-	  Forest of Knowledge.
- Crédito:  <a href="https://www.youtube.com/channel/UCtYzVCmNxrshH4_bPO_-Y-A">The art of improvement</a>
+	  SQ3R.
+ Crédito:  <a href="https://www.youtube.com/channel/UCtYzVCmNxrshH4_bPO_-Y-A">MIUC: Marbella International </a>
   </figcaption>
 </figure>
 [![](http://images.shoutwiki.com/tovarlogic/thumb/b/b7/SQ3R.jpg/300px-SQ3R.jpg)](http://tovarlogic.shoutwiki.com/wiki/Archivo:SQ3R.jpg)
@@ -172,5 +172,5 @@ Repasar la información como último paso para entender el material. Aquí se pu
 
 # Conclusiones
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NDEyNDkwM119
+eyJoaXN0b3J5IjpbNjA5MTU1MzYzXX0=
 -->
