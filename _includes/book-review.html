@@ -17,7 +17,7 @@
   			Valoración:  <span class="stars-container stars-{{ review.stars | times:20 | round: 0 }}" title="{{ review.stars }}/5">★★★★★</span><br>
   			Género: {{ review.category }}<br>
   			Temática: {% assign first = true %}{% for tag in review.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}<br>
-  			Leido: {{ review.date | date: "%m %Y" }}
+  			Leido: {{ review.date | date: "%-m %Y" }}
   			{% if review.excerpt %}<p>{{ review.excerpt }}</p>{% endif %}
         <p><a href="{{ review.url | prepend: site.baseurl }}" class="btn btn--primary">Leer notas</a></p>
   		 </div>
