@@ -331,6 +331,15 @@ defaults:
       author_profile: false
       share: true
       comments: false
+  # _recetas
+  - scope:
+      path: ""
+      type: book_reviews
+    values:
+      layout: book-reviews-template
+      author_profile: false
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single_left
 ---
 <div class="home">
 	<div class="call-out"><h1>Book Reviews</h1>
