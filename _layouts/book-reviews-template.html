@@ -9,10 +9,10 @@ layout: single_left
                 <img alt="{{ page.title }} cover" src="{{ site.baseurl }}/assets/book_covers/{{ page.cover }}">
                 <figcaption>Portada de <em>{{ page.title }}</em></figcaption>
             {% elsif page.olid %}
-                <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ page.olid }}-S.jpg?default=false">
+                <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ page.olid }}-M.jpg?default=false">
                 <figcaption>Portada de <em>{{ page.title }}</em> en <a href="https://openlibrary.org/olid/{{ page.olid }}">Open Library</a>.</figcaption>
             {% elsif page.isbn %}
-                <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ page.isbn }}-S.jpg?default=false">
+                <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ page.isbn }}-M.jpg?default=false">
                 <figcaption>Portada de <em>{{ page.title }}</em> en <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.</figcaption>
             {% endif %}
     	</figure>
