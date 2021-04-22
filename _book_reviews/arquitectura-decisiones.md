@@ -5,8 +5,8 @@ toc_sticky: true
 draft: true
 title: "Nudge: Improving Decisions About Health, Wealth and Happiness"
 author: Richard H. Thaler y Cass R. Sunstein
-category: Self-Improvement
-tags: 
+category: Ensayo
+tags: [Economía, Sociología, Psicología, Política]
 stars: 3
 book-link: https://www.goodreads.com/book/show/3450744-nudge
 isbn: 9780300122237
