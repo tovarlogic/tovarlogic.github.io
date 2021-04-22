@@ -33,7 +33,7 @@ permalink: /reading-list/
             {% endif %}
           {% else %}
             {{ book.title }}
-          {% endif %}
+          {% endif %} {{ book }}
           <span class="author">by {{ book.author }}</span> {% if book.star %}<span class="star">★</span>{% endif %}
         </li>
         {% endfor %}
