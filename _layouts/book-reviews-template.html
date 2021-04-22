@@ -19,13 +19,13 @@ layout: single_left
     </figure>
 		  <div class="book_meta">
 			  <h3><em>{{ page.title }}</em></h3>
-			  <p>Author: {{ page.author }}</p>
-			  <p>Rating:  <span class="stars-container stars-{{ page.stars | times:20 | round: 0 }}" title="{{ page.stars }}/5">★★★★★</span></p>
-			  <p>Genre: {{ page.category }}</p>
-			  <p>Themes: {% assign first = true %}{% for tag in page.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}</p>
-			  <p>Format: {{ page.format }}</p>
-			  <p>Finished: {{ page.date | date: "%B %-d, %Y" }}</p>
-			  <p><a href="{{ page.book-link }}" target="_blank">Purchase link</a></p>
+			  <p>Autor/es: {{ page.author }}</p>
+			  <p>Valoración:  <span class="stars-container stars-{{ page.stars | times:20 | round: 0 }}" title="{{ page.stars }}/5">★★★★★</span></p>
+			  <p>Género: {{ page.category }}</p>
+			  <p>Temática: {% assign first = true %}{% for tag in page.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}</p>
+			  <p>Formato: {{ page.format }}</p>
+			  <p>Leido: {{ page.date | date: "%B %-d, %Y" }}</p>
+			  <p><a href="{{ page.book-link }}" target="_blank">Más info</a></p>
 		  </div>
 	  </div>
 	  <div class="book_feedback">
