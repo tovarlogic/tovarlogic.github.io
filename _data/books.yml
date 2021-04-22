@@ -1,0 +1,18 @@
+lastupdate: September 3, 2019
+list:
+  - year: "2020"
+    books:
+      - title: "Nudge: Improving Decisions About Health, Wealth and Happiness"
+        author: Richard H. Thaler y Cass R. Sunstein
+        link: arquitectura-deciciones
+        star: true
+        review: true
+
+      - title: "The Last Pirate of New York"
+        author: Rich Cohen
+        link: https://amzn.to/34h0Oa3
+        star: yes
+
+
+
+  

@@ -1,42 +1,10 @@
 ---
 layout: splash
-permalink: /reading-list/
-hidden: true
-header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/mm-home-page-feature.jpg
-  actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
-excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.22.0">Latest release v4.22.0</a></small>
-feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+permalink: /reading-list/  
 ---
 <div class="container">
-  <div class="last-update">Last updated {{ site.data.reading.lastupdate }}</div>
-  {% for entry in site.data.reading.list %}
+  <div class="last-update">Last updated {{ site.data.books.lastupdate }}</div>
+  {% for entry in site.data.books.list %}
   <div class="year-container">
     <div class="year">
       <h4>{{ entry.year }}</h4>
@@ -46,9 +14,15 @@ feature_row:
       <ul class="reading-list {{ entry.year }}">
         {% for book in entry.books %}
         <li>
-          <a href="{{ book.link }}" alt="_blank" rel="nofollow noopener">{{
-            book.title
-          }}</a>
+          {% if book.link %}
+            {% if book.review %}
+              <a href="/book_reviews/{{ book.link }}">{{ book.title }}</a>
+            {% else %}
+              <a href="{{ book.link }}" alt="_blank" rel="nofollow noopener">{{ book.title }}</a>
+            {% endif %}
+          {% else %}
+            {{ book.title }}
+          {% endif %}
           <span class="author">by {{ book.author }}</span
           >{% if book.star %}<span class="star">★</span>{% endif %}
         </li>
