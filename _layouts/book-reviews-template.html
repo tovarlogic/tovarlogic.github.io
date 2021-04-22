@@ -17,8 +17,7 @@ layout: single_left
             {% endif %}
     	</figure>
 		  <div class="book_meta">
-			  <h3><em>{{ page.title }}</em></h3><br>
-			  Autor/es: {{ page.author }}<br>
+			  <h3><em>{{ page.title }}</em></h3> por {{ page.author }}<br>
 			  Valoración:  <span class="stars-container stars-{{ page.stars | times:20 | round: 0 }}" title="{{ page.stars }}/5">★★★★★</span><br>
 			  Género: {{ page.category }}<br>
 			  Temática: {% assign first = true %}{% for tag in page.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}<br>

@@ -13,8 +13,7 @@
             {% endif %}
       </figure>
   		<div class="book_meta">
-  			<h3><em><a href="{{ review.url | prepend: site.baseurl }}">{{ review.title }}</a></em></h3>
-  			Autor/es: {{ review.author }}<br>
+  			<h3><em><a href="{{ review.url | prepend: site.baseurl }}">{{ review.title }}</a></em></h3> por {{ review.author }}<br>
   			Valoración:  <span class="stars-container stars-{{ review.stars | times:20 | round: 0 }}" title="{{ review.stars }}/5">★★★★★</span><br>
   			Género: {{ review.category }}<br>
   			Temática: {% assign first = true %}{% for tag in review.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}<br>
