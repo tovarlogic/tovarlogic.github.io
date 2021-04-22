@@ -4,7 +4,7 @@ list:
     books:
       - title: "Nudge: Improving Decisions About Health, Wealth and Happiness"
         author: Richard H. Thaler y Cass R. Sunstein
-        link: arquitectura-deciciones
+        link: arquitectura-decisiones
         star: true
         review: true
 
