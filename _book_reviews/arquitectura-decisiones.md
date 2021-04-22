@@ -1,15 +1,19 @@
----
-title:  "Arquitectura de las decisiones"
-date:   2020-12-28
-update: 
-draft: true
-tags: [Libros, Economía, Sociología]
-category: [Conocimiento]
+--- 
+layout: book-reviews-template
 toc: true
 toc_sticky: true
-excerpt: Síntesis de las ideas desarrolladas en el Libro "Un pequeño empujón (Nudge)" de Richard H. Thaler y Cass R. Sunstein sobre el concepto de Arquitectura de deciciones, es decir el diseño de contextos adecuados para influir predeciblemente en el comportamiento de las personas.
+draft: true
+title: "Nudge: Improving Decisions About Health, Wealth and Happiness"
+author: Richard H. Thaler y Cass R. Sunstein
+category: Self-Improvement
+tags: 
+stars: 3
+book-link: https://www.amazon.es/gp/product/B009KERBQI/ref=dbs_a_def_rwt_bibl_vppi_i1
+cover: https://m.media-amazon.com/images/I/41PpRgHvCPL._SY346_.jpg
+format: kindle
+date: 2020-12-28
+excerpt: "Sobre el concepto de Arquitectura de deciciones, es decir el diseño de contextos adecuados para influir predeciblemente en el comportamiento de las personas."
 ---
-
 # Introducción
 Este artículo resume el libro [Un pequeño empujón](https://www.goodreads.com/book/show/10512049-un-peque-o-empuj-n) en su versión española o [Nudge](https://www.goodreads.com/book/show/3450744-nudge) en la inglesa de [Richard H. Thaler]( https://www.goodreads.com/author/show/65483.Richard_H_Thaler) y [Cass R. Sunstein](https://www.goodreads.com/author/show/62303.Cass_R_Sunstein).
 
@@ -188,13 +192,3 @@ En esta faceta de la vida, también son aplicables los típicos nudges descritos
 
 # Bibliografía
 * "Un pequeño empujón" por Richard H. Thaler and Cass R. Sunstein
-> Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzIzMjQ2NTUsLTExMDYzOTAzMDgsLT
-E3OTgyOTU3MTYsNjU0NzI2ODIyLC0xMjI3MDg4NTgyLDE5Mjcx
-NTE2MjYsMTg2OTI2MjQwMSwtNDY1Mzk5MTE1LC0yMDY4MTkwMj
-UsLTE0OTgzODk2ODMsMjAwMTcxOTM0NSwtNzk2OTE3Nzg4LC0x
-NTM3MDU3NDk2LC02MDQxMjExMywtMjExOTkwMTMzNiwxMDg1MD
-E1NjIxLDE2MjU5OTM1MjMsLTE3NjQwODQxNDgsMTg5NDY4NjQ4
-NCwtMjgzOTI1NzRdfQ==
--->
