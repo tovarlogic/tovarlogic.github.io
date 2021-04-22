@@ -8,7 +8,7 @@ author: Richard H. Thaler y Cass R. Sunstein
 category: Self-Improvement
 tags: 
 stars: 3
-book-link: https://www.amazon.es/gp/product/B009KERBQI/ref=dbs_a_def_rwt_bibl_vppi_i1
+book-link: https://www.goodreads.com/book/show/3450744-nudge
 olid: OL3936258W
 format: kindle
 date: 2020-12-28
