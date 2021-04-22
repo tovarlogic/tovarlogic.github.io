@@ -7,13 +7,12 @@ layout: single_left
 		  <figure class="book_cover">
             {% if page.cover %}
                 <img alt="{{ page.title }} cover" src="{{ site.baseurl }}/assets/book_covers/{{ page.cover }}">
-                <figcaption>Portada de <em>{{ page.title }}</em></figcaption>
             {% elsif page.olid %}
-                <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ page.olid }}-M.jpg?default=false">
-                <figcaption>Portada de <em>{{ page.title }}</em> en <a href="https://openlibrary.org/olid/{{ page.olid }}">Open Library</a>.</figcaption>
+                <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ page.olid }}-L.jpg?default=false">
+                <figcaption>Cortesía de <a href="https://openlibrary.org/olid/{{ page.olid }}">Open Library</a>.</figcaption>
             {% elsif page.isbn %}
-                <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ page.isbn }}-M.jpg?default=false">
-                <figcaption>Portada de <em>{{ page.title }}</em> en <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.</figcaption>
+                <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ page.isbn }}-L.jpg?default=false">
+                <figcaption>Cortesía de <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.</figcaption>
             {% endif %}
     	</figure>
 		  <div class="book_meta">

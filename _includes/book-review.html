@@ -5,8 +5,10 @@
                 <img alt="{{ review.title }} cover" src="{{ site.baseurl }}/assets/book_covers/{{ review.cover }}">
             {% elsif review.olid %}
                 <img alt="{{ review.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ review.olid }}-L.jpg?default=false">
+                <figcaption>Cortesía de <a href="https://openlibrary.org/olid/{{ review.olid }}">Open Library</a>.</figcaption>
             {% elsif review.isbn %}
                 <img alt="{{ review.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ review.isbn }}-L.jpg?default=false">
+                <figcaption>Cortesía de <a href="https://openlibrary.org/isbn/{{ review.isbn }}">Open Library</a>.</figcaption>
             {% endif %}
       </figure>
   		<div class="book_meta">
