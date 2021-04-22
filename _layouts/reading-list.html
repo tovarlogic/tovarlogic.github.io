@@ -19,6 +19,10 @@ permalink: /reading-list/
     <h2 class="archive__subtitle">{{ year.name }}</h2>
     <div class="entries-{{ entries_layout }}">
       {% for book in year.items %}
+        {% assign reviews = site.book_reviews  %}
+        {% for book in reviews %}
+          {{ book }}
+        {% endfor %}
         {% include archive-books.html type=entries_layout %}
       {% endfor %}
     </div>
