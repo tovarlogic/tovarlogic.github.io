@@ -1,21 +1,21 @@
 <div class="post-teaser">
   	<div class="book_info">
   		<figure class="book_cover">
-            {% if page.cover %}
-                <img alt="{{ page.title }} cover" src="{{ site.baseurl }}/assets/book_covers/{{ page.cover }}">
-                <figcaption>Portada de <em>{{ page.title }}</em></figcaption>
-            {% elsif page.olid %}
-                <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ page.olid }}-L.jpg?default=false">
-                <figcaption>Portada de <em>{{ page.title }}</em> en <a href="https://openlibrary.org/olid/{{ page.olid }}">Open Library</a>.</figcaption>
-            {% elsif page.isbn %}
-                <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ page.isbn }}-L.jpg?default=false">
-                <figcaption>Portada de <em>{{ page.title }}</em> en <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.</figcaption>
+            {% if review.cover %}
+                <img alt="{{ review.title }} cover" src="{{ site.baseurl }}/assets/book_covers/{{ review.cover }}">
+                <figcaption>Portada de <em>{{ review.title }}</em></figcaption>
+            {% elsif review.olid %}
+                <img alt="{{ review.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ review.olid }}-L.jpg?default=false">
+                <figcaption>Portada de <em>{{ review.title }}</em> en <a href="https://openlibrary.org/olid/{{ review.olid }}">Open Library</a>.</figcaption>
+            {% elsif review.isbn %}
+                <img alt="{{ review.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ review.isbn }}-L.jpg?default=false">
+                <figcaption>Portada de <em>{{ review.title }}</em> en <a href="https://openlibrary.org/isbn/{{ review.isbn }}">Open Library</a>.</figcaption>
             {% endif %}
       </figure>
   		<div class="book_meta">
   			<h3><em><a href="{{ review.url | prepend: site.baseurl }}">{{ review.title }}</a></em></h3>
   			<p>Autor/es: {{ review.author }}</p>
-  			<p>Valoreación:  <span class="stars-container stars-{{ review.stars | times:20 | round: 0 }}" title="{{ review.stars }}/5">★★★★★</span></p>
+  			<p>Valoración:  <span class="stars-container stars-{{ review.stars | times:20 | round: 0 }}" title="{{ review.stars }}/5">★★★★★</span></p>
   			<p>Género: {{ review.category }}</p>
   			<p>Temática: {% assign first = true %}{% for tag in review.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}</p>
   			<p>Leido: {{ review.date | date: "%B %-d, %Y" }}</p>
