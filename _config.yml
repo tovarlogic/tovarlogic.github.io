@@ -282,7 +282,7 @@ collections:
   atc:
     output: true
     permalink: /:collection/:path/
-  books:
+  book_reviews:
     output: true
     permalink: /:collection/:path/
   quotes:
