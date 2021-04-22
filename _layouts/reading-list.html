@@ -1,0 +1,58 @@
+---
+layout: archive_left
+permalink: /reading-list/  
+---
+<ul class="taxonomy__index">
+  {% assign readInYear = site.data.books.list | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' %}
+  {% for year in readInYear %}
+    <li>
+      <a href="#{{ year.name }}">
+        <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
+      </a>
+    </li>
+  {% endfor %}
+</ul>
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+{% for year in readInYear %}
+  <section id="{{ year.name }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ year.name }}</h2>
+    <div class="entries-{{ entries_layout }}">
+      {% for book in year.items %}
+        {% include archive-books.html type=entries_layout %}
+      {% endfor %}
+    </div>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+  </section>
+{% endfor %}
+
+
+<div class="container">
+  <div class="last-update">Last updated {{ site.data.books.lastupdate }}</div>
+  {% for year in readInYear %}
+  <div class="year-container">
+    <div class="year">
+      <h4>{{ year.name }}</h4>
+      <div class="number">{{ year.size }} books</div>
+    </div>
+    <div class="books">
+      <ul class="reading-list {{ entry.year }}">
+        {% for book in year.items %}
+        <li>
+          {% if book.link %}
+            {% if book.review %}
+              <a href="/book_reviews/{{ book.link }}/">{{ book.title }}</a>
+            {% else %}
+              <a href="{{ book.link }}" alt="_blank" rel="nofollow noopener">{{ book.title }}</a>
+            {% endif %}
+          {% else %}
+            {{ book.title }}
+          {% endif %} {{ book }}
+          <span class="author">by {{ book.author }}</span> {% if book.star %}<span class="star">★</span>{% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  {% endfor %}
+</div>
