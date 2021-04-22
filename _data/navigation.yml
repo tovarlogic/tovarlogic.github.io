@@ -25,7 +25,7 @@ main:
   - title: "Opinión"
     url: /opinion/
   - title: "Libros"
-    url: /book-reviews/
+    url: /book_reviews/
   - title: "Recetas"
     url: /recetas/
 
