@@ -4,7 +4,6 @@ layout: single_left
 <article>
   <section class="post-content">
 	  <div class="book_info">
-		  {% if page.cover %}<div class="book_cover"><a href="{{ page.book-link }}" target="_blank"><img src="/img/{{ page.cover }}" alt="Book cover for {{ page.title }}" /></a></div>{% endif %}
 		  <figure class="book_cover">
             {% if page.cover %}
                 <img alt="{{ page.title }} cover" src="{{ site.baseurl }}/assets/book_covers/{{ page.cover }}">
@@ -16,7 +15,7 @@ layout: single_left
                 <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ page.isbn }}-L.jpg?default=false">
                 <figcaption>Portada de <em>{{ page.title }}</em> on the <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.</figcaption>
             {% endif %}
-    </figure>
+    	</figure>
 		  <div class="book_meta">
 			  <h3><em>{{ page.title }}</em></h3>
 			  <p>Autor/es: {{ page.author }}</p>
