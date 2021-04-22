@@ -9,7 +9,6 @@ category: Self-Improvement
 tags: 
 stars: 3
 book-link: https://www.amazon.es/gp/product/B009KERBQI/ref=dbs_a_def_rwt_bibl_vppi_i1
-cover: https://m.media-amazon.com/images/I/41PpRgHvCPL._SY346_.jpg
 olid: OL3936258W
 format: kindle
 date: 2020-12-28
