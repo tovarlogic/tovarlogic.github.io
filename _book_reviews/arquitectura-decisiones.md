@@ -9,7 +9,7 @@ category: Self-Improvement
 tags: 
 stars: 3
 book-link: https://www.goodreads.com/book/show/3450744-nudge
-olid: OL3936258W
+isbn: 9780300122237
 format: kindle
 date: 2020-12-28
 excerpt: "Sobre el concepto de Arquitectura de deciciones, es decir el diseño de contextos adecuados para influir predeciblemente en el comportamiento de las personas."
