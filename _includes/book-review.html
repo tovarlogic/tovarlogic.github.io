@@ -14,11 +14,12 @@
       </figure>
   		<div class="book_meta">
   			<h3><em><a href="{{ review.url | prepend: site.baseurl }}">{{ review.title }}</a></em></h3> <span class="author">por {{ review.author }}</span><br>
-  			Valoración:  <span class="stars-container stars-{{ review.stars | times:20 | round: 0 }}" title="{{ review.stars }}/5">★★★★★</span><br>
-  			Género: {{ review.category }}<br>
-  			Temática: {% assign first = true %}{% for tag in review.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}<br>
-  			Leido: {{ review.date | date: "%B %Y" }}<br>
-  			{% if review.excerpt %}<p>{{ review.excerpt }}</p>{% endif %}
+  			<span class="stars-container stars-{{ review.stars | times:20 | round: 0 }}" title="{{ review.stars }}/5">★★★★★</span><br>
+  			{% if review.category %} Género: {{ review.category }}<br>{% endif %}
+  			{% if review.tags %} Temática: {% assign first = true %}{% for tag in review.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}<br>{% endif %}
+  			{% if review.date %} <p>Leido: {{ review.date | date: "%B %Y" }}</p>{% endif %}
+        <br>
+  			{% if review.excerpt %} <p>{{ review.excerpt }}</p>{% endif %}
         <p><a href="{{ review.url | prepend: site.baseurl }}" class="btn btn--primary">Leer notas</a></p>
   		 </div>
   	</div>
