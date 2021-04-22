@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single_left
 permalink: /reading-list/  
 ---
 <ul class="taxonomy__index">
@@ -15,15 +15,15 @@ permalink: /reading-list/
 
 <div class="container">
   <div class="last-update">Last updated {{ site.data.books.lastupdate }}</div>
-  {% for entry in readInYear %}
+  {% for year in readInYear %}
   <div class="year-container">
     <div class="year">
-      <h4>{{ entry.year }}</h4>
-      <div class="number">{{ entry.size }} books</div>
+      <h4>{{ year.name }}</h4>
+      <div class="number">{{ year.size }} books</div>
     </div>
     <div class="books">
       <ul class="reading-list {{ entry.year }}">
-        {% for book in entry.books %}
+        {% for book in year %}
         <li>
           {% if book.link %}
             {% if book.review %}
