@@ -10,6 +10,7 @@ tags:
 stars: 3
 book-link: https://www.amazon.es/gp/product/B009KERBQI/ref=dbs_a_def_rwt_bibl_vppi_i1
 cover: https://m.media-amazon.com/images/I/41PpRgHvCPL._SY346_.jpg
+olid: OL3936258W
 format: kindle
 date: 2020-12-28
 excerpt: "Sobre el concepto de Arquitectura de deciciones, es decir el diseño de contextos adecuados para influir predeciblemente en el comportamiento de las personas."
