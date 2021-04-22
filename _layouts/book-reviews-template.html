@@ -3,7 +3,7 @@ layout: single_left
 ---
 <article>
   <section class="post-content">
-	  <div class="book_info">
+	  <div class="book_info" itemscope itemtype="http://schema.org/Review">
 		  <figure class="book_cover">
             {% if page.cover %}
                 <img alt="{{ page.title }} cover" src="{{ site.baseurl }}/assets/book_covers/{{ page.cover }}">
@@ -18,11 +18,16 @@ layout: single_left
     	</figure>
 		  <div class="book_meta">
 			  <h3><em>{{ page.title }}</em></h3>  <span class="author">por {{ page.author }}</span><br>
+			  <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+			  	<meta content="1" itemprop="worstRating"><meta content="{{ page.stars }} itemprop=ratingValue"><meta content="5" itemprop="bestRating">
+			  </span>
+
 			  Valoración:  <span class="stars-container stars-{{ page.stars | times:20 | round: 0 }}" title="{{ page.stars }}/5">★★★★★</span><br>
 			  Género: {{ page.category }}<br>
 			  Temática: {% assign first = true %}{% for tag in page.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}<br>
 			  Formato: {{ page.format }}<br>
 			  Leido: {{ page.date | date: "%m %Y" }}<br>
+			  <br>
 			  <p><a href="{{ page.book-link }}"  target="_blank" class="btn btn--primary">Más info</a></p>
 		  </div>
 	  </div>
