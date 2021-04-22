@@ -5,13 +5,11 @@ list:
       - title: "Nudge: Improving Decisions About Health, Wealth and Happiness"
         author: Richard H. Thaler y Cass R. Sunstein
         link: arquitectura-decisiones
-        star: true
         review: true
+        star: false
 
       - title: "The Last Pirate of New York"
         author: Rich Cohen
-        link: https://amzn.to/34h0Oa3
-        star: yes
 
 
 

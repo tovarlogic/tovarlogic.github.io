@@ -16,7 +16,7 @@ permalink: /reading-list/
         <li>
           {% if book.link %}
             {% if book.review %}
-              <a href="/book_reviews/{{ book.link }}">{{ book.title }}</a>
+              <a href="/book_reviews/{{ book.link }}/">{{ book.title }}</a>
             {% else %}
               <a href="{{ book.link }}" alt="_blank" rel="nofollow noopener">{{ book.title }}</a>
             {% endif %}
