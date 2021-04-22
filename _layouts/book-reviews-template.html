@@ -6,16 +6,16 @@ layout: single_left
 	  <a class="button" href="/book-notes/">&larr; Back to book notes</a><br /><br />
 	  <div class="book_info">
 		  {% if page.cover %}<div class="book_cover"><a href="{{ page.book-link }}" target="_blank"><img src="/img/{{ page.cover }}" alt="Book cover for {{ page.title }}" /></a></div>{% endif %}
-		  <figure class="book-cover">
+		  <figure class="book_cover">
             {% if page.cover %}
                 <img alt="{{ page.title }} cover" src="{{ site.baseurl }}/assets/book_covers/{{ page.cover }}">
-                <figcaption>Cover of <em>{{ page.title }}</em></figcaption>
+                <figcaption>Portada de <em>{{ page.title }}</em></figcaption>
             {% elsif page.olid %}
                 <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ page.olid }}-L.jpg?default=false">
-                <figcaption>Cover of <em>{{ page.title }}</em> on the <a href="https://openlibrary.org/olid/{{ page.olid }}">Open Library</a>.</figcaption>
+                <figcaption>Portada de <em>{{ page.title }}</em> on the <a href="https://openlibrary.org/olid/{{ page.olid }}">Open Library</a>.</figcaption>
             {% elsif page.isbn %}
                 <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ page.isbn }}-L.jpg?default=false">
-                <figcaption>Cover of <em>{{ page.title }}</em> on the <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.</figcaption>
+                <figcaption>Portada de <em>{{ page.title }}</em> on the <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.</figcaption>
             {% endif %}
     </figure>
 		  <div class="book_meta">
