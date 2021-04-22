@@ -23,8 +23,8 @@ layout: single_left
 			  Género: {{ page.category }}<br>
 			  Temática: {% assign first = true %}{% for tag in page.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}<br>
 			  Formato: {{ page.format }}<br>
-			  Leido: {{ page.date | date: "%B %-d, %Y" }}<br>
-			  <a href="{{ page.book-link }}"  target="_blank" class="btn btn--primary">Más info</a>
+			  Leido: {{ page.date | date: "%m %Y" }}<br>
+			  <p><a href="{{ page.book-link }}"  target="_blank" class="btn btn--primary">Más info</a></p>
 		  </div>
 	  </div>
 	  <div class="book_feedback">
