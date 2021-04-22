@@ -26,7 +26,7 @@ layout: single_left
 			  Género: {{ page.category }}<br>
 			  Temática: {% assign first = true %}{% for tag in page.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}<br>
 			  Formato: {{ page.format }}<br>
-			  Leido: {{ page.date | date: "%-m %Y" }}<br>
+			  Leido: {{ page.date | date: "%B %Y" }}<br>
 			  <br>
 			  <p><a href="{{ page.book-link }}"  target="_blank" class="btn btn--primary">Más info</a></p>
 		  </div>
