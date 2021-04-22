@@ -26,7 +26,7 @@ permalink: /reading-list/
   </section>
 {% endfor %}
 
-{% assign reviews = site.book_reviews  %}
+{% assign reviews = site.book_reviews | sort: "date" | reverse %}
         {% for book in reviews %}
           {{ book }}
         {% endfor %}
