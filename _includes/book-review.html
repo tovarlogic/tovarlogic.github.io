@@ -3,13 +3,10 @@
   		<figure class="book_cover">
             {% if review.cover %}
                 <img alt="{{ review.title }} cover" src="{{ site.baseurl }}/assets/book_covers/{{ review.cover }}">
-                <figcaption>Portada de <em>{{ review.title }}</em></figcaption>
             {% elsif review.olid %}
                 <img alt="{{ review.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ review.olid }}-L.jpg?default=false">
-                <figcaption>Portada de <em>{{ review.title }}</em> en <a href="https://openlibrary.org/olid/{{ review.olid }}">Open Library</a>.</figcaption>
             {% elsif review.isbn %}
                 <img alt="{{ review.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ review.isbn }}-L.jpg?default=false">
-                <figcaption>Portada de <em>{{ review.title }}</em> en <a href="https://openlibrary.org/isbn/{{ review.isbn }}">Open Library</a>.</figcaption>
             {% endif %}
       </figure>
   		<div class="book_meta">
@@ -19,7 +16,6 @@
         {% if review.category %} {{ review.category }}{% endif %}
   			{% if review.tags %} sobre {% assign first = true %}{% for tag in review.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}{% endif %}
         </p>
-  			{% if review.date %} <p>Terminado en {{ review.date | date: "%B %Y" }}</p>{% endif %}
   			{% if review.excerpt %} <p>{{ review.excerpt }}</p>{% endif %}
         <p><a href="{{ review.url | prepend: site.baseurl }}" class="btn btn--primary">Leer notas</a></p>
   		 </div>
