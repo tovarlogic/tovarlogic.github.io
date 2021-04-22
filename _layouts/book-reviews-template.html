@@ -9,22 +9,22 @@ layout: single_left
                 <img alt="{{ page.title }} cover" src="{{ site.baseurl }}/assets/book_covers/{{ page.cover }}">
                 <figcaption>Portada de <em>{{ page.title }}</em></figcaption>
             {% elsif page.olid %}
-                <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ page.olid }}-M.jpg?default=false">
+                <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ page.olid }}-L.jpg?default=false">
                 <figcaption>Portada de <em>{{ page.title }}</em> en <a href="https://openlibrary.org/olid/{{ page.olid }}">Open Library</a>.</figcaption>
             {% elsif page.isbn %}
-                <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ page.isbn }}-M.jpg?default=false">
+                <img alt="{{ page.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ page.isbn }}-L.jpg?default=false">
                 <figcaption>Portada de <em>{{ page.title }}</em> en <a href="https://openlibrary.org/isbn/{{ page.isbn }}">Open Library</a>.</figcaption>
             {% endif %}
     	</figure>
 		  <div class="book_meta">
 			  <h3><em>{{ page.title }}</em></h3><br>
 			  Autor/es: {{ page.author }}<br>
-			  Valoración:  <span class="stars-container stars-{{ page.stars | times:20 | round: 0 }}" title="{{ page.stars }}/5">★★★★★</span>
-			  <p>Género: {{ page.category }}</p>
-			  <p>Temática: {% assign first = true %}{% for tag in page.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}</p>
-			  <p>Formato: {{ page.format }}</p>
-			  <p>Leido: {{ page.date | date: "%B %-d, %Y" }}</p>
-			  <p><a href="{{ page.book-link }}" target="_blank">Más info</a></p>
+			  Valoración:  <span class="stars-container stars-{{ page.stars | times:20 | round: 0 }}" title="{{ page.stars }}/5">★★★★★</span><br>
+			  Género: {{ page.category }}<br>
+			  Temática: {% assign first = true %}{% for tag in page.tags %}{% unless first %},{% endunless %} {{ tag }}{% assign first = false %}{% endfor %}<br>
+			  Formato: {{ page.format }}<br>
+			  Leido: {{ page.date | date: "%B %-d, %Y" }}<br>
+			  <a href="{{ page.book-link }}"  target="_blank" class="btn btn--primary">Más info</a>
 		  </div>
 	  </div>
 	  <div class="book_feedback">
