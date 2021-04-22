@@ -282,6 +282,12 @@ collections:
   atc:
     output: true
     permalink: /:collection/:path/
+  books:
+    output: true
+    permalink: /:collection/:path/
+  quotes:
+    output: true
+    permalink: /:collection/:path/
     
 # Defaults
 defaults:

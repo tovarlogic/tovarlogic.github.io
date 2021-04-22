@@ -24,12 +24,10 @@ main:
     url: /conocimiento/
   - title: "Opinión"
     url: /opinion/
-  - title: "Series"
-    url: /series/
+  - title: "Libros"
+    url: /books/
   - title: "Recetas"
     url: /recetas/
-  - title: "Guide"
-    url: /docs/quick-start-guide/
 
 
 # documentation links
