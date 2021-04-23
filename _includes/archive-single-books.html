@@ -1,21 +1,12 @@
 
 
 {% if book.review %}
-  {% for review in bookReviewsByYear %} 
-    {% if book.isbn == review.isbn %}
-      book.title {{ book.title }} 
-      book.isbn {{ book.isbn }} 
-      review.isbn{{ review.isbn }} 
-    {% endif %}
-    fuera del if:
-    book.isbn {{ book.isbn }} 
-    review {{ review }}
-    review.items.isbn {{ review.items.isbn }}
-  {% endfor %}
+  {% assign review = site.book_reviews | where:"isbn", book.isbn %}
+  {{ review }}
+{% else%}
+
 {% endif %}
 
-fuera de todo
-book {{ book }} 
 
 
 
