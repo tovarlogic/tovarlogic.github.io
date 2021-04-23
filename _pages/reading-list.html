@@ -26,7 +26,6 @@ permalink: /libros/
         {% for book in year %}
         {% assign book_info = book.items %}
         <li>
-          {{ book }}
           {% if book_info.review %}
             {% assign review = site.book_reviews | where: "isbn", book_info.isbn %}
             {% include book-review.html %}
