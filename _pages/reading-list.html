@@ -5,6 +5,8 @@ classes: wide
 author_profile: false
 permalink: /libros/  
 ---
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+
 <ul class="taxonomy__index">
   {% assign readInYear = site.data.books.list | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
   {% for year in readInYear %}
