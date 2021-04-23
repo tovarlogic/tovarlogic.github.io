@@ -22,9 +22,7 @@ permalink: /libros/
       {% for book in year.items %}
         {% if book.review %}
             {% assign review = site.book_reviews | where: "isbn", book.isbn %}
-            {{ book.isbn }}
-            {{ review }}
-            {% include book-review.html type=include.type %}
+            {% include book-review.html %}
           {% else %}
             {{ book.title }}
             <span class="author">by {{ book.author }}</span> {% if book.top %}<span class="star">★</span>{% endif %}
