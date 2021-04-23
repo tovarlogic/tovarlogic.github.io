@@ -284,7 +284,7 @@ collections:
     permalink: /:collection/:path/
   book_reviews:
     output: true
-    permalink: /:collection/:path/
+    permalink: /libros/reviews/:path/
   quotes:
     output: true
     permalink: /:collection/:path/
@@ -331,7 +331,7 @@ defaults:
       author_profile: false
       share: true
       comments: false
-  # _recetas
+  # _book_reviews
   - scope:
       path: ""
       type: book_reviews

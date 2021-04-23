@@ -23,7 +23,7 @@ permalink: /libros/
         {% capture isbn %}{{ site.post_reviews.isbn }}{% endcapture %}
         {{ isbn }}
         {% if book.review %}
-          <a href="/libros/review/{{ book.review }}"> {{ book.title }} </a>
+          <a href="/libros/reviews/{{ book.review }}"> {{ book.title }} </a>
         {% else %}
             {{ book.title }}
         {% endif %}
