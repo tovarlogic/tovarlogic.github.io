@@ -1,19 +1,18 @@
 <div class="{{ include.type | default: 'list' }}__item">
     <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-      {% if include.type == "grid" and teaser %}
+      {% if include.type == "grid" %}
         <div class="archive__item-teaser">
-          <img src="{{ teaser | relative_url }}" alt="">
+          {% if book.review %}
+            <a href="/libros/reviews/{{ book.review }}">
+              <img alt="{{ book.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg">
+            </a>
+          {% else %}
+              <img alt="{{ book.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg">
+          {% endif %}
         </div>
       {% endif %}
-      {% if book.review %}
-          <a href="/libros/reviews/{{ book.review }}">
-            <img alt="{{ book.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg">
-          </a>
-        {% else %}
-            <img alt="{{ book.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg">
-        {% endif %}
-            <span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span>
-            {% if book.review %}<a href="/libros/reviews/{{ book.review }}"> Mis notas </a>{% endif %}
+            <p><span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span>
+            {% if book.review %}<a href="/libros/reviews/{{ book.review }}"> Mis notas </a>{% endif %}</p>
     </article>
   </div>
 

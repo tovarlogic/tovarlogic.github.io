@@ -1,12 +1,11 @@
 lastupdate: 3 de Septiembre de 2019
 list:
-  - title: "Nudge: Improving Decisions About Health, Wealth and Happiness"
-    author: Richard H. Thaler y Cass R. Sunstein
-    isbn: 9780300122237
+
+  - title: "La Ilíada"
+    author: Homero y Luis Segalá 
+    isbn: 9788423973378
+    date: Leyendo
     stars: 3
-    top: true
-    review: "arquitectura-decisiones"
-    date: 2020-12-28
 
   - title: "The Hitchhiker's Guide to the Galaxy"
     author: Douglas Adams
@@ -14,11 +13,13 @@ list:
     date: 2021-02-20
     stars: 4
 
-  - title: "La Ilíada"
-    author: Homero y Luis Segalá 
-    isbn: 9788423973378
-    date: Leyendo
+  - title: "Nudge: Improving Decisions About Health, Wealth and Happiness"
+    author: Richard H. Thaler y Cass R. Sunstein
+    isbn: 9780300122237
     stars: 3
+    top: true
+    review: "arquitectura-decisiones"
+    date: 2020-12-28
 
   - title: "Lifespan: Why We Age – and Why We Don’t Have To"
     author: David Sinclair
@@ -32,12 +33,6 @@ list:
     date: 2020-08-01
     stars: 3
 
-  - title: "El arte de la Guerra"
-    author: Sun Tzu
-    isbn: 9781592650002
-    date: 2004-06-01
-    stars: 4
-
   - title: "El libro del Tao"
     author: Lao Tse
     isbn: 8447323366
@@ -48,6 +43,18 @@ list:
     author: Jonas Salzgeber
     isbn: 9783952506905
     date: 2020-02-01
+    stars: 4
+
+  - title: "The Future Is Asian: Global Order in the Twenty-first Century"
+    author: Parag Khanna
+    isbn: 9781474610681
+    date: 2019-11-01
+    stars: 3
+
+  - title: "Connectography: Mapping the Global Network Revolutions"
+    author: Parag Khanna
+    isbn: 9780399589379
+    date: 2019-09-01
     stars: 3
 
   - title: "Prisoners of Geography: Ten Maps That Tell You Everything You Need To Know About Global Politics"
@@ -56,21 +63,14 @@ list:
     date: 2019-06-01
     stars: 4
 
-  - title: "Connectography: Mapping the Global Network Revolutions"
-    author: Parag Khanna
-    isbn: 9780399589379
-    date: 2019-09-01
-    stars: 3
-
-  - title: "The Future Is Asian: Global Order in the Twenty-first Century"
-    author: Parag Khanna
-    isbn: 9781474610681
-    date: 2019-11-01
-    stars: 3
-
   - title: "Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming"
     author: Naomi Oreskes
     isbn: 9781596916104
     date: 2019-04-01
     stars: 4
 
+  - title: "El arte de la Guerra"
+    author: Sun Tzu
+    isbn: 9781592650002
+    date: 2004-06-01
+    stars: 4
