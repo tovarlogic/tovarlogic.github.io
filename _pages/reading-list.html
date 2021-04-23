@@ -23,16 +23,16 @@ permalink: /libros/
     </div>
     <div class="books">
       <ul class="reading-list {{ entry.year }}">
-        {% for book in year.item %}
+        {% for book in year %}
         <li>
           {{ book }}
-          {% if book.review %}
-            {% assign review = site.book_reviews | where: "isbn", book.isbn %}
+          {% if book.item.review %}
+            {% assign review = site.book_reviews | where: "isbn", book.item.isbn %}
             {% include book-review.html %}
           {% else %}
-            {{ book.title }}
-            <span class="author">by {{ book.author }}</span> {% if book.top %}<span class="star">★</span>{% endif %}
-            <span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span>
+            {{ book.item.title }}
+            <span class="author">by {{ book.item.author }}</span> {% if book.item.top %}<span class="star">★</span>{% endif %}
+            <span class="stars-container stars-{{ book.item.stars | times:20 | round: 0 }}" title="{{ book.item.stars }}/5">★★★★★</span>
           {% endif %}
         </li>
         {% endfor %}
