@@ -15,29 +15,22 @@ permalink: /libros/
   {% endfor %}
 </ul>
 
-<div class="container">
-  <div class="last-update">Last updated {{ site.data.books.lastupdate }}</div>
-  {% for year in readInYear %}
-  <div class="year-container">
-    <div class="year">
-      <h4>{{ year.name }}</h4>
-      <div class="number">{{ year.size }} books</div>
-    </div>
-    <div class="books">
-      <ul class="reading-list {{ entry.year }}">
-        {% for book in year %}
-        <li>
-          {% if book.review %}
-              <a href="/libros/reviews/{{ book.review }}/">{{ book.title }}</a>
-          {% else %}
+<div class="last-update">Listado actualizado el {{ site.data.books.lastupdate }}</div>
+
+{% for year in readInYear %}
+<section id="{{ year.name }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ year.name }}</h2>
+    <div class="entries-{{ entries_layout }}">
+      {% for book in year.items %}
+        {% if book.review %}
+          <a href="/libros/reviews/{{ book.review }}"> {{ book.title }} </a>
+        {% else %}
             {{ book.title }}
-          {% endif %}
-          <span class="author">by {{ book.author }}</span> {% if book.top %}<span class="star">★</span><br>
-          <span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span>
-        </li>
-        {% endfor %}
-      </ul>
+        {% endif %}
+            <span class="author">by {{ book.author }}</span> {% if book.top %}<span class="star">★</span>{% endif %}<br>
+            <span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span>
+      {% endfor %}
     </div>
-  </div>
-  {% endfor %}
-</div>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+</section>
+{% endfor %}
