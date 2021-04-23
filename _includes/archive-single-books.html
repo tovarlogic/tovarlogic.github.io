@@ -9,8 +9,8 @@
     {% endif %}
     fuera del if:
     book.isbn {{ book.isbn }} 
-    {% capture review_data %}{{ review.items }}{% endcapture %}
-    review_data {{ review_data }}
+    review {{ review }}
+    review.items.isbn {{ review.items.isbn }}
   {% endfor %}
 {% endif %}
 

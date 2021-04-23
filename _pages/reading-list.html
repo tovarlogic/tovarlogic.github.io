@@ -19,7 +19,7 @@ permalink: /libros/
 <div class="last-update">Listado actualizado el {{ site.data.books.lastupdate }}</div>
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-{% assign bookReviewsByYear = site.book_reviews | group_by_exp: 'review', 'review.date | date: "%Y"' %}
+{% assign bookReviewsByYear = site.book_reviews %}
 
 {% for year in readInYear %}
   <section id="{{ year.name }}" class="taxonomy__section">
