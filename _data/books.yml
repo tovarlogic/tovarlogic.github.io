@@ -2,10 +2,11 @@ lastupdate: September 3, 2019
 list:
   - title: "Nudge: Improving Decisions About Health, Wealth and Happiness"
     author: Richard H. Thaler y Cass R. Sunstein
-    link: arquitectura-decisiones
+    isbn: 9780300122237
+    stars: 3
+    top: true
+    review: arquitectura-decisiones
     date: 2020-12-28
-    review: true
-    star: false
   - title: "The Last Pirate of New York"
     author: Rich Cohen
     date: 2019-12-28
