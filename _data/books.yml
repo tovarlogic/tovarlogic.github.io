@@ -72,5 +72,17 @@ list:
   - title: "El arte de la Guerra"
     author: Sun Tzu
     isbn: 9781592650002
+    date: 2008-06-01
+    stars: 4
+
+  - title: "¿Quién se ha llevado mi queso?"
+    author: Spencer Johnson
+    isbn: 9788495787095
+    date: 2007-06-01
+    stars: 3
+
+  - title: "Breve historia del tiempo: Del big bang a los agujeros negros"
+    author: Stephen W. Hawking 
+    isbn: 9684063563
     date: 2004-06-01
     stars: 4
