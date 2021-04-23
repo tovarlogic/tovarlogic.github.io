@@ -20,6 +20,57 @@ list:
     date: Leyendo
     stars: 3
 
+  - title: "Lifespan: Why We Age – and Why We Don’t Have To"
+    author: David Sinclair
+    isbn: 9780008380328
+    date: 2020-10-01
+    stars: 3
 
+  - title: "En el enjambre"
+    author: Byung-Chul Han
+    isbn: 9788425433689
+    date: 2020-08-01
+    stars: 3
 
-  
+  - title: "El arte de la Guerra"
+    author: Sun Tzu
+    isbn: 9781592650002
+    date: 2004-06-01
+    stars: 4
+
+  - title: "El libro del Tao"
+    author: Lao Tse
+    isbn: 8447323366
+    date: 2020-03-01
+    stars: 3
+
+  - title: "The Little Book of Stoicism: Timeless Wisdom to Gain Resilience, Confidence, and Calmness"
+    author: Jonas Salzgeber
+    isbn: 9783952506905
+    date: 2020-02-01
+    stars: 3
+
+  - title: "Prisoners of Geography: Ten Maps That Tell You Everything You Need To Know About Global Politics"
+    author: Tim Marshall
+    isbn: 9781783964130
+    date: 2019-06-01
+    stars: 4
+
+  - title: "Connectography: Mapping the Global Network Revolutions"
+    author: Parag Khanna
+    isbn: 9780399589379
+    date: 2019-09-01
+    stars: 3
+
+  - title: "The Future Is Asian: Global Order in the Twenty-first Century"
+    author: Parag Khanna
+    isbn: 9781474610681
+    date: 2019-11-01
+    stars: 3
+
+  - title: "Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming"
+    author: Naomi Oreskes
+    isbn: 9781596916104
+    date: 2019-04-01
+    stars: 4
+
