@@ -6,14 +6,14 @@
         </div>
       {% endif %}
       {% if book.review %}
-          <a href="/reviews/{{ book.review | relative_url }}">
+          <a href="/libros/reviews/{{ book.review }}">
             <img alt="{{ book.isbn }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg">
           </a>
         {% else %}
             <img alt="{{ book.isbn }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg">
         {% endif %}
             <p><span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span>
-            {% if book.top %}<span class="star">★</span>{% endif %}</p>
+            {% if book.top %}<span class="star">♥</span>{% endif %}</p>
     </article>
   </div>
 
