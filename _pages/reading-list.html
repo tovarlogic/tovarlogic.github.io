@@ -22,8 +22,8 @@ permalink: /libros/
     <h2 class="archive__subtitle">{{ year.name }}</h2>
     <div class="entries-{{ entries_layout }}">
       {% for book in year.items %}
-        <div class="archive__item-teaser">
-          <img alt="{{ book.isbn }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg">
+        <div>
+          <img alt="{{ book.isbn }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-S.jpg">
         </div>
         {% if book.review %}
           <a href="/reviews/{{ book.review | relative_url }}"> {{ book.title }} </a>
