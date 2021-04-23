@@ -1,5 +1,8 @@
 ---
 layout: single_left
+classes: wide
+entries_layout: grid
+author_profile: false
 permalink: /libros/  
 ---
 <ul class="taxonomy__index">
@@ -15,22 +18,16 @@ permalink: /libros/
 
 <div class="last-update">Listado actualizado el {{ site.data.books.lastupdate }}</div>
 
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+
 {% for year in readInYear %}
-<section id="{{ year.name }}" class="taxonomy__section">
+  <section id="{{ year.name }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ year.name }}</h2>
     <div class="entries-{{ entries_layout }}">
       {% for book in year.items %}
-        {% capture isbn %}{{ site.post_reviews.isbn }}{% endcapture %}
-        {{ isbn }}
-        {% if book.review %}
-          <a href="/libros/reviews/{{ book.review }}"> {{ book.title }} </a>
-        {% else %}
-            {{ book.title }}
-        {% endif %}
-            <span class="author">by {{ book.author }}</span> {% if book.top %}<span class="star">★</span>{% endif %}<br>
-            <span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span>
+        {% include archive-single-books.html type=entries_layout %}
       {% endfor %}
     </div>
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-</section>
+  </section>
 {% endfor %}

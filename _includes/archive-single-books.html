@@ -1,0 +1,61 @@
+{% assign bookReviewsByYear = site.book_reviews | group_by_exp: 'review', 'review.date | date: "%Y"' %}
+
+{% if book.review %}
+  {% for review in bookReviewsByYear %} 
+    {% if book.isbn == review.isbn %}
+
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+
+ 
+  {% if post.header.teaser %}
+    {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+  {% else %}
+    {% assign teaser = site.teaser %}
+  {% endif %}
+
+  {% if post.id %}
+    {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+  {% else %}
+    {% assign title = post.title %}
+  {% endif %}
+
+  <div class="{{ include.type | default: 'list' }}__item">
+    <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+      {% if include.type == "grid" and teaser %}
+        <div class="archive__item-teaser">
+          <img src="{{ teaser | relative_url }}" alt="">
+        </div>
+      {% endif %}
+      <h2 class="archive__item-title no_toc" itemprop="headline">
+        {% if post.link %}
+          <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+        {% else %}
+          <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
+        {% endif %}
+      </h2>
+      {% include page__meta.html type=include.type %}
+      {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    </article>
+  </div>
+
+  {% for year in readInYear %}
+    <section id="{{ year.name }}" class="taxonomy__section">
+        <h2 class="archive__subtitle">{{ year.name }}</h2>
+        <div class="entries-{{ entries_layout }}">
+          {% for book in year.items %}
+            {% if book.review %}
+              <a href="/libros/reviews/{{ book.review }}"> {{ book.title }} </a>
+            {% else %}
+                {{ book.title }}
+            {% endif %}
+                <span class="author">by {{ book.author }}</span> {% if book.top %}<span class="star">★</span>{% endif %}<br>
+                <span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span>
+          {% endfor %}
+        </div>
+        <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+    </section>
+  {% endfor %}
+
