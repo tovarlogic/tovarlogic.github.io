@@ -8,10 +8,17 @@ list:
     review: "arquitectura-decisiones"
     date: 2020-12-28
 
-  - title: "The Last Pirate of New York"
-    author: Rich Cohen
-    date: 2019-12-28
-    stars: 1
+  - title: "The Hitchhiker's Guide to the Galaxy"
+    author: Douglas Adams
+    isbn: 9780671527211
+    date: 2021-02-20
+    stars: 3
+
+  - title: "La Ilíada"
+    author: Homero y Luis Segalá 
+    isbn: 9788423973378
+    date: leyendo
+    stars: 3
 
 
 
