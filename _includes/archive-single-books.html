@@ -2,7 +2,7 @@
 
 {% if book.review %}
   {% assign review = site.book_reviews | where:"isbn", book.isbn %}
-  {{ review }}
+  {{ review.isbn }}
 {% else%}
 
 {% endif %}
