@@ -22,15 +22,14 @@ permalink: /libros/
     <h2 class="archive__subtitle">{{ year.name }}</h2>
     <div class="entries-{{ entries_layout }}">
       {% for book in year.items %}
-        <div>
-          <img alt="{{ book.isbn }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-S.jpg">
-        </div>
         {% if book.review %}
-          <a href="/reviews/{{ book.review | relative_url }}"> {{ book.title }} </a>
+          <a href="/reviews/{{ book.review | relative_url }}">
+            <img alt="{{ book.isbn }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-S.jpg">
+          </a>
         {% else %}
-            {{ book.title }}
+            <img alt="{{ book.isbn }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-S.jpg">
         {% endif %}
-            <span class="author">by {{ book.author }}</span> {% if book.top %}<span class="star">★top★</span>{% endif %}<br>
+            {% if book.top %}<span class="star">★top</span>{% endif %}<br>
             <span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span>
       {% endfor %}
     </div>
