@@ -25,8 +25,9 @@ permalink: /reading-list/
       <ul class="reading-list {{ entry.year }}">
         {% for book in year.item %}
         <li>
+          {{ book }}
           {% if book.review %}
-            {% assign review = site.book_reviews | where: 'isbn', book.isbn %}
+            {% assign review = site.book_reviews | where: "isbn", book.isbn %}
             {% include book-review.html %}
           {% else %}
             {{ book.title }}
