@@ -5,7 +5,7 @@ list:
     isbn: 9780300122237
     stars: 3
     top: true
-    review: arquitectura-decisiones
+    review: true
     date: 2020-12-28
   - title: "The Last Pirate of New York"
     author: Rich Cohen
