@@ -1,7 +1,6 @@
 <div class="{{ include.type | default: 'list' }}__item">
     <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-      {% if include.type == "grid" %}
-        <div class="archive__item-teaser">
+      <div class="archive__item-teaser">
           {% if book.review %}
             <a href="/libros/reviews/{{ book.review }}">
               <img alt="{{ book.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg">
@@ -10,9 +9,8 @@
               <img alt="{{ book.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg">
           {% endif %}
         </div>
-      {% endif %}
-            <p><span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span>
-            {% if book.review %}<a href="/libros/reviews/{{ book.review }}"> Mis notas </a>{% endif %}</p>
+            <p><span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span></p>
+            <p>{% if book.review %}<a href="/libros/reviews/{{ book.review }}"> Mis notas </a>{% endif %}</p>
     </article>
   </div>
 
