@@ -1,5 +1,5 @@
 ---
 layout: book-reviews
 title: Book Reviews
-permalink: /book_reviews/
+permalink: /libros/reviews/
 ---
