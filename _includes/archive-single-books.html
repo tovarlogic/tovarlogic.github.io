@@ -5,8 +5,11 @@
     {% if book.isbn == review.isbn %}
       {{ book.title }} {{ book.isbn }} {{ review.isbn }} 
     {% endif %}
+    {{ book.isbn }} {{ review.isbn }}
   {% endfor %}
 {% endif %}
+
+{{ book }} {{ review }}
 
 
 
