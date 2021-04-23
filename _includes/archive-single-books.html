@@ -3,14 +3,19 @@
 {% if book.review %}
   {% for review in bookReviewsByYear %} 
     {% if book.isbn == review.isbn %}
-      {{ book.title }} {{ book.isbn }} {{ review.isbn }} 
+      book.title {{ book.title }} 
+      book.isbn {{ book.isbn }} 
+      review.isbn{{ review.isbn }} 
     {% endif %}
-    {{ book.isbn }} {{ review.isbn }}
-    {{ review }}
+    fuera del if:
+    book.isbn {{ book.isbn }} 
+    review.isbn {{ review.isbn }}
+    review {{ review }}
   {% endfor %}
 {% endif %}
 
-{{ book }} 
+fuera de todo
+book {{ book }} 
 
 
 
