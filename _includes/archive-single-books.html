@@ -12,8 +12,8 @@
         {% else %}
             <img alt="{{ book.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg">
         {% endif %}
-            <p><span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span>
-            {% if book.top %}<span class="star">♥</span>{% endif %}</p>
+            <span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span>
+            {% if book.review %}<a href="/libros/reviews/{{ book.review }}"> Mis notas </a>{% endif %}
     </article>
   </div>
 
