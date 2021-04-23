@@ -1,6 +1,6 @@
 <div class="{{ include.type | default: 'list' }}__item">
     <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-      <div class="archive__item-teaser">
+      <div>
           {% if book.review %}
             <a href="/libros/reviews/{{ book.review }}">
               <img alt="{{ book.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg">
