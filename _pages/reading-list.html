@@ -36,7 +36,6 @@ permalink: /libros/
 
 <div class="last-update">Listado actualizado el {{ site.data.books.lastupdate }}</div>
 
-{% for leyendo in reading %}
 <section id="leyendo" class="taxonomy__section">
     <h2 class="archive__subtitle">Leyendo actualmente</h2>
     <div class="entries-{{ entries_layout }}">
@@ -46,7 +45,6 @@ permalink: /libros/
     </div>
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 </section><br>
-{% endfor %}
 
 {% for year in readInYear %}
 <section id="{{ year.name }}" class="taxonomy__section">
@@ -60,7 +58,6 @@ permalink: /libros/
 </section><br>
 {% endfor %}
 
-{% for pendientes in pending %}}
 <section id="pendientes" class="taxonomy__section">
     <h2 class="archive__subtitle">Leyendo actualmente</h2>
     <div class="entries-{{ entries_layout }}">
@@ -70,4 +67,4 @@ permalink: /libros/
     </div>
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 </section><br>
-{% endfor %}
+

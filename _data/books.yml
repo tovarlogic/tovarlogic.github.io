@@ -46,7 +46,6 @@ list:
 
   - title: "The Future Is Asian: Global Order in the Twenty-first Century"
     author: Parag Khanna
-    isbn: 9781474610681
     date: 2019-11-01
     stars: 3
 
@@ -104,5 +103,9 @@ pendientes:
   - title: "Sobre la Felicidad"
     author: Séneca 
     isbn: 9788441402225
+
+  - title: "Manual para ser Feliz: Enquiridión"
+    author: Epicteto 
+    isbn: 0486433595
 
 
