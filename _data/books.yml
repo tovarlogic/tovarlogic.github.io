@@ -1,17 +1,9 @@
 lastupdate: 3 de Septiembre de 2019
-list:
 
+leyendo: 
   - title: "La Ilíada"
     author: Homero y Luis Segalá 
     isbn: 9788423973378
-    date: Leyendo
-    stars: 3
-
-  - title: "The Hitchhiker's Guide to the Galaxy"
-    author: Douglas Adams
-    isbn: 9780671527211
-    date: 2021-02-20
-    stars: 4
 
   - title: "Nudge: Improving Decisions About Health, Wealth and Happiness"
     author: Richard H. Thaler y Cass R. Sunstein
@@ -20,6 +12,13 @@ list:
     top: true
     review: "arquitectura-decisiones"
     date: 2020-12-28
+
+list:
+  - title: "The Hitchhiker's Guide to the Galaxy"
+    author: Douglas Adams
+    isbn: 9780671527211
+    date: 2021-02-20
+    stars: 4
 
   - title: "Lifespan: Why We Age – and Why We Don’t Have To"
     author: David Sinclair
@@ -86,3 +85,24 @@ list:
     isbn: 9684063563
     date: 2004-06-01
     stars: 4
+
+pendientes:
+  - title: "La Odisea"
+    author: Homero y Luis Segalá 
+    isbn: 9788418187247
+
+  - title: "El cuerpo humano: Guía para ocupantes"
+    author: Bill Bryson 
+    isbn: 9788491874805
+
+  - title: "Visigodos"
+    author: José Javier Esparza 
+
+  - title: "Discurso de la servidumbre voluntaria"
+    author: ètienne de la boètie  
+
+  - title: "Sobre la Felicidad"
+    author: Séneca 
+    isbn: 9788441402225
+
+

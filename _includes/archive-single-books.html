@@ -3,10 +3,18 @@
       <div>
           {% if book.review %}
             <a href="/libros/reviews/{{ book.review }}">
-              <img alt="{{ book.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg">
+              {% if book.isbn %}
+                <img alt="{{ book.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg">
+              {% else %}
+                {{ book.title }} por {{ book.author }}
+              {% endif %}
             </a>
           {% else %}
-              <img alt="{{ book.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg">
+            {% if book.isbn %}
+                <img alt="{{ book.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg">
+              {% else %}
+                {{ book.title }} por {{ book.author }}
+              {% endif %}
           {% endif %}
         </div>
             <span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span><br>
