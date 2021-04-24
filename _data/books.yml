@@ -67,6 +67,12 @@ list:
     date: 2019-04-01
     stars: 4
 
+  - title: "The Autobiography of Benjamin Franklin"
+    author: Benjamin Franklin
+    isbn: 1566193931
+    date: 2012-10-01
+    stars: 4
+
   - title: "Tropic of Capricorn"
     author: Henry Miller
     isbn: 9780007204458
