@@ -67,6 +67,74 @@ list:
     date: 2019-04-01
     stars: 4
 
+  - title: "Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies is Changing the World"
+    author: Don Tapscott
+    isbn: 9780241237854
+    date: 2018-10-01
+    stars: 4
+
+  - title: "Homo Deus: A Brief History of Tomorrow"
+    author: Yuval Noah Harari
+    isbn: 9780062464347
+    date: 2018-10-01
+    stars: 3
+
+  - title: "Sapiens: A Brief History of Humankind"
+    author: Yuval Noah Harari
+    isbn: 9781846558245
+    date: 2018-08-01
+    stars: 4
+
+  - title: "Utopia for Realists: And How We Can Get There"
+    author: Rutger Bregman
+    date: 2018-06-01
+    stars: 4
+
+  - title: "The Enzyme Factor"
+    author: Hiromi Shinya
+    isbn: 9781571782090
+    date: 2014-12-01
+    stars: 4
+
+  - title: "The Grand Design"
+    author: Stephen Hawking
+    isbn: 9780553384666
+    date: 2014-10-01
+    stars: 3
+
+  - title: "Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System--and Themselves"
+    author: Andrew Ross Sorkin
+    isbn: 9780670021253
+    date: 2014-08-01
+    stars: 3
+
+  - title: "¡Que vienen los lobbies!: El opaco negocio de la influencia en España"
+    author: Juan Francés
+    date: 2014-06-01
+    stars: 4
+
+  - title: "The Blood Pressure Cure: 8 Weeks to Lower Blood Pressure without Prescription Drugs"
+    author: Robert E. Kowalski
+    isbn: 9780470124161
+    date: 2014-01-01
+    stars: 3
+
+  - title: "Nadie es mas que nadie"
+    author: Miguel Ángel Revilla
+    date: 2013-04-01
+    stars: 2
+
+  - title: "Winter of the World"
+    author: Ken Follett
+    isbn: 9780525952923
+    date: 2013-02-01
+    stars: 3
+
+  - title: "España sin democracia"
+    author: Jesún Neira
+    date: 2012-12-01
+    stars: 4
+
   - title: "The Autobiography of Benjamin Franklin"
     author: Benjamin Franklin
     isbn: 1566193931
@@ -120,11 +188,29 @@ list:
     date: 2010-03-01
     stars: 5
 
+  - title: "Los pilares de la tierra"
+    author: Ken Follet
+    isbn: 9788483465813
+    date: 2008-10-01
+    stars: 4
+
+  - title: "The Tibetan Book of Living and Dying: The Spiritual Classic & International Bestseller: Revised and Updated Edition"
+    author: Sogyal Rinpoche
+    isbn: 9780944993781
+    date: 2008-08-01
+    stars: 4
+
   - title: "El arte de la Guerra"
     author: Sun Tzu
     isbn: 9781592650002
     date: 2008-06-01
-    stars: 4
+    stars: 3
+
+  - title: "From the Earth to the Moon and Round the Moon"
+    author: Jules Verne
+    isbn: 9781592242429
+    date: 2007-08-01
+    stars: 5
 
   - title: "¿Quién se ha llevado mi queso?"
     author: Spencer Johnson
