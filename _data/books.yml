@@ -67,6 +67,17 @@ list:
     date: 2019-04-01
     stars: 4
 
+  - title: "Tropic of Capricorn"
+    author: Henry Miller
+    isbn: 9780007204458
+    date: 2012-08-01
+    stars: 2
+
+  - title: "La Banque: Comment Golden Sachs dirige le monde"
+    author: Marc Roche
+    date: 2012-06-01
+    stars: 4
+
   - title: "Good to Great: Why Some Companies Make the Leap...And Others Don't"
     author: Jim Collins
     isbn: 0066620996
