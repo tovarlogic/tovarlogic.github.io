@@ -6,6 +6,8 @@ tags: [Derecho, Constitución]
 category: [Conocimiento]
 toc: true
 toc_sticky: true
+header:
+  teaser: /assets/images/blog/teasers/Constitucion-espanola.jpg
 excerpt: Constitución Española de 1978 comentada.
 ---
 
