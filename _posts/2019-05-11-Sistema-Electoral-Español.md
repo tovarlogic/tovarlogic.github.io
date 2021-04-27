@@ -6,6 +6,8 @@ tags: [Derecho, Política, Sociología]
 category: [Conocimiento]
 toc: true
 toc_sticky: true
+header:
+  teaser: /assets/images/blog/teasers/dhont.jpg
 excerpt: Resumen sobre el actual sistema electoral en España y una propuesta para su reforma.
 ---
 
