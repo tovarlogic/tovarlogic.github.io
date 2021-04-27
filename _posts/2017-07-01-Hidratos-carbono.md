@@ -15,7 +15,7 @@ header:
       url: "/series/alimentacion/"
 ---
 
-# Introducción: Generalidades, conceptos básicos y palabras clave.
+# Introducción
 La gran mayoría de los nutrientes en los que se mantiene la vida de nuestro cuerpo son los (1) Macro-nutrientes (Proteínas, Hidratos de Carbono y Grasas). Sin embargo, los alimentos contienen también, en cantidades mucho menores, los (2) Micro-nutrientes (Vitaminas y Minerales). 
 
 A excepción que el resto de macronutrientes, y a niveles generales, los hidratos de carbono no son esenciales para el cuerpo siendo este capaz de sobrevivir y funcionar normalmente sin su ingesta, siempre y cuando se ingieran cantidades suficientes de proteínas y grasas.
