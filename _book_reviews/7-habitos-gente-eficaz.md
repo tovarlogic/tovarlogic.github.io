@@ -65,7 +65,8 @@ It is also important to take care of your social and emotional health by forming
 Spiritual health also contributes greatly to lasting effectiveness: this can mean praying or meditating, but it can also mean regularly confronting your own norms and values and reflecting actively upon them.
 Most importantly, you should consciously make time to recuperate and recharge. Most people claim they could never find time to do this. In the long-term, however, time spent in this way will produce numerous rewards with regard to productivity and well-being.
 This way of thinking applies to all those areas of life in which productivity has a role to play: businesses should also think not only of the product they want to produce, but also of the well-being of its producers (in this case, their staff).
-“Be proactive” and take control of your own fate.
+
+## “Be proactive” and take control of your own fate.
 Within each of us exists the basic human need to try to influence the world around us, or, in other words, to be proactive.
 This is what distinguishes us from animals: an animal simply acts according to the way it is programmed. An external stimulus triggers a particular reaction. Humans, by contrast, "program" themselves. We are able to reflect in the time between receiving a stimulus and reacting. The ability to "externally" observe ourselves and our actions allows us to actively decide how we react to outside influences.
 An extreme example of true proactivity was Viktor Frankl, who was able to maintain control over his own feelings during his time in concentration camps, including Auschwitz. He simply decided that he was not going to allow his tormentors to control his innermost feelings.
@@ -85,11 +86,13 @@ If you want to proactively influence your situation in life, and you have a clea
 A mission or vision can only become a reality if you really live by it from day to day.
 This requires a significant degree of time management. Most time-management techniques work only on increasing efficiency, and not on improving effectiveness. What is more, they very often put strain on relationships, and are actually counterproductive in the long-term.
 Most of the time it is sufficient simply to remember the little maxim: "first things first."
-"First things first" means rigorously prioritizing: the important things are taken care of, the less important things are put to one side and then delegated or dealt with later.
+
+## "First things first" means rigorously prioritizing: the important things are taken care of, the less important things are put to one side and then delegated or dealt with later.
 How can we tell which things are important? The things which are important are those which bring us closer to our final goals, and those which are consistent with our mission statement – our values and our norms.
 This therefore does not include those numerous pressing little tasks we are faced with in everyday life. Rather, the important things are those projects and tasks which might not be temporally pressing, but are part of our larger vision and have a considerable effect in the long-term.
 In order to be able to dedicate yourself to these crucial tasks, you have to learn when to say yes, and when to say no. Even if we have a burning desire to say yes, we should also be able to say no when the thing we’ve been asked to do contributes nothing to the achievement of our long-term goals.
-“Think win-win” to get your share of the cake and build lasting relationships at the same time.
+
+## “Think win-win” to get your share of the cake and build lasting relationships at the same time.
 Most people are intrinsically shaped by the "win-lose" paradigm. They see every situation as a competition, and others as competitors in the battle for the biggest slice of the cake.
 The majority of situations in life, however, don’t need to be a competition. There is usually enough cake for everyone, and it is far better when all parties work towards a "win-win" solution.
 Because the major disadvantage of the "win-lose" mentality is that when two people of this mentality come up against each other, the situation more often than not becomes a "lose-lose" one. Both parties lose, whilst meanwhile the dog gets the cake, which has been knocked onto the floor in the argument.
@@ -116,7 +119,8 @@ If you want to be good with people, and to be respected as a listener and as an 
 This in itself necessitates a change of paradigm: not "I’m listening so that I can provide an answer," but rather "I’m listening so that I can really understand the person next to me."
 Empathetic listening means active listening: repeating back to the person what they’ve said in your own words, mirroring their emotions and helping them to structure their own thought processes.
 It takes time and effort to master this skill at the beginning, but the rewards will be numerous later on. If you learn to listen in a truly empathetic way, you will notice that many people are quite prepared to open up and to consider your opinions and advice. They merely require a good, appreciative listener to be able to do so.
-“Synergize” by treating others with openness and respect.
+
+## “Synergize” by treating others with openness and respect.
 Examples of synergy can be seen all around us in nature. The contributions of many add up to a total which far exceeds the contribution of any individual.
 A person who is truly effective will make use of this principle in their personal and work life.
 Synergy with others means valuing differences and being open with one another. Each of us sees the world through an individual perspective. Each of us has particular strengths. And it is possible, through the use of shared resources, to compensate for individual weaknesses.
@@ -125,10 +129,12 @@ This requires a significant degree of self-confidence on the part of the individ
 When people really synergize, they listen to each other, they put themselves in each other’s shoes and they use the contributions of others as a springboard to create something great.
 For this atmosphere of cooperation and trust to exist, the individuals in a group have to be very mature, prepared to treat each other with respect and to invest in their working relationships.
 The results are almost impossible to predict, and synergetic work can often come close to chaos. But you mustn’t let yourself be discouraged by this. Instead, you must focus on the fact that, by the end, you will have reached a result which would have been unachievable by an individual.
-Final summary
+
+## Final summary
 The key message of this book:
 Being truly effective means being clear about what it is you want to achieve, and being proactive in putting your goals into action. This is best achieved by striving to synergize with others, to invest in lasting relationships and to maintain a balanced lifestyle.
-This book in blinks provides the answers to the following questions:
+{: .notice--info}
+
 How can you make lasting changes to yourself and stay productive on a long-term basis?
 
     In order to change, you have to address your character and not your behavior.
