@@ -1,7 +1,7 @@
 ---
 title:  "Digestión y metabolismo de los Hidratos de Carbono"
 date:   2017-07-01
-tags: [Cuerpo humano]
+tags: [Alimentación]
 category: [Conocimiento]
 serie: alimentacion
 sidebar: alimentacion
