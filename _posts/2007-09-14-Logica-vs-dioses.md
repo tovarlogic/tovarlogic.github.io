@@ -1,5 +1,5 @@
 ---
-title:  "Los pilares de la buena educación"
+title:  "Razones para ser ateo"
 date:   2007-09-14
 update: 2021-04-28
 tags: [Argumentarios, Religion]
