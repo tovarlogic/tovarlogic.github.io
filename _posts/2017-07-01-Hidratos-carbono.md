@@ -65,7 +65,7 @@ Finalmente, en el intestino grueso, los enterocitos, que contienen cuatro enzima
 - Maltosa se convierte en 2 monosacáridos de glucosa.
 
 <figure>
-  <img src="/assets/images/blog/hidratos/hidrolisis-carbohidratos.png">
+  <img src="/assets/images/blog/hidratos/hidrolisis-carbohidratos.png" style="width: 50%; height: 50%">
   <figcaption>
       Hidrólisis carbohidratos
  Crédito:  <a href=""></a>
@@ -85,7 +85,7 @@ Todos los macronutrientes, pueden ser oxidados para obtener energía de ellos. L
 
 
 <figure>
-  <img src="/assets/images/blog/hidratos/ADP-ATP.png">
+  <img src="/assets/images/blog/hidratos/ADP-ATP.png" style="width: 50%; height: 50%">
   <figcaption>
       ADP - ATP
  Crédito:  <a href=""></a>
@@ -97,7 +97,7 @@ De acuerdo a lo visto anteriormente, los tres monosacáricos principales son Gal
 - Almacenados en forma de Glucosa-6-fosfatasa.
 
 <figure>
-  <img src="/assets/images/blog/hidratos/glucosa-higado.png">
+  <img src="/assets/images/blog/hidratos/glucosa-higado.png" style="width: 50%; height: 50%">
   <figcaption>
       Hidrólisis carbohidratos
  Crédito:  <a href=""></a>
@@ -117,7 +117,7 @@ El glucógeno tiene dos fases:
 - Descomposición o glycogenólisis, para obtener energía de la glucosa.
 
 <figure>
-  <img src="/assets/images/blog/hidratos/glucosa-glucogeno.png">
+  <img src="/assets/images/blog/hidratos/glucosa-glucogeno.png" style="width: 50%; height: 50%">
   <figcaption>
       Hidrólisis carbohidratos
  Crédito:  <a href=""></a>
@@ -132,7 +132,7 @@ Glycolityc pathway o Glycólisis
 : Proceso que mediante enzimas que permiten la descomposición parcial de la glucosa, se consigue un uso más eficiente de esta obteniendo hasta 38 mol de ATP por cada una de glucosa 
 
 <figure>
-  <img src="/assets/images/blog/hidratos/glycolisis.png">
+  <img src="/assets/images/blog/hidratos/glycolisis.png" style="width: 50%; height: 50%">
   <figcaption>
       Glycólisis
  Crédito:  <a href=""></a>
@@ -176,7 +176,5 @@ Dicho de otro modo, cuando existe abundancia de carbohidratos se segrega insulin
 Cabe destacar que con cualquier comida los niveles de insulina en sangre aumentan, independientemente del tipo de alimento ingerido. No obstante, tanto proteínas limpias de grasa como hidratos de carbono crean picos más acusados, ya que su digestión aumentan en mayor medida los niveles de glucosa en sangre.
 
 # Bibliografía
-[^1]: Guyton Textbook of Medical Physiology. Ed 12.
-[^2]: [Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids (2005)](https://www.nap.edu/catalog/10490/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids)
-
-Edición 1: Julio 2017
+- Guyton Textbook of Medical Physiology. Ed 12.
+- [Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids (2005)](https://www.nap.edu/catalog/10490/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids)
