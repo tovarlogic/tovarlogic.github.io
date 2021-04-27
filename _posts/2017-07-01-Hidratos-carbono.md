@@ -7,7 +7,7 @@ serie: alimentacion
 sidebar: alimentacion
 toc: true
 toc_sticky: true
-excerpt: La cultura griega supone el fundamento de las sociedades occidentales actuales. En este artículo se cubre el periodo histórico entre 1500 B.C. - 400 B.C. con la intención de comprender las similitudes y diferencias con nuestra cultura actual y entender por qué la sociedad contemporánea se ha definido en su forma actual.
+excerpt: Dado que los alimentos no son directamente absorbibles resulta necesario digerirlos para su descomposición, a continuación se desarrollan los procesos para la digestión de los carbohidratos (HC), así como los procesos metabólicos que permiten obtener energía de este macronutriente. Finalmente se trata muy brevemente los efectos hormonales que tiene su ingesta y que básicamente, regulan los niveles de glucosa en sangre..
 header:
   overlay_color: "#333"
   actions:
