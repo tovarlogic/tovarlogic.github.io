@@ -7,6 +7,8 @@ tags: [Derecho, Derechos humanos]
 category: [Conocimiento]
 toc: true
 toc_sticky: true
+header:
+  teaser: /assets/images/blog/teasers/derechos-humanos.jpg
 excerpt: Declaración de Derechos Humanos de la ONU comentada.
 ---
 
