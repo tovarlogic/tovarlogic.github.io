@@ -74,7 +74,8 @@ Many people, by contrast, are not proactive in life, but rather reactive. They r
 People who are proactive, on the other hand, determine their own weather. They are propelled by their inner values and they assume responsibility for their own lives. Their personal decisions determine their behavior, and they do not allow it to be affected by external conditions.
 This manifests itself most clearly in their use of language: people who are reactive place the responsibility for their fate on external circumstances. They say things like "It wasn’t my fault," or "It’s out of my hands."
 Proactive people take control of their own fate: the decisions they took yesterday have made them what they are today. They say things like "I’ve decided to…" or "Let’s try and find a solution to this problem."
-“Begin with the end in mind” – if you want to achieve something, you need long-term goals and a mission statement
+
+## “Begin with the end in mind” – if you want to achieve something, you need long-term goals and a mission statement
 Many people work towards meaningless goals. They worry about being efficient rather than effective.
 Being efficient, i.e., getting the maximum amount done in the shortest amount of time, is pointless if you don’t know why you’re doing it. Not knowing what’s really important to you and what you’re working towards is like climbing a ladder which is set against the wrong wall.
 To avoid this, it is important to first be clear about your long-term goals. To this end, it can be useful to ask yourself the Funeral Questions: What do I want people to say about me at my funeral?; As what sort of person do I want to be remembered?; For what do I want to be remembered?
@@ -110,7 +111,8 @@ A withdrawal, on the other hand, would be finding a win-lose solution, breaking 
 Once you have reached the maximum balance in your account, you should aim to understand the needs and mission statement of the other person, and to invest also in these.
 That's why, in everyday life, it is vitally important to always keep promises, and to be courteous and sensitive even in small matters while, above all, remaining loyal.
 If it happens that you make a withdrawal from the account one time, you should apologize sincerely. People are more than happy to forgive a repentant sinner. Plucking up the courage to admit you were wrong is therefore always worthwhile.
-If you want to be able to influence others, “seek first to understand, then to be understood.”
+
+## “seek first to understand, then to be understood.” If you want to be able to influence others. 
 How much would we trust a doctor who very quickly gave a diagnosis without having really listened to us at all?
 How helpful would it be for an optician to merely hand us his own glasses, claiming that since he can see fine with them, they should work for us too?
 Though most of us might be critical of such behavior, we actually behave very similarly in everyday life, particularly in conversation with others. We don’t really listen, and instead formulate our response extremely quickly. We tend to project ourselves onto the other person and look for solutions we can "prescribe" for them.
