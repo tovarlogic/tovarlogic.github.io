@@ -1,4 +1,4 @@
-lastupdate: 3 de Septiembre de 2019
+lastupdate: 24 de Abril de 2021
 
 leyendo: 
   - title: "La Ilíada"
@@ -90,6 +90,19 @@ list:
     date: 2018-06-01
     stars: 4
 
+  - title: "7 Habits of highly effective people "
+    author: Stephen R. Covey
+    isbn: 0743250974
+    date: 2017-05-07
+    stars: 4
+    review: 7-habitos-gente-eficaz
+
+  - title: "New Ideas from Dead Economists: An Introduction to Modern Economic Thought"
+    author: Todd G. Buchholz
+    isbn: 0453006884
+    date: 2016-02-01
+    stars: 3
+
   - title: "The Enzyme Factor"
     author: Hiromi Shinya
     isbn: 9781571782090
@@ -156,12 +169,6 @@ list:
     author: Jim Collins
     isbn: 0066620996
     date: 2012-04-01
-    stars: 3
-
-  - title: "New Ideas from Dead Economists: An Introduction to Modern Economic Thought"
-    author: Todd G. Buchholz
-    isbn: 0453006884
-    date: 2012-02-01
     stars: 3
 
   - title: "The Shock Doctrine: The Rise of Disaster Capitalism"
