@@ -26,7 +26,7 @@ En cualquier caso, dado que estos alimentos no son directamente absorbibles resu
 La gran mayoría de los carbohidratos se encuentran en la forma de (1) Polisacáridos o (2) Disacáricos, que son el resultado de la combinación de (3) Monosacáridos. El proceso de digestión descompone los Polisacáridos y Disacáridos en Monosacáridos. Este proceso se denomina Hidrólisis requiriendo H2O y enzimas digestivas:
 
 <figure>
-  <img src="/assets/images/blog/hidratos/hidrolisis.png">
+  <img src="/assets/images/blog/hidratos/hidrolisis.png" style="width: 40%; height: 40%">
   <figcaption>
       Hidrólisis
  Crédito:  <a href=""></a>
@@ -65,7 +65,7 @@ Finalmente, en el intestino grueso, los enterocitos, que contienen cuatro enzima
 - Maltosa se convierte en 2 monosacáridos de glucosa.
 
 <figure>
-  <img src="/assets/images/blog/hidratos/hidrolisis%2Bcarbohidratos.png">
+  <img src="/assets/images/blog/hidratos/hidrolisis-carbohidratos.png">
   <figcaption>
       Hidrólisis carbohidratos
  Crédito:  <a href=""></a>
@@ -83,12 +83,21 @@ La mayoría de las reacciones químicas en las células tienen como objetivo obt
 
 Todos los macronutrientes, pueden ser oxidados para obtener energía de ellos. La energía proveniente de la oxidación se emplea para convertir ADP (Adenosine diphosphate) en ATP (Adenosine triphosphate). En todas las células se emplea el  ATP como vector energético y puede ser generado y consumido a necesidad. 
 
+
+<figure>
+  <img src="/assets/images/blog/hidratos/ADP-ATP.png">
+  <figcaption>
+      ADP - ATP
+ Crédito:  <a href=""></a>
+  </figcaption>
+</figure>
+
 De acuerdo a lo visto anteriormente, los tres monosacáricos principales son Galactosa, Fructosa y Glucosa, siendo la última el 80% del total.  El 20% restante, es decir Galactosa y Fructosa, son generalmente transportados al hígado, donde pueden ser:
 - Devueltos al torrente sanguíneo en forma de Glucosa o
 - Almacenados en forma de Glucosa-6-fosfatasa.
 
 <figure>
-  <img src="/assets/images/blog/hidratos/glucosa%2Bh%25C3%25ADgado.png">
+  <img src="/assets/images/blog/hidratos/glucosa-higado.png">
   <figcaption>
       Hidrólisis carbohidratos
  Crédito:  <a href=""></a>
@@ -108,7 +117,7 @@ El glucógeno tiene dos fases:
 - Descomposición o glycogenólisis, para obtener energía de la glucosa.
 
 <figure>
-  <img src="/assets/images/blog/hidratos/glucosa%2B-%2Bgluc%25C3%25B3geno.png">
+  <img src="/assets/images/blog/hidratos/glucosa-glucogeno.png">
   <figcaption>
       Hidrólisis carbohidratos
  Crédito:  <a href=""></a>
@@ -123,7 +132,7 @@ Glycolityc pathway o Glycólisis
 : Proceso que mediante enzimas que permiten la descomposición parcial de la glucosa, se consigue un uso más eficiente de esta obteniendo hasta 38 mol de ATP por cada una de glucosa 
 
 <figure>
-  <img src="/assets/images/blog/hidratos/glyc%25C3%25B3lisis.png">
+  <img src="/assets/images/blog/hidratos/glycolisis.png">
   <figcaption>
       Glycólisis
  Crédito:  <a href=""></a>
@@ -167,7 +176,7 @@ Dicho de otro modo, cuando existe abundancia de carbohidratos se segrega insulin
 Cabe destacar que con cualquier comida los niveles de insulina en sangre aumentan, independientemente del tipo de alimento ingerido. No obstante, tanto proteínas limpias de grasa como hidratos de carbono crean picos más acusados, ya que su digestión aumentan en mayor medida los niveles de glucosa en sangre.
 
 # Bibliografía
-[1] Guyton Textbook of Medical Physiology. Ed 12.
-[2] [Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids (2005)](https://www.nap.edu/catalog/10490/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids)
+[^1]: Guyton Textbook of Medical Physiology. Ed 12.
+[^2]: [Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids (2005)](https://www.nap.edu/catalog/10490/dietary-reference-intakes-for-energy-carbohydrate-fiber-fat-fatty-acids-cholesterol-protein-and-amino-acids)
 
 Edición 1: Julio 2017
