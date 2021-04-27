@@ -7,7 +7,7 @@ category: [Opinion]
 toc: true
 toc_sticky: true
 header:
-  image: /assets/images/blog/teasers/Kid-Reading.jpg
+  teaser: /assets/images/blog/teasers/Kid-Reading.jpg
 excerpt: Una buena educación no necesariamente es la de los buenos modales, sino la que debiera recibir cualquier persona, que le permita ser una buena persona, útil para la sociedad, pero sobretodo a sí mismo.
 ---
 

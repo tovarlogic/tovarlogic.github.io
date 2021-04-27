@@ -7,7 +7,7 @@ category: [Opinion]
 toc: true
 toc_sticky: true
 header:
-  image: /assets/images/blog/teasers/ciencia_y_religion.jpeg
+  teaser: /assets/images/blog/teasers/ciencia_y_religion.jpeg
 excerpt: Mi visión sobre la religión, particularmente sobre la existencia de los dioses y mis razones para ser ateo.
 ---
 
