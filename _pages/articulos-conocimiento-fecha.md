@@ -1,6 +1,7 @@
 ---
 title: "Artículos por fecha"
 permalink: /conocimiento/fecha/
+taxonomy: Conocimiento
 breadcrumb_name: Articulos-fecha
 layout: dates_left
 classes: wide
