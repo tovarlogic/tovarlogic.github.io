@@ -15,7 +15,7 @@ layout: archive_left
       {%  endfor %}
       {% if count > 0 %}
         <li>
-          <a href="#{{ serie | slugify }}">
+          <a href="{{ serie | slugify }}">
             <strong>{{ serie }}</strong> <span class="taxonomy__count">{{ count }}</span>
           </a>
         </li>
