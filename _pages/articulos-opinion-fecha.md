@@ -1,6 +1,6 @@
 ---
 title: "Artículos por fecha"
-permalink: /conocimiento/fecha/
+permalink: /opinion/fecha/
 breadcrumb_name: Articulos-fecha
 layout: dates_left
 classes: wide
