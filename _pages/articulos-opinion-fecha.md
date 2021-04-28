@@ -1,5 +1,5 @@
 ---
-title: "Artículos por fecha"
+title: "Artículos de opinión (por fecha)"
 permalink: /opinion/fecha/
 taxonomy: Conocimiento
 breadcrumb_name: Articulos-fecha

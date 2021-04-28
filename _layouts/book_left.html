@@ -1,17 +1,7 @@
 ---
-title: "Listado con anotaciones de libros que he leido"
-breadcrumb_name: Libros
-layout: single_left
-entries_layout: grid
-classes: wide
-author_profile: false
-permalink: /libros/  
+layout: default
 ---
-{% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign readInYear = site.data.books.list | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
-{% assign reading = site.data.books.leyendo %}
-{% assign pending = site.data.books.pendientes %}
 
 <ul class="taxonomy__index">
     <li>
@@ -69,4 +59,3 @@ permalink: /libros/
     </div>
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 </section><br>
-

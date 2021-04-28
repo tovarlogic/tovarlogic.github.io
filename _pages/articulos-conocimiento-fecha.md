@@ -1,5 +1,5 @@
 ---
-title: "Artículos por fecha"
+title: "Artículos informativos (por fecha)"
 permalink: /conocimiento/fecha/
 taxonomy: Conocimiento
 breadcrumb_name: Articulos-fecha

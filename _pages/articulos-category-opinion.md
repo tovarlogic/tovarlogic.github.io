@@ -1,5 +1,5 @@
 ---
-title: Artículos que aglutinan mis opiniones relativamente informadas
+title: Artículos de opinión
 layout: category_left
 breadcrumb_name: Opinión
 permalink: /opinion/
