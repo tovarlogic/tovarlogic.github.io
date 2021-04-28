@@ -9,4 +9,4 @@ classes: wide
 entries_layout: grid
 ---
 
-[Ordenar por temática](/{{ page.taxonomy }}/){: .btn .btn--primary} [Ordenar por fecha](/{{ page.taxonomy }}/fecha/){: .btn .btn--inverse}
+[Ordenar por temática](/{{ page.taxonomy | downcase }}/){: .btn .btn--primary} [Ordenar por fecha](/{{ page.taxonomy | downcase }}/fecha/){: .btn .btn--inverse}
