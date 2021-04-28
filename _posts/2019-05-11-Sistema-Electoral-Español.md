@@ -2,7 +2,7 @@
 title:  "Sistema electoral español"
 date:   2019-05-11
 update: 
-tags: [Derecho, Política, Sociología]
+tags: [Política]
 category: [Conocimiento]
 toc: true
 toc_sticky: true
