@@ -1,7 +1,7 @@
 ---
 title: "Artículos de opinión (por fecha)"
 permalink: /opinion/fecha/
-taxonomy: Conocimiento
+taxonomy: Opinion
 breadcrumb_name: Articulos-fecha
 layout: dates_left
 classes: wide

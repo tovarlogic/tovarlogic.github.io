@@ -2,6 +2,11 @@
 layout: default
 ---
 
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+
+{% assign readInYear = site.data.books.list | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
+{% assign reading = site.data.books.leyendo %}
+{% assign pending = site.data.books.pendientes %}
 
 <ul class="taxonomy__index">
     <li>

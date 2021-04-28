@@ -18,20 +18,20 @@ excerpt: "Sobre siete hábitos o principios a partir de los cuales lograr el cam
 ## Los hábitos
 In these blinks, you’ll learn about all seven of these habits:
 
-- *Sharpen the saw*: Don’t work yourself to death. Strive for a sustainable lifestyle that affords you time to recuperate and recharge, so that you can stay effective in the long-term.
-- *Be proactive*: You have a natural need to wield influence on the world around you, so don’t spend your time just reacting to external events and circumstances. Take charge and assume responsibility for your life.
-- *Begin with an end in mind*: Don’t spend your life working aimlessly, tackling whatever job is at hand. Have a vision for the future and align your actions accordingly to make it into a reality.
-- *Put first things first*: To prioritize your work, focus on what’s important, meaning the things that bring you closer to your vision of the future. Don’t get distracted by urgent but unimportant tasks.
-- *Think win-win*: When negotiating with others, don’t try to get the biggest slice of the cake, but rather find a division that is acceptable to all parties. You will still get your fair share, and build strong positive relationships in the process.
-- *Seek first to understand, then to be understood*: When someone presents us with a problem, we often jump right to prescribing a solution. This is a mistake. We should first take time to really listen to the other person and only then make recommendations.
-- *Synergize*: Adopt the guiding principle that in a group, the contributions of many will far exceed those of any individual. This will help you to achieve goals you could never have reached on your own. 
+- **Sharpen the saw**: Don’t work yourself to death. Strive for a sustainable lifestyle that affords you time to recuperate and recharge, so that you can stay effective in the long-term.
+- **Be proactive**: You have a natural need to wield influence on the world around you, so don’t spend your time just reacting to external events and circumstances. Take charge and assume responsibility for your life.
+- **Begin with an end in mind**: Don’t spend your life working aimlessly, tackling whatever job is at hand. Have a vision for the future and align your actions accordingly to make it into a reality.
+- **Put first things first**: To prioritize your work, focus on what’s important, meaning the things that bring you closer to your vision of the future. Don’t get distracted by urgent but unimportant tasks.
+- **Think win-win**: When negotiating with others, don’t try to get the biggest slice of the cake, but rather find a division that is acceptable to all parties. You will still get your fair share, and build strong positive relationships in the process.
+- **Seek first to understand, then to be understood**: When someone presents us with a problem, we often jump right to prescribing a solution. This is a mistake. We should first take time to really listen to the other person and only then make recommendations.
+- **Synergize**: Adopt the guiding principle that in a group, the contributions of many will far exceed those of any individual. This will help you to achieve goals you could never have reached on your own. 
 
 ### Como cambiar
 In order to change, you have to address your character and not your behavior.
 
 Generally speaking, there are two routes to self-improvement and to changing your own life:
-1. One way is addressing the *skills* necessary for a certain desired behavior; that is, by studying communication skills or time-management techniques.
-2. Alternatively, you can take the long way round by digging a bit deeper and working on your *character*: the fundamental habits and belief systems which form your view of the world.
+1. One way is addressing the **skills** necessary for a certain desired behavior; that is, by studying communication skills or time-management techniques.
+2. Alternatively, you can take the long way round by digging a bit deeper and working on your **character**: the fundamental habits and belief systems which form your view of the world.
 
 The first approach is effectively an attempt to take a shortcut to success. Yet real personal growth cannot be reached via shortcuts. On the road to true effectiveness, you cannot afford to skip a single step.
 This is true for accomplishments such as playing tennis or the piano, and just as true for the emotional development of a person as well as the development of their character.
@@ -65,9 +65,9 @@ All actions are in fact carried out twice: first when we visualize the action as
 The more exact and realistic the mental picture of the action is, the better its execution will be – and, hence, the better the results.
 
 It is therefore important to keep two things in mind at all times:
-1. First, you should *always be conscious of your long-term goals, your values and norms*, so that you can align all your actions with them. You should always know for exactly which target you’re aiming.
+1. First, you should **always be conscious of your long-term goals, your values and norms**, so that you can align all your actions with them. You should always know for exactly which target you’re aiming.
 Because if you don’t know what you’re aiming for, you simply become the passive pawn in another person’s game.
-2. Secondly, you should *form as concrete a mental picture of what you’re about to do* as possible: one which sets out exactly what should be achieved. You should visualize how you’re going to aim your bow so that you hit the bullseye.
+2. Secondly, you should **form as concrete a mental picture of what you’re about to do** as possible: one which sets out exactly what should be achieved. You should visualize how you’re going to aim your bow so that you hit the bullseye.
 
 This kind of visual anticipation works in all possible situations. Most competitive sportsmen, for example, are well-practiced in visualizing how they will leave the starting block, complete a perfect stretchand finish in first place.
 The same principle is true for an office. First you need a clear mental picture, which can then be translated into concrete actions.
@@ -78,11 +78,11 @@ If you spend the whole day sawing away and yet never find time to actually sharp
 Taking care of your most vital resources is crucial if you want to be lastingly effective: these resources are your own workforce.
 
 It is essential to be proactive in this regard, and this applies to all areas of life.
-* To stay physically fit, you need to take regular exercise, eat healthily and avoid undue stress.
-* To stay mentally healthy, you should, as far as possible, read plenty of good books, make time for your own writing in some form – be it letters or a diary – and actively plan your future according to your long-term goals.
-* It is also important to take care of your social and emotional health by forming as many positive relationships as possible and never neglecting your social needs.
-* Spiritual health also contributes greatly to lasting effectiveness: this can mean praying or meditating, but it can also mean regularly confronting your own norms and values and reflecting actively upon them.
-* Most importantly, you should consciously make time to recuperate and recharge. Most people claim they could never find time to do this. In the long-term, however, time spent in this way will produce numerous rewards with regard to productivity and well-being.
+** To stay physically fit, you need to take regular exercise, eat healthily and avoid undue stress.
+** To stay mentally healthy, you should, as far as possible, read plenty of good books, make time for your own writing in some form – be it letters or a diary – and actively plan your future according to your long-term goals.
+** It is also important to take care of your social and emotional health by forming as many positive relationships as possible and never neglecting your social needs.
+** Spiritual health also contributes greatly to lasting effectiveness: this can mean praying or meditating, but it can also mean regularly confronting your own norms and values and reflecting actively upon them.
+** Most importantly, you should consciously make time to recuperate and recharge. Most people claim they could never find time to do this. In the long-term, however, time spent in this way will produce numerous rewards with regard to productivity and well-being.
 
 This way of thinking applies to all those areas of life in which productivity has a role to play: businesses should also think not only of the product they want to produce, but also of the well-being of its producers (in this case, their staff).
 
