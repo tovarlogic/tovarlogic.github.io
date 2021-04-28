@@ -2,7 +2,7 @@
 title:  "Constitución Española de 1978"
 date:   2021-02-07
 update: 
-tags: [Derecho, Constitución]
+tags: [Derecho]
 category: [Conocimiento]
 toc: true
 toc_sticky: true
