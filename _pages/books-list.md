@@ -14,7 +14,7 @@ permalink: /libros/
 {% assign reading = site.data.books.leyendo %}
 {% assign pending = site.data.books.pendientes %}
 
-[Todos los libros](/{{ page.taxonomy | downcase }}/){: .btn .btn--primary} [Solo con notas](/{{ page.taxonomy | downcase }}/reviews/){: .btn .btn--inverse}
+[Todos los libros]({{ page.permalink }}){: .btn .btn--primary} [Solo con notas](/{{ page.taxonomy | downcase }}/reviews/){: .btn .btn--inverse}
 
 
 

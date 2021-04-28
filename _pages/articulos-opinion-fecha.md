@@ -9,4 +9,4 @@ author_profile: false
 entries_layout: grid
 ---
 
-[Ordenar por temática](/{{ page.taxonomy | downcase }}/){: .btn .btn--inverse} [Ordenar por fecha](/{{ page.taxonomy | downcase }}/fecha/){: .btn .btn--primary}
+[Ordenar por temática](/{{ page.taxonomy | downcase }}/){: .btn .btn--inverse} [Ordenar por fecha]({{ page.permalink }}){: .btn .btn--primary}
