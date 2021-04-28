@@ -11,5 +11,5 @@ entries_layout: grid
 
 [Ordenar por temática]({{ page.permalink }}){: .btn .btn--primary} 
 [Ordenar por fecha](/{{ page.taxonomy | downcase }}/fecha/){: .btn .btn--inverse} 
-[Series monográficas](/{{ series }}){: .btn .btn--inverse}
+[Series monográficas](/series){: .btn .btn--inverse}
 
