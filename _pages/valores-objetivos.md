@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /valores-objetivos/
+title: "Mis valores fundamentales y objetivos de vida."
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
