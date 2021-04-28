@@ -7,7 +7,7 @@ category: [Conocimiento]
 toc: true
 toc_sticky: true
 header:
-  teaser: /assets/images/blog/teasers/desigualdad.PNG
+  teaser: /assets/images/blog/teasers/desigualdad.jpg
 excerpt: La propia existencia de distintos individuos supone por naturaleza la existencia de desigualdades inherentes. Una sociedad variada puede significar un mayor potencial de capital social, pero ¿que condiciones han de darse para que así sea? o ¿Que condiciones lo dificultan?.
 ---
 
