@@ -8,5 +8,3 @@ author_profile: false
 classes: wide
 entries_layout: grid
 ---
-
-[Artículos por fecha](/conocimiento/fecha/){: .btn .btn--inverse}
