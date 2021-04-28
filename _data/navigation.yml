@@ -28,6 +28,8 @@ main:
     url: /libros/
   - title: "Recetas"
     url: /recetas/
+  - title: "Quotes"
+    url: /quotes/
 
 
 # documentation links
