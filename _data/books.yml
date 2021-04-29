@@ -1,5 +1,7 @@
 lastupdate: 24 de Abril de 2021
 
+tag_list: [Economía, Política, Sociología, Historia, Psicología, Crecimiento personal, Biografía, Medioambiente, Ficción, Filosofía, Biología, No-ficción, Novela, Tecnología, Ciencia]
+
 leyendo: 
   - title: "La Ilíada"
     author: Homero y Luis Segalá 
@@ -10,6 +12,7 @@ leyendo:
     isbn: 9780300122237
     stars: 3
     top: true
+    tags: [No-ficción, Crecimiento personal, Economía, Sociología, Psicología, Política]
     review: "arquitectura-decisiones"
     date: 2020-12-28
 
@@ -95,6 +98,7 @@ list:
     isbn: 0743250974
     date: 2017-05-07
     stars: 4
+    tags: [No-Ficción, Crecimiento personal]
     review: 7-habitos-gente-eficaz
 
   - title: "New Ideas from Dead Economists: An Introduction to Modern Economic Thought"

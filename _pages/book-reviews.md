@@ -5,4 +5,6 @@ permalink: /libros/reviews/
 taxonomy: Libros
 ---
 
-[Todos los libros](/{{ page.taxonomy | downcase }}/){: .btn .btn--inverse} [Solo con notas]({{ page.permalink }}){: .btn .btn--primary}
+[Ordenar por fecha](/{{ page.taxonomy | downcase }}/){: .btn .btn--inverse} 
+[Ordenar por temática](/{{ page.taxonomy | downcase }}/tematica/){: .btn .btn--primary} 
+[Solo con notas]({{ page.permalink }}){: .btn .btn--primary}

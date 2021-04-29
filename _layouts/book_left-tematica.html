@@ -1,0 +1,51 @@
+---
+layout: archive_left
+---
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+
+{% assign tag_list = site.data.books.tag_list %}
+
+{% assign read = site.data.books.list %}
+{% assign reading = site.data.books.leyendo %}
+{% assign pending = site.data.books.pendientes %}
+
+<ul class="taxonomy__index">
+    {% for tag in tag_list %}
+      {% assign count = 0 %}
+      {% assign books = site.data.books.list | where: "tags", tag %}
+      {% for book in books %}
+        {% assign count = count | plus: 1 %}
+      {%  endfor %}
+      {% if count > 0 %}
+        <li>
+          <a href="#{{ tag | slugify }}">
+            <strong>{{ tag }}</strong> <span class="taxonomy__count">{{ count }}</span>
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
+</ul>
+
+<div class="last-update">Listado actualizado el {{ site.data.books.lastupdate }}</div>
+
+  {% for tag in tag_list %}
+    {% assign count = 0 %}
+    {% assign books = site.data.books.list | where: "tags", tag %}
+    {% for book in books %}
+      {% assign count = count | plus: 1 %}
+    {%  endfor %}
+
+     {% if count > 0 %}
+      <section id="{{ tag | slugify | downcase }}" class="taxonomy__section">
+        <h2 class="archive__subtitle">{{ tag }}</h2>
+        <div class="entries-{{ entries_layout }}">
+          {% for book in books %}
+               {% include archive-single-books.html type=entries_layout %}
+          {% endfor %}
+        </div>
+        <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+      </section>
+    {% endif %}
+
+  {% endfor %}
+
