@@ -1,6 +1,6 @@
 lastupdate: 24 de Abril de 2021
 
-tag_list: [Economía, Política, Sociología, Historia, Psicología, Crecimiento personal, Biografía, Medioambiente, Ficción, Filosofía, Biología, No-ficción, Novela, Tecnología, Ciencia]
+tag_list: [Ensayo, Novela, Biografía, Ciencia-ficción, Economía, Política, Geopolítica, Sociología, Historia, Psicología, Crecimiento personal, Medioambiente, Filosofía, Biología, Tecnología, Ciencia, Aventura]
 
 leyendo: 
   - title: "La Ilíada"
@@ -10,95 +10,108 @@ leyendo:
   - title: "Nudge: Improving Decisions About Health, Wealth and Happiness"
     author: Richard H. Thaler y Cass R. Sunstein
     isbn: 9780300122237
+    date: 2020-12-28
     stars: 3
     top: true
-    tags: [No-ficción, Crecimiento personal, Economía, Sociología, Psicología, Política]
+    tags: [Ensayo, Crecimiento personal, Economía, Sociología, Psicología, Política]
     review: "arquitectura-decisiones"
-    date: 2020-12-28
-
+    
 list:
   - title: "The Hitchhiker's Guide to the Galaxy"
     author: Douglas Adams
     isbn: 9780671527211
     date: 2021-02-20
     stars: 4
+    tags: [Ciencia-ficción]
 
   - title: "Lifespan: Why We Age – and Why We Don’t Have To"
     author: David Sinclair
     isbn: 9780008380328
     date: 2020-10-01
     stars: 3
+    tags: [Ensayo, Ciencia, Biología]
 
   - title: "En el enjambre"
     author: Byung-Chul Han
     isbn: 9788425433689
     date: 2020-08-01
     stars: 3
+    tags: [Ensayo, Filosofía]
 
   - title: "El libro del Tao"
     author: Lao Tse
     isbn: 8447323366
     date: 2020-03-01
     stars: 3
+    tags: [Ensayo, Filosofía]
 
   - title: "The Little Book of Stoicism: Timeless Wisdom to Gain Resilience, Confidence, and Calmness"
     author: Jonas Salzgeber
     isbn: 9783952506905
     date: 2020-02-01
     stars: 4
+    tags: [Ensayo, Filosofía]
 
   - title: "The Future Is Asian: Global Order in the Twenty-first Century"
     author: Parag Khanna
     date: 2019-11-01
     stars: 3
+    tags: [Ensayo, Geopolítica]
 
   - title: "Connectography: Mapping the Global Network Revolutions"
     author: Parag Khanna
     isbn: 9780399589379
     date: 2019-09-01
     stars: 3
+    tags: [Ensayo, Geopolítica]
 
   - title: "Prisoners of Geography: Ten Maps That Tell You Everything You Need To Know About Global Politics"
     author: Tim Marshall
     isbn: 9781783964130
     date: 2019-06-01
     stars: 4
+    tags: [Ensayo, Geopolítica]
 
   - title: "Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues from Tobacco Smoke to Global Warming"
     author: Naomi Oreskes
     isbn: 9781596916104
     date: 2019-04-01
     stars: 4
+    tags: [Ensayo, Medioambiente, Política]
 
   - title: "Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies is Changing the World"
     author: Don Tapscott
     isbn: 9780241237854
     date: 2018-10-01
     stars: 4
+    tags: [Ensayo, Tecnología]
 
   - title: "Homo Deus: A Brief History of Tomorrow"
     author: Yuval Noah Harari
     isbn: 9780062464347
     date: 2018-10-01
     stars: 3
+    tags: [Ensayo, Sociología]
 
   - title: "Sapiens: A Brief History of Humankind"
     author: Yuval Noah Harari
     isbn: 9781846558245
     date: 2018-08-01
     stars: 4
+    tags: [Ensayo, Sociología]
 
   - title: "Utopia for Realists: And How We Can Get There"
     author: Rutger Bregman
     date: 2018-06-01
     stars: 4
+    tags: [Ensayo, Sociología]
 
   - title: "7 Habits of highly effective people "
     author: Stephen R. Covey
     isbn: 0743250974
     date: 2017-05-07
     stars: 4
-    tags: [No-ficción, Crecimiento personal]
+    tags: [Ensayo, Crecimiento personal]
     review: 7-habitos-gente-eficaz
 
   - title: "New Ideas from Dead Economists: An Introduction to Modern Economic Thought"
@@ -106,135 +119,158 @@ list:
     isbn: 0453006884
     date: 2016-02-01
     stars: 3
+    tags: [Ensayo, Economía]
 
   - title: "The Enzyme Factor"
     author: Hiromi Shinya
     isbn: 9781571782090
     date: 2014-12-01
     stars: 4
+    tags: [Ensayo, Ciencia, Biología]
 
   - title: "The Grand Design"
     author: Stephen Hawking
     isbn: 9780553384666
     date: 2014-10-01
     stars: 3
+    tags: [Ensayo, Ciencia]
 
   - title: "Too Big to Fail: The Inside Story of How Wall Street and Washington Fought to Save the Financial System--and Themselves"
     author: Andrew Ross Sorkin
     isbn: 9780670021253
     date: 2014-08-01
     stars: 3
+    tags: [Ensayo, Economía, Política]
 
   - title: "¡Que vienen los lobbies!: El opaco negocio de la influencia en España"
     author: Juan Francés
     date: 2014-06-01
     stars: 4
+    tags: [Ensayo, Economía, Política]
 
   - title: "The Blood Pressure Cure: 8 Weeks to Lower Blood Pressure without Prescription Drugs"
     author: Robert E. Kowalski
     isbn: 9780470124161
     date: 2014-01-01
     stars: 3
+    tags: [Ensayo, Ciecia, Biología]
 
   - title: "Nadie es mas que nadie"
     author: Miguel Ángel Revilla
     date: 2013-04-01
     stars: 2
+    tags: [Ensayo, Política]
 
   - title: "Winter of the World"
     author: Ken Follett
     isbn: 9780525952923
     date: 2013-02-01
     stars: 3
+    tags: [Novela, Historia]
 
   - title: "España sin democracia"
     author: Jesún Neira
     date: 2012-12-01
     stars: 4
+    tags: [Ensayo, Política]
 
   - title: "The Autobiography of Benjamin Franklin"
     author: Benjamin Franklin
     isbn: 1566193931
     date: 2012-10-01
     stars: 4
+    tags: [Biografía]
 
   - title: "Tropic of Capricorn"
     author: Henry Miller
     isbn: 9780007204458
     date: 2012-08-01
     stars: 2
+    tags: [Novela]
 
   - title: "La Banque: Comment Golden Sachs dirige le monde"
     author: Marc Roche
     date: 2012-06-01
     stars: 4
+    tags: [Ensayo, Economía]
 
   - title: "Good to Great: Why Some Companies Make the Leap...And Others Don't"
     author: Jim Collins
     isbn: 0066620996
     date: 2012-04-01
     stars: 3
+    tags: [Ensayo, Economía]
 
   - title: "The Shock Doctrine: The Rise of Disaster Capitalism"
     author: Naomi Klein
     isbn: 9780805079838
     date: 2011-11-01
     stars: 4
+    tags: [Ensayo, Política, Sociología, Economía]
 
   - title: "Globalization and Its Discontents"
     author: Joseph E. Stiglitz
     isbn: 0393051242
     date: 2011-09-01
     stars: 3
+    tags: [Ensayo, Política, Economía]
 
   - title: "The Looming Tower"
     author: Lawrence Wright
     isbn: 9780375414862
     date: 2010-06-01
     stars: 4
+    tags: [Ensayo, Historia, Política]
 
   - title: "The Call of the Wild"
     author: Jack London
     isbn: 9780760727935
     date: 2010-03-01
     stars: 5
+    tags: [Novela, Aventura]
 
   - title: "Los pilares de la tierra"
     author: Ken Follet
     isbn: 9788483465813
     date: 2008-10-01
     stars: 4
+    tags: [Novela, Historia]
 
   - title: "The Tibetan Book of Living and Dying: The Spiritual Classic & International Bestseller: Revised and Updated Edition"
     author: Sogyal Rinpoche
     isbn: 9780944993781
     date: 2008-08-01
     stars: 4
+    tags: [Ensayo, Filosofía]
 
   - title: "El arte de la Guerra"
     author: Sun Tzu
     isbn: 9781592650002
     date: 2008-06-01
     stars: 3
+    tags: [Ensayo]
 
   - title: "From the Earth to the Moon and Round the Moon"
     author: Jules Verne
     isbn: 9781592242429
     date: 2007-08-01
     stars: 5
+    tags: [Novela, Ciencia-ficción]
 
   - title: "¿Quién se ha llevado mi queso?"
     author: Spencer Johnson
     isbn: 9788495787095
     date: 2007-06-01
     stars: 3
+    tags: [Ensayo, Economía]
 
   - title: "Breve historia del tiempo: Del big bang a los agujeros negros"
     author: Stephen W. Hawking 
     isbn: 9684063563
     date: 2004-06-01
     stars: 4
-
+    tags: [Ensayo, Ciencia]
+    
 pendientes:
   - title: "La Odisea"
     author: Homero y Luis Segalá 
