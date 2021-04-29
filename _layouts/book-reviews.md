@@ -2,6 +2,8 @@
 layout: single_left
 ---
 
+{{ content }}
+
 <ul class="taxonomy__index">
   {% assign reviewsInYear = site.book_reviews | where_exp: "item", "item.hidden != true" | group_by_exp: 'review', 'review.date | date: "%Y"' %}
   {% for year in reviewsInYear %}

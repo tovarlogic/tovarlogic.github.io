@@ -1,6 +1,6 @@
 ---
 title: "Mi biblioteca personal"
-breadcrumb_name: Libros
+breadcrumb_name: Temática
 taxonomy: Libros
 layout: book_left-tematica
 entries_layout: grid
