@@ -9,10 +9,8 @@ author_profile: false
 permalink: /libros/  
 ---
 
-[Ordenar por fecha]({{ page.permalink }}){: .btn .btn--primary} 
-[Ordenar por temática](/{{ page.taxonomy | downcase }}/tematica/){: .btn .btn--inverse} 
-[Ordenar por autor](/{{ page.taxonomy | downcase }}/autor/){: .btn .btn--inverse} 
-[Solo con notas](/{{ page.taxonomy | downcase }}/reviews/){: .btn .btn--inverse}
+{% include book-filters.md %}
+
 
 
 

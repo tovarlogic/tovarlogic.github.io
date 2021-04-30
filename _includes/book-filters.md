@@ -1,0 +1,27 @@
+
+{% if page.permalink == '/libros/' %}
+	[Ordenar por fecha]({{ page.permalink }}){: .btn .btn--primary} 
+	[Ordenar por temática](/{{ page.taxonomy | downcase }}/tematica/){: .btn .btn--inverse} 
+	[Ordenar por autor](/{{ page.taxonomy | downcase }}/autor/){: .btn .btn--inverse} 
+	[Solo con notas](/{{ page.taxonomy | downcase }}/reviews/){: .btn .btn--inverse}
+
+{% elsif page.permalink == '/libros/reviews/' %}
+	[Ordenar por fecha](/{{ page.taxonomy | downcase }}/){: .btn .btn--inverse} 
+	[Ordenar por temática](/{{ page.taxonomy | downcase }}/tematica/){: .btn .btn--inverse} 
+	[Ordenar por autor](/{{ page.taxonomy | downcase }}/autor/){: .btn .btn--inverse} 
+	[Solo con notas]({{ page.permalink }}){: .btn .btn--primary}
+
+{% elsif page.permalink == '/libros/autor/' %}
+	[Ordenar por fecha](/{{ page.taxonomy | downcase }}/){: .btn .btn--inverse} 
+	[Ordenar por temática](/{{ page.taxonomy | downcase }}/tematica/){: .btn .btn--inverse} 
+	[Ordenar por autor]({{ page.permalink }}){: .btn .btn--primary} 
+	[Solo con notas](/{{ page.taxonomy | downcase }}/reviews/){: .btn .btn--inverse}
+
+{% elsif page.permalink == '/libros/tematica/' %}
+	[Ordenar por fecha](/{{ page.taxonomy | downcase }}/){: .btn .btn--inverse} 
+	[Ordenar por temática]({{ page.permalink }}){: .btn .btn--primary} 
+	[Ordenar por autor](/{{ page.taxonomy | downcase }}/autor/){: .btn .btn--inverse} 
+	[Solo con notas](/{{ page.taxonomy | downcase }}/reviews/){: .btn .btn--inverse}
+
+{% endif %}
+
