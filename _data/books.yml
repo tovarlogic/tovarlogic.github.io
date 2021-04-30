@@ -229,6 +229,27 @@ list:
     stars: 5
     tags: [Novela, Aventura]
 
+  - title: "Nuclear Renaissance: Technologies and Policies for the Future of Nuclear Power"
+    author: W.J. Nuttall 
+    isbn:  9780750309363
+    date: 2009-06-01
+    stars: 3
+    tags: [Ensayo, Ciencia, Energía]
+
+  - title: "An Appeal to Reason: A Cool Look at Global Warming"
+    author: Nigel Lawson
+    isbn: 9781590200841
+    date: 2009-04-01
+    stars: 4
+    tags: [Ensayo, Ciencia, Medioambiente]
+
+  - title: "The Revenge of Gaia: Earth's Climate Crisis & The Fate of Humanity"
+    author: James Lovelock
+    isbn: 9780465041695
+    date: 2009-02-01
+    stars: 4
+    tags: [Ensayo, Ciencia, Medioambiente]
+
   - title: "Los pilares de la tierra"
     author: Ken Follet
     isbn: 9788483465813
