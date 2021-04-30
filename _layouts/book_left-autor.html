@@ -6,7 +6,7 @@ layout: archive_left
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign author_list = data.books.list | group_by_exp: 'same_author', 'same_author.author' %}
+{% assign author_list = data.books.list | group_by_exp: 'same_author', 'same_author.author' | sort: "author" %}
 
 {{ author_list }}
 
@@ -19,8 +19,8 @@ layout: archive_left
       {%  endfor %}
       {% if count > 0 %}
         <li>
-          <a href="#{{ author | slugify }}">
-            <strong>{{ author }}</strong> <span class="taxonomy__count">{{ count }}</span>
+          <a href="#{{ author.name | slugify }}">
+            <strong>{{ author.name }}</strong> <span class="taxonomy__count">{{ author.items }}</span>
           </a>
         </li>
       {% endif %}
@@ -29,24 +29,15 @@ layout: archive_left
 
 <div class="last-update">Listado actualizado el {{ site.data.books.lastupdate }}</div>
 
-  {% for author in author_list %}
-    {% assign count = 0 %}
-    {% assign books = site.data.books.list | where: "author", author %}
-    {% for book in books %}
-      {% assign count = count | plus: 1 %}
-    {%  endfor %}
-
-     {% if count > 0 %}
-      <section id="{{ author | slugify | downcase }}" class="taxonomy__section">
-        <h2 class="archive__subtitle">{{ author }}</h2>
-        <div class="entries-{{ entries_layout }}">
-          {% for book in books %}
-               {% include archive-single-books.html type=entries_layout %}
-          {% endfor %}
-        </div>
-        <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-      </section>
-    {% endif %}
-
-  {% endfor %}
+{% for author in author_list %}
+<section id="{{ author.name }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ author.name }}</h2>
+    <div class="entries-{{ entries_layout }}">
+      {% for book in author.items %}
+        {% include archive-single-books.html type=entries_layout %}
+      {% endfor %}
+    </div>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+</section><br>
+{% endfor %}
 
