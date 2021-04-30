@@ -1,0 +1,34 @@
+---
+layout: archive_left
+---
+
+{{ content }}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+
+{% assign stars_list = site.data.books.list | group_by: 'stars' | sort: "name" %}
+
+<span class="last-update">Listado actualizado el {{ site.data.books.lastupdate }}</span>
+
+<ul class="taxonomy__index">
+    {% for stars in stars_list %}
+        <li>
+          <a href="#{{ stars.name | slugify }}">
+            <strong>{{ stars.name }}</strong> <span class="taxonomy__count">{{ stars.items | size }}</span>
+          </a>
+        </li>
+    {% endfor %}
+</ul>
+
+{% for stars in stars_list %}
+<section id="{{ stars.name | slugify }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ stars.name }}</h2>
+    <div class="entries-{{ entries_layout }}">
+      {% for book in stars.items %}
+        {% include archive-single-books.html type=entries_layout %}
+      {% endfor %}
+    </div>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+</section><br>
+{% endfor %}
+
