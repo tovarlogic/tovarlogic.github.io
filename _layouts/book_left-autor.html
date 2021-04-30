@@ -8,6 +8,9 @@ layout: archive_left
 
 {% assign author_list = data.books.list | group_by_exp: 'author', 'author' %}
 
+{{ author_list }}
+{{ author }}
+
 <ul class="taxonomy__index">
     {% for author in author_list %}
       {% assign count = 0 %}
