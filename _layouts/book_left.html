@@ -11,6 +11,7 @@ layout: archive_left
 {% assign pending = site.data.books.pendientes %}
 
 <span class="total_count">Total libros leidos: {{ readInYear.items | size }}</span>
+<span class="last-update">Listado actualizado el {{ site.data.books.lastupdate }}</span>
 
 <ul class="taxonomy__index">
     <li>
@@ -34,8 +35,6 @@ layout: archive_left
     </li>
 
 </ul>
-
-<div class="last-update">Listado actualizado el {{ site.data.books.lastupdate }}</div>
 
 <section id="leyendo" class="taxonomy__section">
     <h2 class="archive__subtitle">Leyendo actualmente</h2>

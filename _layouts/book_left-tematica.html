@@ -13,6 +13,8 @@ layout: archive_left
 {% assign pending = site.data.books.pendientes %}
 
 <span class="total_count">Total Temáticas: {{ tag_list | size }}</span>
+<span class="last-update">Listado actualizado el {{ site.data.books.lastupdate }}</span>
+
 <ul class="taxonomy__index">
     {% for tag in tag_list %}
       {% assign count = 0 %}
@@ -29,8 +31,6 @@ layout: archive_left
       {% endif %}
     {% endfor %}
 </ul>
-
-<div class="last-update">Listado actualizado el {{ site.data.books.lastupdate }}</div>
 
   {% for tag in tag_list %}
     {% assign count = 0 %}
