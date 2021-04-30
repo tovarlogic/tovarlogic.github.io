@@ -12,6 +12,7 @@ layout: archive_left
 {% assign reading = site.data.books.leyendo %}
 {% assign pending = site.data.books.pendientes %}
 
+<span class="total_count">Total Temáticas: {{ tag_list | size }}</span>
 <ul class="taxonomy__index">
     {% for tag in tag_list %}
       {% assign count = 0 %}
