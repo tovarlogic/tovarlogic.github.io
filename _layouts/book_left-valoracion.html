@@ -24,7 +24,7 @@ layout: archive_left
 {% for stars in stars_list %}
 <section id="{{ stars.name | slugify }}" class="taxonomy__section">
     <h2 class="archive__subtitle">
-      <span class="stars-container stars-{{ stars.name | times:20 | round: 0 }}" title="{{ stars.name }}/5">★★★★★</span>
+      Valoración <span class="stars-container stars-{{ stars.name | times:20 | round: 0 }}" title="{{ stars.name }}/5">★★★★★</span>
     </h2>
     <div class="entries-{{ entries_layout }}">
       {% for book in stars.items %}
