@@ -6,7 +6,7 @@ layout: archive_left
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign stars_list = site.data.books.list | group_by: 'stars' | sort: "name" %}
+{% assign stars_list = site.data.books.list | group_by: 'stars' | sort: "name" | reverse %}
 
 <span class="last-update">Listado actualizado el {{ site.data.books.lastupdate }}</span>
 
@@ -14,7 +14,8 @@ layout: archive_left
     {% for stars in stars_list %}
         <li>
           <a href="#{{ stars.name | slugify }}">
-            <strong>{{ stars.name }}</strong> <span class="taxonomy__count">{{ stars.items | size }}</span>
+            <span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span>
+            <span class="taxonomy__count">{{ stars.items | size }}</span>
           </a>
         </li>
     {% endfor %}
@@ -22,7 +23,9 @@ layout: archive_left
 
 {% for stars in stars_list %}
 <section id="{{ stars.name | slugify }}" class="taxonomy__section">
-    <h2 class="archive__subtitle">{{ stars.name }}</h2>
+    <h2 class="archive__subtitle">
+      <span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span>
+    </h2>
     <div class="entries-{{ entries_layout }}">
       {% for book in stars.items %}
         {% include archive-single-books.html type=entries_layout %}
