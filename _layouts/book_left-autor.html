@@ -6,10 +6,9 @@ layout: archive_left
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign author_list = data.books.list | group_by_exp: 'author', 'author' %}
+{% assign author_list = data.books.list | group_by_exp: 'same_author', 'same_author.author' %}
 
 {{ author_list }}
-{{ author }}
 
 <ul class="taxonomy__index">
     {% for author in author_list %}
