@@ -10,6 +10,6 @@ permalink: /libros/autor/
 order_by: author 
 ---
 
-{% include book-filters.md %}
+{% include book-filters.html %}
 
 

@@ -6,4 +6,4 @@ permalink: /libros/reviews/
 taxonomy: Libros
 ---
 
-{% include book-filters.md %}
+{% include book-filters.html %}

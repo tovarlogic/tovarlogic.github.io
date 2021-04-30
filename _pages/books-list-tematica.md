@@ -10,7 +10,7 @@ permalink: /libros/tematica/
 order_by: tematica 
 ---
 
-{% include book-filters.md %}
+{% include book-filters.html %}
 
 
 
