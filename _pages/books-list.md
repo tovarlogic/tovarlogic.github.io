@@ -9,7 +9,7 @@ author_profile: false
 permalink: /libros/  
 ---
 
-{% include book-filters.md %}
+{% include book-filters.html %}
 
 
 

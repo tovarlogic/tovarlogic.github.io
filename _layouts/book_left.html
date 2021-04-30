@@ -10,7 +10,13 @@ layout: archive_left
 {% assign reading = site.data.books.leyendo %}
 {% assign pending = site.data.books.pendientes %}
 
-<span class="total_count">Total libros leidos: {{ readInYear.items | size }}</span>
+{% assign read = site.data.books.list %}
+{% assign count = 0 %}
+{% for book in read %}
+    {% assign count = count | plus: 1 %}  
+{%  endfor %}
+
+<span class="total_count">Total libros leidos: {{ count }}</span>
 <span class="last-update">Listado actualizado el {{ site.data.books.lastupdate }}</span>
 
 <ul class="taxonomy__index">
