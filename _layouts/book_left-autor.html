@@ -8,7 +8,7 @@ layout: archive_left
 
 {% assign author_list = site.data.books.list | group_by: 'author' | sort: "name" %}
 
-<span class="total_count">Total Autores: {{ author_list | size }}</span>
+<span class="total_count">Total Autores: {{ author_list | size }}</span><br>
 <span class="last-update">Listado actualizado el {{ site.data.books.lastupdate }}</span>
 
 <ul class="taxonomy__index">
