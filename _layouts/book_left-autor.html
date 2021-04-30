@@ -6,8 +6,9 @@ layout: archive_left
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign author_list = site.data.books.list | group_by_exp: 'same_author', 'same_author.author' | sort: "author" %}
+{% assign author_list = site.data.books.list | group_by: 'author' | sort: "author" %}
 
+<span class="total_count">Total Autores: {{ author_list | size }}</span>
 <ul class="taxonomy__index">
     {% for author in author_list %}
         <li>
