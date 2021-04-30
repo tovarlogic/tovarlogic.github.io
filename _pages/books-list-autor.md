@@ -1,8 +1,8 @@
 ---
 title: "Mi biblioteca personal"
-breadcrumb_name: Temática
+breadcrumb_name: Autores
 taxonomy: Libros
-layout: book_left-author
+layout: book_left-autor
 entries_layout: grid
 classes: wide
 author_profile: false
