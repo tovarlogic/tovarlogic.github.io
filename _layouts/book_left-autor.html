@@ -8,8 +8,6 @@ layout: archive_left
 
 {% assign author_list = site.data.books.list | group_by_exp: 'same_author', 'same_author.author' | sort: "author" %}
 
-{{ author_list }}
-
 <ul class="taxonomy__index">
     {% for author in author_list %}
       {% assign count = 0 %}
