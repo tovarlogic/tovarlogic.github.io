@@ -26,4 +26,3 @@ Author: Elaboración propia
 
 ---
 
-Esta receta se puede realizar con distintas especias y otros ingredientes adicionales para modificar el sabor. La base de tofu y anacardos es ideal para esto ya que tiene un sabor muy neutro y fácilmente modificable.
