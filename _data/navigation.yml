@@ -131,3 +131,27 @@ sidebar-sample:
         url: /
       - title: "Child Page D2"
         url: /
+
+cambio-climatico:
+  - title: "Inicio"
+    url: /series/cambio-climatico
+  - title: "UNFCCC"
+    children:
+      - title: "Protocolo de Montreal"
+        url: /
+      - title: "La convención"
+        url: /
+      - title: "Protocolo de Kyoto"
+        url: /conocimiento/Protocolo-de-Kioto
+      - title: "Acuerdo de París"
+        url: /conocimiento/Acuerdo-Paris
+
+civilizaciones:
+  - title: "Inicio"
+    url: /series/civilizaciones
+  - title: "Neolítico a Edad de Bronce"
+    children:
+      - title: "Viejo mundo"
+        children:
+          - title: "Origen civilizaciones antiguas"
+            url: /conocimiento/origen-civilizaciones-antiguas/
