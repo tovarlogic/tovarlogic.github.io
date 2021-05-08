@@ -23,19 +23,21 @@ El objetivo último del protocolo es "estabilizar las concentraciones atmosféri
 
 El acuerdo es vinculante para los estados, aunque únicamente para los desarrollados, que se comprometen a reducir sus emisiones de GEI. Sólo los estados desarrollados se comprometen porque en el acuerdo se reconoce que son estos los principales responsables para el aumento de concentraciones de CO2 atmosférico. En la actualidad unos 190 países han ratificado el protocolo.
 
-**Nota:** Originalmente se excluyeron a los países en desarrollo porque estos argumentaban que las limitaciones que les impondría el protocolo serían injustas ya que dificultaría su desarrollo. Por otro lado, una de las razones que alegó EE.UU. para no ratificar el protocolo era precisamente que al excluir a dichos países se ponía en riesgo la competitividad industrial del país y que sin ellos la eficacia del protocolo quedaba socavada. Europa como ente supranacional aceptó este hecho y asumió que su responsabilidad era de un orden superior a los intereses económicos y competitivos de la unión.
-
 {: .notice--warning}
 
-**Opinión:** Imagino que precisamente por la misma razón que EE.UU. China tampoco lo ratificó. Parece además que la situación china es especial, ya que este país se ha convertido en "la fábrica del mundo". Al relocalizar o cerrar las industrias de países occidentales, en cierta forma se está trasladando la responsabilidad a los chinos, ya que su cierre implica reducción de emisiones. Es decir, la relocalización industrial se puede ver como una estratagema para aparentar ser un estado limpio, aunque luego sus importaciones sean ingentes. Por eso, creo que una unidad que tuviera en cuenta el consumo o las importaciones sería muy eficaz para evitar perjudicar a países como el chino, que se encuentran en pleno desarrollo ofreciendo un servicio global de fabricación a bajo coste.
+**Nota:** Originalmente se excluyeron a los países en desarrollo porque estos argumentaban que las limitaciones que les impondría el protocolo serían injustas ya que dificultaría su desarrollo. Por otro lado, una de las razones que alegó EE.UU. para no ratificar el protocolo era precisamente que al excluir a dichos países se ponía en riesgo la competitividad industrial del país y que sin ellos la eficacia del protocolo quedaba socavada. Europa como ente supranacional aceptó este hecho y asumió que su responsabilidad era de un orden superior a los intereses económicos y competitivos de la unión.
 
 {: .notice}
 
+**Opinión:** Imagino que precisamente por la misma razón que EE.UU. China tampoco lo ratificó. Parece además que la situación china es especial, ya que este país se ha convertido en "la fábrica del mundo". Al relocalizar o cerrar las industrias de países occidentales, en cierta forma se está trasladando la responsabilidad a los chinos, ya que su cierre implica reducción de emisiones. Es decir, la relocalización industrial se puede ver como una estratagema para aparentar ser un estado limpio, aunque luego sus importaciones sean ingentes. Por eso, creo que una unidad que tuviera en cuenta el consumo o las importaciones sería muy eficaz para evitar perjudicar a países como el chino, que se encuentran en pleno desarrollo ofreciendo un servicio global de fabricación a bajo coste.
+
+
+
 La unidad que se emplea para el control de emisiones es t-CO2-eq, es decir, toneladas equivalentes de CO2, que por simplicidad se les llama "Unidades Kyoto". 
 
-**Info**: El empleo de una unidad "equivalente a CO2" se debe a que las moléculas de los diferentes GEI tienen capacidades de absorción térmica y tiempos de permanencia en la atmósfera distintos. Con esta medida se corrigen estas diferencias en una unidad equivalente y, por tanto, comparable.
-
 {: .notice--info}
+
+**Info**: El empleo de una unidad "equivalente a CO2" se debe a que las moléculas de los diferentes GEI tienen capacidades de absorción térmica y tiempos de permanencia en la atmósfera distintos. Con esta medida se corrigen estas diferencias en una unidad equivalente y, por tanto, comparable.
 
 Al comienzo de aplicación del protocolo se establece un "periodo de compromiso" de varios años en los que cada país se compromete a cumplir unos objetivos de reducción de emisiones. Para cada periodo cada estado es asignado con unas unidades kyoto permitidas. Dichas unidades iniciales posteriormente se podrán modificar con la adopción de tecnologías de reducción de emisiones, cambios de uso de suelo o mediante el comercio que establecen los mecanismos de kyoto. 
 
