@@ -4,7 +4,8 @@ date:   2021-05-05
 tags: [Medio Ambiente]
 category: [Conocimiento]
 serie: cambio-climatico
-sidebar: cambio-climatico
+sidebar:
+  nav: "cambio-climatico"
 toc: true
 toc_sticky: true
 excerpt: Resumen sobre el contenido del acuerdo del Protocolo de Kioto de 1997 contra el cambio climático.
@@ -27,9 +28,7 @@ El acuerdo es vinculante para los estados, aunque únicamente para los desarroll
 
 **Nota:** Originalmente se excluyeron a los países en desarrollo porque estos argumentaban que las limitaciones que les impondría el protocolo serían injustas ya que dificultaría su desarrollo. Por otro lado, una de las razones que alegó EE.UU. para no ratificar el protocolo era precisamente que al excluir a dichos países se ponía en riesgo la competitividad industrial del país y que sin ellos la eficacia del protocolo quedaba socavada. Europa como ente supranacional aceptó este hecho y asumió que su responsabilidad era de un orden superior a los intereses económicos y competitivos de la unión.
 
-{: .notice}
-
-**Opinión:** Imagino que precisamente por la misma razón que EE.UU. China tampoco lo ratificó. Parece además que la situación china es especial, ya que este país se ha convertido en "la fábrica del mundo". Al relocalizar o cerrar las industrias de países occidentales, en cierta forma se está trasladando la responsabilidad a los chinos, ya que su cierre implica reducción de emisiones. Es decir, la relocalización industrial se puede ver como una estratagema para aparentar ser un estado limpio, aunque luego sus importaciones sean ingentes. Por eso, creo que una unidad que tuviera en cuenta el consumo o las importaciones sería muy eficaz para evitar perjudicar a países como el chino, que se encuentran en pleno desarrollo ofreciendo un servicio global de fabricación a bajo coste.
+> Imagino que precisamente por la misma razón que EE.UU. China tampoco lo ratificó. Parece además que la situación china es especial, ya que este país se ha convertido en "la fábrica del mundo". Al relocalizar o cerrar las industrias de países occidentales, en cierta forma se está trasladando la responsabilidad a los chinos, ya que su cierre implica reducción de emisiones. Es decir, la relocalización industrial se puede ver como una estratagema para aparentar ser un estado limpio, aunque luego sus importaciones sean ingentes. Por eso, creo que una unidad que tuviera en cuenta el consumo o las importaciones sería muy eficaz para evitar perjudicar a países como el chino, que se encuentran en pleno desarrollo ofreciendo un servicio global de fabricación a bajo coste.
 
 
 
@@ -134,9 +133,9 @@ Posteriormente, si durante dicho periodo se reforesta y las emisiones LULUCF net
 
 El protocolo identifica que las consecuencias positivas debido a actividades LULUCF son potencialmente temporales. Por ejemplo, en los casos de proyectos CDM se requiere revisión cada 5 años para comprobar que el CO2 absorbido por el proyecto se mantiene y no se ha vuelto a emitir a la atmósfera.
 
-**Nota**: Llama la atención que no se incluyen otras actividades para promover otro tipo de sumideros naturales distintos a los bosques o actividades positivas más generales como "protección de habitats naturales", por ejemplo "la "deforestación evitada". Fue de hecho en 2001, durante los acuerdos de Marrakech cuando se decidió que únicamente las actividades de Forestación y Reforestación fueran tenidas en cuenta en el protocolo.
-
 {: .notice--warning}
+
+**Nota**: Llama la atención que no se incluyen otras actividades para promover otro tipo de sumideros naturales distintos a los bosques o actividades positivas más generales como "protección de habitats naturales", por ejemplo "la "deforestación evitada". Fue de hecho en 2001, durante los acuerdos de Marrakech cuando se decidió que únicamente las actividades de Forestación y Reforestación fueran tenidas en cuenta en el protocolo.
 
 ## Rendición de cuentas 
 
