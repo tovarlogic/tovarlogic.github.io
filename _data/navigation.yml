@@ -133,8 +133,6 @@ sidebar-sample:
         url: /
 
 cambio-climatico:
-  - title: "Inicio"
-    url: /series/cambio-climatico
   - title: "UNFCCC"
     children:
       - title: "Protocolo de Montreal"
@@ -147,9 +145,7 @@ cambio-climatico:
         url: /conocimiento/Acuerdo-Paris
 
 civilizaciones:
-  - title: "Inicio"
-    url: /series/civilizaciones
-  - title: "Neolítico a Edad de Bronce"
+  - title: "Edad de Bronce"
     children:
       - title: "Viejo mundo"
         children:

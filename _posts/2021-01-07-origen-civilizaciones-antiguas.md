@@ -4,7 +4,9 @@ date:   2021-01-07
 tags: [Historia]
 category: [Conocimiento]
 serie: civilizaciones
-sidebar: civilizaciones
+layout: single
+sidebar:
+  nav: "civilizaciones"
 toc: true
 toc_sticky: true
 excerpt: Artículo que permite comprender nuestra civilización actual conociendo las tradiciones e instituciones que hemos heredado de las primeras civilizaciones humanas. Aquí se resume su origen en la edad de bronce, a partir de pueblos neolíticos pre-existentes en la región del creciente fértil, y su desarrollo hasta la edad de hierro.
