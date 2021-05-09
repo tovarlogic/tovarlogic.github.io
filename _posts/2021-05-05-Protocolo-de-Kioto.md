@@ -4,6 +4,7 @@ date:   2021-05-05
 tags: [Medio Ambiente]
 category: [Conocimiento]
 serie: cambio-climatico
+layout: single
 sidebar:
   nav: "cambio-climatico"
 toc: true
