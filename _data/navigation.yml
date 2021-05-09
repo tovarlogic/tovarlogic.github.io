@@ -145,9 +145,10 @@ cambio-climatico:
         url: /conocimiento/Acuerdo-Paris
 
 civilizaciones:
-  - title: "Edad de Bronce"
+  - title: "Viejo mundo: Edad de Bronce"
     children:
-      - title: "Viejo mundo"
-        children:
-          - title: "Origen civilizaciones antiguas"
-            url: /conocimiento/origen-civilizaciones-antiguas/
+      - title: "Origen civilizaciones antiguas"
+        url: /conocimiento/origen-civilizaciones-antiguas/
+      - title: "Grecia antigua"
+        url: /conocimiento/grecia-antigua/
+          
