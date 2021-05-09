@@ -145,10 +145,12 @@ cambio-climatico:
         url: /conocimiento/Acuerdo-Paris
 
 civilizaciones:
-  - title: "Viejo mundo: Edad de Bronce"
+  - title: "Occidente"
     children:
       - title: "Origen civilizaciones antiguas"
         url: /conocimiento/origen-civilizaciones-antiguas/
       - title: "Grecia antigua"
-        url: /conocimiento/grecia-antigua/
+        url: /conocimiento/Grecia-Antigua/
+  - title: "Asia"
+  - title: "America"
           
