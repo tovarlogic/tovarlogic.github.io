@@ -11,7 +11,6 @@ main:
   - title: "Quotes"
     url: /quotes/
 
-
 # documentation links
 docs:
   - title: Getting Started
@@ -108,7 +107,7 @@ razonamiento:
     children:
       - title: "de Autoridad"
         url: /conocimiento/Argumento-Autoridad
-      - title: "por Analogía "A pari"
+      - title: "por Analogía "A pari""
         url: /conocimiento/Argumento-Analogia-A-PARI
-      - title: "por Analogía "A fortiori
+      - title: "por Analogía "A fortiori""
         url: /conocimiento/Argumento-Analogia-A-FORTIORI
