@@ -4,6 +4,9 @@ date:   2018-08-11
 tags: [Mind tools, Lógica, Pensamiento crítico]
 category: [Conocimiento]
 serie: razonamiento
+layout: single
+sidebar:
+  nav: "razonamiento"
 toc: true
 toc_sticky: true
 excerpt: Comparación del mismo grado por igualdad o semejanza.
