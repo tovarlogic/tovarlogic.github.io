@@ -104,7 +104,11 @@ alimentacion:
 
 razonamiento:
   - title: "Razonamiento"
-    url: /conocimiento/Razonamiento
+    children:
+      - title: "Cuestiones básicas"
+        url: /conocimiento/Razonamiento
+      - title: "Uso de razón"
+        url: /conocimiento/uso-de-razon
   - title: "Argumentos"
     children:
       - title: "de Autoridad"
