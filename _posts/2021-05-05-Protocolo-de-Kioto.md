@@ -169,7 +169,8 @@ Por último se decidió en esta enmienda que el Fondo de Adaptación, que se hab
 
 # Bibliografía y enlaces de interés
 
-- [UNFCCC: ¿Que es el Protocolo de Kyoto?](https://unfccc.int/es/kyoto_protocol)
-- [UNFCCC: Protocolo de Kyoto ed 1998](https://unfccc.int/resource/docs/convkp/kpeng.pdf)
-- [UNFCCC: Manual de referencia del Protocolo de Kyoto](https://unfccc.int/sites/default/files/08_unfccc_kp_ref_manual.pdf)
+- [UNFCCC: ¿Que es el Protocolo de Kioto?](https://unfccc.int/es/kyoto_protocol)
+- [UNFCCC: Protocolo de Kioto ed. 1998 (ENG)](https://unfccc.int/resource/docs/convkp/kpeng.pdf)
+- [UNFCCC: Protocolo de Kioto ed. 1998 (ESP)](https://unfccc.int/resource/docs/convkp/kpspan.pdf)
+- [UNFCCC: Manual de referencia del Protocolo de Kioto](https://unfccc.int/sites/default/files/08_unfccc_kp_ref_manual.pdf)
 - [UNFCCC: Enmienda de DOHA](https://unfccc.int/files/kyoto_protocol/application/pdf/kp_doha_amendment_spanish.pdf)
