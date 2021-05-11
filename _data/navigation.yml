@@ -105,9 +105,9 @@ alimentacion:
 razonamiento:
   - title: "Razonamiento"
     children:
-      - title: "Cuestiones básicas"
+      - title: "Fundamentos"
         url: /conocimiento/Razonamiento
-      - title: "Uso de razón"
+      - title: "Cuestiones básicas"
         url: /conocimiento/uso-de-razon
   - title: "Argumentos"
     children:

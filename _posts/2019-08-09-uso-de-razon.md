@@ -85,7 +85,7 @@ En la mayor parte de los debates complejos, que plantean **cuestiones de acción
 
 ### Síntesis
 
-{: .notice}
+<div class="notice">
 
 Mientras no esté resuelta esta cuestión, mientras no sepamos o  aceptemos que las cosas han ocurrido u ocurren y que lo hacen de ésta o  de aquélla manera, será prematura cualquier consideración sobre el  nombre o la evaluación de las mismas. No es posible discutir con sentido la valoración de algo cuya existencia no está razonablemente admitida.  Esto puede sonar a perogrullada, pero en el terreno de las disputas  todas las precauciones son pocas.
 
@@ -101,6 +101,8 @@ En el mismo grado en que se den estas condiciones, estimaremos que la explicaci�
 - Motivo es la causa de hacer algo. Los motivos básicos son dos: obtención de un bien y evitación de un mal.
 - Es posible todo lo que, habiendo voluntad, puede ocurrir porque no  está reñido con las leyes de la naturaleza, no es absurdo, cuenta con  los medios adecuados y no tropieza con obstáculos infranqueables. En las cosas posibles nos interesa su probabilidad y su facilidad.
 - Se trata de un debate previo a cualquier otro.
+
+</div>
 
 ### Los hechos y sus circustancias
 
