@@ -124,8 +124,9 @@ razonamiento:
 
 notas-publico:
   - title: "Lo público"
+    url: /notas/publico/
     children:
       - title: "Impuestos"
-        url: /notas/publico-impuestos
+        url: /notas/publico/impuestos
       - title: "Sanidad"
-        url: /notas/publico-sanidad
+        url: /notas/publico/sanidad

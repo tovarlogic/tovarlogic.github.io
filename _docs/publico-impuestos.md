@@ -1,6 +1,6 @@
 ---
 title: "Impuestos"
-permalink: /docs/politica-impuestos/
+permalink: /docs/publico/impuestos/
 excerpt: "Descriptions and samples of all layouts included with the theme and how to best use them."
 single_layout_gallery:
   - image_path: /assets/images/mm-layout-single-header.png
@@ -10,7 +10,7 @@ single_layout_gallery:
 last_modified_at: 2020-08-30T21:27:40-04:00
 toc: true
 sidebar:
-  nav: "notas-politica"
+  nav: "notas-publico"
 ---
 
 ## IVA
