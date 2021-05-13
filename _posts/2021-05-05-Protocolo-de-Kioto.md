@@ -21,9 +21,9 @@ header:
 
 El protocolo fue aprobado en Diciembre de 1997 inicialmente por 39 naciones, EE.UU. y China no lo ratificaron.  La firma del protocolo puso en marcha la "Convención Marco de las Naciones Unidas sobre el Cambio Climático" (UNFCCC), que había sido previamente creada en 1992. Posteriormente, en Diciembre de 2005 se aprobaron los "Acuerdos de Marrakesh" donde se detallaban las reglas y procedimientos para su implementación. El primer periodo de compromiso no comenzó hasta 2008.
 
-El objetivo último del protocolo es "estabilizar las concentraciones atmosféricas de gases de efecto invernadero (GEI) a niveles seguros para no interferir peligrosamente con el sistema climático".
+El objetivo último del protocolo es **"estabilizar las concentraciones atmosféricas de gases de efecto invernadero (GEI) a niveles seguros para no interferir peligrosamente con el sistema climático"**.
 
-El acuerdo es vinculante para los estados, aunque únicamente para los desarrollados, que se comprometen a reducir sus emisiones de GEI. Sólo los estados desarrollados se comprometen porque en el acuerdo se reconoce que son estos los principales responsables para el aumento de concentraciones de CO2 atmosférico. En la actualidad unos 190 países han ratificado el protocolo.
+El acuerdo es vinculante para los estados, aunque únicamente para los desarrollados, que se comprometen a reducir sus emisiones de GEI. Sólo los estados desarrollados se comprometen porque en el acuerdo se reconoce que son estos los principales responsables para el aumento de concentraciones de CO2 atmosférico. En la actualidad unos 190 países han ratificado el protocolo. No obstante, como los principales emisores no forman parte del acuerdo, únicamente están cubiertas el **12%** de las emisiones globales.
 
 {: .notice--warning}
 
@@ -33,21 +33,26 @@ El acuerdo es vinculante para los estados, aunque únicamente para los desarroll
 
 
 
-La unidad que se emplea para el control de emisiones es t-CO2-eq, es decir, toneladas equivalentes de CO2, que por simplicidad se les llama "Unidades Kyoto". 
+La unidad que se emplea para el control de emisiones es t-CO2-eq, es decir, toneladas equivalentes de CO2, que por simplicidad se les llama "Unidades Kioto". 
 
 {: .notice--info}
 
 **Info**: El empleo de una unidad "equivalente a CO2" se debe a que las moléculas de los diferentes GEI tienen capacidades de absorción térmica y tiempos de permanencia en la atmósfera distintos. Con esta medida se corrigen estas diferencias en una unidad equivalente y, por tanto, comparable.
 
-Al comienzo de aplicación del protocolo se establece un "periodo de compromiso" de varios años en los que cada país se compromete a cumplir unos objetivos de reducción de emisiones. Para cada periodo cada estado es asignado con unas unidades kyoto permitidas. Dichas unidades iniciales posteriormente se podrán modificar con la adopción de tecnologías de reducción de emisiones, cambios de uso de suelo o mediante el comercio que establecen los mecanismos de kyoto. 
+Al comienzo de aplicación del protocolo se establece un "periodo de compromiso" de varios años en los que cada país se compromete a cumplir unos objetivos de reducción de emisiones. Para cada periodo cada estado es asignado con unas "Unidades Kioto" permitidas. Dichas unidades iniciales posteriormente se podrán modificar con la adopción de tecnologías de reducción de emisiones, cambios de uso de suelo o mediante el comercio que establecen los "Mecanismos de Kioto". 
 
-El protocolo hace especial hincapié en la responsabilidad de los paises desarrollados sobre el estado actual de la concentración de GEI en la atmósfera. Por ello, requiere que cada estado miembro provea a través de sus presupuestos nacionales recursos económicos destinados a proyectos que faciliten el desarrollo de terceros países empleando tecnologías limpias y mejorando el secuestro natural de CO2 mediante la reforestación.
+Se acordaron dos periodos de compromiso:
+
+- Primer periodo (2008-2012): los países industrializados se comprometieron a reducir las emisiones medias en un 5% por debajo de los niveles de 1990.
+- Segundo periodo (2013-2020): los países industrializados se comprometieron a reducir las emisiones medias en un 18% por debajo de los niveles de 1990.
+
+El protocolo hace especial hincapié en la responsabilidad de los países desarrollados sobre el estado actual de la concentración de GEI en la atmósfera. Por ello, requiere que cada estado miembro provea a través de sus presupuestos nacionales recursos económicos destinados a proyectos que faciliten el desarrollo de terceros países empleando tecnologías limpias y mejorando el secuestro natural de CO2 mediante la reforestación.
 
 El modo de funcionamiento del protocolo con sus mecanismos y unidades,que representan t-CO2-eq, se asemeja al de un libro de contabilidad, donde se registran las emisiones (debe) y las reducciones/eliminaciones (haber), categorizadas por tipos, pero que al final del periodo lo que se busca es un superávit de unidades general sin realmente importar como.
 
 Es, en definitiva, un protocolo diseñado para promover, coordinar, gestionar y verificar la reducción directa de emisiones de gases de efecto invernadero. Por el momento no considera opciones preventivas, como el fomento de la reserva de hábitats naturales, o cambios de hábitos, ni opciones temporales, como la captura de CO2. 
 
-No obstante, a lo anterior, existe una creciente sensibilidad sobre las medidas preventivas que se evidencia en las actas de las "Conference of the Parties" o "Conferencia de las Partes"" (COPs) enmarcadas en la UNFCCC y el Protocolo de Kyoto, y que reflejan distintas iniciativas regionales y globales que intentan atajar estas carencias del protocolo. 
+No obstante, a lo anterior, existe una creciente sensibilidad sobre las medidas preventivas que se evidencia en las actas de las "Conferencia de las Partes" (COPs) y las "Reuniones de las Partes del Protocolo de Kioto" (CMP), principales órganos de decisión de la Convención y del Protocolo de Kioto respectivamente. Lo mismo ocurre con distintas iniciativas regionales y globales que intentan atajar estas carencias del protocolo, incluyendo el Propio Acuerdo de París. 
 
 ## Compromisos concretos
 
