@@ -1,6 +1,6 @@
 ---
 title: "Impuestos"
-permalink: /docs/publico/impuestos/
+permalink: /notas/publico/impuestos/
 excerpt: "Descriptions and samples of all layouts included with the theme and how to best use them."
 single_layout_gallery:
   - image_path: /assets/images/mm-layout-single-header.png

@@ -1,9 +1,7 @@
 ---
-title: "Quick-Start Guide"
+title: "Inicio"
 permalink: /notas/publico/
-excerpt: "How to quickly install and setup Minimal Mistakes for use with GitHub Pages."
 last_modified_at: 2021-05-13
-toc: true
 layout: single
 sidebar:
   nav: "notas-publico"
