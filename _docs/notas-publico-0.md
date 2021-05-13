@@ -11,18 +11,28 @@ La sección `Notas: Lo Público` me permite gestionar de manera ágil y sencilla
 
 A través del menú de navegación de la izquierda se pueden acceder a las diferentes notas que he ido tomando y ampliando a lo largo del tiempo. Con el menú de la derecha podrás navegar dentro de cada una de estas y ver la estructura general en secciones.
 
-
 ## Impuestos
 
+- Como generalidad, en mi opinión, es deseable que exista cierta correspondencia entre los impuestos cobrados en un área, sector o de una categoría y lo que el estado invierte. Ej: impuestos energía, combustibles, envases vs inversión contra cambio climático y protección de habitats naturales; IRPF vs jubilación; permisos de circulación y peajes vs mantenimiento e inversión de infraestructuras.
+
 ### IVA
-#### Filosofía
 - Reflejar adecuadamente los costes públicos. Ej: sociales, medioambientales, mantenimiento, sanidad, etc...
 - Inventivar hábitos de consumo adecuados y desincentivar los que no lo son de acuerdo a distintos criterios. Ej: Sostenibilidad, contaminación, etc...
 
-#### A tener en cuenta
 - Si existen hábitos de consumo deseables, que a pesar de su bajo nivel de impuestos, su precio es tal que crea una brecha social por su inaccesibilidad habrá que buscar otras medidas (no necesariamente fiscales para mitigarlas) EJ: soluciones en el sector privado que facilite su adopción barata.
 - **copagos** o **peajes**: En el caso de posibles usos intensivos de los servicios o infraestructuras públicas por una parte determinada de la población, se debería establecer que una porción de los costes se financien de esta manera. 
 - **Temporalidad**: Cuando las medidas fiscales se preven que tengan una validez temporal, por ejemplo, en caso de medidas de incentivación de nuevos servicios o productos que resultan deseables par erl bien común, su temporalidad no debería definirse en unidades de tiempo sino en penetración de mercado. De este modo inicialmente se incentiva, con bajos impuestos su adopción; pero si los impuestos se mantienen demasiado bajos cuando el nuevo servicio/producto haya desplazado a los previamente existentes se corre el riesgo en disminuir demasiado la recaudación. Esto solo sería sostenible en caso que su implantación generalizada redujera los costes en la misma proporción que la recaudación.
+
+### IRPF
+
+- No tienen sentido los escalones de cotización. La manera más simple es establecer una función.
+- Considero que dicha función tiene que ser "progresiva" pero que tiene que existir un límite máximo para los ingresos muy elevados. De lo contrario se incentiva el fraude y además se pierde el sentido de la recaudación pues una sociedad no tiene que penalizar a los que ganan mucho sino promover que exista una clase media mayoritaria y sobre todo una clase baja mínima.
+
+### Sociedades
+
+- La globalización y las TI complican mucho la recaudación de impuestos. Es necesario un sistema que garantice que se paguen impuestos dónde se da el servicio, pero también donde se encuentran los costes empresariales y sus recursos humanos y tecnológicos.
+- Encontrar un equilibrio para cobrar este impuesto a las multinacionales requiere de cooperación internacional.
+- Los impuestos de sociedades, al igual que los de consumo deben gravar en mayor proporción a las actividades con mayores costos para la sociedad y el medio ambiente.
 
 ## Sanidad
 ### Acceso datos
@@ -75,5 +85,4 @@ A través del menú de navegación de la izquierda se pueden acceder a las difer
 
 ## Delitos públicos
 
-- Los "delitos públicos", como malversación de fondos públicos, no deben prescribir.
-- 
+- Los "delitos públicos", como malversación de fondos o currupción, no deben prescribir.
