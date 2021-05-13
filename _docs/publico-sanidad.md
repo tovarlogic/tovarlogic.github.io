@@ -1,6 +1,6 @@
 ---
 title: "Sanidad"
-permalink: /notas/politica-sanidad/
+permalink: /docs/politica-sanidad/
 excerpt: "Descriptions and samples of all layouts included with the theme and how to best use them."
 single_layout_gallery:
   - image_path: /assets/images/mm-layout-single-header.png
