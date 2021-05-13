@@ -2,7 +2,7 @@
 title: "Inicio"
 permalink: /notas/publico/
 last_modified_at: 2021-05-13
-layout: single_left
+layout: single
 ---
 
 La sección `Notas: Lo Público` me permite gestionar de manera ágil y sencilla mis pensamientos sobre la gestión de lo público en general.
