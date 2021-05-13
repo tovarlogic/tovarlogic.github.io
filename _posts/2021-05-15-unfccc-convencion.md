@@ -29,9 +29,9 @@ Fue un hito importante ya que se reconocía la posibilidad de que el ser humano 
 
 El objetivo final de la Convención es estabilizar las concentraciones de gases de efecto invernadero "a un nivel que impida interferencias  antropógenas (inducidas por el hombre) peligrosas en el sistema  climático". Establece que "ese nivel debería alcanzarse en un plazo  suficiente para permitir que los ecosistemas se adapten naturalmente al  cambio climático, asegurar que la producción de alimentos no se vea  amenazada y permitir que el desarrollo económico prosiga de manera  sostenible".
 
-La determinación de lo que se considera niveles peligrosos se basa en los informes del Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC) creado en 1988.
-
 {: .notice--info}
+
+La determinación de lo que se considera niveles peligrosos se basa en los informes del Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC) creado en 1988.
 
 La convención crea el marco con los fundamentos que heredarían posteriormente el KP y el AP. Estos son principalmente:
 
@@ -54,7 +54,7 @@ Por último, los compromisos de la convención y las medidas que se lleven a cab
 
 La visión de la convención, en definitiva, es que todas las decisiones nacionales tengan en cuenta el cambio climático, de modo que se actúe de manera integral en todos los ámbitos socioeconómicos.
 
-## Principios
+# Principios
 
 Las medidas que se adopten para lograr el objetivo de la Convención se guiarán por lo siguiente:
 
@@ -64,7 +64,7 @@ Las medidas que se adopten para lograr el objetivo de la Convención se guiarán
 4. **Derecho al desarrollo sostenible que se debe promover**, teniendo  en  cuenta  que  el crecimiento económico es esencial para la adopción de medidas encaminadas a hacer frente al cambio climático.
 5. Las  Partes  deberían  **cooperar  en  la  promoción  de  un  sistema  económico internacional  abierto  y  propicio  que  condujera  al  crecimiento  económico  y  desarrollo sostenibles**  de  todas  las  Partes.
 
-## Compromisos
+# Compromisos
 
 1. **Inventarios nacionales**: Elaborar,  actualizar  periódicamente,  publicar  y  facilitar  a  la  Conferencia  de las  Partes,  de  conformidad  con  el  artículo  12,  inventarios  nacionales  de  las  emisiones antropógenas  por  las  fuentes  y  de  la  absorción  por  los  sumideros  de  todos  los GEI.
 2. **Planes de Mitigación**: Formular, aplicar, publicar y actualizar regularmente programas nacionales y, según proceda, regionales, que contengan medidas orientadas a mitigar el cambio climático y medidas para facilitar la adaptación adecuada al cambio climático.
@@ -78,20 +78,24 @@ Las medidas que se adopten para lograr el objetivo de la Convención se guiarán
 10. **Informar del progreso a la Convención**: Comunicar  a  la  Conferencia  de  las  Partes  la  información  relativa  a  la aplicación, de conformidad con el artículo 12.
 11. **Cooperación financiera**: Las Partes que son países desarrollados, proporcionarán recursos financieros nuevos y adicionales para cubrir la  totalidad  de  los  gastos  convenidos  que  efectúen  las  Partes  que  son  países  en  desarrollo para   cumplir   sus   obligaciones. También proporcionarán  los  recursos  financieros,  entre  ellos  recursos  para  la  transferencia  de tecnología.
 
+# Órganos
+
 ## Conferencia de las partes
 
 Se establece las Conferencias de las Partes (COPs) que en calidad de órgano supremo de la Convención, examinará regularmente la aplicación de la Convención y tomará las decisiones necesarias para promover su aplicación eficaz. 
 
-## Órganos subsidiarios y Mecanismos
+## Órganos subsidiarios 
 
 Se crean diferentes órganos subsidiarios para el correcto funcionamiento de la Convención:
 
 - de **Asesoramiento Científico y Tecnológico** encargado de proporcionar a la Conferencia de las Partes y a sus demás órganos subsidiarios, información y asesoramiento oportunos sobre los aspectos científicos  y  tecnológicos 
 - de **Ejecución** para ayudar  a  la  Conferencia  de  las  Partes  en  la  evaluación  y  el  examen  del  cumplimiento efectivo de la Convención
 
+## Mecanismo financiero
+
 Así mismo se establece un **Mecanismo de financiación** para  el  suministro  de  recursos financieros  a  título  de  subvención  o  en  condiciones  de  favor  para,  entre  otras  cosas,  la transferencia de tecnología.
 
-## Bibliografía y referencias
+# Bibliografía y referencias
 
 - [CMNUCC ed consolidada 1992](https://unfccc.int/sites/default/files/convention_text_with_annexes_spanish_for_posting.pdf)
 
