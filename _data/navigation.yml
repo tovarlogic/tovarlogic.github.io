@@ -121,12 +121,3 @@ razonamiento:
         url: /conocimiento/Argumento-Analogia-A-PARI
       - title: "por Analogía 'A fortiori'"
         url: /conocimiento/Argumento-Analogia-A-FORTIORI
-
-notas-publico:
-  - title: "Lo público"
-    url: /notas/publico/
-    children:
-      - title: "Impuestos"
-        url: /notas/publico/impuestos
-      - title: "Sanidad"
-        url: /notas/publico/sanidad

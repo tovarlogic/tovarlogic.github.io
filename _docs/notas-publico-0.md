@@ -28,7 +28,52 @@ A través del menú de navegación de la izquierda se pueden acceder a las difer
 ### Acceso datos
 
 - Los datos generados tienen un valor y utilidad infrautilizados.
-- Desde el punto de vista **público** se pueden emeplar para estudios poblacionales y con ellos generar recomendaciones y tratamientos personalizados.
-- Desde el punto de vista **comercial** se puede obtener rentabilidad de la infromación generada y de ese modo financiar parcialmente los costes del servicio.
+- Desde el punto de vista **público** se pueden emplear para estudios poblacionales y con ellos generar recomendaciones y tratamientos personalizados.
+- Desde el punto de vista **comercial** se puede obtener rentabilidad de la información generada y de ese modo financiar parcialmente los costes del servicio.
 - Los datos deben ser anonimizados. Únicamente si la aplicación de los datos va a ser estudios o recomendaciones personalizadas, se podrán compartir con datos de identificación personal.
 - El acceso a los datos con identificación personal requeriría de aceptación explícita por parte de su propietario, es decir, el paciente.
+
+## Comunidades Autónomas
+
+### Sistemas aislados
+
+- En la actualidad las CC.AA. se comportan como sistemas aislados. No lo veo deseable, lo ideal es que aunque la gestión sea autónoma, los sistemas sean nacionales. Ej: Sistemas informáticos y bases de datos.
+- En las cuestiones cuya gestión tiene autonomía la comunidad, debería de existir un sistema de seguimiento y control nacional para cooperativamente unificar criterios y tener índices de calidad que permita mejorar a las comunidades más rezagadas. La idea es coger lo mejor de cada una y de ese modo beneficiar al resto del país.
+- Se debe evitar que las cuestiones básicas provoquen brechas sociales, en la medida de lo posible hay que unificar criterios, establecer estructuras equivalentes mientras se permita margen de adaptación a cada CC.AA. sin que las diferencias cuantitativas excedan una horquilla permitida. Las cualitativas se deben gestionar a través de índices que permita comparar entre comunidades.
+
+## Ayudas públicas
+
+- El sistema de ayudas públicas debe de contar con un sistema de seguimiento y control nacional. Las ayudas, son recursos limitados y muy valiosos, deben estar sujetas a condicionantes que permitan optimizar su eficacia y eficiencia.
+- Este sistema tienen q asegurarse que no exista duplicidad de modo que se llegue al máximo numero de beneficiarios posibles y evitar dobles cobros. Ej: ayudas estatales + de la CC.AA. a un mismo individuo o sociedad.
+- En muchos casos las ayudan no tienen porqué ser a fondo perdido, algunas deberían devolverse una vez hayan logrado su objetivo y la parte receptora se encuentre en disposición de devolver la inversión que el estado ha hecho a su favor. Ej: becas de estudio o emprendimiento.
+- Las ayudas deberían tener carácter condicionante y ser de pagos fraccionados siempre que sea posible. Cada pago requeriría la comprobación de los requisitos y progresos necesarios.
+- El no cumplimiento de ciertos requisitos podrían estar sujetos a sanción. Ej: económicas, ilegibilidad para otras ayudas de la misma índole.
+- En cuestiones estratégicas y que requieren mayor desarrollo, el estado puede incentivar la emprendeduría, investigación y demás gamificando el sistema. Ej: concursos y premios
+
+## Funcionariado, oposiciones y gestión empresarial
+
+- El convenio colectivo del funcionariado no debe de contener privilegios que pongan en peligro la eficiencia y eficacia de su labor y gestión.  
+- **Oposiciones**:
+  - El acceso al funcionariado debe mantener garantías para evitar el clientelismo. Al mismo tiempo se debe agilizar el acceso para que sea ágil.
+  - El sistema actual es poco ágil y probablemente demasiado costoso. 
+  - Se podría mejorar si siempre existiera una bolsa de empleabilidad para diferentes puestos o categorías. Según la necesidad se contratarían a las personas que mejor posicionadas estuvieran.
+  - Dicha bolsa se podría actualizar periódicamente con exámenes anuales y revisión de méritos aún más frecuente, por ejemplo, trimestralmente. A diferencia de la actualidad la bolsa no se resetea con cada examen, sino que simplemente se actualiza. Por lo que siempre hay gente disponible para ser contratada según necesidad del servicio.
+  - Para evitar demasiadas diferencias en puntuación en caso de por la posibilidad de que un año el examen sea más fácil que otros, además de mantener una estructura relativamente invariable, se puede establecer una caducidad de la puntuación teórica, por ejemplo 3 años, de ese modo, para permanecer en la bolsa hay que mantener los conocimientos reciclados.
+  - Se puede incluir una fase final de selección, donde además de las actuales partes comunes de teoría y méritos, exista un tribunal para entrevistas de idoneidad.
+- **Gestión empresarial**:
+  - Tiene que modernizarse la gestión de las empresas públicas y sus empleados, incluyendo funcionariado en sistemas públicos como educación, sanidad, etc...
+  - Tiene que existir una gestión de recursos humanos adecuada, que fomente el reciclaje profesional, motivación, rotación, etc.. 
+  - Una plaza de funcionario no puede ser "para siempre", tiene que existir criterios puramente empresariales que valoren la eficacia y eficiencia de todos los empleados y ejecutivos.
+  - El acceso de políticos como consejeros debe estar mucho más limitada, si no eliminada por completo. Concflictos de intereses son una cuestión muy
+
+## Educación
+
+- En valores
+- indices de calidad y satisfacción
+
+## Separación de poderes
+
+## Delitos públicos
+
+- Los "delitos públicos", como malversación de fondos públicos, no deben prescribir.
+- 
