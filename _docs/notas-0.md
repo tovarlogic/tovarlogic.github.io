@@ -13,5 +13,5 @@ Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que
 
 | Sección                                        | Descripción                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
-| [Lo público](/publico/) | Sección sobre ideas de política y gestión de lo público. |
+| [Lo público](publico/) | Sección sobre ideas de política y gestión de lo público. |
 
