@@ -23,6 +23,5 @@ cookmins: 5
 yield: 4
 receta: [Salsas]
 Author: Elaboración propia
-
 ---
 

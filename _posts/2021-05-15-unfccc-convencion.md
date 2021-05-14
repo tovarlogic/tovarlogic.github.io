@@ -25,13 +25,15 @@ La CMNUCC es el principal tratado internacional contra el cambio climático. Baj
 
 El objetivo de la Convención es **la estabilización  de  las  concentraciones  de  gases  de  efecto invernadero en la atmósfera a un nivel que impida interferencias antropógenas peligrosas en el sistema climático**, que debería alcanzarse en un plazo suficiente para permitir que los ecosistemas  se  adapten  naturalmente  al  cambio  climático,  asegurar  que  la  producciónde alimentos  no se  vea amenazada  y permitir  que  el  desarrollo económico prosiga  de  manera sostenible.
 
-Fue un hito importante ya que se reconocía la posibilidad de que el ser humano pudiera interferir en el clima. Aunque la evidencia científica en aquella época no era irrefutable como lo es ahora, se creó la convención bajo el principio, heredado por el el Protocolo de Montreal, en 1987, que obligaba a los Estados miembros a actuar en interés de la seguridad humana incluso ante la incertidumbre científica.
-
-El objetivo final de la Convención es estabilizar las concentraciones de gases de efecto invernadero "a un nivel que impida interferencias  antropógenas (inducidas por el hombre) peligrosas en el sistema  climático". Establece que "ese nivel debería alcanzarse en un plazo  suficiente para permitir que los ecosistemas se adapten naturalmente al  cambio climático, asegurar que la producción de alimentos no se vea  amenazada y permitir que el desarrollo económico prosiga de manera  sostenible".
-
 {: .notice--info}
 
 La determinación de lo que se considera niveles peligrosos se basa en los informes del Grupo Intergubernamental de Expertos sobre el Cambio Climático (IPCC) creado en 1988.
+
+Fue un hito importante ya que se reconocía la posibilidad de que el ser humano pudiera interferir en el clima. Aunque la evidencia científica en aquella época no era irrefutable como lo es ahora, se creó la convención bajo el principio, heredado por el el Protocolo de Montreal, en 1987, que obligaba a los Estados miembros a actuar en interés de la seguridad humana incluso ante la incertidumbre científica.
+
+Para aquel entonces **ya se advertía de la urgencia del problema** reconociendo de "la  necesidad  de  que los  países  desarrollados  actúen  de inmediato  de  manera  flexible  sobre  la  base  de  prioridades claras,  como  primer  paso  hacia estrategias de respuesta integral en los planos mundial, nacional y, cuando así se convenga, regional,  que  tomen  en  cuenta  todos  los  gases  de  efecto  invernadero,  con  la  debida consideración a sus contribuciones relativas a la intensificación del efecto de invernadero".
+
+De hecho, los compromisos de la convención y las medidas que se lleven a cabo a nivel nacional van dirigidos, no sólo a mitigar el cambio climático, sino también a adaptarse a los probables efectos adversos inevitables. Concretamente **se pretendía alcanzar a finales del año 2000 niveles de emisión equivalentes a los de 1990**.
 
 La convención crea el marco con los fundamentos que heredarían posteriormente el KP y el AP. Estos son principalmente:
 
@@ -43,14 +45,11 @@ La convención crea el marco con los fundamentos que heredarían posteriormente 
 
 Reconocen también que diversas  medidas  para  hacer  frente  al  cambio  climático pueden  justificarse  económicamente  por  sí  mismas  y  pueden  ayudar  también  a  resolver otros problemas ambientales.
 
-Para aquel entonces **ya se advertía de la urgencia del problema** reconociendo de "la  necesidad  de  que los  países  desarrollados  actúen  de inmediato  de  manera  flexible  sobre  la  base  de  prioridades claras,  como  primer  paso  hacia estrategias de respuesta integral en los planos mundial, nacional y, cuando así se convenga, regional,  que  tomen  en  cuenta  todos  los  gases  de  efecto  invernadero,  con  la  debida consideración a sus contribuciones relativas a la intensificación del efecto de invernadero".
-
 Se preveían los posibles efectos adversos del cambio climático, especialmente para aquellas regiones con ecosistemas vulnerables como:
 
 - Islas y zonas costeras bajas (por el ascenso del nivel del mar)
 - Zonas áridas y semiáridas; y sonas expuestas a inundaciones (por fénómenos extremos de sequía o lluvias torrenciales).
 
-Por último, los compromisos de la convención y las medidas que se lleven a cabo a nivel nacional van dirigidos, no sólo a mitigar el cambio climático, sino también a adaptarse a los probables efectos adversos inevitables. Concretamente **se pretendía alcanzar a finales del año 2000 niveles de emisión equivalentes a los de 1990**. 
 
 La visión de la convención, en definitiva, es que todas las decisiones nacionales tengan en cuenta el cambio climático, de modo que se actúe de manera integral en todos los ámbitos socioeconómicos.
 
