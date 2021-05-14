@@ -172,6 +172,8 @@ Los estados que se acogieron al nuevo periodo de compromiso son distintos a los 
 
 Por último se decidió en esta enmienda que el Fondo de Adaptación, que se había puesto en marcha con el protocolo para financiar proyectos y programas de adaptación a países en desarrollo, se financiara con un 2% de los beneficios obtenidos por el comercio internacional de permisos de emisión, proyectos JI y MDL o CDM. Previamente, durante el primer periodo, se había financiado únicamente mediante proyectos MDL o CDM.
 
+{% include posts/cambio-climatico-definiciones.md %}
+
 # Bibliografía y enlaces de interés
 
 - [UNFCCC: ¿Que es el Protocolo de Kioto?](https://unfccc.int/es/kyoto_protocol)

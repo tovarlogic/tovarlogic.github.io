@@ -147,21 +147,15 @@ Con respecto a la comunicación de las medidas concretas que cada estado implant
 
 Se establecerá un mecanismo para facilitar la aplicación y promover el cumplimiento del acuerdo. Dicho mecanismo consistirá en un comité de expertos, de carácter facilitador y en ningún momento contencioso ni punitivo.
 
+{% include posts/cambio-climatico-definiciones.md %}
+
 # Enlace de interés y referencias
 
-[COP]: Conferencia de las partes
+- [UNFCCC: ¿Qué es el acuerdo de París?](https://unfccc.int/es/process-and-meetings/the-paris-agreement/que-es-el-acuerdo-de-paris)
 
-[GEI]: Gases de Efecto Invernadero
+- [UNFCCC: Acuerdo de París ed. 2015 (ESP)](https://unfccc.int/sites/default/files/spanish_paris_agreement.pdf)
 
-[NDC]: Contribuciones Determinadas a nivel Nacional
-
-[UNFCCC]: Convención Marco por el Cambio Climático de las Naciones Unidas
-
-[UNFCCC: ¿Qué es el acuerdo de París?](https://unfccc.int/es/process-and-meetings/the-paris-agreement/que-es-el-acuerdo-de-paris)
-
-[UNFCCC: Acuerdo de París ed. 2015 (ESP)](https://unfccc.int/sites/default/files/spanish_paris_agreement.pdf)
-
-[UNFCCC: Acuerdo de París ed. 2015 (ENG)](https://unfccc.int/sites/default/files/english_paris_agreement.pdf)
+- [UNFCCC: Acuerdo de París ed. 2015 (ENG)](https://unfccc.int/sites/default/files/english_paris_agreement.pdf)
 
 [^1]: IPCC
 [^2]: [UNFCCC news: Los compromisos climáticos no van por buen camino... (feb 2021)](https://unfccc.int/es/news/los-compromisos-climaticos-no-van-por-buen-camino-para-cumplir-los-objetivos-del-acuerdo-de-paris)
