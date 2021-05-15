@@ -75,8 +75,10 @@ cambio-climatico:
     children:
       - title: "Conferencia sobre el Medio Humano"
         url: /conocimiento/conferencia-medio-humano
+      - title: "Convenio de Viena"
+        url: /conocimiento/convenio-viena
       - title: "Protocolo de Montreal"
-        url: /conocimiento/Protocolo-Montreal
+        url: /conocimiento/protocolo-montreal
   - title: "UNFCCC"
     children:
       - title: "La convención"

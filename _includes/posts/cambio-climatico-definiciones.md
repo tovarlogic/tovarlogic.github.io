@@ -26,3 +26,5 @@
 *[MDL]: Mecanismo de Desarrollo Limpio
 *[CMP]: Reuniones de las Partes del Protocolo de Kioto
 *[LULUCF]: Land Use, Land-Use Change and Forestry - Uso de la Tierra, Cambio de Uso de la Tierra y Silvicultura (UTCUTS).
+*[DOL]: 
+*[HFC]: Hidrofluorocarbonos
