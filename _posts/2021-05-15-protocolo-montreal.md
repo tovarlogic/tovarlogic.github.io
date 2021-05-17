@@ -79,7 +79,7 @@ Las medidas con respecto a consumo y producción son:
 
 |                       | Países Desarrollados | Países en desarrollo |
 | --------------------- | -------------------- | -------------------- |
-| **Fecha Referencia ** | 1986                 | Media 1995-1997      |
+| **Fecha Referencia**  | 1986                 | Media 1995-1997      |
 | **Congelación**       | 1989                 | 1999                 |
 | **Reducción 50%**     |                      | 2002                 |
 | **Reducción 75%**     | 1994                 |                      |
@@ -100,7 +100,7 @@ Las medidas con respecto a consumo y producción son:
 
 |                       | Países Desarrollados | Países en desarrollo |
 | --------------------- | -------------------- | -------------------- |
-| **Fecha Referencia ** | 1986                 | Media 1995-1997      |
+| **Fecha Referencia**  | 1986                 | Media 1995-1997      |
 | **Congelación**       | 1992                 | 2002                 |
 | **Reducción 50%**     |                      | 2005                 |
 | **Reducción 100%**    | 1994 (*)             | 2010(*)              |
@@ -126,7 +126,7 @@ Las medidas con respecto a consumo y producción son:
 
 |                       | Países Desarrollados | Países en desarrollo |
 | --------------------- | -------------------- | -------------------- |
-| **Fecha Referencia ** | 1989                 | Media 1998-2000      |
+| **Fecha Referencia**  | 1989                 | Media 1998-2000      |
 | **Reducción 20%**     | 1993                 | 2003                 |
 | **Reducción 75%**     | 1994                 |                      |
 | **Reducción 85%**     |                      | 2007                 |
@@ -144,7 +144,7 @@ Las medidas con respecto a consumo y producción son:
 
 |                       | Países Desarrollados | Países en desarrollo |
 | --------------------- | -------------------- | -------------------- |
-| **Fecha Referencia ** | 1989                 | Media 1998-2000      |
+| **Fecha Referencia**  | 1989                 | Media 1998-2000      |
 | **Reducción 85%**     | 1995                 | 2005                 |
 | **Reducción 100%**    | 1996 (*)             | 2010 (*)             |
 
@@ -158,7 +158,7 @@ Las medidas con respecto a consumo y producción son:
 
 |                       | Países Desarrollados | Países en desarrollo |
 | --------------------- | -------------------- | -------------------- |
-| **Fecha Referencia ** | 1989                 | Media 1998-2000      |
+| **Fecha Referencia**  | 1989                 | Media 1998-2000      |
 | **Congelación**       | 1993                 | 2003                 |
 | **Reducción 30%**     |                      | 2005                 |
 | **Reducción 50%**     | 1994                 |                      |
@@ -216,7 +216,7 @@ medidas con respecto a **consumo** son:
 
 |                       | Países Desarrollados | Países en desarrollo |
 | --------------------- | -------------------- | -------------------- |
-| **Fecha Referencia ** | 1989 + 2,8% de CFC   | Media 2009–2010      |
+| **Fecha Referencia**  | 1989 + 2,8% de CFC   | Media 2009–2010      |
 | **Congelación**       | 1996                 | 2013                 |
 | **Reducción 10%**     |                      | 2015                 |
 | **Reducción 35%**     | 2004                 | 2020                 |
@@ -231,7 +231,7 @@ Las medidas con respecto a **producción** son:
 
 |                       | Países Desarrollados | Países en desarrollo |
 | --------------------- | -------------------- | -------------------- |
-| **Fecha Referencia ** | 1989 + 2,8% de CFC   | Media 2009–2010      |
+| **Fecha Referencia**  | 1989 + 2,8% de CFC   | Media 2009–2010      |
 | **Congelación**       | 2004                 | 2013                 |
 | **Reducción 10%**     |                      | 2015                 |
 | **Reducción 35%**     |                      | 2020                 |
@@ -354,7 +354,7 @@ Las medidas con respecto a consumo y producción son:
 
 |                       | Países Desarrollados | Países en desarrollo |
 | --------------------- | -------------------- | -------------------- |
-| **Fecha Referencia ** | 1991                 | 1995-1998            |
+| **Fecha Referencia**  | 1991                 | 1995-1998            |
 | **Congelación**       | 1995                 | 2002                 |
 | **Reducción 20%**     |                      | 2005                 |
 | **Reducción 25%**     | 1999                 |                      |
@@ -398,7 +398,7 @@ Las medidas con respecto a consumo y producción son:
 
 |                       | Países Desarrollados | Países en desarrollo G1 | Países en desarrollo G2 |
 | --------------------- | -------------------- | ----------------------- | ----------------------- |
-| **Fecha Referencia ** | 2011-2013 + 15% HCFC | 2020-2022 + 65%         | 2024-2026 + 65%         |
+| **Fecha Referencia**  | 2011-2013 + 15% HCFC | 2020-2022 + 65%         | 2024-2026 + 65%         |
 | **Congelación**       |                      | 2024                    | 2028                    |
 | **Reducción 10%**     | 2019                 | 2029                    | 2032                    |
 | **Reducción 20%**     |                      |                         |                         |
@@ -458,6 +458,6 @@ Es la enmienda más reciente y exigió la reducción gradual de los **hidrofluor
 - [Science Direct: Ozone Depletion and Related Topics](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/ozone-depletion-potential)
 
 # Referencias
-- [^sap_report_2018]: [UNEP: SAP assessment report 2018](https://www.epa.gov/ozone-layer-protection)
-- [^EPA_ODS]: [^EPA: Listado detallado ODS](https://www.epa.gov/ozone-layer-protection/ozone-depleting-substances)
+[^sap_report_2018]: [UNEP: SAP assessment report 2018](https://www.epa.gov/ozone-layer-protection)
+[^EPA_ODS]: [EPA: Listado detallado ODS](https://www.epa.gov/ozone-layer-protection/ozone-depleting-substances)
 
