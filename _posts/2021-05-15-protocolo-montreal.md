@@ -1,11 +1,11 @@
 ---
 title:  "Protocolo de Montreal"
 date:   2021-05-15
-last_modified_at: 2021-05-16T09:05:0-04:00
+last_modified_at: 2021-05-16
 tags: [Medio Ambiente]
 category: [Conocimiento]
 serie: cambio-climatic
-olayout: single
+layout: single
 sidebar:
   nav: "cambio-climatico"
 toc: true
