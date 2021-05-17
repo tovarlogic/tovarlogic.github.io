@@ -62,9 +62,8 @@ Adicionalmente, existe la unidad relativa, empleando como referencia el CO2 cuyo
 {: .notice--info}
 **Info**: Hay que tener en cuenta que los efectos de las emisiones, y su reducción, no son inmediatos sino diferidos durante años. Esto se debe en primer lugar a que aunque la mayoría de emisiones se realizan al nivel de la superficie terrestre, las sustancias acaban llegando a la estratosfera después de varios años de "viaje". Adicionalmente, cada ODS tiene un periodo de vida determinado, lo que les permite permanecer un tiempo en dicha capa destruyendo ozono hasta su desaparición.
 
-La agencia americana de protección ambiental ha publicado un [listado exhaustivo] de SAO con sus respectivos DAO y PCA.
+La agencia americana de protección ambiental ha publicado un listado exhaustivo[^EPA_ODS] de SAO con sus respectivos DAO y PCA.
 
-[listado exhaustivo]: [EPA: Listado detallado ODS]
 
 ## Anexo A - Grupo I: Clorofluorocarbonos 
 
@@ -442,7 +441,7 @@ Es la enmienda más reciente y exigió la reducción gradual de los **hidrofluor
 
 {% include posts/cambio-climatico-definiciones.md %}
 
-# Bibliografía y referencias
+# Bibliografía
 
 - [Protocolo de Montreal ed 2020](https://ozone.unep.org/sites/default/files/Handbooks/MP-Handbook-2020-Spanish.pdf)
 
@@ -456,9 +455,9 @@ Es la enmienda más reciente y exigió la reducción gradual de los **hidrofluor
 
 - [US Enviromental Protection Agency (EPA)](https://www.epa.gov/ozone-layer-protection)
 
-- [EPA: Listado detallado ODS](https://www.epa.gov/ozone-layer-protection/ozone-depleting-substances)
-
 - [Science Direct: Ozone Depletion and Related Topics](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/ozone-depletion-potential)
 
+# Referencias
 - [^sap_report_2018]: [UNEP: SAP assessment report 2018](https://www.epa.gov/ozone-layer-protection)
+- [^EPA_ODS]: [^EPA: Listado detallado ODS](https://www.epa.gov/ozone-layer-protection/ozone-depleting-substances)
 
