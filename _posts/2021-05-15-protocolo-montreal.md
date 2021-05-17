@@ -1,6 +1,7 @@
 ---
 title:  "Protocolo de Montreal"
 date:   2021-05-15
+last_modified_at: 2021-05-16T09:05:0-04:00
 tags: [Medio Ambiente]
 category: [Conocimiento]
 serie: cambio-climatic
@@ -19,7 +20,7 @@ header:
 
 # Introducción
 
-El Protocolo de Montreal sobre las Sustancias que Agotan la Capa de Ozono es un acuerdo mundial para proteger la capa de ozono de la Tierra mediante la eliminación gradual de los productos químicos que la destruyen. El acuerdo se firmó en 1987 y entró en vigor en 1989. Es un protocolo que amplía el Convenio de Viena para la Protección de la Capa de Ozono firmado en 1985. 
+El Protocolo de Montreal sobre las Sustancias que Agotan la capa de Ozono (SAO) es un acuerdo mundial para proteger la capa de ozono de la Tierra mediante la eliminación gradual de los productos químicos que la destruyen. El acuerdo se firmó en 1987 y entró en vigor en 1989. Es un protocolo que amplía el Convenio de Viena para la Protección de la Capa de Ozono firmado en 1985. 
 
 En el protocololo se  crea un plan de eliminación gradual que incluye tanto la producción como el consumo de sustancias agotadoras de la capa de ozono. Los Anexos C, E y F, establecen cuáles son las sustancias controladas. En la mayoría de casos, las sustancias controladas, que se identificaron como dañinas para la capa de ozono son empleados para:
 - Sistemas de refrigeración y aire acondicionado, 
@@ -27,9 +28,9 @@ En el protocololo se  crea un plan de eliminación gradual que incluye tanto la 
 - Disolventes
 - Aerosoles
 
-En las metodologías empleadas, no sólo se tienen en cuenta el Potencial de agotamiento del ozono de cada una de las sustancias sino el Potencial de calentamiento atmosférico en 100 años, lo que evidencia que para entonces ya existía evidencia clara sobre su capacidad para observer energía, aunque sus efectos en el clima aún no estuvieran claros.
+En las metodologías empleadas, no sólo se tienen en cuenta el Potencial de Agotamiento del Ozono (PAO) de cada una de las sustancias sino el Potencial de calentamiento atmosférico en 100 años (PCA100), lo que evidencia que para entonces ya existía evidencia clara sobre su capacidad para observer energía, aunque sus efectos en el clima aún no estuvieran claros.
 
-Para el control de dichas sustancias se tienen en cuenta los niveles de Producción, Consumo y Exportaciones/Importaciones nacionales, que combinadas a nivel internacional determinan los niveles globales de emisión.
+Para el control de las SAO se tienen en cuenta los niveles de Producción, Consumo y Exportaciones/Importaciones nacionales, que combinadas a nivel internacional determinan los niveles globales de emisión.
 
 Las medidas concretas para la protección de la capa de Ozono son:
 
@@ -50,6 +51,20 @@ De manera general, este protocolo establece los principios que heredarán los pr
 Cabe destacar que el Protocolo de Montreal, como el resto de convenios, tratados y acuerdos de la UN relacionados con el Ozono, protección del medio ambiente y cambio climático, es lo que se suele llamar "normativa blanda". Por ello, en caso de incumplimiento de los compromisos se suele optar por opciones facilitadoras que ayuden a evitar siguientes incumplimientos.
 
 # Sustancias controladas
+
+La Organización Meteorológica Mundial o World Metorological Organization (WMO) estableció 
+Como se puede observar en las tablas siguientes, cada sustancia, tiene asociado un Potencial de Agotamiento del Ozono (PAO). Se trata de una medida relativa, tomando como referencia al CFC-11 cuyo PAO es 1, que indica el impacto que cada sustancia tiene sobre el ozono estratosféricos, es decir, su destrucción. Simplificadamente, el PAO de casa SAO se estima a partir de lsu capacidad de destrucción de ozono y el tiempo de vida/permanencia.
+
+Por regla general las sustancias bromadas tienen un PAO superior mientras que los hidroclorofluocarbonados al contener H2 reaccionan rápidamente en la troposfera, reduciendo la probabilidad de reacción en la estratosfera, de ahí que su PAO sea inferior.
+
+Adicionalmente, existe la unidad relativa, empleando como referencia el CO2 cuyo PCA100 es 1, que indica el Potencial de Calentamiento Atmosférico a los 100 años (PCA100). Al igual que con el PAO el PCA100 se estima en base a dos variables, la "eficiencia radiativa" y el tiempo de permanencia en la atmósfera.
+
+{: .notice--info}
+**Info**: Hay que tener en cuenta que los efectos de las emisiones, y su reducción, no son inmediatos sino diferidos durante años. Esto se debe en primer lugar a que aunque la mayoría de emisiones se realizan al nivel de la superficie terrestre, las sustancias acaban llegando a la estratosfera después de varios años de "viaje". Adicionalmente, cada ODS tiene un periodo de vida determinado, lo que les permite permanecer un tiempo en dicha capa destruyendo ozono hasta su desaparición.
+
+La agencia americana de protección ambiental ha publicado un [listado exhaustivo] de SAO con sus respectivos DAO y PCA.
+
+[listado exhaustivo]: [EPA: Listado detallado ODS]
 
 ## Anexo A - Grupo I: Clorofluorocarbonos 
 
@@ -421,12 +436,29 @@ Esta enmienda añade como sustancia a controlar el **Bromoclorometano a partir d
 
 Es la enmienda más reciente y exigió la reducción gradual de los **hidrofluorocarbonos (HFC) a partir de 2019**. Estos HFC se utilizaron como sustitutos de un lote de sustancias agotadoras de la capa de ozono eliminadas por el primer Protocolo de Montreal. Aunque estas sustancias no agotan la capa de ozono, son conocidas como potentes gases de efecto invernadero y, por lo tanto, contribuyentes al cambio climático.
 
+{: .notice--info}
+
+**Info**: Se estima que esta medida supondrá una reducción del calentamiento global en 2100 de 0.2-0.4ºC[^sap_report_2018]
+
 {% include posts/cambio-climatico-definiciones.md %}
 
 # Bibliografía y referencias
 
 - [Protocolo de Montreal ed 2020](https://ozone.unep.org/sites/default/files/Handbooks/MP-Handbook-2020-Spanish.pdf)
+
 - [Tratados del ozono ed 2020](https://ozone.unep.org/sites/default/files/2020-03/The%20Ozone%20Treaties%20SP%20-%20WEB.pdf)
+
 - [Handbook ed 2020 ENG](https://ozone.unep.org/sites/default/files/Handbooks/MP-Handbook-2020-English.pdf)
+
 - [Manual del protocolo ed 2020 ESP](https://ozone.unep.org/sites/default/files/Handbooks/MP-Handbook-2020-Spanish.pdf)
+
+- [NASA: Socioeconomic Data and Applications Center (SEDAC)](https://sedac.ciesin.columbia.edu/ozone)
+
+- [US Enviromental Protection Agency (EPA)](https://www.epa.gov/ozone-layer-protection)
+
+- [EPA: Listado detallado ODS](https://www.epa.gov/ozone-layer-protection/ozone-depleting-substances)
+
+- [Science Direct: Ozone Depletion and Related Topics](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/ozone-depletion-potential)
+
+- [^sap_report_2018]: [UNEP: SAP assessment report 2018](https://www.epa.gov/ozone-layer-protection)
 

@@ -9,15 +9,13 @@
 : Son similares a los tratados anque generalmente se emplean para modificar, suplementar o aclarar un acuerdo.
 
 
-*[CMNUCC]: Convención Marco de las Naciones Unidas por el Cambio Climático
-*[UNFCCC]: Convención Marco de las Naciones Unidas por el Cambio Climático
+*[CMNUCC]: Convención Marco de las Naciones Unidas por el Cambio Climático - UNFCCC
+*[UNFCCC]: Convención Marco de las Naciones Unidas por el Cambio Climático - CMNUCC
 *[UNCCD]: Convención de Lucha contra la Desertificación
 *[CNUDB]: Convenio de las Naciones Unidas sobre la Diversidad Biológica
+*[IPCC]: Grupo Intergubernamental de Expertos sobre el Cambio Climático
 *[KP]: Protocolo de Kioto
 *[AP]: Acuerdo de París
-*[IPCC]: Grupo Intergubernamental de Expertos sobre el Cambio Climático
-*[CNUDB]: Convenio de las Naciones Unidas sobre la Diversidad Biológica
-*[UNCCD]: Convención de Lucha contra la Desertificación
 *[GEI]: Gases de Efecto Invernadero
 *[COPs]: Conferencias de las Partes
 *[NDC]: Contribuciones Determinadas a nivel Nacional
@@ -28,3 +26,6 @@
 *[LULUCF]: Land Use, Land-Use Change and Forestry - Uso de la Tierra, Cambio de Uso de la Tierra y Silvicultura (UTCUTS).
 *[DOL]: 
 *[HFC]: Hidrofluorocarbonos
+*[PAO]: Potencial de agotamiento del ozono - Ozono Depletion Potential (ODP)
+*[PCA100]: Potencial de calentamiento atmosférico en 100 años - Global warming potential (GWP)
+*[SAO]: Sustancias que agotan el Ozono - Ozonoe Depletion Substantes (ODS)
