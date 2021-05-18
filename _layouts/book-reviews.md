@@ -25,7 +25,7 @@ layout: single_left
   {% assign lists = site.data.books.lists %}
   {% assign data = site.data.books %}
 
-{% for item in data.items %}
+{% for item in data %}
   {{ item }}
 {% endfor %}
 
