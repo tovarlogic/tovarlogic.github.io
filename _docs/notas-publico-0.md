@@ -1,11 +1,19 @@
 ---
 title: "Inicio"
+breadcrumb_name: Lo público
 permalink: /notas/publico/
 last_modified_at: 2021-05-13
 layout: single_left
 toc: true
 toc_sticky: true
 ---
+
+| Apartado                                     | Descripción                                              |
+| -------------------------------------------- | -------------------------------------------------------- |
+| [Riesgos](riesgos/)                          | Apartado centrado en los probables riesgos que no vemos.  |
+| [Qué va bien](va-bien/)                      | Apartado centrado en los probables riesgos que no vemos.  |
+| [Qué va mal](va-mal/)                        | Apartado centrado en los probables riesgos que no vemos.  |
+
 
 La sección `Notas: Lo Público` me permite gestionar de manera ágil y sencilla mis pensamientos sobre la gestión de lo público en general.
 
