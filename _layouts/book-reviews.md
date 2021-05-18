@@ -26,7 +26,11 @@ layout: single_left
 
   {% for review in reviews %}
     {% for list in lists %}
+      {{ list }}
       {% for book in list %}
+        {{ book }}
+        {{ review.isbn }}
+        {{ book.isbn }}
         {% if review.isbn == book.isbn or review.olid == book.olid %}
           {{ book.items }}
           {% include book-review.html %}
