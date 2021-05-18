@@ -25,7 +25,7 @@ layout: single_left
 
   {% for review in reviews %}
     {% for list in lists %}
-      {% for book in list}
+      {% for book in list %}
         {{ book }}
       {% endfor %}
     {% endfor %}
