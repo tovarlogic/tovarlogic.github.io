@@ -29,7 +29,6 @@ layout: single_left
     {% for book in list %}
         {% if review.isbn contains book.isbn or review.olid contains book.olid %}
           {% include book-review.html %}
-          {% break %} {% break %}
         {% endif %}
     {% endfor %}
   {% endfor %}
