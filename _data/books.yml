@@ -1,7 +1,8 @@
 lastupdate: 18 de Mayo de 2021
 
 tag_list: [Ensayo, Novela, Biografía, Ciencia-ficción, Economía, Política, Geopolítica, Sociología, Historia, Psicología, Crecimiento personal, Medioambiente, Filosofía, Biología, Tecnología, Ciencia, Aventura]
-lists: [Leyendo, no-leidos, list, pendientes]
+
+lists: [leyendo, no-leidos, list, pendientes]
 
 leyendo: 
   - title: "La Ilíada"
