@@ -22,21 +22,15 @@ layout: single_left
   <div class="posts">
   
   {% assign reviews = site.book_reviews | sort: "date" | reverse %}
-  {% assign lists = site.data.books.lists %}
-  {% assign data = site.data.books %}
 
-{% for item in data %}
-  {{ item }}
-{% endfor %}
+  {% assign list = site.data.books.list %}
 
   {% for review in reviews %}
-    {% for list in lists %}
-      {% for book in list %}
-        
+    {% for book in list %}
         {% if review.isbn == book.isbn or review.olid == book.olid %}
           {% include book-review.html %}
+          {% break %}
         {% endif %}
-      {% endfor %}
     {% endfor %}
   {% endfor %}
 
