@@ -10,7 +10,7 @@ tags: [Ciencia, Biología]
 stars:
 book-link: https://www.goodreads.com/book/show/50892327-count-down
 book-list: no-leidos
-isbn: 1982113669
+isbn: 9781797114613
 date: 2021-05-18
 excerpt: "Chemicals and lifestyle changes are disrupting our hormonal balance. In the past forty years, human male sperm count has dropped by more than fifty percent. Female fertility also has declined precipitously in the same period. If this rate continues, then the human species could become extinct."
 ---
