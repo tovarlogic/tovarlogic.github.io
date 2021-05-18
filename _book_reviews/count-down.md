@@ -2,16 +2,9 @@
 layout: book-reviews-template
 toc: true
 toc_sticky: true
-draft: true
 title: "Count Down: How Our Modern World Is Threatening Sperm Counts..."
-author: Shanna H. Swan, PhD y Stacey Colino
-category: Ensayo
-tags: [Ciencia, Biología]
-stars:
 book-link: https://www.goodreads.com/book/show/50892327-count-down
-book-list: no-leidos
 isbn: 9781797114613
-date: 2021-05-18
 excerpt: "Chemicals and lifestyle changes are disrupting our hormonal balance. In the past forty years, human male sperm count has dropped by more than fifty percent. Female fertility also has declined precipitously in the same period. If this rate continues, then the human species could become extinct."
 ---
 
