@@ -29,7 +29,6 @@ layout: single_left
         {{ book }}
       {% endfor %}
     {% endfor %}
-    {% assign book-list = "site.data.books." | concat: review.book-list %}
   {% endfor %}
 
  </div>
