@@ -14,12 +14,9 @@ date: 2021-05-18
 excerpt: "Sobre la historia de las catástrofes y sus consecuencias."
 ---
 
-# Notas prelectura
-
+## Notas prelectura
 
 Entrevista al autor en Intelligence squared:
-<iframe id='audio_130665' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='width:100%;' src='https://gb.ivoox.com/es/player_es_podcast_130665_1.html'></iframe>
-
 <iframe src="https://gb.ivoox.com/es/player_es_podcast_130665_1.html" width="100%" style="border: 1px solid #D7D7D7;" height="440" frameborder="0" allowfullscreen="0" scrolling="no" ></iframe>
 
 La idea general que transmite el autor es que el exceso de burocracia aumenta la probabilidades de que las consecuenc ias de cualquier situación de riesgo sean catastróficas. Su solución es establecer mecanismos ágiles y flexibles que puedan dar respuestas tempranas y prácticas a los problemas.
