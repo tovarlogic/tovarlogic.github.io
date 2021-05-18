@@ -26,9 +26,7 @@ layout: single_left
   {% for review in reviews %}
     {% for list in lists %}
       {% for book in list}
-        {% if review.isbn == book.isbn or review.olid == book.olid %}
-          {% include book-review.html %}
-        {% endif %}
+        {{ book }}
       {% endfor %}
     {% endfor %}
     {% assign book-list = "site.data.books." | concat: review.book-list %}
