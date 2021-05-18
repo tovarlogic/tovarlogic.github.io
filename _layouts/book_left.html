@@ -9,6 +9,7 @@ layout: archive_left
 {% assign readInYear = site.data.books.list | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
 {% assign reading = site.data.books.leyendo %}
 {% assign pending = site.data.books.pendientes %}
+{% assign not_read = site.data.books.no-leidos | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
 
 {% assign read = site.data.books.list %}
 {% assign count = 0 %}
@@ -58,6 +59,13 @@ layout: archive_left
     <div class="entries-{{ entries_layout }}">
       {% for book in year.items %}
         {% include archive-single-books.html type=entries_layout %}
+      {% endfor %}
+      {% for year2 in not_read %}
+        {% if year.name == year2.name %}
+          {% for book in year2.items %}
+            {% include archive-single-books.html type=entries_layout %}
+          {% endfor %}
+        {% endif %}
       {% endfor %}
     </div>
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>

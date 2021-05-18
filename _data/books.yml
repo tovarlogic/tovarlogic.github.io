@@ -15,6 +15,14 @@ leyendo:
     top: true
     tags: [Ensayo, Crecimiento personal, Economía, Sociología, Psicología, Política]
     review: "arquitectura-decisiones"
+
+no-leidos:
+  - title: "Doom: The Politics of Catastrophe"
+    author: Niall Ferguson
+    isbn: 0593297377
+    date: 2021-05-18
+    tags: [Ensayo, Política, Gestión de riesgos]
+    review: "doom"
     
 list:
   - title: "The Hitchhiker's Guide to the Galaxy"
