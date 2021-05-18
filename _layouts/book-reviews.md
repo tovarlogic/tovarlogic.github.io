@@ -25,11 +25,14 @@ layout: single_left
   {% assign lists = site.data.books.lists %}
   {% assign data = site.data.books %}
 
-  {{ data }}
+{% for item in data.items %}
+  {{ item }}
+{% endfor %}
 
   {% for review in reviews %}
     {% for list in lists %}
       {% for book in list %}
+        
         {% if review.isbn == book.isbn or review.olid == book.olid %}
           {% include book-review.html %}
         {% endif %}
