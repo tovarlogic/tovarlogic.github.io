@@ -23,16 +23,14 @@ layout: single_left
   
   {% assign reviews = site.book_reviews | sort: "date" | reverse %}
   {% assign lists = site.data.books.lists %}
+  {% assign data = site.data.books %}
+
+  {{ data }}
 
   {% for review in reviews %}
     {% for list in lists %}
-      {{ list }}
       {% for book in list %}
-        {{ book }}
-        {{ review.isbn }}
-        {{ book.isbn }}
         {% if review.isbn == book.isbn or review.olid == book.olid %}
-          {{ book.items }}
           {% include book-review.html %}
         {% endif %}
       {% endfor %}
