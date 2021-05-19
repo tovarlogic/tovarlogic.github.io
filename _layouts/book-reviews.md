@@ -26,8 +26,6 @@ layout: single_left
   
   {% assign reviews = site.book_reviews | sort: "date" | reverse %}
 
-  reviews
-  {{ reviews }}
   {% assign list = site.data.books.list %}
 
   lista
