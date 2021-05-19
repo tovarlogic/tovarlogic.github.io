@@ -7,10 +7,10 @@ page
 {{ page.isbn }}
 book
 {{ book }}
-book.isbn
-{{ book.isbn }}
-book.title
-{{ book.title }}
+{% for bk in book %}
+{{ bk }}
+{% endfor %}
+
 
 <article itemscope itemtype="http://schema.org/Review">
   <section class="post-content">
