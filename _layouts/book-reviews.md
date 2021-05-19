@@ -16,8 +16,6 @@ layout: single_left
         <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
       </a>
     </li>
-    year
-    {{ year }}
   {% endfor %}
 </ul>
 
