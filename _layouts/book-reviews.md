@@ -23,11 +23,11 @@ layout: single_left
 
   <div class="posts">
 
-  {% assign list = site.data.books.list | group_by: 'review' %}
+  {% assign list = site.data.books.list | where_exp: "review", "review" %}
 
   list
   {{ list }}
-  {% for reviews in reviewsInYear.items %}
+  {% for reviews in reviewsInYear %}
   reviews.items
   {{ reviews.items }}
     {% for review in reviews %}
