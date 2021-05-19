@@ -25,11 +25,7 @@ layout: single_left
 
   {% assign list = site.data.books.list | where_exp: "review", "review" %}
 
-  list
-  {{ list }}
   {% for reviews in reviewsInYear %}
-  reviews.items
-  {{ reviews.items }}
     {% for review in reviews %}
       {% for book in list %}
           {% if review.isbn and book.isbn and review.isbn == book.isbn %}
