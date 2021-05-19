@@ -2,7 +2,7 @@
 layout: single_left
 ---
 
-{% assign book = site.data.books.list | where:"isbn", page.isbn %}
+{% assign book = site.data.books.list | where:'isbn', page.isbn %}
 
 <article itemscope itemtype="http://schema.org/Review">
   <section class="post-content">

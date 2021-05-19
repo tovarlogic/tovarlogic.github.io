@@ -4,13 +4,8 @@ toc: true
 toc_sticky: true
 draft: true
 title: "The 7 Habits of Highly Effective People"
-author: Stephen Covey
-category: Ensayo
-tags: [Sociología, Psicología]
-stars: 4
 book-link: https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People
 isbn: 0743250974
-format: kindle
 date: 2017-07-01
 excerpt: "Sobre siete hábitos o principios a partir de los cuales lograr el cambio personal y lograr ser más efectivos personal y profesionalmente."
 ---
