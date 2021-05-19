@@ -23,16 +23,19 @@ layout: single_left
 
   <div class="posts">
 
-  {% assign list = site.data.books.list | where:'review' %}
+  {% assign list = site.data.books.list | group_by: 'review' %}
+
   list
   {{ list }}
-  {% for review in reviewsInYear %}
-  review.items
-  {{ review.items }}
-    {% for book in list %}
-        {% if review.isbn == book.isbn %}
-          {% include book-review.html %}
-        {% endif %}
+  {% for reviews in reviewsInYear.items %}
+  reviews.items
+  {{ reviews.items }}
+    {% for review in reviews %}
+      {% for book in list %}
+          {% if review.isbn and book.isbn and review.isbn == book.isbn %}
+            {% include book-review.html %}
+          {% endif %}
+      {% endfor %}
     {% endfor %}
   {% endfor %}
 
