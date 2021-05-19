@@ -5,8 +5,7 @@ layout: single_left
 {{ content }}
 
  {% assign reviewsInYear = site.book_reviews | where_exp: "item", "item.hidden != true" | group_by_exp: 'review', 'review.date | date: "%Y"' %}
- reviewsinYear
-{{ reviewsInYear }}
+
 <span class="total_count">Total anotaciones: {{ reviewsInYear | size }}</span>
 
 <ul class="taxonomy__index">
@@ -23,23 +22,18 @@ layout: single_left
 </ul>
 
   <div class="posts">
-  
-  {% assign reviews = site.book_reviews | sort: "date" | reverse %}
 
-  {% assign list = site.data.books.list %}
-
-  lista
+  {% assign list = site.data.books.list | where:'review' %}
+  list
   {{ list }}
-  {% for review in reviews %}
+  {% for review in reviewsInYear %}
+  review.items
+  {{ review.items }}
     {% for book in list %}
-        {% if review.isbn contains book.isbn or review.olid contains book.olid %}
+        {% if review.isbn == book.isbn %}
           {% include book-review.html %}
         {% endif %}
-        book 
-        {{ book }}
     {% endfor %}
-    review.isbn 
-    {{ review.isbn }}
   {% endfor %}
 
  </div>
