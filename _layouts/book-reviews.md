@@ -23,14 +23,21 @@ layout: single_left
 
   {% assign list = site.data.books.list | where_exp: "review", "review" %}
 
-  {% for reviews in reviewsInYear %}
-    {% for review in reviews.items %}
+  {% for year in reviewsInYear %}
+  <section id="{{ year.name }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ year.name }}</h2>
+    <div class="entries-{{ entries_layout }}">
+
+    {% for review in year.items %}
       {% for book in list %}
           {% if review.isbn and book.isbn and review.isbn == book.isbn %}
             {% include book-review.html %}
           {% endif %}
       {% endfor %}
     {% endfor %}
+      </div>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+  </section><br>
   {% endfor %}
 
  </div>
