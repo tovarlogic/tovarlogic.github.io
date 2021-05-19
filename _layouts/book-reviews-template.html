@@ -3,13 +3,9 @@ layout: single_left
 ---
 
 {% assign book = site.data.books.list | where:'isbn', page.isbn %}
-page
-{{ page.isbn }}
-book
-{{ book }}
-{% for bk in book %}
-{{ bk.title }}
-{% endfor %}
+
+title
+{{ book[title]}}
 
 
 <article itemscope itemtype="http://schema.org/Review">
