@@ -38,8 +38,8 @@ layout: single_left
         book 
         {{ book }}
     {% endfor %}
-    review 
-    {{ review }}
+    review.isbn 
+    {{ review.isbn }}
   {% endfor %}
 
  </div>
