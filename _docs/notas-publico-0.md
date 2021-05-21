@@ -10,9 +10,8 @@ toc_sticky: true
 
 | Apartado                                     | Descripción                                              |
 | -------------------------------------------- | -------------------------------------------------------- |
-| [Riesgos](riesgos/)                          | Apartado centrado en los probables riesgos que no vemos.  |
-| [Qué va bien](va-bien/)                      | Apartado centrado en los probables riesgos que no vemos.  |
-| [Qué va mal](va-mal/)                        | Apartado centrado en los probables riesgos que no vemos.  |
+| [Riesgos para la humanidad](riesgos/)                          | Apartado centrado en los probables riesgos que no vemos.  |
+| [Sociedad zombie](sociedad-zombie/)                  |   |
 
 
 La sección `Notas: Lo Público` me permite gestionar de manera ágil y sencilla mis pensamientos sobre la gestión de lo público en general.
