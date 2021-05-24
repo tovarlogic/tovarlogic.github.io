@@ -4,7 +4,7 @@ date: 2021-05-02
 header:
   teaser: "assets/images/recetas/salsa-queso-nachos.jpg"
 ingredients:
- Harina de garbanzo:3 tbsp
+ Harina de garbanzo: 3 tbsp
  Mantequilla: 2 dedos
  Leche: 1 taza
  Queso parmesano: 50 g

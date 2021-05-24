@@ -2,8 +2,7 @@
 title: "Sociedad distraida, sociedad zombie"
 breadcrumb_name: Sociedad zombie
 permalink: /notas/sociedad-zombie/
-last_modified_at: date
-layout: single_left
+last_modified_at: 2021-05-22
 toc: true
 toc_sticky: true
 ---

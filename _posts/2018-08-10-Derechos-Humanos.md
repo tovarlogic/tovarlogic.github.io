@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Derechos Humanos"
 date:   2018-08-10
 update: 

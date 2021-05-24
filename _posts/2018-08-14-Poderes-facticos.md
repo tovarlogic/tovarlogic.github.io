@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Poderes fácticos"
 date:   2018-08-13
 update: 

@@ -338,23 +338,3 @@ defaults:
       author_profile: false
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single_left
-      author_profile: false
-      share: true
-  # _series
-  - scope:
-      path: ""
-      type: series
-    values:
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      sidebar:
-        nav: "docs"

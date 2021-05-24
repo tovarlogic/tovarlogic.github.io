@@ -31,8 +31,6 @@ El acuerdo es vinculante para los estados, aunque únicamente para los desarroll
 
 > Imagino que precisamente por la misma razón que EE.UU. China tampoco lo ratificó. Parece además que la situación china es especial, ya que este país se ha convertido en "la fábrica del mundo". Al relocalizar o cerrar las industrias de países occidentales, en cierta forma se está trasladando la responsabilidad a los chinos, ya que su cierre implica reducción de emisiones. Es decir, la relocalización industrial se puede ver como una estratagema para aparentar ser un estado limpio, aunque luego sus importaciones sean ingentes. Por eso, creo que una unidad que tuviera en cuenta el consumo o las importaciones sería muy eficaz para evitar perjudicar a países como el chino, que se encuentran en pleno desarrollo ofreciendo un servicio global de fabricación a bajo coste.
 
-
-
 La unidad que se emplea para el control de emisiones es t-CO2-eq, es decir, toneladas equivalentes de CO2, que por simplicidad se les llama "Unidades Kioto". 
 
 {: .notice--info}

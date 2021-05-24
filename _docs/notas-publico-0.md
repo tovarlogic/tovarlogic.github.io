@@ -3,7 +3,6 @@ title: "Inicio"
 breadcrumb_name: Lo público
 permalink: /notas/publico/
 last_modified_at: 2021-05-13
-layout: single_left
 toc: true
 toc_sticky: true
 ---
