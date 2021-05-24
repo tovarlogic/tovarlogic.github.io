@@ -315,7 +315,7 @@ defaults:
       path: ""
       type: docs
     values:
-      layout: single
+      layout: single_left
       read_time: false
       author_profile: false
       share: false
