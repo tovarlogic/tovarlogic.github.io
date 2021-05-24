@@ -70,7 +70,6 @@ A partir del tercer periodo, la cultura es ya primordialmente urbana, con tecnol
 
 Todo parece indicar que esta cultura alcanzó una gran prosperidad durante el período del Cicláico Medio y Posterior, la cual supo aprovechar su privilegiada posición geográfica como puente entre Europa y Asia.
 
-### Declive
 Su declive comenzará en el momento en el que  **Creta**  empieza a ganar poder. Alrededor del año 1600 BC,  **se produce una enorme erupción volcánica en la isla de Thera (santorini actualmente) que afectó al conjunto de las islas**. Esta catástrofe natural, acompañada de grandes terremotos y maremotos, parecen haber sido los responsables del definitivo declive cultural cicládico y del inicio de una marcada influencia micénica que se dejará sentir hacia el año 1450 BC. en todas las islas del mar Egeo.
 
 ## Creta minoica
@@ -143,8 +142,6 @@ Crédito:  <a href="https://commons.wikimedia.org/wiki/File:Minoan_Ash.png">Wiki
 
 > Para muchos autores la explosión de Thera y su posterior tsunami pudo dar origen a  **mitos como la Atlántida**.
 
-### Declive
-
 Al final de este periodo, en torno al 1450 a. C. se produjeron nuevas destrucciones, por causas que se desconocen, posiblemente seismos, que provocaron el ocaso de la civilización minoica y el auge de la micénica en la isla. En todo caso es motivo de debate la causa de esas destrucciones: causas naturales o causas humanas.
 
 Tradicionalmente se creía la erupción de Thera (santorini en la actualidad) tuvo lugra en torno 1450BC y que los griegos, aprovechando la destrucción provocada por la erupción del volcan tomaron el poder en la isla. Sin embargo, las más recientes evidencias científicas indican que dicha erupción tuvo entre el 1640-1540 BC. Los registros arquelógicos parecen indicar que la toma de poder en Creta por parte de los micénicos fue en realidad gradual. En cualquier caso no se puede descartar que la erupción redugera la capacidad palaciega de los minoicos debilitando su civilización haciendola más suceptible a la toma de poder micénica.
@@ -155,8 +152,11 @@ La administración y la política pasaron a ser micénicas, pero es posible que 
 
 Se cree que la transición entre 1400-1200 BC fue otro periodo de movimientos de población en los que se abandonan repentinamente lugares costeros como Sisi que parecían prósperos y también otros lugares llanos, y se ocupan asentamientos situados en altura que dominaban lugares donde podían disponer de una agricultura fértil. Se desconoce la causa de estos movimientos de población, que quizá buscaban protegerse de amenazas procedentes del mar. Algunos autores los han relacionado con la tesis del clima de terror producido por los llamados “Pueblos del mar”, pero otros han señalado la ausencia de huellas de destrucciones violentas y estiman que los movimientos se debieron dar por una combinación de diversos factores. Por otra parte, esta época se suele relacionar con la tradición de las migraciones dorias.
 
-### ADN
+{: . notice--info}
+
 Un estudio de ADN realizado en 2013, se comparó el ADN mitocondrial de los esqueletos de las necrópolis de la isla con el de poblaciones actuales de Grecia, Anatolia y diferentes partes de Europa. Los resultaron indican que “los fundadores de la primera civilización europea avanzada fueron europeos”, “eran muy similares a los europeos neolíticos y muy similares a los actuales cretenses”.
+
+{: . notice--info}
 
 Un estudio arqueogenético de 2017 sobre los polimorfismos de ADN mitocondrial de los restos minoicos publicado en la revista  _Nature_  concluyó que los griegos micénicos estaban genéticamente relacionados con los minoicos y que ambos están estrechamente relacionados, pero no son idénticos, a las poblaciones griegas modernas. El mismo estudio también indicó que al menos tres cuartas partes del ADN de los minoicos y micénicos procedían de los primeros agricultores de la época neolítica que vivían en Anatolia occidental y el mar Egeo.
 
@@ -189,13 +189,11 @@ En cualquier caso, la cultura micénica no se llega a desarrollar hasta 1500 BC,
   </figcaption>
 </figure>
 
-Entre 1600-1450 BC los micénicos adoptan la escritura Lineal A de origen minoico creada entre 1700-1500 BC, y que eventualmente evolucionarán creando el Lineal B. Es en ese mismo periodo que comienzan la construcción de reinos a semejanza de los cretenses, pero que se mantienen fraccionados y enemistados, con frecuentes eventos bélicos. Los reyes son conocidos como  _wanax_. Los reinos están organizados en torno a la administración central cuyo poder ostentan los  _wanax_  y la administración provincial con gobernadores al frente que se ocupan de recaudar los impuestos. Cada pueblo o  _damos_  contaba con tierras comunales para parcelar y/o arrendar. De acuerdo a las tablillas en Lineal B rescatadas dejan evidencia que la población trabajadora, eran libres y podían tener exclavos, principalmente capturados en el ultramar por piratas y posteriormente vendidos.
+Entre 1600-1450 BC los micénicos adoptan la escritura Lineal A de origen minoico creada entre 1700-1500 BC, y que eventualmente evolucionarán creando el Lineal B. Es en ese mismo periodo que comienzan la construcción de reinos a semejanza de los cretenses, pero que se mantienen fraccionados y enemistados, con frecuentes eventos bélicos. Los reyes son conocidos como  _wanax_. Los reinos están organizados en torno a la administración central cuyo poder ostentan los  _wanax_  y la administración provincial con gobernadores al frente que se ocupan de recaudar los impuestos. Cada pueblo o  _damos_  contaba con tierras comunales para parcelar y/o arrendar. De acuerdo a las tablillas en Lineal B rescatadas dejan evidencia que la población trabajadora, eran libres y podían tener esclavos, principalmente capturados en el ultramar por piratas y posteriormente vendidos.
 
 En el ámbito militar, poco se conoce de esta civilización más allá del uso de carros de combate y su poderío naval, que presenta la novedad del uso de la vela, además de remeros. Dicho poderío naval es además empleado en su otra faceta, la comercial. Dicha actividad mercantil, heredada de los minoicos, se extiende por el Mar Negro y llegan ha Italia por el mediterráneo. Sus principales contactos son con la Italia meridional y central, Chipre, Egipto, norte de Siria y Palestina, y los pueblos costeros del Mar Negro.
 
-### Declive
-
-Es entre el 1300-1200 BC cuando comienzan las evidencias de crísis en esta civilización como la construcción de fortificaciones en grandes ciudades y destacamentos de vigilia. Se cree que esto está motivado por los problemas internos, entre reinos micénicos o por las migraciones dorias procedentes del noroeste de Grecia.
+Es entre el 1300-1200 BC cuando comienzan las evidencias de crisis en esta civilización como la construcción de fortificaciones en grandes ciudades y destacamentos de vigilia. Se cree que esto está motivado por los problemas internos, entre reinos micénicos o por las migraciones dorias procedentes del noroeste de Grecia.
 
 La teoría de la invasión doria, es soportada por la distribución de dialectos griegos y la mitología que “recuerda” un movimiento de población hacia el Peloponeso,  _“El regreso de los Heraclidas”_. Sin embargo, existen dudas bien fundadas sobre la existencia de la invasión doria. Se pone en duda por ejemplo, que la distribución de dialectos en la Grecia clásica sea un método fiable para determinar movimientos de población muy anteriores, y no existe evidencia material de los restos de la invasión. Es posible, por el contrario, que los dorios ya se encontraran entre los micénicos como siervos, ya que el Linear B ya muestra elementos dorios, y que en vez de una invasión externa se diera un colapso interno del orden social. En ese caso, los siervos habrían derrocado a la élite guerrera micénica.
 
@@ -237,39 +235,81 @@ Crédito:
 
 # Edad de Hierro
 
-## Época Oscura
+## Edad Oscura
 
-Tras el colapso del mundo de la edad de bronce, las nuevas sociedades se estructuran en unidades sociales más reducidas dominadas por jefes y líderes tribales. La unidad familiar  _oikos_  es la unidad central de las sociedades de la “Edad Oscura”. De hecho, entre 1200-900BC el número y tamaño de los asentamientos disminuyeron enormente con respecto a tiempos anteriores.
+Tras el colapso del mundo de la edad de bronce, las nuevas sociedades se estructuran en unidades sociales más reducidas dominadas por jefes y líderes tribales. La unidad familiar  _oikos_  es la unidad central de las sociedades de la “Edad Oscura”. De hecho, entre 1200-900BC el número y tamaño de los asentamientos disminuyeron enormemente con respecto a tiempos anteriores.
 
 Gran parte de la población remanente, emigraría abandonando los asentamientos costeros hacia el interior, en las colinas y montañas, probablemente escapando de piratas y saqueadores. Posiblemente, los propios artesanos, durante este periodo de crisis se tuvieron que reconvertir en pastores o saqueadores.
 
-Lo peor del colapso se dio en el Peloponeso, el corazón de la civilización micénica. A pesar de la imagen sombría que tenemos sobre la Edad Oscura (1100-400BC) debido al retroceso social, artesanal y tecnológico de la época, la recuperación en algunos lugares fue rápida, probablemente, gracias a los refugios que se dieron en las regiones periféricas del mundo micénico -especialmente en la grecia central y oriental.
+Lo peor del colapso se dio en el Peloponeso, el corazón de la civilización micénica. A pesar de la imagen sombría que tenemos sobre la Edad Oscura (1100-400BC) debido al retroceso social, artesanal y tecnológico de la época, la recuperación en algunos lugares fue rápida, probablemente, gracias a los refugios que se dieron en las regiones periféricas del mundo micénico -especialmente en la Grecia central y oriental.
 
-Durante la transición entre épocas, es dificil de encontrar countinuidad - ya sea en lengua, arquitectura, arte, religión u otras costumbres. Aunque se mantiene el Griego como lengua común, los sistemas escritos son completamente distintos. Por otro lado, en el ámbito religioso, algunos dioses micénicos se mantienen mientras que otros son completamente nuevos. Los palacios micénicos pasarían a ser templos en la época clásica.
+Durante la transición entre épocas, es difícil de encontrar continuidad - ya sea en lengua, arquitectura, arte, religión u otras costumbres. Aunque se mantiene el Griego como lengua común, los sistemas escritos son completamente distintos. Por otro lado, en el ámbito religioso, algunos dioses micénicos se mantienen mientras que otros son completamente nuevos. Los palacios micénicos pasarían a ser templos en la época clásica.
 
 A partir de 1050 BC llega la artesanía del Hierro desde Chipre, revitalizando la economía. Eventualmente, los productos de hierro producidos en Atenas se exportarían a toda la Grecia continental. Para entonces ya comienza una nueva etapa pacífica.
 
 ## Época Arcaica
 
+### Revolución Arcaica
+
 A partir del 750 BC se da la  _“**Revolución Arcaica**_” en la que se transforman tres aspectos especialmente:
 
-### Literatura épica
+- Literatura épica
+- Transformación de la unidad social
+- Colonización y comercio internacional
 
-Hasta entonces la tradición poética se transmitó oralmente durante siglos hasta que se escribieron, creando un documento cultural común a todos los griegos, que variaría muy poco a lo largo del tiempo. La poesía épica, consistía previamente en canciones que los poetas errantes recitarían por toda Grecia contando las hazañas de sus guerreros “nacionales” incorporando probablemente las de los locales también. Los poemas más importantes, la Iliada y la Odisea de Homero, fueron escritos en 725 BC, solidificando en un solo documento la hasta entonces flexible tradición oral.
+#### Literatura épica
+
+Hasta entonces la tradición poética se transmitió oralmente durante siglos hasta que se escribieron, creando un documento cultural común a todos los griegos, que variaría muy poco a lo largo del tiempo. La poesía épica, consistía previamente en canciones que los poetas errantes recitarían por toda Grecia contando las hazañas de sus guerreros “nacionales” incorporando probablemente las de los locales también. Los poemas más importantes, la Ilíada y la Odisea de Homero, fueron escritos en 725 BC, solidificando en un solo documento la hasta entonces flexible tradición oral.
 
 Para entonces, probablemente, poco sabrían los griegos sobre sus antepasados micénicos, pero este desconocimiento les dio la libertad de conjugar la creatividad con la memoria popular para crear una imagen idílica y legendaria de un pasado heroico centrado en la Guerra de Troya. Esta visión ilustraba un código moral y de comportamiento. Los griegos tienen un modelo de honor que seguir, basado en las historias de hombres superiores firmes en sus convicciones que cumplen sus obligaciones incluso en momentos de dificultad. Todo ello facilitó la creación de una identidad Griega, a pesar de la fragmentación de la época, que ha sido capaz de sobrevivir hasta la actualidad.
 
-### Transformación de la unidad social
+#### Transformación de la unidad social y religiosa
+
+##### Origen de las ciudades-estado
 
 Tras el declive la unidad social se redujo hasta el ámbito familiar  _oikos_, que paulatinamente durante este periodo volvió a ganar tamaño, evolucionando hacia caseríos, luego aldeas y pueblos.
 
-Estra transformación sería el primer paso para alcanzar la unidad política grieca común durante el resto del periodo clásico, la  _polis_  o ciudad-estado. Entre el 750-450 BC, el desarrollo político se centró en las ciudades-estado (_polis_) y los pueblos-estado (_ethnos_).
+Esta transformación sería el primer paso para alcanzar la unidad política griega común durante el resto del periodo clásico, la  _polis_  o ciudad-estado. Entre el 750-450 BC, el desarrollo político se centró en las ciudades-estado (_polis_) y los pueblos-estado (_ethnos_).
 
 El  _Ethnos_  respondía a una unidad regional más amplia que las ciudades-estado, algo así como una forma de protonación, que carecían de una única ciudad-estado, es decir, un gobierno central, ni formaban una unidad política. En estas regiones cada aldea era independiente y autónoma, pero aún así se sentían un único pueblo que ocupaba un determinado territorio unidos cultural y religiosamente, ya que profesaban culto a sus propios dioses y contaban con instituciones propias para la toma de decisiones, por ejemplo, en épocas de crisis.
 
-Resulta paradógico, desde el punto de vista moderno, que apesar de contar con una fuerte identidad Griega, basada en valores establecidos por la épica, los griegos no tuvieran el más mínimo interés en formar una única nación, pues se mantenían separados y autónomos, para sólamente unirse en épocas de crisis. De hecho en esta época, a pesar del desarrollo y properidad, las guerras internas no cesaron aunque disfrutaron de relativa paz con respecto a periodos anteriores.
+Resulta paradójico, desde el punto de vista moderno, que a pesar de contar con una fuerte identidad Griega, basada en valores establecidos por la épica, los griegos no tuvieran el más mínimo interés en formar una única nación, pues se mantenían separados y autónomos, para solamente unirse en épocas de crisis. De hecho en esta época, a pesar del desarrollo y prosperidad, las guerras internas no cesaron aunque disfrutaron de relativa paz con respecto a periodos anteriores.
 
-### Colonización y comercio
+##### Religión y competición panhelénica
+
+A finales de Edad Oscura  y durante el comienzo de la siguiente, es cuando se da la unificación religiosa griega. Los escritos de los poetas Homero y Hesíodo, unificaron distintos mitos y leyendas, creando una genealogía y correlación.
+
+> “De donde procede cada uno de los dioses, si  siempre existieron todos ellos, y cuáles son sus formas, eso lo  ignoraban hasta antes de ayer por así decirlo. Porque yo creo que  Hesiodo y Homero son cuatrocientos años mas antiguos que yo, no más.  Ellos son los que hicieron para los griegos la genealogía de los dioses, los que dieron a los dioses sus epítetos, les distribuyeron honores y  competencias y determinaron sus formas”
+>
+> (Heródoto, Historias, II, 53)
+
+Los santuarios religiosos cobraron mayor importancia. En ningún caso eran comparables con las iglesias actuales, ya que además de espacios sagrados se convirtieron en el centro de sus comunidades.
+
+En ellos se construyeron, por parte de distintas comunidades griegas, tesorerías donde se guardaban los bienes habían depositado en ofrenda a Apolo. La figura de los sacerdotes se profesionalizó y servían también como oráculos y consejeros.
+
+En la Grecia continental, el santuario de Delphi (Delfos) se convirtió en el "centro del universo", *omphalos*. Las embajadas oficiales solicitaban profecías en nombre de sus ciudades-estado, de modo que los oráculos moldeaban las políticas de los estados que las consultaban. Tal llegó a ser la importancia de Delphi que incluso aconsejaba sobre el establecimiento de nuevas colonias y servía como mediador en los asuntos y disputas entre distintas regiones, que continuamente se encontraban en estado de guerra. 
+
+Esta mediación fue posible dada su neutralidad ya que era administrada conjuntamente por distintos clanes sacerdotales y una confederación religiosa de estados griegos, por lo que no servía a un único estado sino a todas las comunidades griegas en general.
+
+Por esa época se establecieron los cuatro Juegos Panhelénicos, siendo el más antiguo las Olimpiadas, que se fundaron en torno al 776 BC. Eran abiertos a todos los griegos y durante su realización disfrutaban de una tregua sagrada, que afectaba a todas las guerras que activas dentro del territorio griego. De este modo, todas las guerras se paralizaban y los atletas podían viajar para participar en los juegos.
+
+1. Juegos Olímpicos eran en honor a Zeus, tenían lugar cada 4 años en Olympia.
+2. Juegos Píticos eran en honor a Apolo, tenían lugar cada 4 años, 2 años después de las Olimpiadas, en Delfos.
+3. Juegos Nemeos en honor a Zeus y Heracles (Hércules), tenían lugar cada 2 años, 1 año antes de las olimpiadas, en Nemea.
+4. Juegos Ístmicos en honor a Poseidón, tenían lugar cada 2 años, junto a los Nemeos, pero en meses diferentes, en Corinto
+
+Estos juegos expresan el espíritu "agonístico", de la raíz griega *Agon* (lucha o disputa), de los griegos (hombres y niños), que es una idea central de la visión griega de todos los aspectos cotidianos de la vida. Se competía para mostrar el *Arete* (excelencia) a semejanza de los valores de los guerreros de Homero y como premio se daba gloria al individuo y su comunidad o estado.
+
+La competitividad, era una cuestión básica de la vida griega, y de acuerdo a Hesodo, existían dos tipos de *Eris* (competición, conflicto o lucha):
+
+- La que se consideraba "buena", por motivar a alguien por lograr un bien a sí mismo sin causar mal a otros. Como copiar el éxito de tu vecino para ser igualmente exitoso. Se trata de una mentalidad win-win.
+- La que se consideraba "mala" por incentivar la envidia. Se trata de una mentalidad win-loose.
+
+Los juegos panhelénicos de la Grecia Arcaica son un claro ejemplo de la identidad Griega, no como una única nación, pero sí como una cultura común de estados fraccionados. Poder participar en ellos significaba ser Griego. De acuerdo a Herodoto, los griegos eran aquellos que compartían misma sangre, lengua, religión y costumbres. Únicamente la misma sangre es un requisito exclusivo.
+
+En esta época los griegos no consiguieron establecer instituciones "internacionales". La única institución permanente capaz de mediar en asuntos y disputas panhelénicos fue el Oráculo de Delfos.
+
+#### Colonización y comercio
 
 La cultura griega a diferencia de otras anteriores y posteriores, no tenían vocación imperial. No obstante, formaron colonias desde Sicilia hasta Siria, pasando por el norte de África.
 
@@ -291,16 +331,69 @@ Los Fenicios, eran otra civilización contemporánea que durante el mismo period
   </figcaption>
 </figure>
 
-Las colonias también expusieron al muendo griego de nuevas ideas, sistemas religiosos y estilos artísticos. Los textos de Homero fueron el primer uso del griego escrito (725 BC). Otro texto relevante son los poemas de Hesíodo en 700 BC “Teogonia” en los que se describen los orígenes de los dioses griegos. Su estructura es peculiar, establece tres generaciones de dioses donde los padres son destruidos por sus hijos. Es posible que exista relación entre dicho poema y “La Canción de Kumarbi”, un poema Hittita encontrado en su capital Hattusas.
+Las colonias también expusieron al mundo griego de nuevas ideas, sistemas religiosos y estilos artísticos. Los textos de Homero fueron el primer uso del griego escrito (725 BC). Otro texto relevante son los poemas de Hesíodo en 700 BC “Teogonia” en los que se describen los orígenes de los dioses griegos. Su estructura es peculiar, establece tres generaciones de dioses donde los padres son destruidos por sus hijos. Es posible que exista relación entre dicho poema y “La Canción de Kumarbi”, un poema Hittita encontrado en su capital Hattusas.
 
 > La ciudad de Hatusas fue destruida en torno al 1200 BC por lo que las tablillas en las que se escribieron la épica de Kumarbi son al menos de esa fecha, muy anterior a la versión griega. Es más, la versión Hittita se basa en la Hurrita, manteniendo al menos los mismos nombres de los dioses, fechada en torno al 1500 BC
 
-En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia arcaica, razón por la cual en ocaciones se conoce este periodo como un “periodo orientalizante”.
+En todos los ámbitos hay evidencias de la gran influencia oriental en la Grecia arcaica, razón por la cual en ocasiones se conoce este periodo como un “periodo orientalizante”.
+
+### Evolución de las sociedades griegas
+
+Los grandes y rápidos cambios acaecidos durante la "Revolución Arcaica" no evitaron la permanencia de continuos conflictos entre distintas regiones, ciudades-estado, distintos clanes aristocráticos e incluso entre clases ricas y pobres.
+
+La violencia civil o *Stasis* era endémica y afectaba a todos los estados, cada uno tratando de gestionarlo a su manera. Dada las limitadas instituciones políticas existentes, muchos estados  acabarían siendo gobernados por Tiranos, es decir, líderes no elegidos.
+
+De manera simplificada, se podría resumir que la cultura griega tomaría dos cursos divergentes, creando dos tipos de ciudades-estado distintos, representados por Atenas (similar a la mayoría de resto de ciudades-estado griegos) y Esparta.
+
+#### Esparta
+
+Los restos y testimonios muestran que la Esparta Arcaica era muy similar al resto de regiones griegas. No obstante, dada su localización, en el Peloponeso, extremadamente compartimentado, con pocas tierras fértiles y aislado del exterior por su peculiar relieve, sufre durante los ss. IX-VI BC una serie de conflictos (con los Aqueos por el valle de Eurotas; con Tegea, con Argos por la llanura de Tirea; y con los Mesenios) que moldearán su evolución cultural y política divergente de las tendencias propias de Atenas. Esta ciudad-estado es un caso único en las sociedades griegas de la época, de hecho, contaban con instituciones y cultura completamente diferentes al resto de regiones.
+
+Esparta mantuvo un largo conflicto con la región de Mesenia que culminó al terminar las guerras mesenias a finales del VI BC. En torno al 650-600 BC los Espartanos se convirtieron en los patrones de los Mesenios (mayor en numero que la propia población de Esparta) que pasaron a ser sus sirvientes conocidos como *ilotas o helotas*, que a partir de entonces, trabajarían las tierras de los espartanos.
+
+Como consecuencia de esto, los espartanos desarrollaron una sociedad cerrada y muy jerarquizada, cuyas instituciones se enfocaban en mantener e l control sobre los ilotasy, en definitiva, el status quo. Este nuevo orden social, aparentemente dictado por el oráculo de Delfos a Licurgo, y recogido por éste en la **Constitución de Esparta** o **Retra**, se organizaba del siguiente modo:
+
+- **Poder ejecutivo y judicial** 
+
+  - basado en un modelo aristocrático de ***diarquía* **(dos reyes) ,de carácter hereditario y vitalicio, pero que requería ratificación del consejo u asamblea. El poder de los reyes era principalmente militar, eran los jefes del ejército.
+
+    {: .notice--warning}
+
+    **Nota**: la existencia de dos reyes probablemente sea el resultado de acuerdos entre dos proto-estados independientes que se fusionaron en el pasado para formar uno.
+
+  - como complemento existían cinco (5) ***éforos*** a modo de magistratura electa anualmente y autónoma, ya que sólo rendían cuentas ante sus sucesores. Estos  desarrollaban las labores administrativas y judiciales.
+
+- **Órganos legislativos y consultivos**
+
+  - El **Consejo** o ***Gerusía***, compuesto por los dos (2) reyes y veintiocho (28) jefes aristocráticos (ancianos) elegidos anualmente. Aprobaban los proyectos de ley sujetos a aprobación de la Asamblea.
+  - La **Asamblea** o ***Apella*** que reunía mensualmente a todos los ciudadanos masculinos de Esparta, cuyo principal propósito era la aprobación o rechazo de las propuestas de ley. Así como tratar asuntos de guerra, emancipaciones de ilotas y establecimiento de tratados.
+
+Lo anterior no supone grandes diferencias con respecto a otras ***pólis*** griegas, no obstante Esparta contaba con leyes e instituciones propias muy peculiares:
+
+- Por encima de la familia existían dos (2) instituciones básicas. 
+  - La ***Agogé*** es la institución básica educativa, principalmente para la formación atlética y militar.  Se trataba de una institución convival dónde los niños, considerados aptos, vivían tras ser arrebatados de sus familias y se les entrenaba como guerreros. Al resto de niños que se les consideraba demasiado débiles eran sacrificados. Además, durante un cierto periodo se les enviaba a vivir fuera para que aprendieran a sobrevivir y ser resistentes. Durante este periodo los niños podían matar a cualquier ilota. En los periodos normales convivían juntos con **disciplina** y  **fraternidad** o ***phiditía***, obedeciendo y respetando las leyes.
+  - En paralelo la ***Syssítia*** que consistía en banquetes diarios en donde cenaban en mesas comunes organizadas por hermandades.  
+- El régimen social espartano, que apenas cambió durante 300 años, era más cerrado que en otras regiones y constaba básicamente de los siguientes estratos:
+  - Los ***Spartiates u homoioi*** eran los ciudadanos espartanos, la élite militar, que disfrutaban de igualdad ante la ley y en el reparto de los beneficios de la tierra, igualando así el acceso a la tierra sin diferenciar entre *demos* (pueblo común) o *aristoi* (aristocracia). Los espartanos únicamente se dedicaban al arte de la guerra y sus sirvientes trabajaban las tierras por ellos. Periódicamente, cada Espartano tenía que aportar una misma cantidad de producción al común, si no lo hacía perdía el estatus de *homoioi*.
+  - Los ***periecos*** eran poblaciones subordinadas de regiones periféricas con cierta autonomía, probablemente agricultores, artesanos y comerciantes, pero que sujetos a servir en el ejército espartano.
+  - Los ***ilotas** eran el estrato servil, sin derechos políticos,aunque no necesariamente esclavos pues vivían con sus familias pero tampoco completamente libres, sino probablemente algo entre medias.  
+
+El carácter cerrado de la cultura de Esparta también se evidencia en otras cuestiones, como su limitado comercio con otras regiones vecinas o  la expulsión de extranjeros de sus territorios (*xenelasia*) en varias ocasiones.
+
+El hecho de que Esparta se mantuviera cerrada a influencias externas, probablemente se debiera a que pretendían proteger su orden social o ***eunomia*** de nuevas ideas que pudieran ponerlo en peligro. 
+
+{: .notice--warning}Por ejemplo, durante una de las varias rebeliones de los ilotas los Atenienses ofrecieron su ayuda a los Espartanos que la aceptaron. Posteriormente estos decidieron que se marcharan, quizás ¿por sus ideas sobre la Democracia?.
+
+Como resultado, tras varios siglos de evolución social, artística y económica, los espartanos quedaron atrasados con respecto a sus vecinos en la época clásica.
+
+#### Resto del mundo griego
+
+
 
 # Síntesis periodos griegos
 
--   **Paleolítico (33.000 - 90-1100 BC)**  1100 BC)**
--   -   Grecia continental –> Asentamientos Neanderthales; llegada de Homosapiens desde los Balcanes
+-   **Paleolítico (33.000 - 90-1100 BC)** 
+    -   Grecia continental –> Asentamientos Neanderthales; llegada de Homosapiens desde los Balcanes
 -   **Mesolítico (9000 - 7000 BC)**
     -   Grecia continental –> predominio de tradición europea; ya está presente influencia de medio oriente. Ya existe navegación rudimentaria por cabotaje en Egeo y Adriático.
 -   **Neolítico (7000 - 3000 BC)**
@@ -311,7 +404,7 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
         -   Cultura Dimini (4500 - 3000 BC) –>de pueblo conquistador de origen nórdico; introducción del arco y arquitectura más sólida para fortificaciones.
     -   Creta y costa de Anatolia (6000 BC) –> proviene de Anatolia; no existe una fase neolítica precerámica.
     -   Islas Cícladas (3000 - 2850 BC) –> en las islas entra el neolítica de manera muy tardía y breve, para pasar en segiuda a la edad de bronce.
--   **Edad de bronce (3200 - * **Neolítico (300000 BC)**
+-   **Edad de bronce (3200 - 1100 BC)**
     -   Grecia continental (periodos heládico)
         -   Heládico Antiguo (I, II y III) (2800 - 2100 BC)
             -   HA I (2800 - 2600 BC) –> Periodo de tránsito. Predominio obsidiana y otros de tradicion neolítica.
@@ -338,14 +431,10 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
             -   Cultura Filakopí I (2200 - 2100 BC)
         -   Cicládico Medio (I, II y III) (2100-1700 BC)
         -   Cicládico Reciente (I, II y III) (1700-1050 BC)
--   **Bronze Age (3000-1100 BC)**
-    -   Creta minoica
-    -   Grecia micénica
--   **Iron Age ()**
-    -   **Early iron age**  (1000-500 BC)
-        -   Geometric Age (900-700 BC)
-        -   Archaic Age (700-480 BC)
-        -   Classical Age (480-323 BC)
+-   **Edad de Hierro (1100-300 BC)**
+    -   Edad Oscura (1100-700 BC)
+    -   Época Arcaica (700-480 BC)
+    -   Época clásica (480-323 BC)
 
 # Bibliografía y referencias
 
@@ -354,9 +443,5 @@ En todos los ámbitos hay evidencias de la gran influencia oriental en la grecia
 -   [Minoan Civilization (Wikipedia)](https://en.wikipedia.org/wiki/Minoan_civilization)
 -   [“La historia de Grecia desde sus orígenes a las migraciones dorias” por Gonzalo Fernandez. Universidad de Valencia](https://dialnet.unirioja.es/descarga/articulo/2863447.pdf)
 -   [Historiae: El ethnos en la antigua grecia](https://historiaeweb.com/2016/12/18/el-ethnos-en-la-antigua-grecia/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTQxMjg5OSwtMTEzMDIwNjgxMiwtMT
-Y3NDA2NDYwLDY0OTI0NzE2NCwxNDk3MDU3NjEwLC0xNDkzNzQ5
-MDQxLDU2MzQ3MzQ5LDE3OTEwNTQxMjMsNDA5ODc2MDYyLDE4OD
-M3MjEyMDddfQ==
--->
+-   [Juegos panhelénicos](https://en.wikipedia.org/wiki/Panhellenic_Games)
+-   [Uned Tudela: Esparta](http://www.quned.es/mvg/archivos_publicos/qdocente_planes/37644/leccion11polisclasicaiiespartabyn.pdf)
