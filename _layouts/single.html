@@ -41,6 +41,22 @@ layout: default
           </aside>
         {% endif %}
         {{ content }}
+
+        {% if page.bookmarks %}
+          {% for bookmark_category in page.bookmarks %}
+            {% assign list = site.data.bookmarks[bookmark_category] %}
+            <h2 id="front-end_bookmarks" class="">Recursos relacionados con {{ bookmark_category }}</h2>
+            {% for bookmarks in list %}
+              <h3 class="">{{ bookmarks.title }}</h3>
+              <ul>
+              {% for link in bookmarks.links %}
+                <li><a href="{{ link | last }}">{{ link | first }}</a></li>
+              {% endfor%}
+              </ul>
+            {% endfor %}
+          {% endfor %}
+        {% endif %}
+        
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 

@@ -26,3 +26,11 @@ Es posible, que en las próximas décadas se inicie un cambio de tendencia, que 
 ##### Exposición a quimicos
 Ver [Count down por Shanna H. Swan, PhD](/libros/reviews/count-down/)
 
+## Recursos 
+- [Count down por Shanna H. Swan, PhD](/libros/reviews/count-down/)
+- [The public health company](https://www.thepublichealthco.com/)
+- [Global Challenges Organisation](https://globalchallenges.org/)
+- [International Crisis Group](https://www.crisisgroup.org/)
+
+
+

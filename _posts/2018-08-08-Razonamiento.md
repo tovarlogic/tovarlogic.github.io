@@ -246,9 +246,3 @@ La fuerza de la hipótesis está determinada por tres factores:
 
 # Referencias
 - [Uso de razón](http://www.usoderazon.com) por Ricardo García Damborenea
-
-> Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUxMTk1NTk3LC02MzM5ODg1NDMsLTE1Mz
-EyNjcxODhdfQ==
--->
