@@ -2,10 +2,8 @@
 title:  "Derechos Humanos"
 date:   2018-08-10
 update: 
-tags: [Derecho, Derechos humanos]
-category: [Conocimiento]
-toc: true
-toc_sticky: true
+type: Conocimiento
+categories: [Derecho, Derechos humanos]
 header:
   teaser: /assets/images/blog/teasers/derechos-humanos.jpg
 excerpt: Declaración de Derechos Humanos de la ONU comentada.

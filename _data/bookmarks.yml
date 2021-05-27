@@ -1,14 +1,24 @@
-Mindtools:
-  - title: Razonamiento y Argumentación
-    links:
-      Razonamiento, Argumentos y Falacias: http://usoderazon.com
+list:
+  - title: Razonamiento, Argumentos y Falacias
+    url: http://usoderazon.com
+    category: [pensamiento-critico]
+    tags: [razonamiento, argumentacion, falacias]
 
-  - title: Sesgos cognitivos
-    links:
-      Sesgos cognitivos (esp): https://es.wikipedia.org/wiki/Anexo:Sesgos_cognitivos
-      Lista sesgos cognitivos (eng): https://en.wikipedia.org/wiki/List_of_cognitive_biases
-      Sesgo cognitivo (eng): https://en.wikipedia.org/wiki/Cognitive_bias
+  - title: Sesgos cognitivos (esp)
+    url: https://es.wikipedia.org/wiki/Anexo:Sesgos_cognitivos
+    category: [pensamiento-critico]
+    tags: [sesgos]
+
+  - title: Lista sesgos cognitivos (eng)
+    url: https://en.wikipedia.org/wiki/List_of_cognitive_biases
+    category: [pensamiento-critico]
+    tags: [sesgos]
+
+  - title: Sesgo cognitivo (eng)
+    url: https://en.wikipedia.org/wiki/Cognitive_bias
+    category: [pensamiento-critico]
+    tags: [sesgos]
 
   - title: Pensamiento crítico
-    links:
-      Pensamiento crítico: http://www.criticalthinking.org/pages/critical-thinking-in-every-domain-of-knowledge-and-belief/698
+    url: http://www.criticalthinking.org/pages/critical-thinking-in-every-domain-of-knowledge-and-belief/698
+    category: [pensamiento-critico]

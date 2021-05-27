@@ -1,11 +1,7 @@
 title: "Conspiraciones medioambientales"
 date:   2021-04-19
-tags: [Medioambiente]
-category: Opinion
-toc: true
-toc_sticky: true
-author_profile: false
-
+type: Opinion
+categories: Medio Ambiente
 draft: true
 ---
 

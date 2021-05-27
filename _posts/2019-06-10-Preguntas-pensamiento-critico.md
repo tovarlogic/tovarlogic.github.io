@@ -1,11 +1,9 @@
 ---
 title:  "Preguntas para un pensamiento crítico"
 date:   2019-06-10
-tags: [Mind tools, Lógica, Pensamiento crítico]
-category: [Conocimiento]
-bookmarks: [Mindtools]
-toc: true
-toc_sticky: true
+type: Conocimiento
+categories: [Razonamiento, Pensamiento crítico]
+bookmarks: [pensamiento-critico]
 ---
 
 ## Tipos de preguntas

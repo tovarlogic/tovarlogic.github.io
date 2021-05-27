@@ -1,10 +1,9 @@
 ---
 title:  "Pensamiento crítico"
 date:   2018-08-03
-tags: [Mind tools, Lógica, Pensamiento crítico]
-category: [Conocimiento]
-toc: true
-toc_sticky: true
+type: Conocimiento
+categories: [Razonamiento, Pensamiento crítico]
+tags: [Mind tools, Lógica] 
 ---
 
 ## Definición

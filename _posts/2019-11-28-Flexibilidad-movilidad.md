@@ -1,10 +1,8 @@
 ---
 title:  "Flexibilidad y movilidad"
 date:   2019-11-28 15:14:54
-tags: [Fitness]
-category: [Conocimiento]
-toc: true
-toc_sticky: true
+type: Conocimiento
+categories: [Ciencias, Deporte]
 excerpt: Definiciones e indicaciones de cuándo y cómo realizar estos ejercicios
 ---
 # Definiciones

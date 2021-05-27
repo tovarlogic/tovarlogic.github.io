@@ -1,14 +1,13 @@
 ---
 title:  "La convención"
 date:   2021-05-13
-tags: [Medio Ambiente]
-category: [Conocimiento]
+type: Conocimiento
+categories: [Medio Ambiente, cambio climatico]
+tags: [tratados internacionales]
 serie: cambio-climatico
 layout: single
 sidebar:
   nav: "cambio-climatico"
-toc: true
-toc_sticky: true
 excerpt: Resumen sobre el contenido de la Convención Marco de las Naciones Unidas por el Cambio Climático (CMNUCC) de 1992.
 header:
   overlay_color: "#333"

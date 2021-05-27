@@ -1,14 +1,13 @@
 ---
 title:  Argumentos de Autoridad
 date:   2018-08-18
-tags: [Mind tools, Lógica, Pensamiento crítico]
-category: [Conocimiento]
+type: Conocimiento
+categories: [Razonamiento, Pensamiento crítico]
 serie: razonamiento
 layout: single
 sidebar:
   nav: "razonamiento"
-toc: true
-toc_sticky: true
+
 excerpt: Escudarse en una opinión que se considere solvente.
 header:
   overlay_color: "#333"
@@ -17,7 +16,7 @@ header:
       url: "/series/razonamiento/"
 ---
 # Introducción
-Los argumentos de autoridad son aquellos en los que como razones aportamos lo que dicen otros.
+Los argumentos de autoridad son aquellos en los que como razones aportamos lo que dicen otros. Es dicir, escudarse en una opinión que se considere solvente.
 
 Cuando queremos sostener una afirmación, no hay nada más socorrido que escudarse en una opinión que se considere solvente y a la que hacemos responsable de nuestras afirmaciones.
 

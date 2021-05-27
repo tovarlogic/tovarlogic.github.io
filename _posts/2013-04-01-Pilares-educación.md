@@ -2,10 +2,8 @@
 title:  "Los pilares de la buena educación"
 date:   2013-04-01
 update: 2021-04-28
-tags: [Política]
-category: [Opinion]
-toc: true
-toc_sticky: true
+type: Opinion
+categories: Sociología
 header:
   teaser: /assets/images/blog/teasers/Kid-Reading.jpg
 excerpt: Una buena educación no necesariamente es la de los buenos modales, sino la que debiera recibir cualquier persona, que le permita ser una buena persona, útil para la sociedad, pero sobretodo a sí mismo.

@@ -1,14 +1,12 @@
 ---
 title:  "Razonamiento"
 date:   2018-08-08
-tags: [Mind tools, Lógica, Pensamiento crítico]
-category: [Conocimiento]
+type: Conocimiento
+categories: [Razonamiento, Pensamiento crítico]
 serie: razonamiento
 layout: single
 sidebar:
   nav: "razonamiento"
-toc: true
-toc_sticky: true
 header:
   overlay_color: "#333"
   actions:

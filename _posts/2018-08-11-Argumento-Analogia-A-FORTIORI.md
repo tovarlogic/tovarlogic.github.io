@@ -1,14 +1,13 @@
 ---
-title:  Argumentos por Analogía "A Fortiori"
+title:  Argumentos por Analogía "A Fortiori" o Comparación del mismo grado
 date:   2018-08-11
-tags: [Mind tools, Lógica, Pensamiento crítico]
-category: [Conocimiento]
+type: Conocimiento
+categories: [Razonamiento, Pensamiento crítico]
 serie: razonamiento
 layout: single
 sidebar:
   nav: "razonamiento"
-toc: true
-toc_sticky: true
+
 excerpt: Comparación con ejemplos a mayores o menores.
 header:
   overlay_color: "#333"

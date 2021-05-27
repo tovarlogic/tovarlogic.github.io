@@ -2,11 +2,8 @@
 title: "Técnicas de aprendizaje"
 date:   2018-08-12
 update: 2020-12-10 13:31
-tags: [Mind tools, Aprendizaje]
-category: [Conocimiento]
-toc: true
-toc_sticky: true
-author_profile: false
+type: Conocimiento
+categories: [Razonamiento, Aprendizaje]
 ---
 # Fundamentos aprendizaje
 ## Introducción

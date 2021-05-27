@@ -2,10 +2,9 @@
 title:  "Sobre la censura"
 date:   2020-05-26 15:14:54
 update: 2020-05-18
-tags: [Política]
-category: [Opinion]
-toc: true
-toc_sticky: true
+type: Opinion
+categories: [Sociología, Política]
+tags: [censura]
 excerpt: Discusión sobre las distintas formas de censura, sus riesgos y alternativas.
 ---
 

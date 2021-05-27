@@ -2,10 +2,8 @@
 title:  "Razones para ser ateo"
 date:   2007-09-14
 update: 2021-04-28
-tags: [Argumentarios, Religion]
-category: [Opinion]
-toc: true
-toc_sticky: true
+type: Opinion
+categories: [Argumentarios, Religion]
 header:
   teaser: /assets/images/blog/teasers/ciencia_y_religion.jpg
 excerpt: Mi visión sobre la religión, particularmente sobre la existencia de los dioses y mis razones para ser ateo.

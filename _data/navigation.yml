@@ -1,9 +1,7 @@
 # main links
 main:
-  - title: "Conocimiento"
-    url: /conocimiento/
-  - title: "Opinión"
-    url: /opinion/
+  - title: "Blog"
+    url: /categories/
   - title: "Notas"
     url: /notas/
   - title: "Libros"
@@ -13,90 +11,33 @@ main:
   - title: "Quotes"
     url: /quotes/
 
-# documentation links
-docs:
-  - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-  - title: Customization
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
-        url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-  - title: Content
-    children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
-  - title: Meta
-    children:
-      - title: "History"
-        url: /docs/history/
-      - title: "Contributing"
-        url: /docs/contributing/
-      - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
-      - title: "License"
-        url: /docs/license/
-      - title: "Terms &amp; Privacy Policy"
-        url: /terms/
-
 cambio-climatico:
   - title: "Antecedentes"
     children:
       - title: "Conferencia sobre el Medio Humano"
-        url: /conocimiento/conferencia-medio-humano
+        url: /conferencia-medio-humano
       - title: "Convenio de Viena"
-        url: /conocimiento/convenio-viena
+        url: /convenio-viena
       - title: "Protocolo de Montreal"
-        url: /conocimiento/protocolo-montreal
+        url: /protocolo-montreal
   - title: "UNFCCC"
     children:
       - title: "La convención"
-        url: /conocimiento/unfccc-convencion
+        url: /unfccc-convencion
       - title: "Grupo Intergubernamental de Expertos"
-        url: /conocimiento/ipcc
+        url: /ipcc
       - title: "Protocolo de Kyoto"
-        url: /conocimiento/Protocolo-de-Kioto
+        url: /Protocolo-de-Kioto
       - title: "Acuerdo de París"
-        url: /conocimiento/Acuerdo-Paris
+        url: /Acuerdo-Paris
 
 civilizaciones:
   - title: "Occidente"
     children:
       - title: "Origen civilizaciones antiguas"
-        url: /conocimiento/origen-civilizaciones-antiguas/
+        url: /origen-civilizaciones-antiguas/
       - title: "Grecia antigua"
-        url: /conocimiento/Grecia-Antigua/
+        url: /Grecia-Antigua/
   - title: "Asia"
   - title: "America"
           
@@ -104,24 +45,39 @@ alimentacion:
   - title: "Metabolismo"
     children:
       - title: "Hidratos de carbono"
-        url: /conocimiento/Hidratos-carbono
+        url: /Hidratos-carbono
       - title: "Proteinas"
-        url: /conocimiento/metabolismo-proteinas
+        url: /metabolismo-proteinas
       - title: "Grasas"
-        url: /conocimiento/metabolismo-grasas
+        url: /metabolismo-grasas
 
 razonamiento:
   - title: "Razonamiento"
     children:
       - title: "Fundamentos"
-        url: /conocimiento/Razonamiento
+        url: /Razonamiento
       - title: "Cuestiones básicas"
-        url: /conocimiento/uso-de-razon
-  - title: "Argumentos"
+        url: /uso-de-razon
+  - title: "Argumentos inductivos"
     children:
       - title: "de Autoridad"
-        url: /conocimiento/Argumento-Autoridad
+        url: /Argumento-Autoridad
       - title: "por Analogía 'A pari'"
-        url: /conocimiento/Argumento-Analogia-A-PARI
+        url: /Argumento-Analogia-A-PARI
       - title: "por Analogía 'A fortiori'"
-        url: /conocimiento/Argumento-Analogia-A-FORTIORI
+        url: /Argumento-Analogia-A-FORTIORI
+      - title: " de Causa"
+        url: /Argumento-causa
+      - title: "de Contrarios 'Ex contrario'"
+        url: /Argumento-contrarios
+      - title: "de Generalización"
+        url: /Argumento-generalizacion
+  - title: "Argumentos deductivos"
+    children:
+      - title: "condicional I"
+        url: /Argumento-condicional-I
+  - title: "Argumentos hipotéticos"
+    children:
+      - title: "de Signo o indicios"
+        url: /Argumento-indicios
+

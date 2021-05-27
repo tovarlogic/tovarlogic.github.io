@@ -1,14 +1,12 @@
 ---
 title:  "Protocolo de Kioto"
 date:   2021-05-05
-tags: [Medio Ambiente]
-category: [Conocimiento]
+categories: [Medio Ambiente, cambio climatico]
+type: Conocimiento
 serie: cambio-climatico
 layout: single
 sidebar:
   nav: "cambio-climatico"
-toc: true
-toc_sticky: true
 excerpt: Resumen sobre el contenido del acuerdo del Protocolo de Kioto de 1997 contra el cambio climático.
 header:
   overlay_color: "#333"

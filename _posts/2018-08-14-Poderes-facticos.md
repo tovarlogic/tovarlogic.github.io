@@ -3,8 +3,8 @@ title:  "Poderes fácticos"
 date:   2018-08-13
 update: 
 draft: true
-tags: [Política]
-category: [Conocimiento]
+categories: [Política]
+type: Conocimiento
 excerpt:
 ---
 

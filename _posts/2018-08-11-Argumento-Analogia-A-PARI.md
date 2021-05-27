@@ -1,14 +1,13 @@
 ---
-title:  Argumentos por Analogía "A Pari"
+title:  Argumentos por Analogía "A Pari" o por comparación con ejemplos mayores y menores
 date:   2018-08-11
-tags: [Mind tools, Lógica, Pensamiento crítico]
-category: [Conocimiento]
+type: Conocimiento
+categories: [Razonamiento, Pensamiento crítico]
 serie: razonamiento
 layout: single
 sidebar:
   nav: "razonamiento"
-toc: true
-toc_sticky: true
+
 excerpt: Comparación del mismo grado por igualdad o semejanza.
 header:
   overlay_color: "#333"

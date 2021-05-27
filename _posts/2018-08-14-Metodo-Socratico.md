@@ -1,10 +1,8 @@
 ---
 title:  "Método Socrático"
 date:   2018-08-08
-tags: [Mind tools, Lógica, Pensamiento crítico]
-category: [Conocimiento]
-toc: true
-toc_sticky: true
+type: Conocimiento
+categories: [Razonamiento, Pensamiento crítico]
 ---
 
 ## Introducción

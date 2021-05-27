@@ -1,10 +1,9 @@
 ---
 title: "Las consecuencias indeseables de las criptomonedas"
 date:   2021-04-19
+type: Opinion
+categories: Tecnología
 tags: [Derechos humanos]
-category: Opinion
-toc: true
-toc_sticky: true
 author_profile: false
 ---
 # Introducción

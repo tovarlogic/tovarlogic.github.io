@@ -2,10 +2,8 @@
 title:  "Ética de las creencias"
 date:   2019-12-20 15:14:54
 update: 2020-05-18
-tags: [Pensamiento crítico, Ética]
-category: [Opinion]
-toc: true
-toc_sticky: true
+type: Opinion
+categories: [Filosofía, Ética]
 excerpt: Las creencias tienen el poder de modular nuestro comportamiento. Es natural que alberguemos creencias infundadas, no obstante somos, en cualquier caso, responsables de nuestras acciones y por ello estamos moralmente obligados, por el bien común, a cuestionar y revisar nuestros propios juicios buscando las evidencias que los sustenta.
 ---
 

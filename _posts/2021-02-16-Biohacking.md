@@ -1,10 +1,9 @@
 ---
 title: "Biohacking"
 date:   2021-02-16
+type: Opinion
+categories: [Ciencias, Salud]
 tags: [Suplementos]
-category: [Opinion]
-toc: true
-toc_sticky: true
 author_profile: false
 ---
 
