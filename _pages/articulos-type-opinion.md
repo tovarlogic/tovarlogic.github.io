@@ -2,7 +2,7 @@
 title: Artículos de opinión
 layout: category_left
 breadcrumb_name: Opinión
-permalink: /opinion/
+permalink: /blog/opinion/
 taxonomy: Opinion
 author_profile: false
 classes: wide

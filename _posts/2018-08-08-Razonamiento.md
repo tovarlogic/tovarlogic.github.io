@@ -4,9 +4,7 @@ date:   2018-08-08
 type: Conocimiento
 categories: [Razonamiento, Pensamiento crítico]
 serie: razonamiento
-layout: single
-sidebar:
-  nav: "razonamiento"
+layout: serie
 header:
   overlay_color: "#333"
   actions:

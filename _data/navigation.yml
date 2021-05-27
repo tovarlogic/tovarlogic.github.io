@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Blog"
-    url: /categories/
+    url: /blog/
   - title: "Notas"
     url: /notas/
   - title: "Libros"

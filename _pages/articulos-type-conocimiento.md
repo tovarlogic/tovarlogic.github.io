@@ -2,7 +2,7 @@
 title: Artículos informativos
 layout: category_left
 breadcrumb_name: Conocimiento
-permalink: /conocimiento/
+permalink: /blog/conocimiento/
 taxonomy: Conocimiento
 author_profile: false
 classes: wide

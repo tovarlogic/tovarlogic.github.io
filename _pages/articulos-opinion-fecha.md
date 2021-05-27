@@ -1,6 +1,6 @@
 ---
 title: "Artículos de opinión (por fecha)"
-permalink: /opinion/fecha/
+permalink: /blog/opinion/fecha/
 taxonomy: Opinion
 breadcrumb_name: Articulos-fecha
 layout: dates_left

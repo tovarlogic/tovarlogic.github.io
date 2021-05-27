@@ -4,10 +4,7 @@ date:   2018-08-18
 type: Conocimiento
 categories: [Razonamiento, Pensamiento crítico]
 serie: razonamiento
-layout: single
-sidebar:
-  nav: "razonamiento"
-
+layout: serie
 excerpt: Escudarse en una opinión que se considere solvente.
 header:
   overlay_color: "#333"

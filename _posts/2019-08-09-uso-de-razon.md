@@ -4,14 +4,12 @@ date:   2019-08-09
 type: Conocimiento
 categories: [Razonamiento, Pensamiento crítico]
 serie: razonamiento
-layout: single
-sidebar:
-  nav: "razonamiento"
+layout: serie
 excerpt: Resumen sobre el contenido del Acuerdo de París de 2015, ratificado en 2016 en Nueva York, contra el cambio climático.
 header:
   overlay_color: "#333"
   actions:
-    - label: "Serie:Razonamiento"
+    - label: "Serie: Razonamiento"
       url: "/series/razonamiento/"
 ---
 

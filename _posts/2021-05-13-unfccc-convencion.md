@@ -5,9 +5,7 @@ type: Conocimiento
 categories: [Medio Ambiente, cambio climatico]
 tags: [tratados internacionales]
 serie: cambio-climatico
-layout: single
-sidebar:
-  nav: "cambio-climatico"
+layout: serie
 excerpt: Resumen sobre el contenido de la Convención Marco de las Naciones Unidas por el Cambio Climático (CMNUCC) de 1992.
 header:
   overlay_color: "#333"

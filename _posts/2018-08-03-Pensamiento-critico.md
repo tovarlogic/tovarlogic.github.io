@@ -3,7 +3,6 @@ title:  "Pensamiento crítico"
 date:   2018-08-03
 type: Conocimiento
 categories: [Razonamiento, Pensamiento crítico]
-tags: [Mind tools, Lógica] 
 ---
 
 ## Definición

@@ -4,10 +4,7 @@ date:   2018-08-11
 type: Conocimiento
 categories: [Razonamiento, Pensamiento crítico]
 serie: razonamiento
-layout: single
-sidebar:
-  nav: "razonamiento"
-
+layout: serie
 excerpt: Comparación con ejemplos a mayores o menores.
 header:
   overlay_color: "#333"

@@ -1,7 +1,7 @@
-{% if page.author_profile or layout.author_profile or page.sidebar %}
+{% if page.author_profile or layout.author_profile or page.sidebar or page.serie %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
-  {% if page.sidebar %}
+  {% if page.sidebar or page.serie %}
     {% for s in page.sidebar %}
       {% if s.image %}
         <img src="{{ s.image | relative_url }}"
@@ -13,6 +13,9 @@
     {% endfor %}
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
+    {% endif %}
+    {% if page.serie %}
+      {% include nav_list nav=page.serie %}
     {% endif %}
   {% endif %}
   </div>

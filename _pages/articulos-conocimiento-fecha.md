@@ -1,6 +1,6 @@
 ---
 title: "Artículos informativos (por fecha)"
-permalink: /conocimiento/fecha/
+permalink: /blog/conocimiento/fecha/
 taxonomy: Conocimiento
 breadcrumb_name: Articulos-fecha
 layout: dates_left
