@@ -21,3 +21,4 @@ Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que
 ### "Sociedad zombie"
 - Las sociedades las forman y construyen las personas y organizaciones sociales (formadas también por personas). 
 - Las sociedades tienen una historia y dinámicas que le aportan inercia
+dsf
