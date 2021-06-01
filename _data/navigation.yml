@@ -15,29 +15,29 @@ cambio-climatico:
   - title: "Antecedentes"
     children:
       - title: "Conferencia sobre el Medio Humano"
-        url: /conferencia-medio-humano
+        url: /blog/conferencia-medio-humano
       - title: "Convenio de Viena"
-        url: /convenio-viena
+        url: /blog/convenio-viena
       - title: "Protocolo de Montreal"
-        url: /protocolo-montreal
+        url: /blog/protocolo-montreal
   - title: "UNFCCC"
     children:
       - title: "La convención"
-        url: /unfccc-convencion
+        url: /blog/unfccc-convencion
       - title: "Grupo Intergubernamental de Expertos"
-        url: /ipcc
+        url: /blog/ipcc
       - title: "Protocolo de Kyoto"
-        url: /Protocolo-de-Kioto
+        url: /blog/Protocolo-de-Kioto
       - title: "Acuerdo de París"
-        url: /Acuerdo-Paris
+        url: /blog/Acuerdo-Paris
 
 civilizaciones:
   - title: "Occidente"
     children:
       - title: "Origen civilizaciones antiguas"
-        url: /origen-civilizaciones-antiguas/
+        url: /blog/origen-civilizaciones-antiguas/
       - title: "Grecia antigua"
-        url: /Grecia-Antigua/
+        url: /blog/Grecia-Antigua/
   - title: "Asia"
   - title: "America"
           
@@ -45,39 +45,39 @@ alimentacion:
   - title: "Metabolismo"
     children:
       - title: "Hidratos de carbono"
-        url: /Hidratos-carbono
+        url: /blog/Hidratos-carbono
       - title: "Proteinas"
-        url: /metabolismo-proteinas
+        url: /blog/metabolismo-proteinas
       - title: "Grasas"
-        url: /metabolismo-grasas
+        url: /blog/metabolismo-grasas
 
 razonamiento:
   - title: "Razonamiento"
     children:
       - title: "Fundamentos"
-        url: /Razonamiento
+        url: /blog/Razonamiento
       - title: "Cuestiones básicas"
-        url: /uso-de-razon
+        url: /blog/uso-de-razon
   - title: "Argumentos inductivos"
     children:
       - title: "de Autoridad"
-        url: /Argumento-Autoridad
+        url: /blog/Argumento-Autoridad
       - title: "por Analogía 'A pari'"
-        url: /Argumento-Analogia-A-PARI
+        url: /blog/Argumento-Analogia-A-PARI
       - title: "por Analogía 'A fortiori'"
-        url: /Argumento-Analogia-A-FORTIORI
+        url: /blog/Argumento-Analogia-A-FORTIORI
       - title: " de Causa"
-        url: /Argumento-causa
+        url: /blog/Argumento-causa
       - title: "de Contrarios 'Ex contrario'"
-        url: /Argumento-contrarios
+        url: /blog/Argumento-contrarios
       - title: "de Generalización"
-        url: /Argumento-generalizacion
+        url: /blog/Argumento-generalizacion
   - title: "Argumentos deductivos"
     children:
       - title: "condicional I"
-        url: /Argumento-condicional-I
+        url: /blog/Argumento-condicional-I
   - title: "Argumentos hipotéticos"
     children:
       - title: "de Signo o indicios"
-        url: /Argumento-indicios
+        url: /blog/Argumento-indicios
 

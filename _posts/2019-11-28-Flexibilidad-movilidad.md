@@ -2,7 +2,7 @@
 title:  "Flexibilidad y movilidad"
 date:   2019-11-28 15:14:54
 type: Conocimiento
-categories: [Ciencias, Deporte]
+categories: [Cuerpo humano]
 excerpt: Definiciones e indicaciones de cuándo y cómo realizar estos ejercicios
 ---
 # Definiciones

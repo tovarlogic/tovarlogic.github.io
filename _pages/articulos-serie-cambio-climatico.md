@@ -1,7 +1,9 @@
 ---
-title: "Cambio climático"
+title: "Serie: Cambio climático"
+date: 2021-05-10
+show_date: true
 layout: series
-permalink: /series/cambio-climatico
+permalink: /blog/serie-cambio-climatico
 serie: cambio-climatico
 category: Medio Ambiente
 author_profile: false

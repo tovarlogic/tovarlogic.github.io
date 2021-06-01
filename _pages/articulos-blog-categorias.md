@@ -1,5 +1,5 @@
 ---
-title: "Artículos por categorías"
+title: "Blog: Artículos organizados por categoría"
 breadcrumb_name: Blog
 layout: categories_left
 permalink: /blog/

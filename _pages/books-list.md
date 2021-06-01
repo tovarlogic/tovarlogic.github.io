@@ -1,5 +1,5 @@
 ---
-title: "Mi biblioteca personal"
+title: "Biblioteca: Libros organizados por fecha"
 breadcrumb_name: Libros
 taxonomy: Libros
 layout: book_left

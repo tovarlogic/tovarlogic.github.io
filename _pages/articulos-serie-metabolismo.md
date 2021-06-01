@@ -1,7 +1,9 @@
 ---
-title: "Metabolismo"
+title: "Serie: Metabolismo"
+date: 2017-07-01
+show_date: true
 layout: serie
-permalink: /series/metabolismo
+permalink: /blog/serie-metabolismo
 serie: alimentacion
 category: Cuerpo humano
 author_profile: false

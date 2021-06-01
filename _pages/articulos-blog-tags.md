@@ -1,7 +1,7 @@
 ---
-title: "Artículos por etiqueta"
+title: "Blog: Artículos organizados por etiqueta"
 breadcrumb_name: Etiquetas
-permalink: /tags/
+permalink: /blog/tags/
 layout: tags_left
 author_profile: false
 classes: wide

@@ -1,5 +1,5 @@
 ---
-title: "Mi biblioteca personal"
+title: "Biblioteca: Libros organizados por temática"
 breadcrumb_name: Temática
 taxonomy: Libros
 layout: book_left-tematica

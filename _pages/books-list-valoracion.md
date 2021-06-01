@@ -1,5 +1,5 @@
 ---
-title: "Mi biblioteca personal"
+title: "Biblioteca: Libros organizados por valoración"
 breadcrumb_name: Valoración
 taxonomy: Libros
 layout: book_left-valoracion

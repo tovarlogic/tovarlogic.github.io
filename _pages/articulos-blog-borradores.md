@@ -1,8 +1,8 @@
 ---
-title: "Borradores sin terminar"
+title: "Blog: Artículos sin terminar"
 breadcrumb_name: Borradores
 layout: archive
-permalink: /borradores/
+permalink: /blog/borradores/
 author_profile: false
 classes: wide
 entries_layout: grid

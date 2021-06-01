@@ -1,5 +1,5 @@
 ---
-title: "Mi biblioteca personal"
+title: "Biblioteca: Libros organizados por autor"
 breadcrumb_name: Autores
 taxonomy: Libros
 layout: book_left-autor

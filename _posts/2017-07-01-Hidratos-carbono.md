@@ -22,12 +22,11 @@ En cualquier caso, dado que estos alimentos no son directamente absorbibles resu
 
 # Digestión de los carbohidratos
 La gran mayoría de los carbohidratos se encuentran en la forma de (1) Polisacáridos o (2) Disacáricos, que son el resultado de la combinación de (3) Monosacáridos. El proceso de digestión descompone los Polisacáridos y Disacáridos en Monosacáridos. Este proceso se denomina Hidrólisis requiriendo H2O y enzimas digestivas:
-
+  
 <figure>
   <img src="/assets/images/blog/hidratos/hidrolisis.png" style="width: 40%; height: 40%">
   <figcaption>
-      Hidrólisis
- Crédito:  <a href=""></a>
+      Hidrólisis. Crédito:  <a href=""></a>
   </figcaption>
 </figure>
 

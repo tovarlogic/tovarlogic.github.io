@@ -1,6 +1,6 @@
 ---
 layout: book-reviews
-title: Book Reviews
+title: "Biblioteca: Mis apuntes de libros leídos"
 breadcrumb_name: Reviews
 permalink: /libros/reviews/
 taxonomy: Libros
