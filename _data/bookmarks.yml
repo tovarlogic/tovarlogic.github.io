@@ -22,3 +22,28 @@ list:
   - title: Pensamiento crítico
     url: http://www.criticalthinking.org/pages/critical-thinking-in-every-domain-of-knowledge-and-belief/698
     category: [pensamiento-critico]
+
+raindrop:
+  - title: Política
+    id: politica-4905583
+
+  - title: Medioambiente
+    id: medioambiente-7564767
+
+  - title: Instituciones, Think tanks y fundaciones
+    id: instituciones-7564781
+
+  - title: Formación
+    id: formacion-7565472
+
+  - title: Viajes
+    id: viajes-12167975
+
+  - title: Filosofía
+    id: filosofia-10139105
+
+  - title: Ciencia y Tecnología
+    id: ciencia-y-tecnologia-11661883
+
+  - title: inmobiliaria, embargos y subastas
+    id: inmobiliaria-18409374
