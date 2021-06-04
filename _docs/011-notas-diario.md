@@ -8,7 +8,7 @@ last_modified_at: 2021-06-01
 
 Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que merecen ser recordados para más adelante reflexionar sobre ellos y desarrollar ideas. 
 
-## 2020-06-02
+## 2021-06-02
 ### Podcast "today in focus: UK slashing its international aid budget"
 - Parece ser que hay muy poco control de como se gastan los presupuestos. En vez de enfocarse en objetivos concretos se gestiona contablemente tipo REE es decir, el objetivo es gastarlo todo a final de año.
 - No hay RRHH in situ controlando el uso que se le da a las ayudas.

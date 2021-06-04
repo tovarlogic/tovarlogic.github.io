@@ -27,6 +27,18 @@ raindrop:
   - title: Política
     id: politica-4905583
 
+  - title: Derecho
+    id: derecho-18432027
+
+  - title: Filosofía
+    id: filosofia-10139105
+
+  - title: historia
+    id: historia-18410878
+
+  - title: Ciencia y Tecnología
+    id: ciencia-y-tecnologia-11661883
+
   - title: Medioambiente
     id: medioambiente-7564767
 
@@ -38,12 +50,6 @@ raindrop:
 
   - title: Viajes
     id: viajes-12167975
-
-  - title: Filosofía
-    id: filosofia-10139105
-
-  - title: Ciencia y Tecnología
-    id: ciencia-y-tecnologia-11661883
 
   - title: inmobiliaria, embargos y subastas
     id: inmobiliaria-18409374
