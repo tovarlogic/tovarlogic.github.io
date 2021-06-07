@@ -306,6 +306,37 @@ defaults:
       toc: true
       toc_sticky: true
       post_pagination: false
+    # opinion
+  - scope:
+      path: "_posts/opinion"
+      type: posts
+    values:
+      permalink: blog/opinion/:title
+      type: opinion
+  # ensayos
+  - scope:
+      path: "_posts/ensayos"
+      type: posts
+    values:
+      permalink: blog/ensayos/:title
+      type: ensayo
+      comments: true
+  # recursos
+  - scope:
+      path: "_posts/recursos"
+      type: posts
+    values:
+      permalink: blog/recursos/:title
+      type: recursos
+      comments: true
+  # series
+  - scope:
+      path: "_posts/series"
+      type: posts
+    values:
+      permalink: blog/series/:title
+      type: series
+      comments: true
   # _pages
   - scope:
       path: "_pages"

@@ -13,5 +13,6 @@ Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que
 
 | Sección                                     | Descripción                                              |
 | ------------------------------------------- | -------------------------------------------------------- |
-| [Lo público](publico/)                      | Sección sobre ideas de política y gestión de lo público. |
+| [Diario](diario/)                      | Cajón desastre. Notas diarias que tendré que ampliar y organizar. |
+| [sobre lo público](publico/)                      | Sección sobre ideas de política y gestión de lo público. |
 

@@ -1,6 +1,6 @@
 ---
 title: "Frances"
-permalink: /frances/
+permalink: /aprendiendo/frances/
 last_modified_at: 2021-05-13
 ---
 

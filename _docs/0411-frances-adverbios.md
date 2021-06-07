@@ -1,6 +1,6 @@
 ---
 title: "Frances: Adverbios"
-permalink: /frances/adverbios
+permalink: /aprendiendo/frances/adverbios
 last_modified_at: 2021-05-13
 ---
 

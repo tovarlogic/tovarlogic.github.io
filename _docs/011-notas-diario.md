@@ -1,12 +1,43 @@
 ---
 title: "Notas diarias sin organizar"
 breadcrumb_name: Notas
-permalink: /notas/
+permalink: /notas/diario/
 excerpt: "Sección donde recojo brevemente pensamientos que quiero recordar para más adelante desarrollarlos en un artículo."
 last_modified_at: 2021-06-01
 ---
 
 Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que merecen ser recordados para más adelante reflexionar sobre ellos y desarrollar ideas. 
+
+## 20221-06-07
+## Las "10 reglas de oro para la reforestación"
+1. Primero proteger los bosques existentes
+2. Trabajar con la población local
+3. Maximizar recuperación de biodiversidad para lograr multiples objetivos
+4. Seleccionar las áreas adecuadas para reforestación
+5. Emplear la recuperación natural de los bosques cuando sea posible
+6. Seleccionar especies botánicas que maximicen la biodiversidad
+7. Emplear variantes más resistentes que se puedan adaptar al cambio climático
+8. Planificación
+9. Aprender haciendo
+10. Que resulte lucrativo
+
+La reforestación si no se hace adecuadamente puede generar problemas en vez de soluciones. Por ello es necesario que se realice tras una correcta planificación, con recursos y conocimeinto suficiente. Por ejemplo, la correcta selección se semillas para asegurar la diversidad genética de la especia y evitar endogamia.
+
+Generalmente se da mucha importancia al número de áboles plantados y no al numero de árboles que crecen (sobreviven). Los propios donantes o partes involucradas buscan resultados rápidos (irreales) que no tienen en cuenta los periodos normales de desarrollo de las especies que se plantan. Hay que hacer especial hincapié en el mantenimiento de las plantaciones para que se desarrollen. Por ello, no sólo hay que centrarse en plantar sino en otros ámbitos como la recuperación de suelo, especies sinérgicas y recuperación del hábitat en general incluyendo especies animales e insectos. 
+
+- [enlace 1](https://www.kew.org/read-and-watch/10-golden-rules-for-reforestation)
+- [enlace 2](https://www.bgci.org/news-events/scientists-lay-out-10-golden-rules-for-restoring-forests/)
+- [enlace 3](https://onlinelibrary.wiley.com/doi/10.1111/gcb.15498)
+- [enlace 4](https://www.worldagroforestry.org/publication/ten-golden-rules-reforestation-optimize-carbon-sequestration-biodiversity-recovery-and)
+- [enlace 5](https://www.weforum.org/agenda/2021/03/10-golden-rules-for-planting-trees-could-help-save-the-planet/)
+- [enlace 6](https://regenfarming.news/articles/1010-10-golden-rules-for-reforestation-show-how-to-plant-trees-the-right-way)
+
+
+
+
+<iframe id='audio_65324888' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='width:100%;' src='https://gb.ivoox.com/es/player_ej_65324888_6_1.html'></iframe>
+
+
 
 ## 2021-06-02
 ### Podcast "today in focus: UK slashing its international aid budget"
@@ -14,7 +45,7 @@ Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que
 - No hay RRHH in situ controlando el uso que se le da a las ayudas.
 - Un impacto importante de las ayudas es el control de enfermedades y el control de natalidad. En muchos sitios las mujeres no tienen control sobre su cuerpo (sexo forzoso). Si no se els da medios para ser infertiles quimicamente no se puede controlar la natalidad ya que los hombres no usan el condon y ellas no pueden forzarles a hacerlo. Además si no tienen hijos, pueden estudiar y ser independientes. Por tanto, AID tiene gran potencial en reducir la superpoblación (que de reducirse evitaría hambre, enfermedades, guerras por recvursos limitados y cambio climático).
 
-<iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="https://gb.ivoox.com/es/player_ek_69964438_2_1.html"></iframe>
+<iframe id='audio_69964438' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='width:100%;' src='https://gb.ivoox.com/es/player_ej_69964438_6_1.html'></iframe>
 
 ## 2020-06-01
 ### Podcast "intelligence^2: Choices for a better now"
@@ -24,7 +55,7 @@ Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que
 - A las sociedades e individuos no sólo se les debe valorar por sus logros (acciones exitosas), sino por a lo que han aspirado e intentado sin éxito (acciones fracasadas).
 - Los sentimientos, especialmente la rabia o enfado, nublan nuestro juicio; y se requiere atención y reflexión para poder actuar, al menos de manera acorde a nuestros valores.
 
-<iframe width="238" height="48" frameborder="0" allowfullscreen="" scrolling="no" src="https://gb.ivoox.com/es/player_ek_70251356_2_1.html"></iframe>
+<iframe id='audio_70251356' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='width:100%;' src='https://gb.ivoox.com/es/player_ej_70251356_6_1.html'></iframe>
 
 ### cambio de tarifa e impuestos electricidad
 - Sobre el IVA:

@@ -1,5 +1,5 @@
 ---
-title:  "Derechos Humanos"
+title:  "Declaración Universal de los Derechos Humanos (1948)"
 date:   2018-08-10
 update: 
 type: Conocimiento

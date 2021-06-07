@@ -1,6 +1,6 @@
 ---
 title: "Frances: Verbos"
-permalink: /frances/verbos/
+permalink: /aprendiendo/frances/verbos/
 last_modified_at: 2021-05-13
 ---
 
