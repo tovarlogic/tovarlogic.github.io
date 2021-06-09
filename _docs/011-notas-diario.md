@@ -9,7 +9,7 @@ toc_sticky: true
 ---
 
 ## 2021-06-07
-## Las "10 reglas de oro para la reforestación"
+### Las "10 reglas de oro para la reforestación"
 1. Primero proteger los bosques existentes
 2. Trabajar con la población local
 3. Maximizar recuperación de biodiversidad para lograr multiples objetivos
