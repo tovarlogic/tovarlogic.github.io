@@ -4,11 +4,11 @@ breadcrumb_name: Notas
 permalink: /notas/diario/
 excerpt: "Sección donde recojo brevemente pensamientos que quiero recordar para más adelante desarrollarlos en un artículo."
 last_modified_at: 2021-06-01
+toc: true
+toc_sticky: true
 ---
 
-Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que merecen ser recordados para más adelante reflexionar sobre ellos y desarrollar ideas. 
-
-## 20221-06-07
+## 2021-06-07
 ## Las "10 reglas de oro para la reforestación"
 1. Primero proteger los bosques existentes
 2. Trabajar con la población local

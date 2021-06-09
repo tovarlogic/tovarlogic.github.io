@@ -1,0 +1,6 @@
+list:
+  - id: http://usoderazon.com
+    platform: ivoox
+    category: [pensamiento-critico]
+    tags: [razonamiento, argumentacion, falacias]
+
