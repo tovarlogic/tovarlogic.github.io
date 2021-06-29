@@ -5,7 +5,7 @@ category_list: [Ensayo, Novela, Biografía, Ciencia-ficción, Clásicos]
 tag_list: [Ensayo, Novela, Biografía, Ciencia-ficción, Economía, Política, Geopolítica, Sociología, Historia, Psicología, Crecimiento personal, Medioambiente, Filosofía, Biología, Tecnología, Ciencia, Aventura, Futuro]
 
 list: 
- - title: "1984"
+  - title: "1984"
     author: George Orwell
     isbn: 9780451524935
     category: [Ciencia-ficción] 
@@ -15,7 +15,7 @@ list:
     format: audiobook
     status: reading
 
-  - title: "The Precipice: Existential Risk and the Future of Humanity"
+  - title: "The precipice"
     author: Toby Ord
     isbn: 9780316484916
     category: [Ensayo]
