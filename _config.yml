@@ -311,22 +311,22 @@ defaults:
       path: "_posts/opinion"
       type: posts
     values:
-      permalink: blog/opinion/:title
+      permalink: blog/:title
       type: opinion
-  # ensayos
+  # conocimiento
   - scope:
-      path: "_posts/ensayos"
+      path: "_posts/conocimiento"
       type: posts
     values:
-      permalink: blog/ensayos/:title
-      type: ensayo
+      permalink: blog/:title
+      type: conocimiento
       comments: true
   # recursos
   - scope:
       path: "_posts/recursos"
       type: posts
     values:
-      permalink: blog/recursos/:title
+      permalink: blog/:title
       type: recursos
       comments: true
   # series

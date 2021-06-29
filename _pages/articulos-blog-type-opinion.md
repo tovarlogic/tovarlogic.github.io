@@ -3,7 +3,7 @@ title: Artículos de opinión
 layout: category_left
 breadcrumb_name: Opinión
 permalink: /blog/opinion/
-taxonomy: Opinion
+taxonomy: opinion
 author_profile: false
 classes: wide
 entries_layout: grid

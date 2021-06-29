@@ -3,7 +3,7 @@ title: Artículos informativos
 layout: category_left
 breadcrumb_name: Conocimiento
 permalink: /blog/conocimiento/
-taxonomy: Conocimiento
+taxonomy: conocimiento
 author_profile: false
 classes: wide
 entries_layout: grid

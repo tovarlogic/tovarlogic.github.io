@@ -2,7 +2,6 @@
 title:  "Razones para ser ateo"
 date:   2007-09-14
 update: 2021-04-28
-type: Opinion
 categories: [Argumentarios, Religion]
 header:
   teaser: /assets/images/blog/teasers/ciencia_y_religion.jpg

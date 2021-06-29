@@ -2,7 +2,6 @@
 title:  "Los pilares de la buena educación"
 date:   2013-04-01
 update: 2021-04-28
-type: Opinion
 categories: Sociología
 header:
   teaser: /assets/images/blog/teasers/Kid-Reading.jpg

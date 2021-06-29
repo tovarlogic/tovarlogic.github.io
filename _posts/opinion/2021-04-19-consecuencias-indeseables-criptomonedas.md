@@ -1,7 +1,6 @@
 ---
 title: "Las consecuencias indeseables de las criptomonedas"
 date:   2021-04-19
-type: Opinion
 categories: Tecnología
 tags: [Derechos humanos]
 author_profile: false
@@ -15,7 +14,7 @@ Resulta imprescindible en este caso, dejar bien claro que desde mi primer contac
 
 Por último, he de recordarme a mí mismo, que esta entrada en el blog viene inspirada tras escuchar el siguiente, y más que recomendable, [Podcast](https://www.ivoox.com/podcast-intelligence-squared_sq_f1130665_1.html) de [Intelligence Squared](https://www.intelligencesquared.com/) relacionado en general con el cumplimiento de los Derechos humanos, mediante un nuevo modelo, que no depende del Principio de justicia universal - no reconocido en paises como EE.UU., Rusia o China -, sino del desarrollo de leyes nacionales que se han ido promoviendo en distintas naciones. Algunas de las últimas leyes de este tipo están enmarcadas por el caso de Sergei Magnitsky, un abogado ruso que tras exponer casos de corrupción sistémica murió a finales de 2009, tras un año de encarcelación preventiva, donde sufrió continuo maltrato e incluso tortura, presuntamente por las mismas personas que denunciaba.
 
-<iframe id='audio_68577406' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='width:100%;' src='https://www.ivoox.com/player_ej_68577406_6_1.html'></iframe>
+{% include ivoox-player.html  id=68577406 %}
 
 # Usos de las criptomonedas
 Como decía inicialmente, las criptomonedas, y Bitcoin como su caso práctico de vanguardia por antonomasia, han supuesto un nuevo salto tecnológico con grandísimo potencial para el desarrollo en distintos campos, que trataré de desgranar a continuación. 

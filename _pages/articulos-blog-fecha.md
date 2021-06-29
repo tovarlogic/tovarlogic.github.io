@@ -9,4 +9,7 @@ entries_layout: grid
 ---
 
 [Ordenar por temática](/blog/){: .btn .btn--inverse} 
-[Ordenar por fecha]({{ page.permalink }}){: .btn .btn--primary}
+[Ordenar por etiquetas](/blog/{{ page.taxonomy | downcase }}/tags/){: .btn .btn--inverse} 
+[Ordenar por fecha](/blog/{{ page.taxonomy | downcase }}/fecha/){: .btn .btn--primary}
+[Series monográficas](/blog/series){: .btn .btn--inverse}
+[Borradores](/blog/borradores/){: .btn .btn--inverse}

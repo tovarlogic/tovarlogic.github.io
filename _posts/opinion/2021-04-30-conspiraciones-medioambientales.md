@@ -1,6 +1,5 @@
 title: "Conspiraciones medioambientales"
 date:   2021-04-19
-type: Opinion
 categories: Medio Ambiente
 draft: true
 ---
@@ -226,6 +225,6 @@ mi visión animalista muy frivola comkia carne y discutía sobre vegetarianismo
 [UN]: Naciones Unidas
 
 [^EDGAR emisiones]: [EDGAR europa](https://edgar.jrc.ec.europa.eu/report_2020)
-[^ UN emissions gap report]: [UN:Emissions gap report 2019 y 2020](https://www.unep.org/interactive/emissions-gap-report)
+[^UN emissions gap report]: [UN:Emissions gap report 2019 y 2020](https://www.unep.org/interactive/emissions-gap-report)
 [^WORLD BANK total GHG emissions]:  [World Bank: Total GHG emissions (CO2 eq)](https://data.worldbank.org/indicator/EN.ATM.GHGT.KT.CE?most_recent_value_desc=true)
 
