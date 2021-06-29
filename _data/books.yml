@@ -15,7 +15,7 @@ list:
     format: audiobook
     status: reading
 
-  - title: "The precipice"
+  - title: "The Precipice: Existential Risk and the Future of Humanity"
     author: Toby Ord
     isbn: 9780316484916
     category: [Ensayo]
@@ -28,7 +28,6 @@ list:
 
   - title: "Notes on Nationalism"
     author: George Orwell
-    isbn: 9780241339565
     category: [Ensayo] 
     tags: [Política, Sociología]
     date: 2021-06-16
