@@ -1,19 +1,29 @@
-lastupdate: 16 de Junio de 2021
+lastupdate: 16 de Agosto de 2021
 
 category_list: [Ensayo, Novela, Biografía, Ciencia-ficción, Clásicos]
 
 tag_list: [Ensayo, Novela, Biografía, Ciencia-ficción, Economía, Política, Geopolítica, Sociología, Historia, Psicología, Crecimiento personal, Medioambiente, Filosofía, Biología, Tecnología, Ciencia, Aventura, Futuro]
 
 list: 
+  - title: "Respira: La nueva ciencia de un arte olvidado"
+    author: James Nestor
+    isbn: 9788408237228
+    category: [Ensayo] 
+    tags: [Ciencia, Biología]
+    date: 2021-09-21
+    stars: 4
+    format: kindle
+    status: reading
+
   - title: "1984"
     author: George Orwell
     isbn: 9780451524935
     category: [Ciencia-ficción] 
     tags: [Política, Sociología]
-    date: 2021-06-29
-    stars: 3
+    date: 2021-07-01
+    stars: 4
     format: audiobook
-    status: reading
+    status: read
 
   - title: "The Precipice: Existential Risk and the Future of Humanity"
     author: Toby Ord
@@ -32,6 +42,7 @@ list:
     tags: [Política, Sociología]
     date: 2021-06-16
     stars: 3
+    format: audiobook
     status: read
 
   - title: "La Odisea"
@@ -39,6 +50,7 @@ list:
     isbn: 8496412180
     date: 2021-06-15
     stars: 4
+    format: audiobook
     category: [Clásicos] 
     tags: [Historia, Aventuras]
     status: read
@@ -46,7 +58,7 @@ list:
   - title: "La Ilíada"
     author: Homero y Luis Segalá 
     isbn: 9788423973378
-    date: 2021-06-13
+    date: 2021-06-10
     stars: 3
     category: [Clásicos] 
     tags: [Historia, Aventuras]
@@ -258,6 +270,15 @@ list:
     tags: [Ensayo, Ciecia, Biología]
     status: read
 
+  - title: "Vacas, cerdos, guerras y brujas"
+    author: Marvin Harris
+    isbn: 84-206-3963-X
+    date: 2013-06-01
+    stars: 3 
+    category: [Ensayo] 
+    tags: [Ensayo, Sociología, Historia]
+    status: read        
+    
   - title: "Nadie es mas que nadie"
     author: Miguel Ángel Revilla
     date: 2013-04-01
@@ -336,6 +357,15 @@ list:
     tags: [Ensayo, Política, Economía]
     status: read
 
+  - title: "Harpo Speaks! About new York"
+    author: Harpo Marx, Rowland Barber
+    isbn: 0879100362
+    date: 2010-12-01
+    stars: 4
+    category: [Biografía] 
+    tags: [Biografía]
+    status: read        
+    
   - title: "The Looming Tower"
     author: Lawrence Wright
     isbn: 9780375414862
@@ -354,6 +384,15 @@ list:
     tags: [Novela, Aventura]
     status: read
 
+  - title: "Candide: Or Optimism"
+    author: Voltaire
+    isbn: 9780140440041
+    date: 2009-12-01
+    stars: 4
+    category: [Clásicos] 
+    tags: []
+    status: read        
+    
   - title: "Nuclear Renaissance: Technologies and Policies for the Future of Nuclear Power"
     author: W.J. Nuttall 
     isbn:  9780750309363

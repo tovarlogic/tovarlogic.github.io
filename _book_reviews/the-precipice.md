@@ -3,6 +3,7 @@ title: "The Precipice: Existential Risk and the Future of Humanity"
 isbn: 9780316484916
 date: 2021-06-21
 excerpt: "Sobre los riesgos para la supervivencia de la humanidad."
+book-link: https://theprecipice.com/
 draft: true
 ---
 
@@ -42,3 +43,4 @@ The problem is not so much an excess of technology as a lack of wisdom. Carl Sag
 
 > “Because we cannot come back from extinction, we cannot wait until a threat strikes before acting – we must be proactive. And because gaining wisdom takes time, we need to start now.” - Toby Ord
 
+{% include ivoox-player.html id=49203422 %}

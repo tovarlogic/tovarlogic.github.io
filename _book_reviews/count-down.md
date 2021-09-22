@@ -11,7 +11,7 @@ excerpt: "Chemicals and lifestyle changes are disrupting our hormonal balance. I
 
 ## Notas prelectura
 
-<iframe width="100%" height="200" frameborder="0" allowfullscreen="" scrolling="no" src="https://gb.ivoox.com/es/player_ej_69434687_2_1.html?data=l56hlZmafJihhpywj5eZaZS1kZiah5yncZKhhpywj5aRaZi3jpWah5yncbjc2pDVw9vJb9TkxtfajcjTuc_o1JDa0dfJb9XcwtOYysbQusbYjM7bjdnMqYzkwtjhjZmUb9qhhpywj7nTqMLtjM7bjavTp9bnjoqkpZKU&"></iframe>
+{% include ivoox-player.html id=69434687 %}
 
 Desde 1980 se conoce y estudia el hecho de que la cantidad de espermatozoides o cuenta de esperma, está descendiendo irreparablemente, generación tras generación.
 
