@@ -13,6 +13,7 @@ list:
     date: 2021-09-21
     stars: 4
     format: kindle
+    review: "respira"
     status: reading
 
   - title: "1984"

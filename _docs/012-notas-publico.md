@@ -7,10 +7,11 @@ toc: true
 toc_sticky: true
 ---
 
-| Apartado                                     | Descripción                                              |
-| -------------------------------------------- | -------------------------------------------------------- |
-| [Riesgos para la humanidad](riesgos/)                          | Apartado centrado en los probables riesgos que no vemos.  |
-| [Sociedad zombie](sociedad-zombie/)                  |   |
+| Apartado                              | Descripción                                              |
+| ------------------------------------- | -------------------------------------------------------- |
+| [Riesgos para la humanidad](riesgos/) | Apartado centrado en los probables riesgos que no vemos. |
+| [Sociedad zombie](sociedad-zombie/)   |                                                          |
+| [Nociones económicas](economia/)      |                                                          |
 
 
 La sección `Notas: Lo Público` me permite gestionar de manera ágil y sencilla mis pensamientos sobre la gestión de lo público en general.
