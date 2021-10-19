@@ -4,7 +4,8 @@ isbn: 9780316484916
 date: 2021-06-21
 excerpt: "Sobre los riesgos para la supervivencia de la humanidad."
 book-link: https://theprecipice.com/
-draft: true
+toc: true
+toc_sticky: true
 ---
 
 ## Resumen

@@ -2,7 +2,6 @@
 layout: book-reviews-template
 toc: true
 toc_sticky: true
-draft: true
 title: "The 7 Habits of Highly Effective People"
 book-link: https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People
 isbn: 0743250974
