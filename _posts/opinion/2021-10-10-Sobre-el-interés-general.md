@@ -3,6 +3,7 @@ title:  "Sobre el interés general"
 date:   2021-10-10
 update: 
 categories: Filosofía, Política
+draft: true
 header:
   teaser: 
 excerpt: Si aceptamos que los grupos sociales están formados por miembros heterogéneos con intereses diferentes en multitud de asuntos, resulta evidente que dificilmente se podrá llegar a un consenso de lo que supone el interés general, común e incluso individual. Es decir, existirán conflicto de intereses que de alguna manera hay que solventar para progresar. La cuestión deriva pues, en **Quien/es** definen el interés general y **Como** lo determinan para asegurar un mínimo de eficiencia y eficacia.

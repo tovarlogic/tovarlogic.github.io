@@ -11,10 +11,10 @@ list:
     category: [Ensayo] 
     tags: [Ciencia, Biología]
     date: 2021-09-21
-    stars: 4
+    stars: 3
     format: kindle
     review: "respira"
-    status: reading
+    status: read
 
   - title: "1984"
     author: George Orwell

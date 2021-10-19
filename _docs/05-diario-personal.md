@@ -6,8 +6,6 @@ excerpt: "Sección donde recojo brevemente pensamientos que quiero recordar para
 last_modified_at: 2021-05-13
 ---
 
-## Diario Personal
-
 ## 2021-10-19
 ### #1 "Primera entrada"
 

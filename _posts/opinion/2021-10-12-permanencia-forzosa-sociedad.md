@@ -3,7 +3,6 @@ title:  "Sociedades: una permanencia forzosa"
 date:   2021-10-03
 update: 2021-04-10
 categories: Sociología
-tags: Opinion
 draft: true
 header:
   teaser: 
