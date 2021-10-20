@@ -355,10 +355,10 @@ defaults:
     # conocimiento
   - scope:
       path: "_docs/notas"
-      type: notas
+      type: notes
     values:
       permalink: notas/:title
-      type: notas
+      type: notes
       comments: true
   # _recetas
   - scope:
