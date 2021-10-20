@@ -12,7 +12,7 @@ Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que
 
 ## Libro de notas
 <ul>
-  {% assign items = site.docs | where "doc_type", note | sort %}
+  {% assign items = site.docs | where: "doc_type", page.type | sort %}
   {% for item in items %}
     <li>
       <h2><a href="{{ item.url }}">
