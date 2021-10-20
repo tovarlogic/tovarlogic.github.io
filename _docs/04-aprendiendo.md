@@ -1,5 +1,5 @@
 ---
-title: "Frances"
+title: "Aprendiendo"
 permalink: /aprendiendo/
 last_modified_at: 2021-05-13
 ---

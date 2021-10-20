@@ -355,7 +355,7 @@ defaults:
     # conocimiento
   - scope:
       path: "_docs/notas"
-      type: docs
+      type: notas
     values:
       permalink: notas/:title
       type: notas
