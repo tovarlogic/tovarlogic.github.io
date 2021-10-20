@@ -273,6 +273,9 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
+  notes:
+    output: true
+    permalink: /:collection/:path/
   recetas:
     output: true
     permalink: /:collection/:path/
@@ -352,14 +355,6 @@ defaults:
       comments: false
       related: false
       post_pagination: false
-    # conocimiento
-  - scope:
-      path: "_docs/notas"
-      type: notes
-    values:
-      permalink: notas/:title
-      type: notes
-      comments: true
   # _recetas
   - scope:
       path: ""
