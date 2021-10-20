@@ -29,7 +29,7 @@ Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que
   {% for item in items %}
     <li>
       <h2><a href="{{ doc.url }}">
-      		{{ item.title }} {% if item.excerpt %} - {{ item.excerpt }} {% endif %}
+      		{{ item.last_modified_at }} - {{ item.title }}
       	  </a>
       </h2>
     </li>
