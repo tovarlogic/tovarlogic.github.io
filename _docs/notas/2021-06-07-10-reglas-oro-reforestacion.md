@@ -3,6 +3,7 @@ title: "Privacidad digital y guerra cibernética"
 last_modified_at: 2021-05-18
 toc: true
 toc_sticky: true
+doc_type: note
 ---
 
 ### Las "10 reglas de oro para la reforestación"

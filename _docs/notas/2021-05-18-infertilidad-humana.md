@@ -5,6 +5,7 @@ permalink: /notas/publico/riesgos/
 last_modified_at: 2021-05-18
 toc: true
 toc_sticky: true
+doc_type: note
 ---
 
 El apartado **Riesgos** es una forma de recoger de manera iterativa aquellos casos que ponen en riesgo, si no nuestra supervivencia como especie, al menos las sociedades actuales.

@@ -6,6 +6,7 @@ excerpt: "Sección donde recojo brevemente pensamientos que quiero recordar para
 last_modified_at: 2021-06-01
 toc: true
 toc_sticky: true
+doc_type: note
 ---
 
 

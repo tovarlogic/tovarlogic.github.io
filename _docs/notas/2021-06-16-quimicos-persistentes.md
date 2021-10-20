@@ -3,6 +3,7 @@ title: "Químicos persistentes"
 last_modified_at: 2021-05-18
 toc: true
 toc_sticky: true
+doc_type: note
 ---
 
 Tal y como ya recogí en [Count down por Shanna H. Swan, PhD](/libros/reviews/count-down/) existen componentes químicos como los PFCs que no se degradan con el tiempo y que acaban acumulandose en los tejidos biológicos.
