@@ -11,7 +11,7 @@ entries_layout: grid
 <h1>Staff</h1>
 
 <ul>
-  {% for note in site.notes %}
+  {% for note in site.docs %}
     <li>
       <h2><a href="{{ note.url }}">{{ note.title }}</a></h2>
     </li>

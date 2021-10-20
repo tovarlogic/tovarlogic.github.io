@@ -273,9 +273,6 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
-  notes:
-    output: true
-    permalink: /:collection/:path/
   recetas:
     output: true
     permalink: /:collection/:path/

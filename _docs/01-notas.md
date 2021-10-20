@@ -1,7 +1,7 @@
 ---
 title: "Notas breves"
 breadcrumb_name: Notas
-permalink: /notas2/
+permalink: /notas/
 excerpt: "Sección donde recojo brevemente pensamientos que quiero recordar para más adelante desarrollarlos en un artículo."
 last_modified_at: 2021-05-13
 ---
@@ -22,6 +22,14 @@ Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que
 | [Sociedad zombie](sociedad-zombie/)   |                                                          |
 | [Nociones económicas](economia/)      |                                                          |
 | [Sobre lo política](publico/#política)      |                                                          |
+
+<ul>
+  {% for note in site.notes %}
+    <li>
+      <h2><a href="{{ note.url }}">{{ note.title }}</a></h2>
+    </li>
+  {% endfor %}
+</ul>
 
 ## Contenido
 
