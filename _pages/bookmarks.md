@@ -1,5 +1,5 @@
 ---
-permalink: /recursos/
+permalink: /recursos-online/
 title: "Colección de recursos online"
 last_modified_at: 2021-06-03
 toc: true

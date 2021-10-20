@@ -352,21 +352,14 @@ defaults:
       comments: false
       related: false
       post_pagination: false
-    # Notas
+    # conocimiento
   - scope:
       path: "_docs/notas"
       type: docs
     values:
-      layout: single_left
+      permalink: notas/:title
       type: notas
-      toc: true
-      toc_sticky: true
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      related: false
-      post_pagination: false
+      comments: true
   # _recetas
   - scope:
       path: ""
