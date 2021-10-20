@@ -25,8 +25,9 @@ Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que
 | [Sobre lo política](publico/#política)      |                                                          |
 
 <ul>
-  {{ assign items = site.docs | where "doc_type", page.type | sort: 'last_modified_at' | reverse }}
-  {% for item in items %}
+  {% assign items = site.docs | where "doc_type", page.type %}
+  {% assign items_sorted = items | sort: 'last_modified_at' %}
+  {% for item in items_sorted %}
     <li>
       <h2><a href="{{ doc.url }}">
       		{{ item.last_modified_at }} - {{ item.title }}
