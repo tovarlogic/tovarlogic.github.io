@@ -1,7 +1,7 @@
 ---
 title: "Riesgos para la humanidad"
 date: 2021-06-17
-categories: []
+categories: [Riesgos]
 tags: []
 ---
 

@@ -279,15 +279,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  atc:
-    output: true
-    permalink: /:collection/:path/
   book_reviews:
     output: true
     permalink: /libros/reviews/:path/
-  quotes:
-    output: true
-    permalink: /:collection/:path/
     
 # Defaults
 defaults:

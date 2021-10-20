@@ -25,8 +25,4 @@ En España durante el posfranquismo y aún en la actualidad se referían a la ig
 	- Ejercen influencia suficiente para condicionar las medidas legislativas y ejecutivas. 
 - Político-Social
 	- Los Lobbies son organizaciones con el objetivo principal de influir en lo político y social, generalmente pero no exclusivamente, para defender los intereses empresariales o sectoriales.   
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU3MTMwNTgsLTIxMDkzMzc2MDgsLT
-Y3NTI5NDQwMywxMTc4MDk2MTQxLDEzMzY5MTI2ODYsMTM2NTg0
-MzQ3MF19
--->
+

@@ -1,7 +1,6 @@
 ---
 title: "Derechos de los Ciudadanos ante la Justicia"
 date: 2021-06-04
-type: [Conocimiento]
 categories: [Derecho, Política]
 tags: []
 ---
