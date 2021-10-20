@@ -13,8 +13,7 @@ entries_layout: grid
 <ul>
   {% for note in site.notes %}
     <li>
-      <h2>{{ note.title }}</h2>
-      <p>{{ note.content | markdownify }}</p>
+      <h2><a href="{{ note.url }}">{{ note.title }}</a></h2>
     </li>
   {% endfor %}
 </ul>
