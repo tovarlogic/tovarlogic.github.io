@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Staff
+title: Notes
+permalink: /notes/
 ---
 <h1>Staff</h1>
 
