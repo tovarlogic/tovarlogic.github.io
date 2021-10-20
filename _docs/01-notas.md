@@ -25,14 +25,13 @@ Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que
 | [Sobre lo política](publico/#política)      |                                                          |
 
 <ul>
-  {% for doc in site.docs %}
-  	{% if doc.doc_type == page.type %}
+  {{ assign items = site.docs | where "doc_type", page.type | sort: 'last_modified_at' | reverse }}
+  {% for item in items %}
     <li>
       <h2><a href="{{ doc.url }}">
-      		{{ doc.title }} {% if doc.excerpt %} - {{ doc.excerpt }} {% endif %}
+      		{{ item.title }} {% if item.excerpt %} - {{ item.excerpt }} {% endif %}
       	  </a>
       </h2>
     </li>
-    {% endif %}
   {% endfor %}
 </ul>
