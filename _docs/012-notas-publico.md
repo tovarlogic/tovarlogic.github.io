@@ -1,7 +1,7 @@
 ---
 title: "Inicio"
 breadcrumb_name: Lo público
-permalink: /docs/publico/
+permalink: /docs/notas/publico/
 last_modified_at: 2021-05-13
 toc: true
 toc_sticky: true

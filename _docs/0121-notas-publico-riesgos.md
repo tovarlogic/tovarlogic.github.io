@@ -1,7 +1,7 @@
 ---
 title: "Riesgos"
 breadcrumb_name: Riesgos
-permalink: /docs/publico/riesgos/
+permalink: /docs/notas/publico/riesgos/
 last_modified_at: 2021-05-18
 toc: true
 toc_sticky: true
