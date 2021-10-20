@@ -4,21 +4,29 @@ breadcrumb_name: Notas
 permalink: /notas/
 excerpt: "Sección donde recojo brevemente pensamientos que quiero recordar para más adelante desarrollarlos en un artículo."
 last_modified_at: 2021-05-13
+toc: true
+toc_sticky: true
 ---
 
 Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que merecen ser recordados para más adelante reflexionar sobre ellos y desarrollar ideas. 
 
 
-## Libro de notas: Índice
+## Índice
 
 | Sección | Descripción |
 | - | - |
 | [Diario](diario/) | Cajón desastre. Notas diarias que tendré que ampliar y organizar. |
 | [sobre lo público](publico/) | Sección sobre ideas de política y gestión de lo público. |
+| [sobre lo público](#politica) | Sección sobre ideas de política y gestión de lo público. |
 
-## Libro de notas: Contenido
+## Contenido
 
 ### Política
+
+#### 2021-06-17: Democracia representativa
+Parece ser que la democracia de Holanda es de las más proporcionales y representativas de españa (pendiente mirar como funciona). Parece que es una de las razones de la gran cantidad de pequeños partidos con capacidad representativa en el país. Parece que incluso existen partidos de broma que trolean la democracia como el "party Party". Aunque también ha permitido el surgimiento de partidos para los votantes en blanco o partidos pirata comoe n alemania y paises nordicos/escandinavos.
+
+Es posible que excesiva proporción, sin las instituciones adecuadas en la sociedad dificulten la gobernabilidad? Es posible que más democracia es peor para la propia democracia?
 
 ### Economía
 
