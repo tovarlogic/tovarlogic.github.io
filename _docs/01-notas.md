@@ -17,22 +17,12 @@ Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que
 | [sobre lo público](publico/) 		| Sección sobre ideas de política y gestión de lo público. 			|
 | [sobre economía](publico/) 		| Sección sobre ideas y nociones económicas. 						|
 
-| Apartado                              | Descripción                                              |
-| ------------------------------------- | -------------------------------------------------------- |
-| [Riesgos para la humanidad](riesgos/) | Apartado centrado en los probables riesgos que no vemos. |
-| [Sociedad zombie](sociedad-zombie/)   |                                                          |
-| [Nociones económicas](economia/)      |                                                          |
-| [Sobre lo política](publico/#política)      |                                                          |
+{% assign items = site.docs | where "doc_type", page.type %}
 
-<ul>
-  {% assign items = site.docs | where "doc_type", page.type %}
-  {% assign items_sorted = items | sort: 'last_modified_at' %}
-  {% for item in items_sorted %}
-    <li>
-      <h2><a href="{{ doc.url }}">
-      		{{ item.last_modified_at }} - {{ item.title }}
-      	  </a>
-      </h2>
-    </li>
-  {% endfor %}
-</ul>
+| titulo                                | fecha                                              |
+| ------------------------------------- | -------------------------------------------------------- |
+{% for item in items %}
+| [{{ item.title }}]({{ doc.url }}) | |
+{% endfor %}
+
+  
