@@ -4,6 +4,7 @@ breadcrumb_name: Diario
 permalink: /diario/
 excerpt: "Sección donde recojo brevemente pensamientos que quiero recordar para más adelante desarrollarlos en un artículo."
 last_modified_at: 2021-05-13
+layout: single_left
 ---
 
 ## 2021-10-19
