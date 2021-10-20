@@ -2,7 +2,7 @@
 title:  "Sobre el interés general"
 date:   2021-10-10
 update: 
-categories: [Filosofía, Política]
+categories: [Filosofía, Sociología]
 draft: true
 header:
   teaser: 

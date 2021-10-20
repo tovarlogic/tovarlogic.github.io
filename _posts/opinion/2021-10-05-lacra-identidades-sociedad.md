@@ -2,7 +2,7 @@
 title:  "La lacra de las identidades en la sociedad"
 date:   2021-10-03
 update: 2021-04-10
-categories: Sociología
+categories: [Filosofía, Sociología, Política]
 header:
   teaser: 
 excerpt: La identidad es en realidad un sentimiento, el de pertenencia. Dicho sentimiento merma nuestra capacidad para tolerar a lo que sea distinto, porque lo vemos como opuesto, y aunque dicha pertenencia haya sido elegida en base a procesos reflexivos estos pueden estar equivocados o no ser adecuados en determinadas circunstancias.

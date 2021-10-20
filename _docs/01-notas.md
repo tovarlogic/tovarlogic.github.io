@@ -1,7 +1,7 @@
 ---
 title: "Notas breves"
 breadcrumb_name: Notas
-permalink: /notas/
+permalink: /docs/notas/
 excerpt: "Sección donde recojo brevemente pensamientos que quiero recordar para más adelante desarrollarlos en un artículo."
 last_modified_at: 2021-05-13
 ---
