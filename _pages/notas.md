@@ -6,9 +6,8 @@ toc: true
 toc_sticky: true
 ---
 
-{% assign notes = site.docs.notas %}
+{% assign notes = site.docs %}
 
 {% for note in notes %}
-## {{ note.title }}
-
+	{{ note.title }}
 {% endfor %}
