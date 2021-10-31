@@ -1,9 +1,6 @@
 ---
 title: "Crecimiento económico"
 date: 2021-05-18
-toc: true
-toc_sticky: true
-doc_type: note
 ---
 
 # Economía

@@ -1,9 +1,6 @@
 ---
 title: "Privacidad digital y guerra cibernética"
 date: 2021-05-18
-toc: true
-toc_sticky: true
-doc_type: note
 ---
 
 ### Privacidad digital y guerra cibernética

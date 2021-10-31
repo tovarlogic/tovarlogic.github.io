@@ -20,7 +20,7 @@ Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que
 [Series monográficas](/notas/series){: .btn .btn--inverse}
 [Borradores](/notas/borradores/){: .btn .btn--primary}
 
-  {% assign items = site.docs | where: "doc_type", note %}
+  {% assign items = site.notes | where: "doc_type", note %}
   {% for post in items %}
     {% include archive-single.html %}
   {% endfor %}

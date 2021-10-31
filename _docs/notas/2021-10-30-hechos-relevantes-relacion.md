@@ -1,10 +1,6 @@
 ---
 title: "Hechos para evaluar una relación"
 date: 2021-10-30
-breadcrumb_name: breadcrumb
-layout: single_left
-toc: true
-toc_sticky: true
 ---
 
 ## Introducción

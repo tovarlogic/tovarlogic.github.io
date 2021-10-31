@@ -355,9 +355,11 @@ defaults:
   # notas
   - scope:
       path: "_docs/notas"
-      type: docs
+      type: notes
     values:
       doc_type: note
+      toc: true
+      toc_sticky: true
   # _recetas
   - scope:
       path: ""

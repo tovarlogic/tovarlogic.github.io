@@ -1,11 +1,6 @@
 ---
 title: "Sobre lo publico"
-breadcrumb_name: Lo público
-permalink: notas/publico/
 date: 2021-05-13
-toc: true
-toc_sticky: true
-doc_type: note
 ---
 
 ## Política

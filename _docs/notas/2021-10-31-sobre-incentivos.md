@@ -1,9 +1,6 @@
 ---
 title: "Sobre incentivos"
 date: 2021-10-31
-toc: true
-toc_sticky: true
-doc_type: note
 ---
 
 ## Incentivos

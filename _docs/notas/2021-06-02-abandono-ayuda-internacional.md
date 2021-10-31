@@ -1,9 +1,6 @@
 ---
 title: "Abandono de la ayuda internacional"
 date: 2021-05-18
-toc: true
-toc_sticky: true
-doc_type: note
 ---
 
 Podcast "today in focus: UK slashing its international aid budget"

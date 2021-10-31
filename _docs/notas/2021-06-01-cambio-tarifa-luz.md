@@ -1,9 +1,6 @@
 ---
 title: "Elecciones para un mejor ahora"
 date: 2021-05-18
-toc: true
-toc_sticky: true
-doc_type: note
 ---
 
 ### Podcast "intelligence^2: Choices for a better now"
