@@ -355,7 +355,7 @@ defaults:
   # notas
   - scope:
       path: "_docs/notas"
-      type: notes
+      type: docs
     values:
       doc_type: note
       toc: true
