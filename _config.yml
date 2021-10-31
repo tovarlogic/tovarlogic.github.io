@@ -352,6 +352,12 @@ defaults:
       comments: false
       related: false
       post_pagination: false
+  # notas
+  - scope:
+      path: "_docs/notas"
+      type: docs
+    values:
+      doc_type: note
   # _recetas
   - scope:
       path: ""

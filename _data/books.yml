@@ -271,6 +271,16 @@ list:
     tags: [Ensayo, Ciecia, Biología]
     status: read
 
+
+  - title: "Harpo Speaks! About new York"
+    author: Harpo Marx, Rowland Barber
+    isbn: 0879100362
+    date: 2013-12-01
+    stars: 4
+    category: [Biografía] 
+    tags: [Biografía]
+    status: read 
+
   - title: "Vacas, cerdos, guerras y brujas"
     author: Marvin Harris
     isbn: 84-206-3963-X
@@ -356,16 +366,7 @@ list:
     stars: 3
     category: [Ensayo] 
     tags: [Ensayo, Política, Economía]
-    status: read
-
-  - title: "Harpo Speaks! About new York"
-    author: Harpo Marx, Rowland Barber
-    isbn: 0879100362
-    date: 2010-12-01
-    stars: 4
-    category: [Biografía] 
-    tags: [Biografía]
-    status: read        
+    status: read    
     
   - title: "The Looming Tower"
     author: Lawrence Wright
