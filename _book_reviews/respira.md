@@ -4,8 +4,6 @@ isbn: 9788408237228
 date: 2021-06-21
 excerpt: "Sobre los efectos negativos de respirar por la boca, y técnicas para mejorar la respiración nasal y aumentar la capacidad pulmonar."
 book-link: 
-toc: true
-toc_sticky: true
 ---
 
 ## Resumen

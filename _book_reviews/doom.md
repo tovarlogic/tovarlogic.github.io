@@ -1,7 +1,4 @@
 --- 
-layout: book-reviews-template
-toc: true
-toc_sticky: true
 draft: true
 title: "Doom: The Politics of Catastrophe"
 book-link: https://www.goodreads.com/book/show/54750328-doom

@@ -1,7 +1,4 @@
 --- 
-layout: book-reviews-template
-toc: true
-toc_sticky: true
 title: "Count Down: How Our Modern World Is Threatening Sperm Counts..."
 book-link: https://www.goodreads.com/book/show/50892327-count-down
 isbn: 9781797114613

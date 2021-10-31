@@ -377,6 +377,8 @@ defaults:
       type: book_reviews
     values:
       layout: book-reviews-template
+      toc: true
+      toc_sticky: true
       author_profile: false
       share: true
       comments: true

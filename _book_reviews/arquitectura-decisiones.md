@@ -1,7 +1,4 @@
---- 
-layout: book-reviews-template
-toc: true
-toc_sticky: true
+--- s
 draft: true
 title: "Nudge: Improving Decisions About Health, Wealth and Happiness"
 book-link: https://www.goodreads.com/book/show/3450744-nudge
