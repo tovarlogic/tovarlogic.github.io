@@ -1,7 +1,7 @@
 ---
 title: "Evolución humana en la modernidad"
 breadcrumb_name: breadcrumb
-last_modified_at: date
+date: 2021-10-21
 layout: single_left
 toc: true
 toc_sticky: true

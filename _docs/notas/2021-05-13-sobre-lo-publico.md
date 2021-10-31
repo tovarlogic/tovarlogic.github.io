@@ -2,7 +2,7 @@
 title: "Sobre lo publico"
 breadcrumb_name: Lo público
 permalink: notas/publico/
-last_modified_at: 2021-05-13
+date: 2021-05-13
 toc: true
 toc_sticky: true
 doc_type: note

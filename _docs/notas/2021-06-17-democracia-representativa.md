@@ -1,7 +1,7 @@
 ---
 title: "Democracia representativa"
 breadcrumb_name: Notas
-last_modified_at: 2021-06-01
+date: 2021-06-01
 toc: true
 toc_sticky: true
 categories: Política
