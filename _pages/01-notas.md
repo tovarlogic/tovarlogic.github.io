@@ -12,6 +12,8 @@ last_modified_at: 2021-05-13
 
 Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que merecen ser recordados para más adelante reflexionar sobre ellos y desarrollar ideas. 
 
+Lo sencillo es expresar las ideas u opiniones de manera espontánea (que para eso es esta sección de "Notas", con independencia de lo elaborado y estenso del texto), lo complicado es informarse y realizar un estudio sobre cualquier asunto, para posteriormente articular un juicio basado en evidencias (para eso será a partir de ahora 1 de Nov de 2021 la sección de artículos del blog)
+
 [Ordenar por temática](/notas/){: .btn .btn--inverse} 
 [Ordenar por etiquetas](/notas/tags/){: .btn .btn--inverse} 
 [Ordenar por fecha](/notas/fecha/){: .btn .btn--inverse} 

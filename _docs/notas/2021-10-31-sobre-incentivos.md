@@ -11,5 +11,5 @@ Por supuesto, existen otros mecanismos que según las circustancias pueden tener
 
 ### Mecanismos de incentivación
 Básicamente existen dos maneras de incentivar, o influir, una acción frente a otra considerada peor por parte del que manipula el contexto, establece las reglas del juego o diseña un sistema:
-1) Incentivos negativos (penas, multas)
-2) incentivos positivos (premios o ayudas)
+1. Incentivos negativos (penas, multas)
+2. incentivos positivos (premios o ayudas)
