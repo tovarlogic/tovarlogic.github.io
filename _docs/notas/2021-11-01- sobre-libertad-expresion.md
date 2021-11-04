@@ -39,7 +39,7 @@ Primero recogeré los argumentos que recuerdo para posteriormente describir mis 
 
 ## Mis impresiones
 
-### **La libertad de expresión tiene que tener límites.**
+1. **La libertad de expresión tiene que tener límites.**
 Estoy de acuerdo con que la libertad de expresión debe tener límites, pero cuanto menos mejor. ¿Cuáles deben ser? ¿Por el contenido y el modo, por el medio, por el emisor o por el receptor? 
 - La historia ha demostrado que la moral es variable, porque no contiene una verdad absoluta. Responde simplemente a las costumbres y la cultura. Por ello, el contenido no debe de ser limitado.
 
@@ -61,7 +61,7 @@ Estoy de acuerdo con que la libertad de expresión debe tener límites, pero cua
 
 	Las sociedades contemporáneas son diversas y tienden a ser inclusivas. Esto implica que todos estamos expuestos a ideas, grupos sociales y demás muy distintos entre sí y a los valores e ideas que hemos interiorizado. Quizás algunos nos resulten ofensivos. ¿Eso significa que nos debemos aislar en una burbuja de individuos y organizaciones semejantes? En mi opinión, la respuesta es un rotundo NO. Encontrarnos fuera de nuestra zona de confort nos fuerza a enfrentarnos a nuevas situaciones y encontrar nuevas soluciones. Nos ayudan por tanto a crecer como personas. La cuestión es, por tanto, ¿como lograr que dichas experiencias "incómodas" no superen nuestros niveles de estrés o de sensibilidad para que la interacción sea positiva? Parece que algunos creen que los trigger warning, not platforming y safe spaces son parte de la solución. ¿Existen otras maneras mejores o complementarias?.
 
-### **Compartimentar la sociedad en grupos incomunicados es malo para todos**
+2. **Compartimentar la sociedad en grupos incomunicados es malo para todos**
 Mientras escuchaba el debate no pude evitar pensar que la discusión solo admitía un SI o un NO. Creo que la creación de "espacios seguros", trigger warnings, etc. pueden ser herramientas útiles enmarcadas en contextos concretos, sin que eso signifique la fragmentación de la sociedad.
 
 Por ejemplo, cabe la posibilidad de que las universidades cuenten con espacios seguros sin que esto implique que toda la universidad lo sea. Quizás pueden existir espacios, dentro de la universidad en los que distintos colectivos puedan sentirse seguros, puedan reducir sus niveles de estrés, organizarse, compartir pensamientos y posteriormente, volver a la "vida real" y afrontarla con más herramientas y en mejor estado anímico y mental. Por otro lado, las clases no creo que debieran ser parte de dichos espacios seguros. Un profesor no debería ser cohibido para decir lo que piensa ni para desafiar las opiniones de sus alumnos. Esto no significa que las clases deban ser una especie de dictadura, así como el profesor debe de tener la libertad de expresión, sus alumnos también y deben existir unos reglamentos de conducta definidos que garanticen el respeto y seguridad de todos los individuos. Volvemos a la cuestión pues de no limitar el contenido, si acaso el modo. Promover discusiones razonables y respetuosas, no veo como puede ser inútil o perjudicial. 
@@ -70,14 +70,14 @@ Además una sociedad libre y diversa debe tener garantizado su derecho de reuni�
 
 La nuestra es una sociedad en continuo conflicto de intereses, la propia diversidad social lo hace inevitable. Pretender eliminar todo conflicto creo que es una visión simplista de las cosas, del mismo modo que pretender que las cosas se mantengan como son, sin permitir iniciativas que faciliten su resolución reduciendo el coste emocional de los individuos.
 
-### **La libre expresión puede ponerse en riesgo a sí misma**
+3. **La libre expresión puede ponerse en riesgo a sí misma**
 Es evidente que la propia existencia de esta libertad y permitir que personas o grupos que no la defienden puedan expresarse libre y públicamente aumenta el riesgo de que su mensaje capte la atención de otros individuos hasta el momento ajenos a su ideología y les influya para involucrarse en su misión de destruirla.
 
 La solución ideal a este problema, no puede ser limitar el impacto mediático de dichas personas o grupos sociales. Aunque en la práctica no es así, no se puede defender una libertad y a la vez limitarla. La libertad de expresión es un pilar democrático básico porque es una herramienta que permite limitar la capacidad de los poderes ejecutivo, legislativo y judicial a sobre limitarse en sus deberes. Es en cierto modo un sistema de alarma comunitario. Al mismo tiempo es el medio por el que la sociedad se informa, se educa e influye. El cambio o el progreso comienza, después de la generación de una idea, cuando se comparte, se adapta y al final se ejecuta.
 
 Por todo ello, creo que aporta mayores garantías de éxito, a la vez que se reducen los riesgos de obtener resultados indeseados, si en vez de limitar discrecionalmente el derecho a expresarse libremente, se fomentara una buena educación basada en valores democráticos, la evidencia y el pensamiento crítico. Si se logra de manera consistente en el tiempo, eventualmente se lograría una sociedad más inmune a la manipulación y con herramientas suficientes para determinar por sí misma sus intereses y actuar en consecuencia. Es decir, el riesgo que la libre expresión otorgue poder a sectores interesados en destruirla se reduce si la sociedad está más y mejor educada. No es una solución infalible, ni cortoplacista, pero creo que más efectiva y que no menoscaba los principios rectores democráticos.
 
-### **Las universidades históricamente han sido irracionales y han reforzado o defendido ideologías que excluían a las minorías**
+4. **Las universidades históricamente han sido irracionales y han reforzado o defendido ideologías que excluían a las minorías**
 Las universidades, históricamente y en la actualidad, cuentan con prestigio y autoridad suficientes para influir en la sociedad. Es cierto, que en el pasado dichas instituciones se han comportado irracionalmente, defendiendo ideologías que excluían a las minorías. Algunas son muy conservadoras y tienen un peso e inercias tales que dificultan la aceptación del cambio. Igualmente, las universidades han sido el germen e invernadero de muchas ideas progresistas e incluso reaccionarias. Al fin y al cabo, la universidad es el reflejo de una porción, quizás elitista, de la sociedad. Y como tal, existen poderes establecidos y otros en proceso de desarrollo con potencial para desbancarlos.
 
 Lo bueno de las universidades es que son sub-sociedades con sus propias reglas más o menos democráticas, con un respeto mayúsculo a la verdad fundamentada en el método científico. Esto hace que en su seno, por muy lento que sea, siempre se promueve y acepte el cambio - una vez se presente suficiente evidencia científica para ello. Es un proceso lento pero imparable. Es por tanto, un sector donde, por ejemplo, la manipulación interesada cuenta con mucha menos capacidad de influencia. 
@@ -86,7 +86,7 @@ Es por ello que defiendo que la sociedad en general debería parecerse más a Un
 
 Si la existencia de espacios seguros, realmente mejora el rendimiento de los estudiantes que pertenecen a las minorías y son implantadas de modo que no se produzca menoscabo en el intercambio de ideas ni en la calidad de la educación, no veo razón para que se acepte dicha innovación.
 
-### **Parte del crecimiento personal requiere de conflicto**
+5. **Parte del crecimiento personal requiere de conflicto**
 No soy psicólogo, ni estoy especialmente informado en la cuestión. Sin embargo, parece razonable, y encaja con mi propia experiencia, pensar que es precisamente en los momentos de adversidad cuando uno aprende muchas lecciones. Es cierto, no obstante, que también se puede aprender sin necesidad del estrés que supone una complicación sobrevenida.
 
 Personalmente opino, que existen maneras de dirigir el propio crecimiento personal, de manera estructurada y con dosis de estrés suficientes, con el único objetivo de optimizar el aprendizaje y sin ánimo de reducir la exposición personal a situaciones difíciles. Simplemente creo que dicha exposición debe cumplir ciertas condiciones previas para que el potencial beneficio sea interiorizado. 
