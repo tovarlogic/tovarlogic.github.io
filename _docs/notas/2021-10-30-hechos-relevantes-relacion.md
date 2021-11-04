@@ -1,6 +1,7 @@
 ---
 title: "Hechos para evaluar una relación"
 date: 2021-10-30
+draft: true
 ---
 
 ## Introducción

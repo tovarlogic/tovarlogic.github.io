@@ -1,7 +1,7 @@
 ---
 title: "Sobre lo publico"
 date: 2021-05-13
-doc_type: note
+draft: true
 ---
 
 ## Política

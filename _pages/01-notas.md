@@ -16,11 +16,11 @@ Lo sencillo es expresar las ideas u opiniones de manera espontánea (que para es
 
 [Ordenar por temática](/notas/){: .btn .btn--inverse} 
 [Ordenar por etiquetas](/notas/tags/){: .btn .btn--inverse} 
-[Ordenar por fecha](/notas/fecha/){: .btn .btn--inverse} 
+[Ordenar por fecha](/notas/fecha/){: .btn .btn--primary} 
 [Series monográficas](/notas/series){: .btn .btn--inverse}
-[Borradores](/notas/borradores/){: .btn .btn--primary}
+[Borradores](/notas/borradores/){: .btn .btn--inverse}
 
-  {% assign items = site.docs | where: "doc_type","note" %}
+  {% assign items = site.docs | where: "doc_type","note" | sort: 'date' | reverse %}
   {% for post in items %}
     {% include archive-single.html %}
   {% endfor %}

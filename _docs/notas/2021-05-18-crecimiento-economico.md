@@ -14,4 +14,3 @@ En la actualidad se emplea como indicador principal al PIB (Producto Interior Br
 El crecimiento económico y, por consiguiente, el aumento del PIB no necesariamente implica un incremento en la "calidad" económica, ni social, aunque generalmente las economías con mayor PIB también son las que cuentan con mejores sistemas socio-económicos.
 
 Otros indicadores relacionados con la calidad de vida, salud, medio ambiente, integración e igualdad social, solidaridad y actividad comunitaria o voluntariado entre otros resultan mucho más específicos y útiles para evaluar el nivel de bienestar social que, por supuesto, requiere de un nivel adecuado de desarrollo económico.
-\ No newline at end of file

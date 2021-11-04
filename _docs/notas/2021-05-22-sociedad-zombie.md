@@ -1,6 +1,7 @@
 ---
 title: "Elecciones para un mejor ahora"
 date: 2021-05-18
+draft: true
 ---
 
 ### "Sociedad zombie"
