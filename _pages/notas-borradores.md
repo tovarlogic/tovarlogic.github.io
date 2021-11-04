@@ -13,7 +13,7 @@ entries_layout: grid
 [Series monográficas](/notas/series){: .btn .btn--inverse}
 [Borradores](/notas/borradores/){: .btn .btn--primary}
 
-{% assign draft_posts = site.posts | where: "draft", true | sort %}
+{% assign draft_posts = site.docs | where: "draft", true | sort %}
 {% for post in draft_posts %}
     {% include archive-single.html %}
 {% endfor %}

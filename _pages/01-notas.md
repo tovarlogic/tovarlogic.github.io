@@ -20,7 +20,7 @@ Lo sencillo es expresar las ideas u opiniones de manera espontánea (que para es
 [Series monográficas](/notas/series){: .btn .btn--inverse}
 [Borradores](/notas/borradores/){: .btn .btn--inverse}
 
-  {% assign items = site.docs | where: "doc_type","note" | sort: 'date' | reverse %}
+  {% assign draft_posts = site.docs | where_exp: "item", "item.doc_type contains 'note' and item.draft" %}
   {% for post in items %}
     {% include archive-single.html %}
   {% endfor %}
