@@ -62,10 +62,3 @@ En definitiva, es natural que alberguemos creencias infundadas, no obstante somo
 
 # Bibliografía 
 * [http://people.brandeis.edu/~teuber/Clifford_ethics.pdf THE ETHICS OF BELIEF - William K. Clifford]
-
-> Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxMDM0Mzg4LDk4NDEwOTExNywtNTc2Mj
-A4NjU1LC0xMjA3Nzg1MTk5LC0yNTU5NTE2MzUsLTMxNTY2NTMz
-OSwtMTc0Mjg1NTE2Myw0MDY2ODc2MzJdfQ==
--->

@@ -8,6 +8,9 @@ Estas anotaciones vienen inspiradas por la siguiente podcast, donde se trata las
 
 {% include ivoox-player.html id=76599303 %}
 
+**NOTA:** Sin duda es un tema complejo. Me he querido centrar en las cuestiones debatidas en el podcast, pero existen muchas otras, como el riesgo que suponen los sesgos cognitivos y su explotación por algunos individuos o grupos, consiguiendo su máxima eficacia empleando las nuevas tecnologías como el big data y la inteligencia artificial.
+{: .notice--warning}
+
 ## Introducción
 
 Antes de leerme algún libro mencionado en el podcast y cualquier otro que me resulte interesante para profundizar en el tema, quiero recoger aquí mis impresiones iniciales, de modo que más adelante tras informarme, reflexionar y buscar estudios científicos sobre la cuestión, pueda evaluar cuan desencaminado estoy ahora.
@@ -88,4 +91,18 @@ No soy psicólogo, ni estoy especialmente informado en la cuestión. Sin embargo
 
 Personalmente opino, que existen maneras de dirigir el propio crecimiento personal, de manera estructurada y con dosis de estrés suficientes, con el único objetivo de optimizar el aprendizaje y sin ánimo de reducir la exposición personal a situaciones difíciles. Simplemente creo que dicha exposición debe cumplir ciertas condiciones previas para que el potencial beneficio sea interiorizado. 
 
-Desarrollar el pensamiento crítico, por ejemplo, requiere otra serie de capacidades previas y madurez. En el contexto universitario, creo que ya se presuponen dichas condiciones previas, aunque no siempre se dan y de ahí la necesidad de algunos alumnos de "protegerse" de ambientes hostiles. Esta hostilidad, en realidad y en la mayoría de los casos, no es real sino es percibida y con una educación adecuada y personalizada se puede lograr una mayor robustez o anti-fragilidad de carácter. Los espacios seguros, en su justa medida no me parece que vayan en contra de esta idea, pero su sobre implantación sí.
+Desarrollar el pensamiento crítico, por ejemplo, requiere otra serie de capacidades previas y madurez. En el contexto universitario, creo que ya se presuponen dichas condiciones previas, aunque no siempre se dan y de ahí la necesidad de algunos alumnos de "protegerse" de ambientes hostiles. Esta hostilidad, en realidad y en la mayoría de los casos, no es real sino es percibida y con una educación adecuada y personalizada se puede lograr una mayor robustez o anti-fragilidad de carácter. 
+
+Creo que cuanto más madura es una persona, más cómoda se encuentra en la discordia o fuera de su espacio de confort. En lo que hay que trabajar es en aumentar dicha madurez o resiliencia, de manera saludable. Una vez se logre esto, su necesidad por espacios seguros disminuirá. Por supuesto, lo que no se puede permitir es que se limite la educación de tal modo que sea el más inmaduro o sensible el que marque los límites del profesor. Me parece más razonable un enfoque relacionado con la transparencia. Es decir, si en un aula o una lección concreta se prevé que surjan cuestiones que puedan herir los sensibilidades, este hecho se podría anunciar previamente de modo que cada alumno decida csi exponerse a ello o no. Adicionalmente, creo que los espacios seguros, en su justa medida puedan ser beneficiosos siempre que no se generalice el concepto hasta limitar las libertades del profesorado y del resto de alumnos.
+
+## Conclusiones
+
+La raiz del problema en cuestión creo que es por un lado, la infantilización o inmadurez de la sociedad en general y, por el otro, las capacidades cognitivas desarrolladas y conocimientos adquiridos por sus miembros durante las etapas iniciales de la vida.
+
+Una sociedad basada en el conocimiento, en la que se ofrezca una calidad educativa, y en la que exista el respeto a la diversidad en todas sus formas, es en realidad la mejor solución al problema. 
+
+Las libertades no se deben limitar, al revés, se deben ampliar para que cada uno pueda desarrollar su vida de la manera que considere más oportuna. Que eso no entre en conflicto con las libertades de los demás depende en gran medida de la "calidad ciudadana" y por supuesto, en última instancia del sistema de derecho.
+
+
+
+

@@ -182,9 +182,3 @@ En estas sociedades, primordialmente individualistas, los valores más important
 
 Justicia,.. Sin embargo, el que mejor refleja la propia naturaleza humana, y por tando más dificilmente degradable es la Educación.
 
-> Written with [StackEdit](https://stackedit.io/).
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0OTA0MDYyMiw2MjE0Mzg5MDIsMTc0ND
-A5MDA4MiwtNjAzMzMyNjcwLC0xNTI0ODc3MjYsMjE4Nzc2MjM2
-XX0=
--->

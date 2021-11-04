@@ -54,9 +54,3 @@ De este modo se consigue fomentar un tratamiento más analítico del asunto a tr
 Si lo que buscamos es la mejora de un grupo social reducido, la cosa cambia, en ese caso, si que podríamos considerarlo un método eficaz, y probablemente muy eficiente también ya que 
 
 Dicho esto, en el mejor de los casos si discutimos bien, seremos parte activa en la mejora de nuestros grupos sociales. Por otro lado, si lo hacemos mal seremos parte colaboradora en su empeoramiento y mediocridad. neutral si no convencemos a nadie, pero no es cuestión baladí...
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODY4MTU0MzAsNjA3MjU1MTEwLC0xMz
-A3Njc5ODI2LC0xODAxNzQ3NTA2LC05NDE5NjAxNTAsLTEyODE4
-OTYzMzAsMjEyMzIzNDE2OCwtMTg3MjUyODIyMSwyMTU5NDE2MD
-RdfQ==
--->
