@@ -362,6 +362,7 @@ defaults:
       read_time: true
       toc: true
       toc_sticky: true
+      comments: true
   # _recetas
   - scope:
       path: ""
@@ -370,7 +371,7 @@ defaults:
       layout: receta
       author_profile: false
       share: true
-      comments: false
+      comments: true
       related: false
       post_pagination: false
   # _book_reviews
