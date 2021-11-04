@@ -13,7 +13,7 @@ entries_layout: grid
 [Series monográficas](/notas/series){: .btn .btn--inverse}
 [Borradores](/notas/borradores/){: .btn .btn--primary}
 
-{% assign draft_posts = site.docs | where: "draft", true | sort %}
+{% assign draft_posts = site.docs | where_exp: "item", "item.doc_type contains 'note' and item.draft contains true" %}
 {% for post in draft_posts %}
     {% include archive-single.html %}
 {% endfor %}

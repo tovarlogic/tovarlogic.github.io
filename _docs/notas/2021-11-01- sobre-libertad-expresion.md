@@ -1,6 +1,5 @@
 ---
-
-: "Sobre la libertad de expresión"
+title: "Sobre la libertad de expresión"
 date: 2021-11-01
 ---
 
