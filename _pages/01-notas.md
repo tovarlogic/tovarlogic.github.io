@@ -22,6 +22,6 @@ Lo sencillo es expresar las ideas u opiniones de manera espontánea (que para es
 
   {% assign items = site.docs | where: "doc_type","note" | sort: 'date' | reverse %}
   {% for post in items %}
-    {% include archive-single.html %}
+    {% include archive-single.html type=entries_layout %}
   {% endfor %}
 
