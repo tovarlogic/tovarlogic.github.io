@@ -358,6 +358,8 @@ defaults:
       type: docs
     values:
       doc_type: note
+      show_date: true
+      read_time: true
       toc: true
       toc_sticky: true
   # _recetas
