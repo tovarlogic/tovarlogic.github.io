@@ -4,12 +4,33 @@ category_list: [Ensayo, Novela, Biografía, Ciencia-ficción, Clásicos]
 
 tag_list: [Ensayo, Novela, Biografía, Ciencia-ficción, Economía, Política, Geopolítica, Sociología, Historia, Psicología, Crecimiento personal, Medioambiente, Filosofía, Biología, Tecnología, Ciencia, Aventura, Futuro]
 
-list: 
+list:  
+  - title: "Comfortably unaware - what we choose to eat is killing us and our planet"
+    author: Richard A. Oppenlander
+    isbn: 9780825306860
+    category: [Ensayo] 
+    tags: [Medioambiente]
+    date: 2021-11-10
+    stars: 3
+    format: kindle
+    review: "Comfortably-unaware"
+    status: reading
+
+  - title: "The Relaxation Response"
+    author: Herbert Benson M.D., Miriam Z. Klipper
+    isbn: 0380815958
+    category: [Ensayo] 
+    tags: [Ciencia, Biología, Crecimiento personal]
+    date: 2021-11-10
+    stars: 3
+    format: kindle
+    status: read
+
   - title: "Respira: La nueva ciencia de un arte olvidado"
     author: James Nestor
     isbn: 9788408237228
     category: [Ensayo] 
-    tags: [Ciencia, Biología]
+    tags: [Ciencia, Biología, Crecimiento personal]
     date: 2021-09-21
     stars: 3
     format: kindle
