@@ -6,6 +6,8 @@ main:
     url: /notas/
   - title: "Libros"
     url: /libros/
+  - title: "Podcats"
+    url: /podcasts/
   - title: "Recetas"
     url: /recetas/
   - title: "Quotes"
