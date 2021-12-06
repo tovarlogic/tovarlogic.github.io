@@ -9,7 +9,7 @@ author_profile: false
 permalink: /podcasts/  
 ---
 
-{% include podcasts-filters.html %}
+{% include podcast-filters.html %}
 
 
 
