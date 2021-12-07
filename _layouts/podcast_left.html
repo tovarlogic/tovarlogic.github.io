@@ -6,7 +6,7 @@ layout: archive_left
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign podcastInYear = site.data.podcasts.list | where:'platform', 'ivoox' | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
+{% assign podcastInYear = site.data.podcasts.list %}
 
 {% assign podcasts = site.data.podcasts.list %}
 {% assign count = 0 %}
