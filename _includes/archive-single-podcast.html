@@ -1,7 +1,7 @@
 <div class="{{ include.type | default: 'list' }}__item">
     <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
       <div>
-          {% if podcast.platform == "ivoox" %}
+          {% if podcast.platform == 'ivoox' %}
             {% include ivoox-player.html id={{podcast.platform_id}} %}
           {% endif %}
         </div>

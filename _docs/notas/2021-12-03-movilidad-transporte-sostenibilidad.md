@@ -23,3 +23,5 @@ Una visión "top-down" en este caso nos permitiría tener una visión global del
 
 Seamos prácticos y razonemos sobre la cuestión de los de los vehículos de transporte individual o hasta 5 plazas. Hay que tener en cuenta que esta discusión se limita habitualmente a los coches, excluyendo sistemáticamente a las motocicletas. Intentaré, dentro de mis posibilidades, evitar esta exclusión ya que, a priori, parece que la motocicleta, en algunas circustancias, es una solución más eficiente que la del coche.
 
+## Recursos y bibliografía
+- [Factcheck: How electric vehicles help to tackle climate change](https://www.carbonbrief.org/factcheck-how-electric-vehicles-help-to-tackle-climate-change)
