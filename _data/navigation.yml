@@ -6,7 +6,7 @@ main:
     url: /notas/
   - title: "Libros"
     url: /libros/
-  - title: "Podcats"
+  - title: "Podcasts"
     url: /podcasts/
   - title: "Recetas"
     url: /recetas/
