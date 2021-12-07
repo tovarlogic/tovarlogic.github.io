@@ -1,7 +1,7 @@
 lastupdate: 6 de Diciembre de 2021
 list:
   - platform_id: 76599303
-    platform: ivoox
+    platform: "ivoox"
     show: "inteligence squared"
     speakers: []
     date: 2021-11-01
@@ -11,7 +11,7 @@ list:
     review:
 
   - platform_id: 65324888
-    platform: ivoox
+    platform: "ivoox"
     show: "inteligence squared"
     speakers: []
     date: 2021-05-18
@@ -21,7 +21,7 @@ list:
     review: 
 
   - platform_id: 78555823
-    platform: ivoox
+    platform: "ivoox"
     show: "inteligence squared"
     speakers: []
     date: 2021-12-01
