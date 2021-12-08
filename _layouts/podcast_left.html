@@ -30,15 +30,5 @@ layout: archive_left
 
 </ul>
 
-{% for year in podcastInYear %}
-<section id="{{ year.name }}" class="taxonomy__section">
-    <h2 class="archive__subtitle">{{ year.name }}</h2>
-    <div class="entries-{{ entries_layout }}">
-      {% for podcast in year.items %}
-        {% include archive-single-podcast.html type=entries_layout %}
-      {% endfor %}
-    </div>
-    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-</section><br>
-{% endfor %}
+
 
