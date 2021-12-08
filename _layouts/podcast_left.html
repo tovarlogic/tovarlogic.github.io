@@ -17,7 +17,7 @@ layout: archive_left
 <span class="total_count">Total podcasts escuchados: {{ count }}</span><br>
 <span class="last-update">Listado actualizado el {{ site.data.podcasts.lastupdate }}</span>
 
-{{ podcastInYear }}
+
 
 <ul class="taxonomy__index">
 
@@ -31,9 +31,6 @@ layout: archive_left
 
 </ul>
 
-{{ podcasts }}
-
-
 {% for year in podcastInYear %}
 <section id="{{ year.name }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ year.name }}</h2>
@@ -46,3 +43,4 @@ layout: archive_left
 </section><br>
 {% endfor %}
 
+{{ podcastInYear }}
