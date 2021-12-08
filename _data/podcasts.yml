@@ -2,31 +2,31 @@ lastupdate: 6 de Diciembre de 2021
 
 list:
   - id: 78555823
-    title: titulo 1
+    title: Building Africa’s Great Green Wall Project
     platform: ivoox
     show: inteligence squared
     speakers: [speaker]
     date: 2021-12-01
     stars: 3
-    category: [cat]
-    tags: [debate, medio ambiente]
+    category: []
+    tags: [medio ambiente]
     
   - id: 76599303
-    title: titulo 2
+    title: The Battle Over Free Speech and trigger warnings
     platform: ivoox
     show: inteligence squared
     speakers: [speaker]
     date: 2021-11-01
     stars: 4
-    category: [cat]
-    tags: [libertad de expresión]
+    category: []
+    tags: [debate, libertad de expresión]
 
   - id: 65324888
-    title: titulo 13
+    title: Will electric vehicles make our roads greener?
     platform: ivoox
     show: inteligence squared
     speakers: [speaker]
     date: 2021-05-18
     stars: 4
-    category: [cat]
-    tags: [medio ambiente]
+    category: []
+    tags: [debate, medio ambiente]
