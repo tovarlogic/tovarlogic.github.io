@@ -13,7 +13,6 @@ layout: archive_left
 {% endfor %}
 
 {% assign podcastInYear = podcasts | group_by_exp:"podcast", "podcast.date | date: '%Y'" %}
-{{ podcastInYear }}
 
 <span class="total_count">Total podcasts escuchados: {{ count }}</span><br>
 <span class="last-update">Listado actualizado el {{ site.data.podcasts.lastupdate }}</span>
