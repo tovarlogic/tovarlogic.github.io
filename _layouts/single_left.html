@@ -44,6 +44,7 @@ layout: default
           <h2 id="front-end_podcasts" class="">Libros directamente relacionados con este artículo</h2>
           {% for book_isbn in page.podcasts %}
             {% assign book = site.data.books.list | where:'isbn', book_isbn | first %}
+            {{ book }}
             {% include archive-single-books.html type=entries_layout %}
           {% endfor %}
         {% endif %}
