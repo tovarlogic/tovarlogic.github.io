@@ -12,7 +12,6 @@ layout: archive_left
     {% assign count = count | plus: 1 %}  
 {% endfor %}
 
-{% assign podcastInYear = podcasts | group_by_exp:"podcast", "podcast.date | date: '%Y'" %}
 
 {% assign readInYear = site.data.books.list | where:'status', 'read' | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
 
