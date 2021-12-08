@@ -1,7 +1,7 @@
 lastupdate: 6 de Diciembre de 2021
 
 list:
-  - platform_id: 78555823
+  - id: 78555823
     platform: "ivoox"
     show: "inteligence squared"
     speakers: []
@@ -10,7 +10,7 @@ list:
     category: []
     tags: [debate, medio ambiente]
     
-  - platform_id: 76599303
+  - id: 76599303
     platform: "ivoox"
     show: "inteligence squared"
     speakers: []
@@ -19,7 +19,7 @@ list:
     category: []
     tags: [libertad de expresión]
 
-  - platform_id: 65324888
+  - id: 65324888
     platform: "ivoox"
     show: "inteligence squared"
     speakers: []

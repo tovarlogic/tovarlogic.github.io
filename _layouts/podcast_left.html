@@ -6,8 +6,6 @@ layout: archive_left
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign podcastInYear = site.data.podcasts.list | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
-
 {% assign podcasts = site.data.podcasts.list %}
 {% assign count = 0 %}
 {% for item in podcasts %}
@@ -29,7 +27,7 @@ layout: archive_left
 
 </ul>
 
-{{ podcastInYear }}
+{{ podcasts }}
 {% for year in podcastInYear %}
 <section id="{{ year.name }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ year.name }}</h2>
