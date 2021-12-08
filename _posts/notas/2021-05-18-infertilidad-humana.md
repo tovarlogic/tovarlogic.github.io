@@ -2,6 +2,7 @@
 title: "Riesgos"
 date: 2021-05-18
 podcasts: [65324888]
+books: [9781797114613]
 ---
 
 El apartado **Riesgos** es una forma de recoger de manera iterativa aquellos casos que ponen en riesgo, si no nuestra supervivencia como especie, al menos las sociedades actuales.
