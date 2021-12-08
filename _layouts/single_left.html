@@ -43,8 +43,7 @@ layout: default
         {% if page.podcasts %}
           <h2 id="front-end_podcasts" class="">Podcasts directamente relacionados con este artículo</h2>
           {% for podcast_id in page.podcasts %}
-            {% assign podcast = site.data.podcasts.list | where:'id', podcast_id | first %}
-            
+            {{podcast_id}}
           {% enfor %}
         {% endif %}
 
