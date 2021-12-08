@@ -2,8 +2,6 @@
 main:
   - title: "Blog"
     url: /blog/
-  - title: "Recursos"
-    url: /recursos/
   - title: "Recetas"
     url: /recetas/
   - title: "Quotes"
