@@ -2,7 +2,7 @@
     <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
       <div>
           {% if podcast.platform == 'ivoox' %}
-            {{podcast.id}}
+            {% include ivoox-player-mini.html id={{podcast.id}} %}
           {% endif %}
         </div>
             <span class="stars-container stars-{{ podcast.stars | times:20 | round: 0 }}" title="{{ podcast.stars }}/5">★★★★★</span><br>
