@@ -12,18 +12,11 @@ layout: archive_left
     {% assign count = count | plus: 1 %}  
 {% endfor %}
 
-
-{% assign readInYear = site.data.books.list | where:'status', 'read' | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
-
-{{ readInYear }}
-
-{% assign read = site.data.books.list | where:'status', 'read' %}
-{{ read }}
+{% assign podcastInYear = podcasts | group_by_exp:"podcast", "podcast.date | date: '%Y'" %}
+{{ podcastInYear }}
 
 <span class="total_count">Total podcasts escuchados: {{ count }}</span><br>
 <span class="last-update">Listado actualizado el {{ site.data.podcasts.lastupdate }}</span>
-
-
 
 <ul class="taxonomy__index">
 
@@ -49,4 +42,3 @@ layout: archive_left
 </section><br>
 {% endfor %}
 
-{{ podcastInYear }}

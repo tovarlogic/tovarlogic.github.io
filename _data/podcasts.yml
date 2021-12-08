@@ -2,31 +2,31 @@ lastupdate: 6 de Diciembre de 2021
 
 list:
   - id: 78555823
-    title: ""
-    platform: "ivoox"
-    show: "inteligence squared"
-    speakers: []
+    title: titulo 1
+    platform: ivoox
+    show: inteligence squared
+    speakers: [speaker]
     date: 2021-12-01
     stars: 3
-    category: []
+    category: [cat]
     tags: [debate, medio ambiente]
     
   - id: 76599303
-    title: ""
-    platform: "ivoox"
-    show: "inteligence squared"
-    speakers: []
+    title: titulo 2
+    platform: ivoox
+    show: inteligence squared
+    speakers: [speaker]
     date: 2021-11-01
     stars: 4
-    category: []
+    category: [cat]
     tags: [libertad de expresión]
 
   - id: 65324888
-    title: ""
-    platform: "ivoox"
-    show: "inteligence squared"
-    speakers: []
+    title: titulo 13
+    platform: ivoox
+    show: inteligence squared
+    speakers: [speaker]
     date: 2021-05-18
     stars: 4
-    category: []
+    category: [cat]
     tags: [medio ambiente]
