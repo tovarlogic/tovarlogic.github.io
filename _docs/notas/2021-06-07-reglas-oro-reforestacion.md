@@ -2,6 +2,7 @@
 title: "Las "10 reglas de oro para la reforestación"
 date: 2021-05-18
 ---
+{% include ivoox-player.html  id=65324888 %}
 
 ### Las "10 reglas de oro para la reforestación"
 1. Primero proteger los bosques existentes
@@ -27,4 +28,3 @@ Generalmente se da mucha importancia al número de áboles plantados y no al num
 - [enlace 6](https://regenfarming.news/articles/1010-10-golden-rules-for-reforestation-show-how-to-plant-trees-the-right-way)
 
 
-{% include ivoox-player.html  id=65324888 %}
