@@ -5,7 +5,7 @@
             {% include ivoox-player.html id={{ podcast.id }} %}
           {% endif %}
         </div>
-            <span class="stars-container stars-{{ podcast.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span><br>
+            <span class="stars-container stars-{{ podcast.stars | times:20 | round: 0 }}" title="{{ podcast.stars }}/5">★★★★★</span><br>
             {% if podcast.review %}<a href="/podcasts/reviews/{{ podcast.review }}"> Mis notas </a>{% endif %}
     </article>
 </div>

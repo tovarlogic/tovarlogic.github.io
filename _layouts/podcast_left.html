@@ -6,13 +6,12 @@ layout: archive_left
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign podcasts = site.data.podcasts.list %}
+{% assign podcasts = site.data.podcasts.list | sort: "date" %}
 {% assign count = 0 %}
 {% for item in podcasts %}
     {% assign count = count | plus: 1 %}  
 {% endfor %}
 
-{% assign podcastInYear = site.data.podcasts.list | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
 
 <span class="total_count">Total podcasts escuchados: {{ count }}</span><br>
 <span class="last-update">Listado actualizado el {{ site.data.podcasts.lastupdate }}</span>
@@ -31,7 +30,6 @@ layout: archive_left
 
 {{ podcasts }}
 
-{{ podcastInYear }}
 
 {% for year in podcastInYear %}
 <section id="{{ year.name }}" class="taxonomy__section">
