@@ -1,8 +1,10 @@
 ---
 title: "Las "10 reglas de oro para la reforestación"
 date: 2021-05-18
+category: [medio-ambiente]
+tags: [reforestación]
+podcasts: [65324888]
 ---
-{% include ivoox-player.html  id=65324888 %}
 
 ### Las "10 reglas de oro para la reforestación"
 1. Primero proteger los bosques existentes

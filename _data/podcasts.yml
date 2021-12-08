@@ -6,11 +6,11 @@ list:
     platform: ivoox
     show: inteligence squared
     speakers: [speaker]
-    date: 2021-12-01
+    date: 2021-05-18
     stars: 3
-    category: []
-    tags: [medio ambiente]
-    notes: [2021-06-07-reglas-oro-reforestacion,2021-05-22-sociedad-zombie]
+    category: [medio-ambiente]
+    tags: [reforestacion]
+    notes: [2021-06-07-reglas-oro-reforestacion]
     
   - id: 76599303
     title: The Battle Over Free Speech and trigger warnings
@@ -19,8 +19,8 @@ list:
     speakers: [speaker]
     date: 2021-11-01
     stars: 4
-    category: []
-    tags: [debate, libertad de expresión]
+    category: [sociologia]
+    tags: [debate, libertad-expresión, censura, plataformas, redes-sociales]
 
   - id: 65324888
     title: Will electric vehicles make our roads greener?
@@ -29,5 +29,5 @@ list:
     speakers: [speaker]
     date: 2021-05-18
     stars: 4
-    category: []
-    tags: [debate, medio ambiente]
+    category: [medio-ambiente]
+    tags: [debate, transporte, movilidad, vehiculos-electricos]

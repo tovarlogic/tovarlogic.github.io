@@ -9,7 +9,7 @@
             {% if podcast.review %}<a href="/podcasts/reviews/{{ podcast.review }}"> Mis notas </a>{% endif %}
             {% if podcast.notes %}
             	{% for note in podcast.notes %}
-            		<a href="/notas/{{ note }}"> Mis notas </a>
+            		<a href="/notas/{{ note }}"> Notas </a><br>
             	{% endfor %}
             {% endif %}
     </article>

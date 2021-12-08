@@ -2,12 +2,14 @@
 main:
   - title: "Blog"
     url: /blog/
-  - title: "Notas"
-    url: /notas/
   - title: "Libros"
     url: /libros/
   - title: "Podcasts"
     url: /podcasts/
+  - title: "Videos"
+    url: /videos/
+  - title: "Artículos"
+    url: /articulos/
   - title: "Recetas"
     url: /recetas/
   - title: "Quotes"

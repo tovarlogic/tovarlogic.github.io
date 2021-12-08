@@ -315,6 +315,14 @@ defaults:
       permalink: blog/:title
       type: conocimiento
       comments: true
+  # notas
+  - scope:
+      path: "_posts/notas"
+      type: posts
+    values:
+      permalink: blog/:title
+      type: notas
+      comments: true
   # recursos
   - scope:
       path: "_posts/recursos"
