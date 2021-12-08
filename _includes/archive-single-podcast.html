@@ -7,9 +7,9 @@
         </div>
             <span class="stars-container stars-{{ podcast.stars | times:20 | round: 0 }}" title="{{ podcast.stars }}/5">★★★★★</span><br>
             {% if podcast.review %}<a href="/podcasts/reviews/{{ podcast.review }}"> Mis notas </a>{% endif %}
-            {% if podcast.notes %}
-            	{% for note in podcast.notes %}
-            		<a href="/notas/{{ note }}"> Notas </a><br>
+            {% if podcast.posts %}
+            	{% for post in podcast.post %}
+            		<a href="/blog/{{ post }}"> Notas </a><br>
             	{% endfor %}
             {% endif %}
     </article>

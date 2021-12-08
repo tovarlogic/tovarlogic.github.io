@@ -8,9 +8,9 @@ list:
     speakers: [speaker]
     date: 2021-05-18
     stars: 3
-    category: [medio-ambiente]
+    category: [Medioambiente]
     tags: [reforestacion]
-    notes: [2021-06-07-reglas-oro-reforestacion]
+    posts: [2021-05-18-reglas-oro-reforestacion]
     
   - id: 76599303
     title: The Battle Over Free Speech and trigger warnings
@@ -29,5 +29,15 @@ list:
     speakers: [speaker]
     date: 2021-05-18
     stars: 4
-    category: [medio-ambiente]
+    category: [Medioambiente]
     tags: [debate, transporte, movilidad, vehiculos-electricos]
+
+  - id: 69434687
+    title: Why have sperm counts more than halved in the past 40 years?
+    platform: ivoox
+    show: Today in Focus
+    speakers: [Shanna H. Swan]
+    date: 2021-05-18
+    stars: 3
+    category: [Medioambiente]
+    tags: [libros, infertilidad, contaminacion]
