@@ -3,9 +3,10 @@
 	{% if post.common-text.definitions %}
 		# Definiciones
 		{% for def-category in post.common-text.definitions %}
-			## {{ def-category }}
+			## {{ def-category }} def-category
 			{% for definition in site.data.definitions[def-category] %}
-			
+				- definition.key
+				: definition.value
 			{% endfor %}
 		{% endfor %}
 	{% endif %}
