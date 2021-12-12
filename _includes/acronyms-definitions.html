@@ -1,12 +1,10 @@
-{% if post.common-text %}
-
 	{% if post.common-text.definitions %}
 		# Definiciones
 		{% for def-category in post.common-text.definitions %}
 			## {{ def-category }} def-category
 			{% for definition in site.data.definitions[def-category] %}
-				- definition.key
-				: definition.value
+				- {{ definition.key }}
+				: {{ definition.value }}
 			{% endfor %}
 		{% endfor %}
 	{% endif %}
@@ -16,9 +14,7 @@
 		{% for acr-category in post.common-text.acronyms %}
 			## {{ acr-category }}
 			{% for acronym in site.data.acronyms[acr-category] %}
-
+				*[{{ acronym.key }}]: {{ acronym.value }}
 			{% endfor %}
 		{% endfor %}
 	{% endif %}
-
-{% endif %}
