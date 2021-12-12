@@ -67,6 +67,10 @@ layout: default
 
         {{ content }}
 
+        {% if page.common-text %}
+          {% include acronyms-definitions.html %}
+        {% endif %}
+
         {% if page.bookmarks %}
           {% for bookmark_category in page.bookmarks %}
             {% assign list = site.data.bookmarks[bookmark_category] %}
