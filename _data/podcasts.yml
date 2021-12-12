@@ -4,7 +4,7 @@ list:
   - id: 78555823
     title: Building Africa’s Great Green Wall Project
     platform: ivoox
-    show: inteligence squared
+    show: Intelligence Squared
     speakers: [speaker]
     date: 2021-05-18
     stars: 3
@@ -15,7 +15,7 @@ list:
   - id: 76599303
     title: The Battle Over Free Speech and trigger warnings
     platform: ivoox
-    show: inteligence squared
+    show: Intelligence Squared
     speakers: [speaker]
     date: 2021-11-01
     stars: 4
@@ -25,7 +25,7 @@ list:
   - id: 65324888
     title: Will electric vehicles make our roads greener?
     platform: ivoox
-    show: inteligence squared
+    show: Intelligence Squared
     speakers: [speaker]
     date: 2021-05-18
     stars: 4
@@ -41,3 +41,42 @@ list:
     stars: 3
     category: [Medioambiente]
     tags: [libros, infertilidad, contaminacion]
+
+  - id: 69929408
+    title: Niall Ferguson on the Politics of Catastrophe
+    platform: ivoox
+    show: Intelligence Squared
+    speakers: [Niall Ferguson]
+    date: 2021-05-18
+    stars: 3
+    category: [Medioambiente]
+    tags: [libros, riesgos, cambio-climatico, pandemias, infertilidad, contaminacion]
+
+  - id: 49203422
+    title: Why we need worst-case thinking to prevent pandemics
+    platform: ivoox
+    show: The audio long read
+    speakers: [Toby Ord]
+    date: 2021-06-21
+    stars: 4
+    category: [Medioambiente]
+    tags: [libros, riesgos, cambio-climatico, pandemias, infertilidad, contaminacion]
+
+  - id: 68109264
+    title: Máster en justicia - Derechos de los ciudadanos ante la justicia
+    platform: ivoox
+    show: Máster en justicia
+    speakers: [Manuela Carmena]
+    date: 2021-06-04
+    stars: 3
+    category: [Derecho]
+    tags: [derechos-humanos]
+
+  - id: 59905384
+    title: "Unit 74455: Russian hackers 'wanted by the FBI'"
+    platform: ivoox
+    show: Sky News Radio - Daily
+    date: 2021-05-18
+    stars: 3
+    category: []
+    tags: []

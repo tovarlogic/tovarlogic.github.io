@@ -1,0 +1,41 @@
+cambio-climatico:
+  - key: CMNUCC
+    value: Convención Marco de las Naciones Unidas por el Cambio Climático - UNFCCC
+  - key: UNFCCC
+    value: Convención Marco de las Naciones Unidas por el Cambio Climático - CMNUCC
+  - key: UNCCD
+    value: Convención de Lucha contra la Desertificación
+  - key: CNUDB
+    value: Convenio de las Naciones Unidas sobre la Diversidad Biológica
+  - key: IPCC
+    value: Grupo Intergubernamental de Expertos sobre el Cambio Climático
+  - key: KP
+    value: Protocolo de Kioto
+  - key: AP
+    value: Acuerdo de París
+  - key: GEI
+    value: Gases de Efecto Invernadero
+  - key: COPs
+    value: Conferencias de las Partes
+  - key: NDC
+    value: Contribuciones Determinadas a nivel Nacional
+  - key: JI
+    value: Proyectos de Aplicación Conjunta
+  - key: CDM
+    value: Clean Development Mechanism
+  - key: MDL
+    value: Mecanismo de Desarrollo Limpio
+  - key: CMP
+    value: Reuniones de las Partes del Protocolo de Kioto
+  - key: LULUCF
+    value: Land Use, Land-Use Change and Forestry - Uso de la Tierra, Cambio de Uso de la Tierra y Silvicultura (UTCUTS).
+  - key: DOL
+    value: 
+  - key: HFC
+    value: Hidrofluorocarbonos
+  - key: PAO
+    value: Potencial de agotamiento del ozono - Ozono Depletion Potential (ODP)
+  - key: PCA100
+    value: Potencial de calentamiento atmosférico en 100 años - Global warming potential (GWP)
+  - key: SAO
+    value: Sustancias que agotan el Ozono - Ozonoe Depletion Substantes (ODS)

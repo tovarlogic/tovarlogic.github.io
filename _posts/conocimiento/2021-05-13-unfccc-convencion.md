@@ -1,8 +1,8 @@
 ---
 title:  "La convención"
 date:   2021-05-13
-categories: [Medio Ambiente, cambio climatico]
-tags: [tratados internacionales]
+categories: [Medio Ambiente]
+tags: [tratados-internacionales, cambio-climatico, derecho-internacional]
 serie: cambio-climatico
 layout: serie
 excerpt: Resumen sobre el contenido de la Convención Marco de las Naciones Unidas por el Cambio Climático (CMNUCC) de 1992.
@@ -11,6 +11,9 @@ header:
   actions:
     - label: "Serie: Cambio climático"
       url: "/series/cambio-climatico/"
+common-text:
+  definitions: [cambio-climatico]
+  acronyms: [cambio-climatico] 
 ---
 
 # Introducción
@@ -90,7 +93,6 @@ Se crean diferentes órganos subsidiarios para el correcto funcionamiento de la 
 
 Así mismo se establece un **Mecanismo de financiación** para  el  suministro  de  recursos financieros  a  título  de  subvención  o  en  condiciones  de  favor  para,  entre  otras  cosas,  la transferencia de tecnología.
 
-{% include posts/cambio-climatico-definiciones.md %}
 
 # Bibliografía y referencias
 

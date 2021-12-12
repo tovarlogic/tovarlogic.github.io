@@ -1,6 +1,7 @@
 ---
 title: "Privacidad digital y guerra cibernética"
 date: 2021-05-18
+podcasts: [59905384]
 ---
 
 ### Privacidad digital y guerra cibernética
@@ -26,8 +27,6 @@ Esto ha promovido el surgimiento de una industria en torno al hacking, ha permit
 Por otro lado, Rusia considera que existen dos categorías y en corcondancia, así ha organizado sus agencias de ciberseguridad y hacking. Estas categorías son:
 - Tecnicos: ciberespionaje, hacking, cracking, virus, etc...
 - Psicológicos: propaganda y desinformación
-
-{% include ivoox-player.html id=59905384 %}
 
 Desconozco hasta que punto la desinformación es también parte de las técnicas de inteligencia de paises occidentales. Probablemente no sean tan agresivas pero existan como siempre ha ocurrido para al menos ocultar lo que el gobierno y el mando militar no desea que se conozca.
 

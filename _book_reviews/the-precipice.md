@@ -4,6 +4,7 @@ isbn: 9780316484916
 date: 2021-06-21
 excerpt: "Sobre los riesgos para la supervivencia de la humanidad."
 book-link: https://theprecipice.com/
+podcasts: [49203422]
 ---
 
 ## Resumen
@@ -41,5 +42,3 @@ The problem is not so much an excess of technology as a lack of wisdom. Carl Sag
 > “Many of the dangers we face indeed arise from science and technology – but, more fundamentally, because we have become powerful without becoming commensurately wise. The world-altering powers that technology has delivered into our hands now require a degree of consideration and foresight that has never before been asked of us.” - Carl Sagan
 
 > “Because we cannot come back from extinction, we cannot wait until a threat strikes before acting – we must be proactive. And because gaining wisdom takes time, we need to start now.” - Toby Ord
-
-{% include ivoox-player.html id=49203422 %}

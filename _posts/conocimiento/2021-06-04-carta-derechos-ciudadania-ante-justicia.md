@@ -3,12 +3,8 @@ title: "Derechos de los Ciudadanos ante la Justicia"
 date: 2021-06-04
 categories: [Derecho, Política]
 tags: []
+podcasts: [68109264]
 ---
-
-
-Este artículo ha sido motivado tras escuchar el siguiente podcast:
-
-{% include ivoox-player.html  id=68109264 %}
 
 ## Introducción
 El Pleno del Congreso de los Diputados, el 16 de abril de 2002, aprobó por unanimidad de todos los grupos parlamentarios, como **proposición no de ley**, el texto de la Carta de derechos de los ciudadanos ante la Justicia, que establece un catálogo de derechos de los usuarios de la Justicia.

@@ -4,12 +4,10 @@ book-link: https://www.goodreads.com/book/show/50892327-count-down
 isbn: 9781797114613
 date: 2021-05-18
 excerpt: "Chemicals and lifestyle changes are disrupting our hormonal balance. In the past forty years, human male sperm count has dropped by more than fifty percent. Female fertility also has declined precipitously in the same period. If this rate continues, then the human species could become extinct."
+podcasts: [69434687]
 ---
 
 ## Notas prelectura
-
-{% include ivoox-player.html id=69434687 %}
-
 Desde 1980 se conoce y estudia el hecho de que la cantidad de espermatozoides o cuenta de esperma, está descendiendo irreparablemente, generación tras generación.
 
 Una cuenta inferior a 40 millones/litro es el límite inferior a partir del cual se requieren métodos de fertilización asistida. Lo habitual en el pasado era 90 millones y en USA se acercan a los 47 millones.Existen una serie de moléculas sintéticas, con capacidad para **perturbar el Sistema Endocrino (hormonas)**. Fertilizantes y ftalatos, que se emplean para modular la flexibilidad o dureza de los plásticos, tienen la capacidad de entrar en nuestro organismo a través del aire que respiramos (por el polvo que inhalamos), los alimentos que ingerimos o incluso a por vía tópica (por la piel) cuando usamos cremas o productos similares.

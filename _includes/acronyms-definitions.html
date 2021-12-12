@@ -1,0 +1,23 @@
+{% if post.common-text %}
+
+	{% if post.common-text.definitions %}
+		# Definiciones
+		{% for def-category in post.common-text.definitions %}
+			## {{ def-category }}
+			{% for definition in site.data.definitions[def-category] %}
+			
+			{% endfor %}
+		{% endfor %}
+	{% endif %}
+
+	{% if post.common-text.acronyms %}
+		# Acronimos
+		{% for acr-category in post.common-text.acronyms %}
+			## {{ acr-category }}
+			{% for acronym in site.data.acronyms[acr-category] %}
+
+			{% endfor %}
+		{% endfor %}
+	{% endif %}
+
+{% endif %}

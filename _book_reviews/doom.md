@@ -5,12 +5,10 @@ book-link: https://www.goodreads.com/book/show/54750328-doom
 isbn: 0593297377
 date: 2021-05-18
 excerpt: "Sobre la historia de las catástrofes y sus consecuencias."
+podcasts: [69929408]
 ---
 
 ## Notas prelectura
-
-Entrevista al autor en Intelligence squared:
-{% include ivoox-player.html id=69929408 %}
 
 La idea general que transmite el autor es que el exceso de burocracia aumenta la probabilidades de que las consecuenc ias de cualquier situación de riesgo sean catastróficas. Su solución es establecer mecanismos ágiles y flexibles que puedan dar respuestas tempranas y prácticas a los problemas.
 
