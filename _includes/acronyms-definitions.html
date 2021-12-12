@@ -1,8 +1,11 @@
-	hola
 	{% if post.common-text.definitions %}
-		# Definiciones
+		<h1 id="definiciones">Definiciones
+			<a class="header-link" href="#definiciones" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a>
+		</h1>
 		{% for def-category in post.common-text.definitions %}
-			## {{ def-category }} def-category
+			<h2 id="{{def-category}}">{{def-category}}
+				<a class="header-link" href="#{{def-category}}" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a>
+			</h2>
 			{% for definition in site.data.definitions[def-category] %}
 				- {{ definition.key }}
 				: {{ definition.value }}
@@ -11,7 +14,7 @@
 	{% endif %}
 
 	{% if post.common-text.acronyms %}
-		# Acronimos
+		Acronimos
 		{% for acr-category in post.common-text.acronyms %}
 			## {{ acr-category }}
 			{% for acronym in site.data.acronyms[acr-category] %}
