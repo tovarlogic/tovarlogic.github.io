@@ -10,6 +10,9 @@ header:
   actions:
     - label: "Serie: Cambio climático"
       url: "/series/cambio-climatico/"
+shared-content:
+  definitions: [derecho-internacional]
+  acronyms: [cambio-climatico]
 ---
 
 ## Introducción
@@ -164,8 +167,6 @@ Se revisa además el listado de GEI sobre los que cada estado tendrá que inform
 Los estados que se acogieron al nuevo periodo de compromiso son distintos a los del primer periodo y su compromiso de reducción también cambia, pasando de una media del 5% a un 18% (20% para la unión europea) con respecto a los niveles de emisión de 1990. Este el el origen del famoso compromiso europeo "20/20".
 
 Por último se decidió en esta enmienda que el Fondo de Adaptación, que se había puesto en marcha con el protocolo para financiar proyectos y programas de adaptación a países en desarrollo, se financiara con un 2% de los beneficios obtenidos por el comercio internacional de permisos de emisión, proyectos JI y MDL o CDM. Previamente, durante el primer periodo, se había financiado únicamente mediante proyectos MDL o CDM.
-
-{% include posts/cambio-climatico-definiciones.md %}
 
 # Bibliografía y enlaces de interés
 

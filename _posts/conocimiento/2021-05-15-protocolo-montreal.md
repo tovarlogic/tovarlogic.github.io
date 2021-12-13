@@ -12,6 +12,9 @@ header:
   actions:
     - label: "Serie: Cambio climático"
       url: "/series/cambio-climatico/"
+shared-content:
+  definitions: [derecho-internacional]
+  acronyms: [cambio-climatico]
 ---
 
 # Introducción
@@ -434,8 +437,6 @@ Es la enmienda más reciente y exigió la reducción gradual de los **hidrofluor
 {: .notice--info}
 
 **Info**: Se estima que esta medida supondrá una reducción del calentamiento global en 2100 de 0.2-0.4ºC[^sap_report_2018]
-
-{% include posts/cambio-climatico-definiciones.md %}
 
 # Bibliografía
 

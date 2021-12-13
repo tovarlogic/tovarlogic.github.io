@@ -11,6 +11,9 @@ header:
   actions:
     - label: "Serie: Cambio climático"
       url: "/series/cambio-climatico/"
+shared-content:
+  definitions: [derecho-internacional]
+  acronyms: [cambio-climatico]
 ---
 
 # Introducción
@@ -143,7 +146,6 @@ Con respecto a la comunicación de las medidas concretas que cada estado implant
 
 Se establecerá un mecanismo para facilitar la aplicación y promover el cumplimiento del acuerdo. Dicho mecanismo consistirá en un comité de expertos, de carácter facilitador y en ningún momento contencioso ni punitivo.
 
-{% include posts/cambio-climatico-definiciones.md %}
 
 # Enlace de interés y referencias
 
