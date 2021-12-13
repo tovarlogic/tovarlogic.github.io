@@ -1,7 +1,7 @@
 {% if page.shared-content.definitions %}
-# definiciones
+# Definiciones
 	{% for def-category in page.shared-content.definitions %}
-## {{def-category}}
+## {{def-category | capitalize }}
 		{% for definition in site.data.definitions[def-category] %}
 - {{ definition.key }}
 : {{ definition.value }}
@@ -10,9 +10,7 @@
 {% endif %}
 
 {% if page.shared-content.acronyms %}
-# Acronimos
 	{% for acr-category in page.shared-content.acronyms %}
-## {{ acr-category }}
 		{% for acronym in site.data.acronyms[acr-category] %}
 *[{{ acronym.key }}]: {{ acronym.value }}
 		{% endfor %}

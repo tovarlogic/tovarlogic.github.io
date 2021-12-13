@@ -40,53 +40,12 @@ layout: default
           </aside>
         {% endif %}
 
-        {% if page.books or page.podcasts or page.videos %}
-          <h2 id="front-end_podcasts" class="">Recursos multimedia directamente relacionados con este artículo</h2>
-        {% endif %}
-
-        {% if page.books %}
-          {% for book_isbn in page.books %}
-            {% assign book = site.data.books.list | where:'isbn', book_isbn | first %}
-            {% include archive-single-books.html type=list %}
-          {% endfor %}
-        {% endif %}
-
-        {% if page.podcasts %}
-          {% for podcast_id in page.podcasts %}
-            {% assign podcast = site.data.podcasts.list | where:'id', podcast_id | first %}
-            {% include archive-single-podcast.html type=list %}
-          {% endfor %}
-        {% endif %}
-
-        {% if page.videos %}
-          {% for video_id in page.videos %}
-            {% assign video = site.data.videos.list | where:'id', video_id | first %}
-            {% include archive-single-video.html type=list %}
-          {% endfor %}
+        {% if page.shared-media %}
+          <h1 id="front-end_podcasts" class="">Recursos multimedia directamente relacionados con este artículo</h1>
+          {% include shared-media.html %}
         {% endif %}
 
         {{ content }}
-
-        pis
-        {% if page.shared-content %}
-        peo
-          {% include acronyms-definitions.html %}
-        {% endif %}
-
-        {% if page.bookmarks %}
-          {% for bookmark_category in page.bookmarks %}
-            {% assign list = site.data.bookmarks[bookmark_category] %}
-            <h2 id="front-end_bookmarks" class="">Recursos relacionados con {{ bookmark_category }}</h2>
-            {% for bookmarks in list %}
-              <h3 class="">{{ bookmarks.title }}</h3>
-              <ul>
-              {% for link in bookmarks.links %}
-                <li><a href="{{ link | last }}">{{ link | first }}</a></li>
-              {% endfor%}
-              </ul>
-            {% endfor %}
-          {% endfor %}
-        {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
