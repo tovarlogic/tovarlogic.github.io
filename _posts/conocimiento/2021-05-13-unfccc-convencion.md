@@ -101,3 +101,5 @@ Así mismo se establece un **Mecanismo de financiación** para  el  suministro  
 *[CMNUCC]: pipo
 - tratado
 : asdfsdfsf
+
+{% include acronyms-definitions.html %}
