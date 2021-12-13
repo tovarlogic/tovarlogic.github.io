@@ -1,25 +1,20 @@
 {% if page.shared-content.definitions %}
-# definiciones2
-	<h1 id="definiciones">Definiciones
-		<a class="header-link" href="#definiciones" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a>
-	</h1>
+# definiciones
 	{% for def-category in page.shared-content.definitions %}
-		<h2 id="{{def-category}}">{{def-category}}
-			<a class="header-link" href="#{{def-category}}" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a>
-		</h2>
+## {{def-category}}
 		{% for definition in site.data.definitions[def-category] %}
-			- {{ definition.key }}
-			: {{ definition.value }}
+- {{ definition.key }}
+: {{ definition.value }}
 		{% endfor %}
 	{% endfor %}
 {% endif %}
 
 {% if page.shared-content.acronyms %}
-	Acronimos
+# Acronimos
 	{% for acr-category in page.shared-content.acronyms %}
-		## {{ acr-category }}
+## {{ acr-category }}
 		{% for acronym in site.data.acronyms[acr-category] %}
-			*[{{ acronym.key }}]: {{ acronym.value }}
+*[{{ acronym.key }}]: {{ acronym.value }}
 		{% endfor %}
 	{% endfor %}
 {% endif %}
