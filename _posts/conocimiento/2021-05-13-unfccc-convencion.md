@@ -11,8 +11,8 @@ header:
   actions:
     - label: "Serie: Cambio climático"
       url: "/series/cambio-climatico/"
-common-text:
-  definitions: [cambio-climatico]
+shared-content:
+  definitions: [derecho-internacional]
   acronyms: [cambio-climatico] 
 ---
 

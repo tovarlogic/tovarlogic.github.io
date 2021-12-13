@@ -1,10 +1,10 @@
 	hola
-	{% if post.common-text.definitions %}
+	{% if page.shared-content.definitions %}
 	definiciones
 		<h1 id="definiciones">Definiciones
 			<a class="header-link" href="#definiciones" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a>
 		</h1>
-		{% for def-category in post.common-text.definitions %}
+		{% for def-category in post.shared-content.definitions %}
 			<h2 id="{{def-category}}">{{def-category}}
 				<a class="header-link" href="#{{def-category}}" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a>
 			</h2>
@@ -15,9 +15,9 @@
 		{% endfor %}
 	{% endif %}
 
-	{% if post.common-text.acronyms %}
+	{% if post.shared-content.acronyms %}
 		Acronimos
-		{% for acr-category in post.common-text.acronyms %}
+		{% for acr-category in post.shared-content.acronyms %}
 			## {{ acr-category }}
 			{% for acronym in site.data.acronyms[acr-category] %}
 				*[{{ acronym.key }}]: {{ acronym.value }}
