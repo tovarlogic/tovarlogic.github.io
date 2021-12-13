@@ -4,7 +4,7 @@
 		<h1 id="definiciones">Definiciones
 			<a class="header-link" href="#definiciones" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a>
 		</h1>
-		{% for def-category in post.shared-content.definitions %}
+		{% for def-category in page.shared-content.definitions %}
 			<h2 id="{{def-category}}">{{def-category}}
 				<a class="header-link" href="#{{def-category}}" title="Permalink"><span class="sr-only">Permalink</span><i class="fas fa-link"></i></a>
 			</h2>
@@ -15,9 +15,9 @@
 		{% endfor %}
 	{% endif %}
 
-	{% if post.shared-content.acronyms %}
+	{% if page.shared-content.acronyms %}
 		Acronimos
-		{% for acr-category in post.shared-content.acronyms %}
+		{% for acr-category in page.shared-content.acronyms %}
 			## {{ acr-category }}
 			{% for acronym in site.data.acronyms[acr-category] %}
 				*[{{ acronym.key }}]: {{ acronym.value }}
