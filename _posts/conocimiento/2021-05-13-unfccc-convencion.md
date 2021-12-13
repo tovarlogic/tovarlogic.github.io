@@ -18,7 +18,7 @@ shared-content:
 
 # Introducción
 
-[La Convención Marco de las Naciones Unidas por el Cambio Climático (CMNUCC)], es una de las convenciones creadas durante la "Cumbre de Rio" en 1992. Junto a esta se crearon el "Convenio de las Naciones Unidas sobre la Diversidad Biológica" (CNUDB) y "Convención de Lucha contra la Desertificación" (UNCCD).
+[La Convención Marco de las Naciones Unidas por el Cambio Climático (CMNUCC)][1], es una de las convenciones creadas durante la "Cumbre de Rio" en 1992. Junto a esta se crearon el "Convenio de las Naciones Unidas sobre la Diversidad Biológica" (CNUDB) y "Convención de Lucha contra la Desertificación" (UNCCD).
 
 La CMNUCC es el principal tratado internacional contra el cambio climático. Bajo el paraguas del marco provisto por la convención, se crearon, años después, el Protocolo de Kioto (PK) en 1997 y el Acuerdo de París (AP) en 2015. Este último es el primer acuerdo mundial vinculante sobre el clima.
 
