@@ -40,11 +40,6 @@ layout: default
           </aside>
         {% endif %}
 
-        {% if page.shared-media %}
-          <h1 id="front-end_podcasts" class="">Recursos multimedia directamente relacionados con este artículo</h1>
-          {% include shared-media.html %}
-        {% endif %}
-
         {{ content }}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
