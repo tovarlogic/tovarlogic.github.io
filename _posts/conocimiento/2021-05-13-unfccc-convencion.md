@@ -96,5 +96,6 @@ Así mismo se establece un **Mecanismo de financiación** para  el  suministro  
 
 # Bibliografía y referencias
 
+- [1]: https://unfccc.int/sites/default/files/convention_text_with_annexes_spanish_for_posting.pdf "CMNUCC ed consolidada 1992"
 
 {% include shared-content.html %}
