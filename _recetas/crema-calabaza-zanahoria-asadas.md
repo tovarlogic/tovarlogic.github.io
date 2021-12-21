@@ -15,6 +15,7 @@ ingredients:
  cúrcuma: 1 tsp
  cardamomo: 1/2 tsp
  chile en polvo: 1/4 tsp
+ jengibre: 1 pizco pequeño
 instructions:
  - Cortar las verduras en tacos
  - Mezclar las verduras con AOVE
@@ -29,7 +30,7 @@ cookmins: 35
 yield: 6
 tags: [Vegetariana, FODMAP, Paleo]
 receta: Cremas
-author: Karlos Arguiñano
+author: Karlos Arguiñano + modificado por mi
 ---
 
 <!--stackedit_data:

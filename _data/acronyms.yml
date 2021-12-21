@@ -39,3 +39,7 @@ cambio-climatico:
     value: Potencial de calentamiento atmosférico en 100 años - Global warming potential (GWP)
   - key: SAO
     value: Sustancias que agotan el Ozono - Ozonoe Depletion Substantes (ODS)
+
+filofofia-derecho:
+  - key: TS
+    value: Tesis Social
