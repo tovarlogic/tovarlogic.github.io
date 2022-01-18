@@ -92,5 +92,5 @@ Ser escéptico, y cuestionarse los que, como y porqués es  fundamental. La curi
 
 - [Conceptualización del pensamiento crítico.](http://www.ruv.itesm.mx/convenio/tabasco/oas/pc/tema_1/homedoc.htm)
 
-[^1]: Scriven y Paul (2001) 
+[^1]: [Scriven y Paul (2001)](http://google.com)
 [^2]:(McMillan, 1987; Mayer y  Goodchild, 1990; Monroy, 1998; Díaz Barriga, 1998 y Padilla 2006)
