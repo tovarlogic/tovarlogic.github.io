@@ -3,10 +3,10 @@ title: "Historia y hechos sobre el ser humano en la Luna"
 date: 2022-01-25
 categories: [Argumentarios]
 header:
-	teaser: /assets/images/blog/teasers/moon_apollo.jpg
-	overlay_image: /assets/images/moon_apollo.jpg
-    overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
-    caption: "Photo credit: [**NASA** Apollo 11](https://images.nasa.gov/search-results?q=AS11-44-6549)"
+  teaser: /assets/images/blog/teasers/moon_apollo.jpg
+  overlay_image: /assets/images/moon_apollo.jpg
+  overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
+  caption: "Photo credit: [**NASA** Apollo 11](https://images.nasa.gov/search-results?q=AS11-44-6549)"
 ---
 
 # Introducción
@@ -49,7 +49,7 @@ Los principales restos humanos en la superficie lunar son:
 	<img src="/assets/images/blog/moon/lunar_laser_reflector.jpg">
 	<img src="/assets/images/blog/moon/lunar_rover_vehicle.jpg">
 	<img src="/assets/images/blog/moon/lunar_module.jpg">
-	<figcaption>Principales equipos visibles/detectables en la superficie lunar.</figcaption>
+	<figcaption>Principales equipos visibles/detectables en la superficie lunar. **Credits**: [NASA](https://images.nasa.gov)</figcaption>
 </figure>
 
 
