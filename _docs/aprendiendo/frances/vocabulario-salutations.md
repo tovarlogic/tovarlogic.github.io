@@ -1,7 +1,6 @@
 ---
 title: "Larouse método integral: Ejercicios"
 permalink: /aprendiendo/frances/salutations/
-toc: true
 ---
 
 | Sección                        						| Último repaso |

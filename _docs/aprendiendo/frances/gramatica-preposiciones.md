@@ -1,6 +1,6 @@
 ---
 title: "Frances: Verbos"
-permalink: /aprendiendo/frances/preposiciones/s
+permalink: /aprendiendo/frances/preposiciones/
 ---
 
 # Preposiciones temporales
@@ -20,8 +20,8 @@ permalink: /aprendiendo/frances/preposiciones/s
 | _dès_                                   | a partir                     | a partir de un momento concreto    			| dès 8 heures; dès lundi					|
 | _dans_                                  | en                           | para un momento concreto           			| dans une heure         					|
 | _en_                                    | en                           | mes                                			| en février             					|
+| _en_                                    | en                           | años                               			| en 2008                					|
 | _en_                                    | en                           | estaciones del año **excepto la primavera** 	| en été, en automne, en hiver 				|
-| _en_                                    | –                            | años                               			| en 2008                					|
 | _au_                                    | en                           | para la primavera            	  			| au printemps           					|
 | _au_                                    | en                           | para periodos de tiempo o épocas   			| au XX<sup>e</sup> siècle     				|
 | _jusque_                                | hasta                        | de_…_ hasta_…_                     			| de lundi jusqu’à jeudi 					|
