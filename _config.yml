@@ -353,7 +353,7 @@ defaults:
       path: ""
       type: docs
     values:
-      layout: single_left
+      layout: single
       read_time: false
       author_profile: false
       share: false
@@ -369,7 +369,7 @@ defaults:
     values:
       sidebar:
         nav: "frances"
-      layout: single_left
+      layout: single
       read_time: false
       author_profile: false
       share: false
