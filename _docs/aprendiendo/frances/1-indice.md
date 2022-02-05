@@ -17,14 +17,14 @@ Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que
 | [Adjetivos](adjetivos/)        |               |
 | [Preposiciones](preposiciones) |               |
 | [Artículos](articulos)         |               |
-| [Pronombres](pronombres)       |               |
+
 
 ## Conversación situaciones y vocabulario
 
 | Contexto                                      | Último repaso |
 | --------------------------------------------- | ------------- |
 | [Números, fechas y horas](numeros-fecha-hora) |               |
-|                                               |               |
+| [Saludos y formas de cortesía](salutations)   |  05 Feb 2022             |
 |                                               |               |
 |                                               |               |
 |                                               |               |

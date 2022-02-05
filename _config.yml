@@ -360,6 +360,8 @@ defaults:
       comments: false
       related: false
       post_pagination: false
+      toc: true
+      toc_sticky: true
   # notas
   - scope:
       path: "_docs/notas"

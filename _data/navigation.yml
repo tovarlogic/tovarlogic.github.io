@@ -77,3 +77,26 @@ razonamiento:
       - title: "de Signo o indicios"
         url: /blog/Argumento-indicios
 
+frances:
+  - title: "Control repasos"
+    url: /aprendiendo/frances/
+  - title: "Gramática"
+    children:
+      - title: "Adverbios"
+        url: /aprendiendo/frances/Adverbios/
+      - title: "Pronombres"
+        url: /aprendiendo/frances/Pronombres/
+      - title: "Verbos"
+        url: /aprendiendo/frances/Verbos/
+      - title: "Adjetivos"
+        url: /aprendiendo/frances/Adjetivos/
+      - title: "Preposiciones"
+        url: /aprendiendo/frances/preposiciones/
+      - title: "Artículos"
+        url: /aprendiendo/frances/Articulos/
+  - title: "Vocabulario"  
+    children:
+    - title: "Saludos y formas de cortesía"
+      url: /aprendiendo/frances/salutations/
+    - title: "Números, fechas y horas"
+      url: /aprendiendo/frances/numeros-fecha-hora/

@@ -36,7 +36,7 @@ Dicho esto, he decidido que la única vía posible que puedo seguir es la de enc
 No obstante lo anterior y a pesar de ser objetivo principal recabar evidencias directas, no descarto, por mera curiosidad, tratar de recabar información relativa a las evidencias indirectas, contexto histórico, posibles argumentaciones, etc...
 
 # Evidencias
-## Evidencias directas
+## Directas
 ### Visualización de restos humanos en la superficie lunar
 Los principales restos humanos en la superficie lunar son:
 - Rover lunar (LRV) (Apollo 15)
@@ -49,11 +49,34 @@ Los principales restos humanos en la superficie lunar son:
 	<img src="/assets/images/blog/moon/lunar_laser_reflector.jpg">
 	<img src="/assets/images/blog/moon/lunar_rover_vehicle.jpg">
 	<img src="/assets/images/blog/moon/lunar_module.jpg">
-	<figcaption>Principales equipos visibles/detectables en la superficie lunar. **Credits**: [NASA](https://images.nasa.gov)</figcaption>
+	<figcaption>Principales equipos visibles/detectables en la superficie lunar. Credits: https://images.nasa.gov</figcaption>
 </figure>
 
+¿Podríamos visualizar por medios propios estos objetos? Lamentablemente la respuesta es que no.
 
-El principal problema para lograr demostrar por medios propios la existencia de estos objetos
+El principal problema para lograr visualizar por medios propios la existencia de estos objetos y rastros es la limitación práctica que presentan los telescopios terrestres por la pérdida de resolución que supone la atmósfera. Parece ser, que para obtener el nivel de resolución suficiente para ver objetos pequeños, de unos pocos metros, se requerirían telescopios de diametros muy superiores a los 100m [^17]. Sirva como referencia que el Gran Telescopio de Canarias (GTC) ubicado en el Observatorio Roque de los Muchachos (La Palma), mide 10.4m [^18]. Es un tamaño similar al del mayor telescopio ubicado en el Observatorios de Mauna Kea (Hawaii) [^19], mientras que uno de los mas grandes del mundo, si no el mas grande, el Giant Magellan Telescope (GMT), actualmente en construcción en Atacama (Chile) y medirá "apenas" 24.5m [^20]. 
+
+Dado que no podremos obtener esta evidencia con nuestro propio telescopio casero, ni siquiera con los grandes telescopios terrestres, solo cabe la opción de obtener imágenes satelitales. Existen imágenes relativamente recientes, de 2009 en adelante, y de cierta resolución que permiten observar algunos de estos vestigios humanos en la Luna, no obstante su origen es americano, concretamente el Lunar Reconnaissance Orbiter (LRO) de la NASA [^21] [^22] [^23]. 
+
+<figure class="Half">
+	<img src="/assets/images/blog/moon/LRO_apollo11.jpg">
+	<img src="/assets/images/blog/moon/LRO_apollo15.jpg">
+	<figcaption>Ejemplos de imágenes captadas por la LRO de los restos de las misiones Apollo. Credits: NASA</figcaption>
+</figure>
+
+La opción menos mala, la que supongo menos dudas generaría es la de conseguir imagenes independientes a la NASA y si fuera posible de paises ajenos a la influencia Estadounidense. Tanto Rusia como la República de China cumplirían estos requisitos. De hecho, hasta el momento únicamente Rusia cooperaba con EE.UU. pues la colaboración bilateral entre EE.UU. y China fue prohibida por el Congreso Americano en 2011 aunque en 2019 EE.UU. parece comienza a dar marcha atrás [^25] [^26] [^27]. Posteriormente, desde 2017, los gobiernos Ruso y Chino firmaron un acuerdo de colaboración espacial dejando fuera a Europa y EE.UU. [^28]. 
+
+En el caso del país asiatico existen una serie de misiones "Chang'e", pertenecientes al programa Chinese Lunar Exploration Program (CLEP) de la Chinese National Space Administration (CNSA), en el que han logrado grandes hitos en la exploración lunar. Este programa, no solo ha puesto en orbita de la luna sondas similares al LRO americano, sino que también han enviado varios rovers a la superficie lunar y devuelto a la tierra muestras lunares, convirtiendo a China el tercer país, despues la URSS (los primeros) y EE.UU., en lograr la hazaña. La primera misión, la Chang'e 1, tuvo lugar en 2007; y la más reciente hasta el momento es la Chang'e 5, que tuvo lugar a finales de 2020 [^29]. 
+
+**Nota:** El nombre del programa espacial chino "Chang'e" toma el nombre de la diosa de la luna [^24]
+{: .notice--info}
+
+La cultura y política china es más secretista que la americana, añadiendo a la barrera lingüistica otra dificultad para encontrar recursos audiovisuales accesibles públicamente que "demuestren" la existencia de los restos de las misiones Apollo. Explorando la web de la [CNSA](http://www.cnsa.gov.cn), el quivalente chino a la [NASA](https://www.nasa.gov/) así buscando [Baidu]() el equivalente chino a Google, no he logrado obtener  
+
+
+
+
+### Interacción con reflectores de medición láser
 
 
 # Historia
@@ -82,7 +105,7 @@ Tras Laika, la URSS envió ocho perros más al espacio, de los cuales seis regre
 
 ## Historia del programa Apollo
 
-Durante prácticamente toda la "Carrera espacial" EE.UU. fue detrás de la URSS, al menos para la opinión pública dados los titulares conseguidos por los soviéticos, los primeros en poner satélites en órbita, los Sputnik 1 y 2, a la vez que el primer ser vivo en órbita, la perra laika en el Sputnik 2, el primer misil balístico en alcanzar el espacio (después de los alemanes), el misil R-7, y también el primer ser humano, el cosmonauta Yuri Gagarin. Fue con el programa Apollo cuando la NASA logró adelantar, desde el punto de vista popular, a los Soviéticos.
+Durante prácticamente toda la "Carrera espacial" EE.UU. fue detrás de la URSS, al menos para la opinión pública dados los titulares conseguidos por los soviéticos, los primeros en poner satélites en órbita, los Sputnik 1 y 2, a la vez que el primer ser vivo en órbita, la perra laika en el Sputnik 2, el primer misil balístico en alcanzar el espacio (después de los alemanes), el misil R-7, también el primer ser humano, el cosmonauta Yuri Gagarin y finalmente el primer alunizaje no tripulado, con Luna 9. Fue con el programa Apollo cuando la NASA logró adelantar, desde el punto de vista popular, a los Soviéticos.
 
 
 
@@ -106,6 +129,9 @@ La historia oficial muestra que sí **se volvió otras 5 veces**. Todos los alun
 
 2. En cualquier caso, es cierto que lo anterior hace razonable la pregunta de porqué tras tantos años y avances tecnológicos no se ha regresado. 
 Mi opinión personal es que básicamente la Luna tenía y tiene un valor bajo, tanto desde el punto de vista científico como socioeconómico. En su momento se desarrolló el programa Apollo porque fue la manera con la que se buscó contrarrestar la ventaja Soviética (que también tenía planes para ir a la Luna). Las motivaciones fueron puramente geo-políticas, no económicas ni científicas. No obstante, y quizás de manera imprevisible por parte de la sociedad de la época, se aceleraron las innovaciones y esto tuvo un gran impacto real en la economía y sociedad actuales. En la actualidad, en el contexto de una nueva carrera espacial, creo que la Luna sigue teniendo un valor limitado, los objetivos parecen enfocarse en la conolización de Marte y la minería de asteroides. La Luna es el paso intermedio para lograr dichos objetivos. 
+
+**Fé de erratas:** Durante la redacción de este artículo, he comprobado que me encontraba equivocado en cuanto a la importancia que ha tenido y sigue teniendo la Luna. En la wikipedia existe un listado bastante exhaustivo del [histórico de misiones lunares](https://es.wikipedia.org/wiki/Anexo:Misiones_espaciales_lanzadas_a_la_Luna#Misiones_lunares) que ilustra la cantidad de misiones que se han realizado en el contexto de la Guerra fría y muy posteriormente. Se muestran tanto misiones tripuladas como no tripuladas, la **cantidad de misiones es sorprendente**.
+{: .notice--warning}
 
 ## ¿Por qué algún gobierno, institución o individuo defendería una mentira así?
 1. Desde mi punto de vista parece evidente que en el contexto de la Guerra Fría, todo valía. Había que superar al "enemigo" bajo cualquier circustancia y mentir, haciendo creer a la opinión pública que se había logrado, era una manera de lograrlo. Existen infinidad de antecedentes previos a la historia de EE.UU. y del propio estado, para manupular la opinión pública. Nada hace pensar que no se intentara también en esta ocasión. 
@@ -135,4 +161,18 @@ Mi opinión personal es que básicamente la Luna tenía y tiene un valor bajo, t
 [^14]: [National Archives: Orden ejecutiva #13526](https://www.archives.gov/federal-register/executive-orders/2009-obama.html#13526)
 [^15]: [El Pais: ](https://elpais.com/internacional/2011/08/17/actualidad/1313532005_850215.html)
 [^16]: [McDougall, W. A. (1985). Sputnik, the space race, and the Cold War. Bulletin of the Atomic Scientists, 41](http://dx.doi.org/10.1080/00963402.1985.11455962)
+[^17]: [Quora: Con un telescopio suficientemente potente, ¿podrían verse las huellas de los objetos dejados por el hombre en la Luna?](https://es.quora.com/Con-un-telescopio-suficientemente-potente-podr%C3%ADan-verse-las-huellas-de-los-objetos-dejados-por-el-hombre-en-la-Luna)
+[^18]: [Instituto de Astrofísica de Canarias (IAC): GTC](http://www.gtc.iac.es/)
+[^19]: [Observatorios de Mauna Kea](https://es.wikipedia.org/wiki/Observatorios_de_Mauna_Kea)
+[^20]: [Giant Magellan Telescope (GMT)](https://www.gmto.org/telescope/)
+[^21]: [NASA LRO: Apollo landing sites images article](https://www.nasa.gov/mission_pages/LRO/news/apollo-sites.html)
+[^22]: [NASA LRO: Apollo landing images](https://www.nasa.gov/mission_pages/apollo/revisited/index.html)
+[^23]: [NASA LRO: Lunar Reconnaissance Orbiter Camera](https://www.lroc.asu.edu/posts)
+[^24]: [Wikipedia: Chang'e](https://es.wikipedia.org/wiki/Chang%27e)
+[^25]: [SpaceLegalIssues: Understanding the Wolf Agreement](https://www.spacelegalissues.com/understanding-the-wolf-agreement/)
+[^26]: [TheSpaceReview: Defanging the Wolf Amendment](https://www.thespacereview.com/article/3725/1)
+[^27]: [Wikipedie: Wolf Amendment](https://en.wikipedia.org/wiki/Wolf_Amendment)
+[^28]: [FindChina: China, Russia agree cooperation...](https://findchina.info/china-russia-agree-cooperation-on-lunar-and-deep-space-exploration-other-sectors)
+[^29]: [Wikipedia: CLEP - List of missions](https://en.wikipedia.org/wiki/Chinese_Lunar_Exploration_Program#List_of_missions)
+
 
