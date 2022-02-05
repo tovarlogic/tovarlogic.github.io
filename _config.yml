@@ -362,6 +362,22 @@ defaults:
       post_pagination: false
       toc: true
       toc_sticky: true
+  # Frances
+  - scope:
+      path: "_docs/aprendiendo/frances"
+      type: docs
+    values:
+      sidebar:
+        nav: "frances"
+      layout: single_left
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      related: false
+      post_pagination: false
+      toc: true
+      toc_sticky: true  
   # notas
   - scope:
       path: "_docs/notas"

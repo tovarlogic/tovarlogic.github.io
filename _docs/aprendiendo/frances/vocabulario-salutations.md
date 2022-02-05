@@ -1,9 +1,20 @@
 ---
 title: "Larouse método integral: Ejercicios"
 permalink: /aprendiendo/frances/salutations/
+toc: true
 ---
 
+| Sección                        						| Último repaso |
+| ----------------------------------------------------- | ------------- |
+| Les salutations (los saludos)  						|  05 Feb 2022  |
+| Les formules de politesse (las fórmulas de cortesía)  | 05 Feb 2022   |
+| | |
+| | |
+| | |
+| | |
+
 # Les salutations (los saludos)
+
 
 | Les salutations  | Pronunciación                          | traducción    | Ejemplos y notas      |
 | ---------------- | -------------------------------------- | --------------- | --------------------- |
