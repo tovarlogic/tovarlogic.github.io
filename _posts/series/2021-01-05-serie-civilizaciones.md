@@ -3,7 +3,7 @@ title: "Serie: Civilizaciones"
 date: 2021-01-05
 show_date: true
 layout: series
-permalink: /blog/serie-civilizaciones
+permalink: /blog/series/civilizaciones
 serie: civilizaciones
 category: Historia
 author_profile: false

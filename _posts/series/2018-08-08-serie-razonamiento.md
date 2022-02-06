@@ -3,7 +3,7 @@ title: "Serie: Razonamiento"
 date: 2018-08-08
 show_date: true
 layout: series
-permalink: /blog/serie-razonamiento
+permalink: /blog/series/razonamiento
 serie: razonamiento
 category: razonamiento
 author_profile: false

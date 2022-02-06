@@ -1,5 +1,5 @@
 ---
-title:  "Las cagadas de la política en España"
+title:  "Las cagadas de la política española"
 date:   2022-02-06
 categories: [Política]
 tags: []
@@ -8,7 +8,7 @@ header:
   overlay_color: "#333"
   actions:
     - label: "Serie: Las cagadas de la política española"
-      url: "/series/cagadas-politicos/"
+      url: "/blog/series/cagadas-politicos/"
 ---
 
 Todos los partidos políticos y sus miembros han cometido cagadas en el pasado. Ya sean sean por acción u omisión, de buena o mala fé, como errores, promesas no cumplidas, mentiras e incluso delitos, muchas se acaban olvidando.

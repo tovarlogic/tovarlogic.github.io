@@ -5,6 +5,11 @@ categories: [Política]
 tags: []
 serie: cagadas-politicos
 podcasts: [68109264]
+header:
+  overlay_color: "#333"
+  actions:
+    - label: "Serie: Las cagadas de la política española"
+      url: "/series/cagadas-politicos/"
 ---
 
 
