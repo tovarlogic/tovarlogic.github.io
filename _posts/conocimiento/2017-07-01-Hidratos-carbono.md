@@ -8,8 +8,8 @@ excerpt: Dado que los alimentos no son directamente absorbibles resulta necesari
 header:
   overlay_color: "#333"
   actions:
-    - label: "Serie: Alimentación"
-      url: "/blog/series/alimentacion/"
+    - label: "Serie: Metabolismo"
+      url: "/blog/series/metabolismo/"
 ---
 
 # Introducción
