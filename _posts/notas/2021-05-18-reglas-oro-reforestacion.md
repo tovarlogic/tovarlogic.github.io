@@ -1,5 +1,5 @@
 ---
-title: "Las "10 reglas de oro para la reforestación"
+title:  "Las "10 reglas de oro para la reforestación"
 date: 2021-05-18
 categories: [Medioambiente]
 tags: [reforestación]

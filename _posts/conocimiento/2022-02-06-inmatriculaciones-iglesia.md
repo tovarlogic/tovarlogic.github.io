@@ -9,7 +9,7 @@ header:
   overlay_color: "#333"
   actions:
     - label: "Serie: Las cagadas de la política española"
-      url: "/series/cagadas-politicos/"
+      url: "/blog/series/cagadas-politicos/"
 ---
 
 

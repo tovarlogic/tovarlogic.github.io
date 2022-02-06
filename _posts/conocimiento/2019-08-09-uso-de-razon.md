@@ -9,7 +9,7 @@ header:
   overlay_color: "#333"
   actions:
     - label: "Serie: Razonamiento"
-      url: "/series/razonamiento/"
+      url: "/blog/series/razonamiento/"
 ---
 
 ## Definiciones

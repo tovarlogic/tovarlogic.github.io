@@ -9,7 +9,7 @@ header:
   overlay_color: "#333"
   actions:
     - label: "Serie: Razonamiento"
-      url: "/series/razonamiento/"
+      url: "/blog/series/razonamiento/"
 ---
 # Introducción
 La analogía nos autoriza a tratar casos diferentes como si pertenecieran a la misma regla o, dicho de otra manera, nos permite ampliar el alcance de una regla, de una generalización, de una norma, de una ley, a los casos semejantes.

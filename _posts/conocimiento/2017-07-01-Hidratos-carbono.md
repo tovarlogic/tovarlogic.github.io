@@ -9,7 +9,7 @@ header:
   overlay_color: "#333"
   actions:
     - label: "Serie: Alimentación"
-      url: "/series/alimentacion/"
+      url: "/blog/series/alimentacion/"
 ---
 
 # Introducción

@@ -11,7 +11,7 @@ header:
   overlay_color: "#333"
   actions:
     - label: "Serie: Cambio climático"
-      url: "/series/cambio-climatico/"
+      url: "/blog/series/cambio-climatico/"
 shared-content:
   definitions: [derecho-internacional]
   acronyms: [cambio-climatico]

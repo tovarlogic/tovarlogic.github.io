@@ -9,7 +9,7 @@ header:
   overlay_color: "#333"
   actions:
     - label: "Serie: Civilizaciones"
-      url: "/series/civilizaciones/"
+      url: "/blog/series/civilizaciones/"
 ---
 
 # Grecia y el occidente moderno

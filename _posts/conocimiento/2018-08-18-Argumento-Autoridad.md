@@ -9,7 +9,7 @@ header:
   overlay_color: "#333"
   actions:
     - label: "Serie: Razonamiento"
-      url: "/series/razonamiento/"
+      url: "/blog/series/razonamiento/"
 ---
 # Introducción
 Los argumentos de autoridad son aquellos en los que como razones aportamos lo que dicen otros. Es dicir, escudarse en una opinión que se considere solvente.

@@ -8,7 +8,7 @@ header:
   overlay_color: "#333"
   actions:
     - label: "Serie: Razonamiento"
-      url: "/series/razonamiento/"
+      url: "/blog/series/razonamiento/"
 ---
 # Introducción
 El término «razonamiento» tiene dos acepciones (que el diccionario recoge en una sola): «acción y efecto de razonar». 
