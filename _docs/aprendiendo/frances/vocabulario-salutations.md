@@ -19,6 +19,8 @@ permalink: /aprendiendo/frances/salutations/
 | ---------------- | -------------------------------------- | --------------- | --------------------- |
 |  																									  |
 | _bonjour_        | /bonjour /                             | buenos días     |                       |
+| _bonsoir_        | /bɔ̃swaʀ/                               | buenas tardes   |                       |
+| _bonne nuit_     | /bɔn nui/                              | buenas noches   |                       |
 | _salut!_         | /saly/                                 | ¡hola!          |  informal             |
 | _allo_           | alo              						| Hola? digame?  |						  |
 | _comment ça va?_ | /kɔmɑ̃ sa va/                           | ¿qué tal?       |                       |
@@ -33,8 +35,7 @@ permalink: /aprendiendo/frances/salutations/
 | _à bientôt_       | a bjɛ̃to        						| /hasta pronto/  |                       |                 
 | _à tout à l'heure_| atutalœʀ        						| /hasta luego/   |                       |                 
 | _tchao_           | chao            						| /¡chao!/        |                       |                
-| _bonsoir_        | /bɔ̃swaʀ/                               | buenas tardes   |                       |
-| _bonne nuit_     | /bɔn nui/                              | buenas noches   |                       |
+
 
 # Les formules de politesse (las fórmulas de cortesía)
 

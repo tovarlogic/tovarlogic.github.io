@@ -1,17 +1,37 @@
-lastupdate: 16 de Agosto de 2021
+lastupdate: 06 de Febrero de 2022
 
 category_list: [Ensayo, Novela, Biografía, Ciencia-ficción, Clásicos]
 
 tag_list: [Ensayo, Novela, Biografía, Ciencia-ficción, Economía, Política, Geopolítica, Sociología, Historia, Psicología, Crecimiento personal, Medioambiente, Filosofía, Biología, Tecnología, Ciencia, Aventura, Futuro]
 
-list:  
+list: 
+  - title: "The War that Ended Peace: How Europe abandoned peace for the First World War"
+    author: Margaret MacMillan 
+    isbn: 9781846682735
+    category: [Ensayo] 
+    tags: [Historia]
+    date: 2022-02-28
+    stars: 3
+    format: kindle
+    status: reading
+
+  - title: "La primera guerra mundial contada para escepticos"
+    author: Juan Eslava Galán
+    isbn: 9788408124535
+    category: [Ensayo] 
+    tags: [Historia]
+    date: 2022-01-10
+    stars: 3
+    format: kindle
+    status: read
+
   - title: "Comfortably unaware - what we choose to eat is killing us and our planet"
     author: Richard A. Oppenlander
     isbn: 9780825306860
     category: [Ensayo] 
     tags: [Medioambiente]
     date: 2021-11-10
-    stars: 3
+    stars: 2
     format: kindle
     review: "Comfortably-unaware"
     status: reading

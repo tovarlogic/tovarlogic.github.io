@@ -1,5 +1,5 @@
 ---
-title: "Frances: Verbos"
+title: "Gramática de Francés: Preposiciones"
 permalink: /aprendiendo/frances/preposiciones/
 ---
 

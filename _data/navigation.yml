@@ -78,8 +78,6 @@ razonamiento:
         url: /blog/Argumento-indicios
 
 frances:
-  - title: "Control repasos"
-    url: /aprendiendo/frances/
   - title: "Gramática"
     children:
       - title: "Adverbios"
