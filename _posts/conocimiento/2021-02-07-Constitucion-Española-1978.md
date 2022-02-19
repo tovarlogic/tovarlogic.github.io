@@ -19,7 +19,7 @@ La Nación española, deseando establecer la **justicia**, la **libertad** y la 
 
 En consecuencia, las Cortes aprueban y el pueblo español ratifica la siguiente.
 
-> La Constitución españo la se refiere a la libertad como valor (en el preámblo y art. 1.1), como principio (art. 9.2 y 10.1) y como regla específica, “al consagrar constitucionalmente las diferentes formas de libertad en el ámbito ideológico y religioso (art. 16); personal (art. 17); de residencia y circulación (art. 19); de expresión (art. 20); de reunión (art. 21); de asociación (art. 22), etcétera”. [^3]
+> La Constitución española se refiere a la libertad como valor (en el preámblo y art. 1.1), como principio (art. 9.2 y 10.1) y como regla específica, “al consagrar constitucionalmente las diferentes formas de libertad en el ámbito ideológico y religioso (art. 16); personal (art. 17); de residencia y circulación (art. 19); de expresión (art. 20); de reunión (art. 21); de asociación (art. 22), etcétera”. [^3]
 
 # CONSTITUCIÓN
 ## TÍTULO PRELIMINAR
@@ -114,8 +114,7 @@ Todos tienen derecho a la vida y a la integridad física y moral, sin que, en ni
 3. Se garantiza el secreto de las comunicaciones y, en especial, de las postales, telegráficas y telefónicas, salvo resolución judicial.
 > art. 18.3 ha quedado desfasado, ya que aunque la palabra "comunicaciones" es genérica e incluiye cualquier tipo medio, no se le da la importancia especial del correo electrónico, que en la actualidad se emplea más que el correo postal.
 4. La ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos.
-> <span style="color:red">no comprendo el significado del art. 18.4
-</span> 
+> <span style="color:red">no comprendo el significado del art. 18.4</span> 
 
 #### Artículo 19. Residencia y circulación
 Los españoles tienen derecho a elegir libremente su residencia y a circular por el territorio nacional. Asimismo, tienen derecho a entrar y salir libremente de España en los términos que la ley establezca. Este derecho no podrá ser limitado por motivos políticos o ideológicos.
@@ -281,15 +280,6 @@ Una ley orgánica regulará la institución del Defensor del Pueblo, como alto c
 # Enlaces de interés
 [^1]: [La dignidad de la persona en la Constitución española: naturaleza jurídica y funciones - Fernando Batista Jiménez ed. Cuestiones institucionales. UNAM.](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-91932006000100003)
 [^2]: [Todos los seres humanos nacen iguales en dignidad y derechos - José Antonio Estévez](http://www.amnistiacatalunya.org/edu/2/dh/dh-der-dignidad-estevez.html)
-[^int1]: Fundamentos filosóficos: Principios y Valores
-[^3] Perez Luño.
+[^int1]: [Fundamentos filosóficos: Principios y Valores]({% post_url 2021-02-07-Principios-y-Valores %})
+[^3]: Perez Luño.
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzkwNTE3MTMsMjA3ODUwNTczNCwtMj
-MzMjc4NzIxLC03NzE0NDU5MDUsLTExNDA3OTIzOTYsLTU4Mzc1
-NjIwMiw2Mzc5ODc0Niw4NjI0NTcyNzQsLTIwNTYxMzY2NjEsLT
-EzOTQzNzUyNzksMTgwNzE4NzI2NiwxNzMwNTA3NDcxLDIwOTg4
-NDUxNTUsLTIwODQ2Mzg5OTMsNzg3NDg0NjYzLDc4NDY2MzUzMC
-wtMTYyMTYzOTUzMSwtMTE4MTg2MTM3NiwxNjA3MDc1NDMzLC01
-NTIxMjAwNDNdfQ==
--->

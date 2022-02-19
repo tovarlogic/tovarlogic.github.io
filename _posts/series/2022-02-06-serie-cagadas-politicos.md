@@ -18,4 +18,4 @@ Aquí pretendo ir recogiendo de manera sistemática, aportando evidencias, las q
 | Año	| La cagada | Responsables	| Descripción |
 | ----- | --------- | ------------- |------------ |
 |												  |
-| 2010  | [Inmatriculaciones iglesia](inmatriculaciones-iglesia) | Gobierno PP (Aznar) | Decreto del gobierno que permite a la Iglesia registrar inmuebles como de su propiedad, sin aportar pruebas de titularidad. |
+| 1998  | [Inmatriculaciones iglesia](inmatriculaciones-iglesia) | Gobierno PP (Aznar) | Decreto del gobierno que permite a la Iglesia registrar inmuebles como de su propiedad, sin aportar pruebas de titularidad. |
