@@ -1,5 +1,5 @@
 ---
-title: "Principios, código ético y organización de un partido político"
+title: "Principios y organización de un partido político"
 date: 2022-02-18
 categories: [Política]
 ---
@@ -29,6 +29,52 @@ lo que acaba promoviendo que se acumulen las personas a las que les seduce el po
 
 
 Lo anterior es un batiburrillo de razones y consecuencias. Lo importante es entender las causas por las que se crean los incentivos incorrectos que promueven comportamientos de dudosa ética y moralidad o simplemente de dudosa eficiencia y eficacia para conseguir los objetivos del bien común.
+
+### Intereses propios
+
+Aunque los seres humanos seamos individuos reflexivos, lo cierto es que nuestras simpatías, preferencias y decisiones **no solo están definidas por la razón, sino también por otras cuestiones subjetivas** que condicionan nuestro comportamiento enormemente.
+
+La política es una cuestión que mueve pasiones. Por el lado de la ciudadanía, la de la gente normal y corriente, veo demasiadas similitudes entre los aficionados a un equipo deportivo, por ejemplo un equipo de fútbol, y los simpatizantes a un partido o ideología política. Entre otros, la historia familiar, las amistades y los años de juventud, tienen un peso enorme en la manera de ver y **sentir** la política durante el resto de nuestras vidas, crean un un anclaje ideológico que luego resulta difícil de modificar. Por el lado de los activistas políticos, es decir, los afiliados y profesionales de la política, a lo anterior se le suma el sentimiento de pertenencia a un grupo, en este caso a una organización política, que refuerza su "lealtad" a dicha organización o partido.
+
+Todo ello hace que en las dinámicas internas de las organizaciones se tienda a "defender a muerte" cualquier cuestión de partido, que se "unan filas" y se defienda la unidad, especialmente cuando surjen dificultades. En ocasiones estas dificultades han sido generadas por el cuestionamiento público sobre comportamiento de algunos individuos que pertenecen al partido o sobre sus políticas. En esos casos, con las declaraciones y actitudes de los dirigentes políticos se evidencia, lamentablemente, que tan o más importante resulta para ellos la defensa de los intereses particulares de su partido o incluso individuales que el de las personas a las que representan, sus comunidades y, en definitiva, su país. Así el partido se comporta como un organismo biológico con intereses propios enfocados en su supervivencia y éxito (poder).
+
+No se puede evitar que surjan dichos intereses propios, pero si se pueden tomar medidas para que estos se mantengan alineados con el bien común de un país de modo que el éxito de cualquier partido suponga un beneficio público, independientemente de la ideología que representen.
+
+Es nuestra opinión que todo partido político resulte útil a la sociedad implica ser capaz **producir resultados tangibles** cumpliendo dos condiciones básicas :
+- **Cooperanado** con otras organizaciones creando sinergias, 
+- **Competiendo** con otras organizaciones para servir de contrapeso efectivo,
+
+Para ello tiene que establecer mecanismos de funcionamiento sencillos y efectivos que la mantengan:
+- **fiel** a sus principios y objetivos ideológicos para el bien común por encima de los posibles intereses de supervivencia,
+- **saludable**, purgándose de los elementos tóxicos (inmorales e ilegales) que pueda contener,
+- **consciente** de su entorno y contexto,
+- **reflexiva** a corto, medio y largo plazo,
+- **ágil** y **adaptable** para responder a las necesidades que puedan surgir,
+- **capaz** de ejecutar con éxito las decisiones que tome.
+
+En el sistema político actual creemos imprescindible contar con los siguientes mecanismos concretos:
+- de modo **plenamente democrático** en todos los órganos políticos,
+- de modo **profesional e independiente** a los políticos en todos los organos administrativos,
+- con **extrema transparencia pública** en toda la estructura organizativa,
+- responsablemente **rendición de cuentas proactiva**, mediante auditorías internas y externas, por parte de agentes independientes con suficientes recursos y capacidades, para la verificación de **cuentas y financiación** así como la comprobación del respeto a la **legalidad**, los **estatutos** y al **código ético** interno del partido y sus miembros.
+- 
+
+A pesar de todo ello, hay que ser conscientes que siempre existirá un mínimo conflicto irreductible entre algunos partidos políticos y el sistema establecido, pues al tratarse en este caso de un sistema democrático y liberal, cabe espacio legal y moral para la existencia de partidos que, por ejemplo, busquen la desaparición del propio sistema sobre el que se sustentan, para, en su opinión, posteriormente crear otro mejor.
+
+
+### Programas electorales
+
+La elaboración de los programas electorales por parte de los distintos partidos suele resultar en documentos con afirmaciones grandilocuentes, genéricas y con alto grado de subjetividad. Todo ello hace que los programas electorales sean demasiado extensos pero poco concretos, lo que por un lado desincentiva su lectura y análisis por parte de los votantes y por el otro, resulte muy complicado hacer un seguimiento del grado de cumplimiento durante una legislatura concreta.
+
+Es nuestra opinión que un programa electoral debe ser, ante todo, el resultado del trabajo previo y exhaustivo de un partido político.
+
+Si dicho trabajo ha sido suficientemente profundo, las propuestas podrían ser:
+- **concretas**, 
+- **tangibles** en términos presupuestarios y de recursos necesarios así como en los resultados a obtener, 
+- **realistas** teniendo en cuenta las restricciones y dificultades esperables (tiempo y recursos disponibles, limitaciones legales, políticas, económicas, sociales, etc..) y 
+- **priorizadas** como resultado de un análisis de criticidad relativa con respecto al resto de medidas que se proponen lograr. 
+
+Con todo ello, no sólo sería más facil para los distintas partes interesadas de la sociedad llevar un seguimiento del grado de cumplimiento de las promesas realizadas, sino también llevar a cabo un análisis sobre la calidad de las medidas llevadas a cabo verificando si los resultados que se esperaban han sido los obtenidos.
 
 # Principios 
 
@@ -83,26 +129,34 @@ Lo anterior es un batiburrillo de razones y consecuencias. Lo importante es ente
 
 # Código ético
 
-- Prometemos actuar siempre de buena fe y en línea a los principios y objetivos fundamentales del partido.
-- Sin perjuicio de lo anterior, prometemos mantener nuestra independencia individual, de acuerdo a nuestra consciencia, para emitir cualquier voto. En caso de existir consejo del sentido del voto por parte del órgano directivo del partido y nuestra intención de no cumplirlo, tendremos la obligación de publicitar el sentido de nuestro voto tan pronto hayamos tomado la decisión y siempre antes de la votación.
-- Prometemos que los miembros del partido que resulten elegidos para cargos públicos en las instituciones gubernamentales o como miembros de la oposición, actuaremos en línea al programa electoral. Si en cualquier circustancia esto no fuera posible, publicitaremos los hechos y pondremos nuestro cargo a disposición públicamente.
-- Prometemos actuar de manera transparente.
-- Denunciaremos internamente sobre cualquier sospecha delictiva o acto, que falte a este código ético o a los principios del partido, por parte de cualquier miembro al Comité de control y garantías. Una vez se haya finalizado la oportuna investigación se publicarán los resultados y se tomarán las medidas disciplinarias o judiciales que correspondan.
-- Denunciaremos judicialmente cualquier hecho delictivo del que seamos conocedores. Una vez el proceso judicial nos lo permita también realizaremos una denuncia pública.
-- Los miembros que sean representantes públicos electos actuarán primero en concordancia con el programa electoral.
-- Prometemos dedicación plena a las tareas de nuestro cargo público.
-- Prometemos honestidad en nuestras decisiones y actuaciones, evitando activamente involucrarnos en cuestiones que supongan un conflicto de intereses. Si esto no fuera posible, notificaremos públicamente la existencia de dichos conflictos tan pronto seamos conscientes de ello.
-- Nos comprometemos a recibir formación y capacitación continua para la mejora del desempeño de nuestras responsabilidades.
-- Promoveremos la participación ciudadana en la elaboración y ejecución de políticas.
-- Nos comprometemos a consultar a nuestros electores o redes participativas de manera frecuente, así como publicar las decisiones tomadas sobre las cuestiones consultadas e informar de su progreso.
-- No formaremos parte de gobiernos si existen sospechas fundadas de corrupción.
-- Prometemos que cualquier cargo político dimitirá tan pronto se inicie un juicio
-- Renunciamos beneficiarnos personalmente, o a cualquier otra persona de nuestro entorno y círculos profesionales, familiares o amistosos, de cualquier privilegio que pueda derivar de nuestra condición de representante o cargo público.
-- Declararemos públicamente nuestras fuentes de ingresos económicos y patrimoniales, así como de cualquier posible conflicto de intereses, antes de presentarnos para ser elegidos a cualquier cargo público u orgánicos del partido. Así mismo, con caracter anual, continuaremos haciendo dicha declaración mientras dure el ejercicio del cargo.
-- Cumpliremos los regímenes económicos y sancionadores del partido recogidos en sus estatutos.
-- Acataremos las decisiones disciplinarias y de revocación del partido recogidos en sus estatutos.
-- Dimitiré de cualquier cargo en caso de que se acredite o haya sentencia, auqnue no sea firme, por cualquier delito penal. En caso de sentencias que posteriormente se anulen o revoquen podremos volver
+Los puntos enumerados a continuación se basan en el [código ético de IU](https://izquierdaunida.org/codigo-etico/) ya que es hasta el momento el más completo y a la vez inteligible de todos los que he revisado ([PP](https://transparencia.pp.es/codigo-etico/), [PSOE](http://www.psoe.es/media-content/2017/07/codigoeticoPSOE.pdf), Podemos, Ciudadanos, UPyD, PNV y [Vox](https://www.voxespana.es/espana/codigo-etico)). 
 
+**NOTA:** Resulta llamativo, como la mayoría de los partidos políticos no incluyen en los documentos la fecha de elaboración del código, ni un control de versiones con las modificaciones que se van realizando. Esto en mi opinión vulnera los principios básicos de transparencia.
+{: .notice--info}
+
+**Nota:** En el caso del código de Podemos, gran parte está basado en el de IU. Pero lo más llamativo, es que en posteriores modificaciones han relajado alguna clausula de manera preocupante. **En 2020 concretamente decía** “El compromiso de renuncia al cargo público, al cargo interno o a cualquier candidatura a dichos cargos en caso de ser procesado o condenado por las faltas o los delitos que se determinarán en el reglamento que a tal efecto publicará la Comisión de Derechos y Garantías, y que en cualquier caso incluirá siempre los delitos de corrupción, los económicos, el acoso sexual, las violencias machistas, la pederastia y el maltrato infantil, así como los delitos contra los derechos de los trabajadores y las trabajadoras, los ecológicos y los urbanísticos”. **En 2021 se añadió una excepción:** “Se exime a miembros del partido del compromiso de renunciar al cargo público o interno en caso de condena o procesamientosi se producen en el marco de un "contexto de acoso judicial con intenciones políticas y alejado del derecho"”.
+{: .notice--warning}
+
+En línea con los principios democráticos, de transparencia y vocación servicio público para lograr el bien común, prometemos cumplir las siguientes disposiciones: 	
+1. Actuar siempre de buena fe y en línea a los principios y objetivos fundamentales del partido.
+1. Cumplir y respetar ejemplarmente la legislación española, comunitaria e internacional, especialmente lo relativo a la constitución, los códigos civil, mercantil y penal, la declaración de derechos humanos y cambio climático.
+1. Mantener nuestra independencia individual, de acuerdo a nuestra consciencia, para emitir cualquier voto. En caso de existir alguna directriz sobre del sentido del voto por parte del partido, anunciaremos públicamente el sentido de nuestro voto tan pronto hayamos tomado la decisión de no cumplir dicha directriz y siempre antes de la votación.
+1. Actuar en línea al programa electoral. Si en cualquier circustancia esto no fuera posible, publicitaremos los hechos y pondremos nuestro cargo a disposición públicamente.
+1. Actuar de manera transparente.
+1. Denunciar internamente sobre cualquier sospecha delictiva o acto, que falte a este código ético o a los principios del partido, por parte de cualquier miembro al Comité de control y garantías. Una vez se haya finalizado la oportuna investigación se publicarán los resultados y se tomarán las medidas disciplinarias o judiciales que correspondan.
+1. Denunciar judicialmente cualquier hecho delictivo del que seamos conocedores. Una vez el proceso judicial nos lo permita también realizaremos una denuncia pública.
+1. Ofrecer dedicación plena a las tareas de nuestro cargo público.
+1. Ser honestos en nuestras decisiones y actuaciones, evitando activamente involucrarnos en cuestiones que supongan un conflicto de intereses. Si esto no fuera posible, notificaremos públicamente la existencia de dichos conflictos tan pronto seamos conscientes de ello.
+1. Recibir formación y capacitación continua para la mejora del desempeño de nuestras responsabilidades.
+1. Promover la participación ciudadana en la elaboración y ejecución de políticas.
+1. Cconsultar a nuestros electores o redes participativas de manera frecuente, así como publicar las decisiones tomadas sobre las cuestiones consultadas e informar de su progreso.
+1. No formaremos parte de gobiernos si existen sospechas fundadas de corrupción.
+1. Renunciamos beneficiarnos personalmente, o a cualquier otra persona de nuestro entorno y círculos profesionales, familiares o amistosos, de cualquier privilegio que pueda derivar de nuestra condición de representante o cargo público.
+1. Declararemos públicamente nuestras fuentes de ingresos económicos y patrimoniales, así como de cualquier posible conflicto de intereses, antes de presentarnos para ser elegidos a cualquier cargo público u orgánicos del partido. Así mismo, con caracter anual, continuaremos haciendo dicha declaración mientras dure el ejercicio del cargo.
+1. Acataremos las decisiones disciplinarias y de revocación del partido recogidos en sus estatutos.
+1. Dimitiremos de cualquier cargo en caso de que se acredite o haya sentencia, auqnue no sea firme, por cualquier delito penal. En caso de sentencias que posteriormente se anulen o revoquen podremos volver a ocupar el cargo.
+1. No realizaremos gastos superfluos de los fondos públicos a los que tengamos derecho individualmente. Salvo por cuestiones de seguridad, en viajes de largo recorrido viajaremos preferiblemente en clase turista, en los de corto recorrido emplearemos transporte público colectivo y renunciamos a la asignación de un vehículo oficial permanente.
+1. Estableceremos criterios objetivos y de transparencia en la contratación de personal técnico y de confianza en los grupos institucionales.
 
 
 
@@ -111,3 +165,4 @@ Lo anterior es un batiburrillo de razones y consecuencias. Lo importante es ente
 - El principal mecanismo de funcionamiento ha de ser las elecciones primarias
 
 # Organización
+
