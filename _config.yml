@@ -300,7 +300,22 @@ defaults:
       toc: true
       toc_sticky: true
       post_pagination: false
-    # opinion
+  # libros
+  - scope:
+      path: "_posts/libros"
+      type: posts
+    values:
+      layout: book-reviews-template
+      toc: true
+      toc_sticky: true
+      author_profile: false
+      share: true
+      comments: true
+      related: false
+      post_pagination: false
+      permalink: blog/:title
+      type: libros
+  # opinion
   - scope:
       path: "_posts/opinion"
       type: posts
@@ -378,17 +393,6 @@ defaults:
       post_pagination: false
       toc: true
       toc_sticky: true  
-  # notas
-  - scope:
-      path: "_docs/notas"
-      type: docs
-    values:
-      doc_type: note
-      show_date: true
-      read_time: true
-      toc: true
-      toc_sticky: true
-      comments: true
   # _recetas
   - scope:
       path: ""
