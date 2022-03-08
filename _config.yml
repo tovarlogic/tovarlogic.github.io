@@ -360,6 +360,19 @@ defaults:
       author_profile: false
       related: false
       post_pagination: false
+  # _pages/blog/series
+  - scope:
+      path: "_pages/blog/series"
+      type: pages
+    values:
+      layout: series
+      permalink: /blog/series/:title
+      show_date: true
+      author_profile: false
+      related: false
+      post_pagination: false
+      classes: wide
+      entries_layout: grid
   # _docs
   - scope:
       path: ""
