@@ -343,14 +343,6 @@ defaults:
       permalink: blog/:title
       type: recursos
       comments: true
-  # series
-  - scope:
-      path: "_posts/series"
-      type: posts
-    values:
-      permalink: blog/series/:title
-      type: series
-      comments: true
   # _pages
   - scope:
       path: "_pages"
@@ -366,7 +358,8 @@ defaults:
       type: pages
     values:
       layout: series
-      permalink: /blog/series/:title
+      type: series
+      permalink: /:path
       show_date: true
       author_profile: false
       related: false
