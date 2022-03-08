@@ -2,7 +2,7 @@
     <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
       <div>
           {% if book.review %}
-            <a href="/libros/reviews/{{ book.review }}">
+            <a href="/blog/{{ book.review }}">
               {% if book.isbn %}
                 <img alt="{{ book.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg">
               {% else %}
@@ -20,7 +20,7 @@
             {% if book.status == 'read' %}
             <span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span><br>
             {% endif %}
-            {% if book.review %}<a href="/libros/reviews/{{ book.review }}"> Mis notas </a>{% endif %}
+            {% if book.review %}<a href="/blog/{{ book.review }}"> Mis notas </a>{% endif %}
     </article>
 </div>
 
