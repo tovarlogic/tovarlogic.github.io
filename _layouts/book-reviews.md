@@ -4,7 +4,7 @@ layout: single_left
 
 {{ content }}
 
- {% assign reviewsInYear = site.book_reviews | where_exp: "item", "item.hidden != true" | group_by_exp: 'review', 'review.date | date: "%Y"' %}
+ {% assign reviewsInYear = site.posts | where_exp: "post", "post.type == libros" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 
 <span class="total_count">Total anotaciones: {{ reviewsInYear | size }}</span>
 
