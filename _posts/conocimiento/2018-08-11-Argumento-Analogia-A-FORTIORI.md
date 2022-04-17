@@ -1,7 +1,8 @@
 ---
 title:  Argumentos por Analogía "A Fortiori" o Comparación del mismo grado
 date:   2018-08-11
-categories: [Razonamiento, Pensamiento crítico]
+categories: [Pensamiento]
+tags: [Razonamiento, Pensamiento Crítico]
 serie: razonamiento
 layout: serie
 excerpt: Comparación con ejemplos a mayores o menores.

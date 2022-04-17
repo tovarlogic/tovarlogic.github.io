@@ -1,6 +1,7 @@
 ---
 title: "El problema de la existencia del derecho"
 date: 2021-12-19
+categories: [Derecho, Filosofía]
 common-content:
   acronyms: [filosofia-derecho]
   definitions: [filosofia-derecho]

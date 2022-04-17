@@ -1,7 +1,8 @@
 ---
 title:  Argumentos por Analogía "A Pari" o por comparación con ejemplos mayores y menores
 date:   2018-08-11
-categories: [Razonamiento, Pensamiento crítico]
+categories: [Pensamiento]
+tags: [Razonamiento, Pensamiento Crítico]
 serie: razonamiento
 layout: serie
 excerpt: Comparación del mismo grado por igualdad o semejanza.

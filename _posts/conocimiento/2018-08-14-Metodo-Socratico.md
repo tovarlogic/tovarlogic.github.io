@@ -1,7 +1,8 @@
 ---
 title:  "Método Socrático"
 date:   2018-08-08
-categories: [Razonamiento, Pensamiento crítico]
+categories: [Pensamiento]
+tags: [Razonamiento, Pensamiento Crítico]
 ---
 
 ## Introducción

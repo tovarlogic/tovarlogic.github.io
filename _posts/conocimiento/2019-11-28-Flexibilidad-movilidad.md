@@ -1,7 +1,8 @@
 ---
 title:  "Flexibilidad y movilidad"
 date:   2019-11-28 15:14:54
-categories: [Cuerpo humano]
+categories: [Cuerpo Humano]
+tags: [Salud, Deporte]
 excerpt: Definiciones e indicaciones de cuándo y cómo realizar estos ejercicios
 ---
 # Definiciones

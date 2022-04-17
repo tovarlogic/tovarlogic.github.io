@@ -1,7 +1,8 @@
 ---
 title: "Objetivos: como definirlos correctamente"
 date: 2018-08-03
-categories: [Pensamiento-estratégico]
+categories: [Pensamiento]
+tags: [Pensamiento Estratégico, Objetivos]
 ---
 
 # Objetivos

@@ -1,7 +1,8 @@
 ---
 title:  Argumentos de Autoridad
 date:   2018-08-18
-categories: [Razonamiento, Pensamiento crítico]
+categories: [Pensamiento]
+tags: [Razonamiento, Pensamiento Crítico]
 serie: razonamiento
 layout: serie
 excerpt: Escudarse en una opinión que se considere solvente.

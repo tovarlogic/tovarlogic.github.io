@@ -2,7 +2,8 @@
 title:  "Declaración Universal de los Derechos Humanos (1948)"
 date:   2018-08-10
 update: 
-categories: [Derecho, Derechos humanos]
+categories: [Derecho]
+tags: [Derechos Humanos]
 header:
   teaser: /assets/images/blog/teasers/derechos-humanos.jpg
 excerpt: Declaración de Derechos Humanos de la ONU comentada.

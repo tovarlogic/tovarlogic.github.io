@@ -1,7 +1,8 @@
 ---
 title:  "Preguntas para un pensamiento crítico"
 date:   2019-06-10
-categories: [Razonamiento, Pensamiento crítico]
+categories: [Pensamiento]
+tags: [Razonamiento, Pensamiento Crítico]
 bookmarks: [pensamiento-critico]
 ---
 

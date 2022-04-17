@@ -2,7 +2,7 @@
 title: "Ley Orgánica de de Partidos Políticos de 2002"
 date: 2022-02-18
 update: 
-categories: [Derecho, Política]
+categories: [Derecho,Política]
 excerpt: Ley de partidos políticos comentada.
 ---
 

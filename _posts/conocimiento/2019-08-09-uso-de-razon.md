@@ -1,7 +1,8 @@
 ---
 title:  "Uso de Razón"
 date:   2019-08-09
-categories: [Razonamiento, Pensamiento crítico]
+categories: [Pensamiento]
+tags: [Razonamiento, Pensamiento Crítico]
 serie: razonamiento
 layout: serie
 excerpt: Resumen sobre el contenido del Acuerdo de París de 2015, ratificado en 2016 en Nueva York, contra el cambio climático.

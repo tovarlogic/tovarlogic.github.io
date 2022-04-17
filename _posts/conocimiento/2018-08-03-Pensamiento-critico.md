@@ -1,7 +1,8 @@
 ---
 title:  "Pensamiento crítico"
 date:   2018-08-03
-categories: [Razonamiento, Pensamiento crítico]
+categories: [Pensamiento]
+tags: [Razonamiento, Pensamiento Crítico]
 ---
 
 ## Definición

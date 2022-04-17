@@ -2,7 +2,8 @@
 title: "Técnicas de aprendizaje"
 date:   2018-08-12
 update: 2020-12-10 13:31
-categories: [Razonamiento, Aprendizaje]
+categories: [Pensamiento]
+tags: [Razonamiento, Aprendizaje]
 ---
 # Fundamentos aprendizaje
 ## Introducción

@@ -1,8 +1,8 @@
 ---
 title:  "Acuerdo de París"
 date:   2021-05-10
-categories: [Medio Ambiente, cambio climatico]
-tags: [tratados internacionales]
+categories: [Medio Ambiente]
+tags: [Cambio Climático, Derecho Internacional, Tratados Internacionales]
 serie: cambio-climatico
 layout: serie
 excerpt: Resumen sobre el contenido del Acuerdo de París de 2015, ratificado en 2016 en Nueva York, contra el cambio climático.

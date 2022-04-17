@@ -2,7 +2,8 @@
 title:  "Constitución Española de 1978"
 date:   2021-02-07
 update: 
-categories: [Derecho, Constituciones]
+categories: [Derecho]
+tags: [Derecho Constitucional]
 header:
   teaser: /assets/images/blog/teasers/Constitucion-espanola.jpg
 excerpt: Constitución Española de 1978 comentada.

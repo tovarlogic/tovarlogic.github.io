@@ -1,8 +1,8 @@
 ---
 title: "Biohacking"
 date:   2021-02-16
-categories: [Ciencias, Salud]
-tags: [Suplementos]
+categories: [Cuerpo Humano]
+tags: [Salud, Suplementos]
 author_profile: false
 ---
 

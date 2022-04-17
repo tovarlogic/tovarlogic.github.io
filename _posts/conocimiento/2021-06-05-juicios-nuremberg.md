@@ -1,9 +1,9 @@
 ---
 title: "Los juicios de Núremberg"
 date: 2021-06-05
-categories: [Historia, Derecho]
+categories: [Historia,Derecho]
+tags: [Derecho Internacional, II Guerra Mundial]
 draft: true
-tags: [II Guerra Mundial]
 ---
 
 ## Introducción

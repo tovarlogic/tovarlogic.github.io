@@ -1,5 +1,5 @@
 ---
-title:  "Las cagadas de la política en España"
+title:  "Inmatriculaciones de la Iglesia Católica"
 date:   2022-02-06
 categories: [Política]
 tags: []

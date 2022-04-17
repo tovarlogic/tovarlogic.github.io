@@ -1,7 +1,7 @@
 ---
 title: "Derechos de los Ciudadanos ante la Justicia"
 date: 2021-06-04
-categories: [Derecho, Política]
+categories: [Derecho,Política]
 tags: []
 podcasts: [68109264]
 ---

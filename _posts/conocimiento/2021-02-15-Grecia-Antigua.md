@@ -1,6 +1,7 @@
 ---
 title: "Grecia antigua"
-categories: [Historia, Civilizaciones]
+categories: [Historia]
+tags: [Civilizaciones]
 serie: civilizaciones
 layout: serie
 draft: true

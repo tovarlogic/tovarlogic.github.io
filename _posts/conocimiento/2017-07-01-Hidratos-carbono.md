@@ -1,8 +1,8 @@
 ---
 title:  "Digestión y metabolismo de los Hidratos de Carbono"
 date:   2017-07-01
-categories: [Ciencias, Salud]
-tags: [Alimentación]
+categories: [Cuerpo Humano]
+tags: [Salud, Alimentación]
 serie: alimentacion
 excerpt: Dado que los alimentos no son directamente absorbibles resulta necesario digerirlos para su descomposición, a continuación se desarrollan los procesos para la digestión de los carbohidratos (HC), así como los procesos metabólicos que permiten obtener energía de este macronutriente. Finalmente se trata muy brevemente los efectos hormonales que tiene su ingesta y que básicamente, regulan los niveles de glucosa en sangre..
 header:

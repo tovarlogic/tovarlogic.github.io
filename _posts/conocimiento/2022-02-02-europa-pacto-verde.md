@@ -2,7 +2,7 @@
 title: "El Pacto Verde Europeo"
 date: 2022-02-02
 categories: [Medio Ambiente]
-tags: [europa, cambio-climatico]
+tags: [Europa, Cambio Climático, Derecho Internacional]
 layout: serie
 serie: cambio-climatico
 header:
