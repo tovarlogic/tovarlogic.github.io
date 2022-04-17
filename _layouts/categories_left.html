@@ -10,8 +10,6 @@ layout: archive_left
 
 {% assign series = site.pages | where_exp:"page", "page.serie" %}
 
-<br>
-
 {% for type in posts_by_type %}
   {% if type.size > 0 %}
     <a href="#{{ type.name | slugify }}">
@@ -26,9 +24,7 @@ layout: archive_left
           </a>
         </li>
       {% endfor %}
-    </ul> 
-
-    <br>  
+    </ul>   
   {% endif %}
 {% endfor %}
 
