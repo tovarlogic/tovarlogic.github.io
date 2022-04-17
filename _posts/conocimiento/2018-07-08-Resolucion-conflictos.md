@@ -1,7 +1,7 @@
 ---
 title: "Resolución de conflictos: algunas herramientas prácticas"
 date: 2018-07-08
-categories: [Pensamiento táctico]
+categories: [Pensamiento-táctico]
 ---
 
 # Shortcut-O-Matic
