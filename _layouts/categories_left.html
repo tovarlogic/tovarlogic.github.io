@@ -15,13 +15,13 @@ layout: archive_left
 {% for type in posts_by_type %}
   {% if type.size > 0 %}
     <a href="#{{ type.name | slugify }}">
-      <h2 class="archive__subtitle">Artículos de {{ type.name | camelcase }} </h2> <span class="taxonomy__count">{{ type.size }}</span>
+      <h3 class="archive__subtitle">Artículos de {{ type.name | camelcase }} <span class="taxonomy__count">({{ type.size }})</span> </h3> 
     </a>
     {% assign posts = site.posts | where_exp: "post", "post.type == type.name" | group_by_exp: "post", "post.categories | first" %}   
     <ul class="taxonomy__index">
       {% for category_posts in posts %}
         <li>
-          <a href="#{{ category_posts.name | slugify }}">
+          <a href="#{{ type.name | slugify }}-{{ category_posts.name | slugify }}">
             <strong>{{ category_posts.name | replace: ", ", " - " | remove: "[" | remove: "]" | remove: '"' | remove: "\"}}</strong> <span class="taxonomy__count">{{ category_posts.size }}</span>
           </a>
         </li>
@@ -47,7 +47,7 @@ layout: archive_left
       <ul class="taxonomy__index">
         {% for category_posts in posts %}
           <li>
-            <a href="#{{ category_posts.name | slugify }}">
+            <a href="#{{ type.name | slugify }}-{{ category_posts.name | slugify }}">
               <strong>{{ category_posts.name | replace: ", ", " - " | remove: "[" | remove: "]" | remove: '"' | remove: "\"}}</strong> <span class="taxonomy__count">{{ category_posts.size }}</span>
             </a>
           </li>
@@ -55,7 +55,7 @@ layout: archive_left
       </ul>
 
       {% for category_posts in posts %}
-        <section id="{{ category_posts.name | slugify }}" class="taxonomy__section">
+        <section id="{{ type.name | slugify }}-{{ category_posts.name | slugify }}" class="taxonomy__section">
           <h3 class="archive__subtitle">{{ category_posts.name | replace: ", ", " - " | remove: "[" | remove: "]" | remove: '"' | remove: "\"}}</h3>
           <div class="entries-{{ entries_layout }}">
             {% for post in category_posts.items %}
