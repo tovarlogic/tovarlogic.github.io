@@ -10,14 +10,14 @@ layout: archive_left
 
 {% assign series = site.pages | where_exp:"page", "page.serie" %}
 
-<ul class="taxonomy__index">
+<br>
+
 {% for type in posts_by_type %}
-{% if type.size > 0 %}
-  <li>
-    <a href="#{{ type.name | slugify | camelcase }}">
-      <strong>Artículos de {{ type.name }}</strong> <span class="taxonomy__count">{{ type.size }}</span>
+  {% if type.size > 0 %}
+    <a href="#{{ type.name | slugify }}">
+      <h2 class="archive__subtitle">Artículos de {{ type.name | camelcase }} </h2> <span class="taxonomy__count">{{ type.size }}</span>
     </a>
-    {% assign posts = site.posts | where_exp: "post", "post.type == type.name" | group_by_exp: "post", "post.categories | first" %}
+    {% assign posts = site.posts | where_exp: "post", "post.type == type.name" | group_by_exp: "post", "post.categories | first" %}   
     <ul class="taxonomy__index">
       {% for category_posts in posts %}
         <li>
@@ -26,13 +26,11 @@ layout: archive_left
           </a>
         </li>
       {% endfor %}
-    </ul>
+    </ul> 
 
-  </li>
+    <br>  
   {% endif %}
 {% endfor %}
-</ul>
-<br>
 
 {% for type in posts_by_type %}
   {% if type.size > 0 %}
