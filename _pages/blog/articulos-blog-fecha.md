@@ -8,7 +8,7 @@ author_profile: false
 entries_layout: grid
 ---
 
-[Ordenar por temática](/blog/){: .btn .btn--inverse} 
+[Ordenar por categorías y temática](/blog/){: .btn .btn--inverse} 
 [Ordenar por etiquetas](/blog/tags/){: .btn .btn--inverse} 
 [Ordenar por fecha](/blog/fecha/){: .btn .btn--primary}
 [Series monográficas](/blog/series){: .btn .btn--inverse}

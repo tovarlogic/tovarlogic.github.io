@@ -14,9 +14,20 @@ layout: archive_left
 {% for type in posts_by_type %}
 {% if type.size > 0 %}
   <li>
-    <a href="#articulos-{{ type.name | slugify }}">
+    <a href="#{{ type.name | slugify | camelcase }}">
       <strong>Artículos de {{ type.name }}</strong> <span class="taxonomy__count">{{ type.size }}</span>
     </a>
+    {% assign posts = site.posts | where_exp: "post", "post.type == type.name" | group_by_exp: "post", "post.categories | first" %}
+    <ul class="taxonomy__index">
+      {% for category_posts in posts %}
+        <li>
+          <a href="#{{ category_posts.name | slugify }}">
+            <strong>{{ category_posts.name | replace: ", ", " - " | remove: "[" | remove: "]" | remove: '"' | remove: "\"}}</strong> <span class="taxonomy__count">{{ category_posts.size }}</span>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
+
   </li>
   {% endif %}
 {% endfor %}
@@ -25,7 +36,7 @@ layout: archive_left
 
 {% for type in posts_by_type %}
   {% if type.size > 0 %}
-  <section id="articulos-{{ type.name | slugify }}" class="taxonomy__section">
+  <section id="{{ type.name | slugify }}" class="taxonomy__section">
     <h2 class="archive__subtitle">Artículos de {{ type.name }}</h2>
     <div class="entries-{{ entries_layout }}">
       
