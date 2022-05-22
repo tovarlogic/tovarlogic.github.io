@@ -1,13 +1,9 @@
 ---
 title: Consecuencias éticas del Capitalismo en Democracia
 date: 2022-04-18
-Category:
-  - Filosofía
-  - Política
-  - Economía
 tags:
   - Ética
-lastmod: 2022-04-18T15:18:57.481Z
+lastmod: 2022-05-22T14:32:11.913Z
 slug: consecuencias-eticas-del-capitalismo-en-democracia
 draft: true
 categories:

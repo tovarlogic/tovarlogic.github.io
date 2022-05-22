@@ -1,10 +1,13 @@
 ---
-title:  "Principios y Valores"
-date:   2021-02-07
-update: 
-categories: [Filosofía]
-tags: [Ética]
-excerpt: Análisis sobre la naturaleza de los Principios y Valores. ¿Son la misma cosa? Si no es así ¿Cuál es su relación?.
+title: Principios y Valores
+date: 2021-02-07
+categories:
+  - Filosofía
+tags:
+  - Ética
+excerpt: Análisis sobre la naturaleza de los Principios y Valores. ¿Son la misma cosa?
+  Si no es así ¿Cuál es su relación?.
+lastmod: 2022-05-22T14:45:38.440Z
 ---
 
 # Valor vs Principio
@@ -49,10 +52,3 @@ La doctrina, no es unánime, por lo que no facilita esta distinción. Algunos au
 [^def1]: Deontología: Parte de la ética que trata de los deberes, especialmente de los que rigen una actividad profesional.
 [^def2]: Axiología: Teoría de los valores.
 [^2] Perez Luño.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTIyNTA2NDIsMTUwMTQ0MzQ1OSw2MT
-gxMDkxOTMsLTExNTUyNTU5OTAsMTA2OTEyMjczMCwtMTU0NDI4
-ODk0NiwtMTM1MzY2MTc1MSwxNjMwNjYwNDgwLC0xOTMxNTk4MD
-c2LC01MzA1MTIzOCwtMTk2NzQxMzg3MSwxOTU1MjAxMjgwXX0=
-
--->

@@ -2,9 +2,14 @@
 title: "Émile Durkheim: Referente del pensamiento sociológico"
 date: 2022-03-03
 last_modified_at: 2022-03-04
-categories: [Filosofía, Sociología]
-tags: [Positivismo, Métoco científico]
-excerpt: Émile Durkheim es considerado uno de los padres de la Sociología. En este artículo reviso su obra sintetizando las ideas principales que desarrollan.
+categories:
+  - Sociología
+tags:
+  - Positivismo
+  - Métoco científico
+excerpt: Émile Durkheim es considerado uno de los padres de la Sociología. En este
+  artículo reviso su obra sintetizando las ideas principales que desarrollan.
+lastmod: 2022-05-22T14:31:24.289Z
 ---
 
 ## Introducción

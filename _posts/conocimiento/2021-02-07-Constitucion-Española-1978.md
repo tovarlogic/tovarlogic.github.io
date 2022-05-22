@@ -1,12 +1,15 @@
 ---
-title:  "Constitución Española de 1978"
-date:   2021-02-07
-update: 
-categories: [Derecho]
-tags: [Derecho Constitucional]
+title: Constitución Española de 1978
+date: 2021-02-07
+update: null
+categories:
+  - Derecho
+tags:
+  - Derecho Constitucional
 header:
   teaser: /assets/images/blog/teasers/Constitucion-espanola.jpg
 excerpt: Constitución Española de 1978 comentada.
+lastmod: 2022-05-22T14:49:06.988Z
 ---
 
 # Preámbulo
@@ -25,7 +28,7 @@ En consecuencia, las Cortes aprueban y el pueblo español ratifica la siguiente.
 # CONSTITUCIÓN
 ## TÍTULO PRELIMINAR
 ### Artículo 1. Forma de estado
- 1. España se constituye en un Estado social y democrático de Derecho, que propugna como **[valores](/blog/conocimiento/Principios-y-Valores)[^int1] superiores de su ordenamiento jurídico** la libertad, la justicia, la igualdad y el pluralismo político.
+ 1. España se constituye en un Estado social y democrático de Derecho, que propugna como **[valores](/blog/principios-y-valores)[^int1] superiores de su ordenamiento jurídico** la libertad, la justicia, la igualdad y el pluralismo político.
  2. La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.
  3. La forma política del Estado español es la Monarquía parlamentaria. 
 
@@ -281,6 +284,6 @@ Una ley orgánica regulará la institución del Defensor del Pueblo, como alto c
 # Enlaces de interés
 [^1]: [La dignidad de la persona en la Constitución española: naturaleza jurídica y funciones - Fernando Batista Jiménez ed. Cuestiones institucionales. UNAM.](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-91932006000100003)
 [^2]: [Todos los seres humanos nacen iguales en dignidad y derechos - José Antonio Estévez](http://www.amnistiacatalunya.org/edu/2/dh/dh-der-dignidad-estevez.html)
-[^int1]: [Fundamentos filosóficos: Principios y Valores]({% post_url 2021-02-07-Principios-y-Valores %})
+[^int1]: [Fundamentos filosóficos: Principios y Valores](/blog/principios-y-valores)
 [^3]: Perez Luño.
 
