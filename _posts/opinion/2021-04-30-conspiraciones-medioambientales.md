@@ -1,7 +1,10 @@
-title: "Conspiraciones medioambientales"
-date:   2021-04-19
-categories: Medio Ambiente
+---
+title: Conspiraciones medioambientales
+date: 2021-04-19
+categories:
+  - Medio Ambiente
 draft: true
+lastmod: 2022-05-22T09:33:44.482Z
 ---
 
 # Introducción

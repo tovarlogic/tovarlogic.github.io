@@ -4,9 +4,9 @@ title: ¿Y si el sistema electoral y político actual fuera remplazado por uno b
 description: 'Desarrollo especulativo de una idea: "micropartidos" como solución para
   aumentar la granularidad de opciones electorales.'
 draft: false
-Category:
+categories:
   - Política
-lastmod: 2022-05-22T09:27:38.271Z
+lastmod: 2022-05-22T09:31:54.719Z
 date: 2022-05-22
 ---
 
