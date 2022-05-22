@@ -4,12 +4,12 @@ comments:
   branch: "master"
   commitMessage: "New comment by {fields.name} on {options.slug}"
   filename: "comment-{@timestamp}"
-  format: "yaml")
+  format: "yaml"
   generatedFields:
     date:
       type: "date"
       options:
-        format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format: "iso8601"
   moderation: true
   akismet:
     enabled: false
@@ -19,7 +19,7 @@ comments:
     content: "message"
     type: "comment"
   name: "Tovarlogic"
-  path: "_data/comments/{options.slug}" # "_data/comments/{options.slug}" (default)
+  path: "_data/comments/{options.slug}"
   requiredFields: ["name", "email", "message"]
   transforms:
     email: md5

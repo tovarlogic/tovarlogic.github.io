@@ -299,7 +299,6 @@ defaults:
       toc_sticky: true
       post_pagination: false
       permalink: blog/:title
-      slug: :title
   # libros
   - scope:
       path: "_posts/libros"
