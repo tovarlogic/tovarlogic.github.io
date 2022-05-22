@@ -31,26 +31,6 @@ logo                     : "/assets/images/TovarLogic.png" # path of logo image 
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
-comments:
-  provider               : disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
-  disqus:
-    shortname            : tovarlogic # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-  discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
-  utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
-  staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
-reCaptcha:
-  siteKey                :
-  secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
@@ -65,6 +45,27 @@ algolia:
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
+
+comments:
+  active: true
+  max_replies_level: 4
+  provider: "staticman"
+  staticman:
+    branch: master # "master"
+    option: comments
+    endpoint: http://sp-staticman.herokuapp.com/v2/entry/tovarlogic/tovarlogic.github.io/
+
+# reCaptcha
+# Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
+reCaptcha:
+  enabled: false
+  siteKey: "6Ld2bccfAAAAACrhq8GfhrFHEWp1dI_P3LUMBUw3"
+  # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
+  # For more information, https://staticman.net/docs/encryption
+  # https://sp-staticman.herokuapp.com/v3/encrypt/
+  secret: "WiVWBigUCJxT3pU+FocyjzZSIhNxtVWjIKskJ/MaSo8ig4+EUYMpxhsNphPtBbrXUOMrwOBfEeXDJNm8XM5zquitQju5eJ/yD85Kv4uu2NccBRJhDxZicNYBjiThoUQAjd6bYejYSu3x4/HUaM2BWWCzU15cBpKO3v6pcO3/jaFElWTQYKYhw+TmEAm3ZuqxQQFgRobxz/z8K7/CwV8NVuuIom+aBaY5k9CKleBjTsoJ+6ZavmQdhtNyk87HB1r/VIGuVU8L5TG/QTi6V72MqJfGTSLsdozOpU0ANVDNVpnldxHAZubfKIdIYygXyCkKnnn7zFobq/8EGYINXOIRjKGwbDmbNq668JIY3mQH0rk4ILyphYK0yctfEtrPhqt9KO93T9XQmIK2xIzd79dglGPR+kTmx9B9oFuc2VPG1SqtDDobf0hssmwzIuuNYigE1ZL0rx5ku4ZhgjX0TRiPwvbOW3B3uv6YO+w6TtnUbFVZiOECmR/oajt1xg5xIxlkH7b0TswHzJpSL2+6nNQzYL0jqF7rmjhtDlNTHFdcUqVnA/CJIhTA8/lIfpKAvw3ZeoezukIc6hRxCElA1U5dv5COiC4WSXUw5MMcyKjtDkM/Q6l6+kTAhyXfvTSu6B9mJZHJuPjuAkED1oxxdfWZwRfpcUnycvtVHcpFXNzT6EA="
+
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
@@ -297,52 +298,39 @@ defaults:
       toc: true
       toc_sticky: true
       post_pagination: false
+      permalink: blog/:title
+      slug: :title
   # libros
   - scope:
       path: "_posts/libros"
       type: posts
     values:
       layout: book-reviews-template
-      toc: true
-      toc_sticky: true
-      author_profile: false
-      share: true
-      comments: true
-      related: false
-      post_pagination: false
-      permalink: blog/:title
       type: libros
   # opinion
   - scope:
       path: "_posts/opinion"
       type: posts
     values:
-      permalink: blog/:title
       type: opinion
   # conocimiento
   - scope:
       path: "_posts/conocimiento"
       type: posts
     values:
-      permalink: blog/:title
       type: conocimiento
-      comments: true
   # notas
   - scope:
       path: "_posts/notas"
       type: posts
     values:
-      permalink: blog/:title
       type: notas
-      comments: true
   # recursos
   - scope:
       path: "_posts/recursos"
       type: posts
     values:
-      permalink: blog/:title
       type: recursos
-      comments: true
   # _pages
   - scope:
       path: "_pages"

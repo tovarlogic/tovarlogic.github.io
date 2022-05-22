@@ -19,7 +19,13 @@
 {% endif %}
 
 {% include analytics.html %}
-{% include /comments-providers/scripts.html %}
+
+{% if jekyll.environment == 'production' and site.comments.active and page.comments %}
+  <script src={{ "/assets/js/comments.js" | relative_url }}></script>
+  {% if site.reCaptcha.enabled %}
+      <script async src="https://www.google.com/recaptcha/api.js"></script>
+  {% endif %}
+{% endif %
 
 {% if site.after_footer_scripts %}
   {% for script in site.after_footer_scripts %}
