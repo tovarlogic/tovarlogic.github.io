@@ -1,6 +1,6 @@
 comments:
   allowedFields: ["name", "email", "url", "message"]
-  allowedOrigins: ["tovarlogic.github.io"]
+  allowedOrigins: ["tovarlogic.github.io", "localhost"]
   branch: "master"
   commitMessage: "New comment by {fields.name} on {options.slug}"
   filename: "comment-{@timestamp}"

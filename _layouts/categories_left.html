@@ -6,36 +6,32 @@ layout: archive_left
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign posts_by_type = site.posts | group_by: "type" %}
-
+{% assign posts_by_type = site.posts | where: "draft", false | group_by: "type" | sort: 'size' | reverse %}
 {% assign series = site.pages | where_exp:"page", "page.serie" %}
 
-{% for type in posts_by_type %}
-  {% if type.size > 0 %}
-    <a href="#{{ type.name | slugify }}">
-      <h3 class="archive__subtitle">Artículos de {{ type.name | camelcase }} <span class="taxonomy__count">({{ type.size }})</span> </h3> 
-    </a>
-    {% assign posts = site.posts | where_exp: "post", "post.type == type.name" | group_by_exp: "post", "post.categories | first" %}   
-    <ul class="taxonomy__index">
-      {% for category_posts in posts %}
-        <li>
-          <a href="#{{ type.name | slugify }}-{{ category_posts.name | slugify }}">
-            <strong>{{ category_posts.name | replace: ", ", " - " | remove: "[" | remove: "]" | remove: '"' | remove: "\"}}</strong> <span class="taxonomy__count">{{ category_posts.size }}</span>
-          </a>
-        </li>
-      {% endfor %}
-    </ul>   
-  {% endif %}
-{% endfor %}
+<section class="taxonomy__section">
+  <h2 class="archive__subtitle">Tipos de artículo</h2>
+  <ul class="taxonomy__index">
+    {% for type in posts_by_type %}
+      {% if type.size > 0 %}
+      <li>
+        <a href="#{{ type.name | slugify }}">
+          <strong>{{ type.name | capitalize }}</strong> 
+          <span class="taxonomy__count">{{ type.size }}</span> 
+        </a> 
+      </li>
+      {% endif %}
+    {% endfor %}
+  </ul> 
+</section>
 
 {% for type in posts_by_type %}
   {% if type.size > 0 %}
   <section id="{{ type.name | slugify }}" class="taxonomy__section">
-    <h2 class="archive__subtitle">Artículos de {{ type.name }}</h2>
+    <h2 class="archive__subtitle">{{ type.name | capitalize }}</h2>
     <div class="entries-{{ entries_layout }}">
       
-      {% assign posts = site.posts | where_exp: "post", "post.type == type.name" | group_by_exp: "post", "post.categories | first" %}
-      
+      {% assign posts = site.posts | where_exp: "post", "post.type == type.name" | group_by_exp: "post", "post.categories | first" | sort: 'size' | reverse %}
       {% comment %}
       {% assign posts = site.posts | where_exp: "post", "post.type == type.name" | group_by: "categories" | sort: "name" %}
       {% endcomment %}

@@ -30,7 +30,7 @@ layout: archive_left
         <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
           <h2 class="archive__subtitle">{{ tag[0] }}</h2>
           <div class="entries-{{ entries_layout }}">
-            {% assign category_posts = tag.last | where: "type", page.taxonomy | sort %}
+            {% assign category_posts = tag.last | where: "type", page.taxonomy | where: "draft", false | sort %}
             {% for post in category_posts %}
               {% include archive-single.html type=entries_layout %}
             {% endfor %}
