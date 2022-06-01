@@ -1,0 +1,57 @@
+  {% capture comments_provider %}{{ site.comments.provider }}{% endcapture %}
+  {% capture categories %}{{ site.data.data_categories.bookmarks }}{% endcapture %}
+  {% assign categories = site.data.data_categories.bookmarks %}
+  <!-- Start data-form -->
+  <div id="respond" style="">
+    <form id="data-form" class="js-data-form" method="post" action="{{ site.comments.[comments_provider].endpoint }}{{ site.comments.[comments_provider].branch }}/bookmarks">
+      <h4 class="title">
+        <span id="heading-text">Añadir recurso online</span> 
+      </h4>
+      <div>
+        <label class="form-label" for="data-form-title">Título
+          <input type="text" class="form-control" id="data-form-title" name="fields[title]" required spellcheck="false">
+        </label>
+
+        <label class="form-label" for="data-form-url">Dirección
+          <input type="text" class="form-control" id="data-form-url" name="fields[url]" required spellcheck="false">
+        </label>
+        
+        <label class="form-label" for="data-form-category">Categoría
+            <select class="form-select" id="data-form-category" name="fields[url]" aria-label="Default select category">
+                <option selected>-- Selecciona --</option>
+                {% for category in categories %}
+                    <option value="{{category}}">{{category}}</option>
+                {% endfor %}
+            </select>
+        </label>
+
+        <label class="form-label" for="data-form-tags">Etiquetas
+            <input type="text" class="form-control" id="data-form-tags" name="fields[tags]" spellcheck="false">
+        </label>
+
+        <label class="form-label" for="data-form-pass">Token
+            <input type="password" class="form-control" id="data-form-pass" name="fields[pass]" spellcheck="false">
+        </label>
+
+      </div>
+    
+      <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}#comments">
+      {% if site.reCaptcha.enabled %}
+      <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
+      <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">
+      {% endif %}
+
+      {% if site.reCaptcha.enabled %}
+        <div class="g-recaptcha mb-3" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
+      {% endif %}
+      <div class="mb-3">
+        <button type="submit" class="btn btn-primary" id="data-form-submit">Enviar comentario</button>
+        <a class="btn btn-outline-danger" id="hide-data-form" href="#" role="button">Cancelar comentario</a>
+      </div>
+      </form>
+    
+    <div class="hidden js-notice notice">
+      <p class="js-notice-text text-danger"></p>
+    </div>
+  </div>
+  <!-- End data-form -->

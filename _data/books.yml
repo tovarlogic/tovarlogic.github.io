@@ -1,20 +1,47 @@
-lastupdate: 06 de Febrero de 2022
+lastupdate: 24 de Mayo de 2022
 
 category_list: [Ensayo, Novela, Biografía, Ciencia-ficción, Clásicos]
-
-tag_list: [Ensayo, Novela, Biografía, Ciencia-ficción, Economía, Política, Geopolítica, Sociología, Historia, Psicología, Crecimiento personal, Medioambiente, Filosofía, Biología, Tecnología, Ciencia, Aventura, Futuro]
+tag_list:
+  - Ensayo
+  - Novela
+  - Biografía
+  - Ciencia-ficción
+  - Economía
+  - Política
+  - Geopolítica
+  - Sociología
+  - Historia
+  - Psicología
+  - Crecimiento personal
+  - Medioambiente
+  - Filosofía
+  - Biología
+  - Tecnología
+  - Ciencia
+  - Aventura
+  - Futuro
 
 list: 
+  - title: "The european union: A very short introduction"
+    author: Simon Usherwood
+    isbn: 9780199681693
+    category: [Ensayo] 
+    tags: [Política]
+    date: 2022-05-26
+    stars: 3
+    format: kindle
+    status: reading
+
   - title: "Las reglas del método sociológico"
     author: Émile Durkheim
     isbn: 9789681624453
     category: [Ensayo] 
     tags: [Sociología]
     date: 2022-03-07
-    stars: 3
+    stars: 5
     format: papel
     status: reading
-    review: "Emile-Durkheim"
+    review: "reglas-metodo-sociologico"
       
   - title: "The War that Ended Peace: How Europe abandoned peace for the First World War"
     author: Margaret MacMillan 

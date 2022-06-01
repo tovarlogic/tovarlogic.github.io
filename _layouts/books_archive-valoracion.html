@@ -6,7 +6,7 @@ layout: archive_left
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign stars_list = site.data.books.list | group_by: 'stars' | sort: "name" | reverse %}
+{% assign stars_list = site.data.books | group_by: 'stars' | sort: "name" | reverse %}
 
 <span class="last-update">Listado actualizado el {{ site.data.books.lastupdate }}</span>
 

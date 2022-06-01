@@ -6,12 +6,12 @@ layout: archive_left
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign readInYear = site.data.books.list | where:'status', 'read' | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
-{% assign reading = site.data.books.list | where:'status', 'reading' %}
-{% assign pending = site.data.books.list | where:'status', 'pending' %}
-{% assign not_read = site.data.books.list | where:'status', 'not-read' | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
+{% assign readInYear = site.data.books | where:'status', 'read' | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
+{% assign reading = site.data.books | where:'status', 'reading' %}
+{% assign pending = site.data.books | where:'status', 'pending' %}
+{% assign not_read = site.data.books | where:'status', 'not-read' | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
 
-{% assign read = site.data.books.list | where:'status', 'read' %}
+{% assign read = site.data.books | where:'status', 'read' %}
 {% assign count = 0 %}
 {% for book in read %}
     {% assign count = count | plus: 1 %}  

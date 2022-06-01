@@ -304,7 +304,7 @@ defaults:
       path: "_posts/libros"
       type: posts
     values:
-      layout: book-reviews-template
+      layout: book_review
       type: libros
   # opinion
   - scope:
@@ -399,7 +399,7 @@ defaults:
       path: ""
       type: book_reviews
     values:
-      layout: book-reviews-template
+      layout: book_review
       toc: true
       toc_sticky: true
       author_profile: false

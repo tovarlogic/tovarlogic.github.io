@@ -6,7 +6,7 @@ layout: archive_left
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign tag_list = site.data.books.tag_list %}
+{% assign tag_list = site.data.data_tags.books %}
 
 
 <span class="total_count">Total Temáticas: {{ tag_list | size }}</span><br>
@@ -15,7 +15,7 @@ layout: archive_left
 <ul class="taxonomy__index">
     {% for tag in tag_list %}
       {% assign count = 0 %}
-      {% assign books = site.data.books.list | where: "tags", tag %}
+      {% assign books = site.data.books | where: "tags", tag %}
       {% for book in books %}
         {% assign count = count | plus: 1 %}
       {%  endfor %}
@@ -31,7 +31,7 @@ layout: archive_left
 
   {% for tag in tag_list %}
     {% assign count = 0 %}
-    {% assign books = site.data.books.list | where: "tags", tag %}
+    {% assign books = site.data.books | where: "tags", tag %}
     {% for book in books %}
       {% assign count = count | plus: 1 %}
     {%  endfor %}
