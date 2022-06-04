@@ -1,0 +1,20 @@
+{% if include.id %}
+  {% assign feature_row = page[include.id] %}
+{% else %}
+  {% assign feature_row = page.feature_row %}
+{% endif %}
+
+<div class="row row-cols-1 row-cols-md-3 g-4">
+    {% for f in feature_row %}
+    <div class="col">
+        <div class="card bg-dark text-white">
+            <img src="{{ f.image_path | relative_url }}" class="card-img" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            <div class="card-img-overlay">
+            <h5 class="card-title">{{ f.title }}</h5>
+            <p class="card-text">{{ f.excerpt | markdownify }}</p>
+            <p class="card-text"><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
