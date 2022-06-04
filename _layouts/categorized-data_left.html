@@ -1,0 +1,40 @@
+---
+layout: archive_left
+---
+
+{{ content }}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+
+{% assign grouped_data = site.data.bookmarks | group_by_exp: 'data', 'data[1].category' %}
+
+<section class="taxonomy__section">
+  <h2 class="archive__subtitle">Tipos de artículo</h2>
+  <ul class="taxonomy__index">
+    {% for list in grouped_data %}
+      <li>
+        <a href="#{{ list.name | slugify }}">
+          <strong>{{ list.name | capitalize }}</strong> 
+          <span class="taxonomy__count">{{ list.size }}</span> 
+        </a> 
+      </li>
+    {% endfor %}
+  </ul> 
+</section>
+
+{% for list in grouped_data %}
+<section id="{{ list.name }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ list.name }}</h2>
+    <div class="entries-{{ entries_layout }}">
+      {% for data in list.items %}
+          {% assign item = data[1] %}
+          {% include archive-single-bookmarks.html type=entries_layout %}
+      {% endfor %}
+    </div>
+    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+</section><br>
+{% endfor %}
+
+
+
+

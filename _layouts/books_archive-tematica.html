@@ -8,9 +8,7 @@ layout: archive_left
 
 {% assign tag_list = site.data.data_tags.books %}
 
-
 <span class="total_count">Total Temáticas: {{ tag_list | size }}</span><br>
-<span class="last-update">Listado actualizado el {{ site.data.books.lastupdate }}</span>
 
 <ul class="taxonomy__index">
     {% for tag in tag_list %}

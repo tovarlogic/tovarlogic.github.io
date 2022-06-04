@@ -7,10 +7,19 @@ entries_layout: grid
 classes: wide
 author_profile: false
 permalink: /libros/
-lastmod: 2022-05-27T13:48:27.539Z
+lastmod: 2022-06-04T09:55:26.570Z
 ---
 
 {% include book-filters.html %}
+
+<span class="d-inline">
+    <button class="btn btn-sm btn-primary" id="new-item" style="">
+        <i class="fas fa-fw fa-plus"></i> Añadir libro
+    </button>
+</span>
+
+{% include forms/book-form.html %} 
+
 
 
 

@@ -17,7 +17,7 @@
         </label>
         
         <label class="form-label" for="data-form-category">Categoría
-            <select class="form-select" id="data-form-category" name="fields[url]" aria-label="Default select category">
+            <select class="form-select" id="data-form-category" name="fields[category]" aria-label="Default select category">
                 <option selected>-- Selecciona --</option>
                 {% for category in categories %}
                     <option value="{{category}}">{{category}}</option>
@@ -27,10 +27,6 @@
 
         <label class="form-label" for="data-form-tags">Etiquetas
             <input type="text" class="form-control" id="data-form-tags" name="fields[tags]" spellcheck="false">
-        </label>
-
-        <label class="form-label" for="data-form-pass">Token
-            <input type="password" class="form-control" id="data-form-pass" name="fields[pass]" spellcheck="false">
         </label>
 
       </div>

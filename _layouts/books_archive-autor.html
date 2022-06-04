@@ -5,14 +5,13 @@ layout: archive_left
 {{ content }}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
+{% assign books_by_author = site.data.books | group_by_exp: 'book', 'book[1].author' %}
 
-{% assign author_list = site.data.books | group_by: 'author' | sort: "name" %}
 
-<span class="total_count">Total Autores: {{ author_list | size }}</span><br>
-<span class="last-update">Listado actualizado el {{ site.data.books.lastupdate }}</span>
+<span class="total_count">Total Autores: {{ books_by_author | size }}</span><br>
 
 <ul class="taxonomy__index">
-    {% for author in author_list %}
+    {% for author in books_by_author %}
         <li>
           <a href="#{{ author.name | slugify }}">
             <strong>{{ author.name }}</strong> <span class="taxonomy__count">{{ author.items | size }}</span>
@@ -21,11 +20,12 @@ layout: archive_left
     {% endfor %}
 </ul>
 
-{% for author in author_list %}
-<section id="{{ author.name | slugify }}" class="taxonomy__section">
-    <h2 class="archive__subtitle">{{ author.name }}</h2>
+{% for list in books_by_author %}
+<section id="{{ list.name | slugify }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">{{ list.name }}</h2>
     <div class="entries-{{ entries_layout }}">
-      {% for book in author.items %}
+      {% for book_data in list.items %}
+        {% assign book = book_data[1] %}
         {% include archive-single-books.html type=entries_layout %}
       {% endfor %}
     </div>

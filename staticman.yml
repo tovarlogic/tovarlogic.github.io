@@ -23,10 +23,11 @@ comments:
   requiredFields: ["name", "email", "message"]
   transforms:
     email: md5
+
 bookmarks:
   path: "_data/bookmarks/{options.slug}"
-  allowedFields: ["title", "url", "category", "tags", "pass"]
-  requiredFields: ["title", "url", "category", "pass"]
+  allowedFields: ["title", "url", "category", "tags"]
+  requiredFields: ["title", "url", "category"]
   allowedOrigins: ["tovarlogic.github.io", "localhost"]
   branch: "master"
   commitMessage: "New bookmark in {fields.category}"
@@ -46,14 +47,15 @@ bookmarks:
     content: "message"
     type: "comment"
   name: "Tovarlogic"
+
 books:
   path: "_data/books/{options.slug}"
-  allowedFields: ["title", "url", "category", "tags", "pass"]
-  requiredFields: ["title", "url", "category", "pass"]
+  allowedFields: ["title", "author", "isbn", "category", "tags", "status", "stars"]
+  requiredFields: ["title", "author", "isbn", "category", "tags", "status", "stars"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
-  commitMessage: "New bookmark in {fields.category}"
-  filename: "bookmark-{@timestamp}"
+  commitMessage: "New book in {fields.category}"
+  filename: "book-{@timestamp}"
   format: "yaml"
   generatedFields:
     date:
@@ -69,6 +71,7 @@ books:
     content: "message"
     type: "comment"
   name: "Tovarlogic"
+
 media:
   path: "_data/books/{options.slug}"
   allowedFields: ["title", "url", "category", "tags", "pass"]
@@ -92,6 +95,7 @@ media:
     content: "message"
     type: "comment"
   name: "Tovarlogic"
+
 quotes:
   path: "_data/books/{options.slug}"
   allowedFields: ["title", "url", "category", "tags", "pass"]
@@ -115,6 +119,7 @@ quotes:
     content: "message"
     type: "comment"
   name: "Tovarlogic"
+  
 recipes:
   path: "_data/books/{options.slug}"
   allowedFields: ["title", "url", "category", "tags", "pass"]
