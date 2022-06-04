@@ -6,12 +6,15 @@ layout: archive_left
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign books_by_status = site.data.books | group_by_exp: 'book', 'book[1].status' %}
-{% assign books_by_year = site.data.books | group_by_exp: 'book', 'book[1].date | date: "%Y"' | sort: "date" %}
+{% assign books_by_status = site.data.books | group_by_exp: 'book', 'book[1].status' | sort: "date" %}
+{% assign books_by_year = site.data.books | group_by_exp: 'book', 'book[1].date | date: "%Y"' | sort: "name" | reverse %}
 
 {% assign count = 0 %}
-{% for book in read %}
-    {% assign count = count | plus: 1 %}  
+{% for list in books_by_status %}
+  {% if list.name == "read" %}
+    {% assign count = list.size %}  
+    {% break %}
+  {% endif %}
 {%  endfor %}
 
 <span class="total_count">Total libros leidos: {{ count }}</span><br>
