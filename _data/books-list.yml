@@ -95,6 +95,7 @@ list:
 
   - title: "Notes on Nationalism"
     author: George Orwell
+    isbn: 9780241339565
     category: [Ensayo] 
     tags: [Política, Sociología]
     date: 2021-06-16
@@ -196,6 +197,7 @@ list:
 
   - title: "The Future Is Asian: Global Order in the Twenty-first Century"
     author: Parag Khanna
+    isbn: 9781508282730
     date: 2019-11-01
     stars: 3
     category: [Ensayo] 
@@ -258,6 +260,7 @@ list:
 
   - title: "Utopia for Realists: And How We Can Get There"
     author: Rutger Bregman
+    isbn: 9789082520309
     date: 2018-06-01
     stars: 4
     category: [Ensayo] 
@@ -312,6 +315,7 @@ list:
 
   - title: "¡Que vienen los lobbies!: El opaco negocio de la influencia en España"
     author: Juan Francés
+    isbn: 9788423346271
     date: 2014-06-01
     stars: 4
     category: [Ensayo] 
@@ -339,7 +343,7 @@ list:
 
   - title: "Vacas, cerdos, guerras y brujas"
     author: Marvin Harris
-    isbn: 84-206-3963-X
+    isbn: 9788420674391
     date: 2013-06-01
     stars: 3 
     category: [Ensayo] 
@@ -348,6 +352,7 @@ list:
     
   - title: "Nadie es mas que nadie"
     author: Miguel Ángel Revilla
+    isbn: 9788467006681
     date: 2013-04-01
     stars: 2
     category: [Ensayo] 
@@ -365,6 +370,7 @@ list:
 
   - title: "España sin democracia"
     author: Jesún Neira
+    isbn: 9788484608332
     date: 2012-12-01
     stars: 4
     category: [Ensayo] 
@@ -391,6 +397,7 @@ list:
 
   - title: "La Banque: Comment Golden Sachs dirige le monde"
     author: Marc Roche
+    isbn: 9782226206268
     date: 2012-06-01
     stars: 4
     category: [Ensayo] 
@@ -530,33 +537,5 @@ list:
     category: [Ensayo] 
     tags: [Ensayo, Ciencia]
     status: read
-
-  - title: "La Odisea"
-    author: Homero y Luis Segalá 
-    isbn: 9788418187247
-    status: pending
-
-  - title: "El cuerpo humano: Guía para ocupantes"
-    author: Bill Bryson 
-    isbn: 9788491874805
-    status: pending
-
-  - title: "Visigodos"
-    author: José Javier Esparza
-    status: pending 
-
-  - title: "Discurso de la servidumbre voluntaria"
-    author: ètienne de la boètie  
-    status: pending
-
-  - title: "Sobre la Felicidad"
-    author: Séneca 
-    isbn: 9788441402225
-    status: pending
-
-  - title: "Manual para ser Feliz: Enquiridión"
-    author: Epicteto 
-    isbn: 0486433595
-    status: pending
 
 
