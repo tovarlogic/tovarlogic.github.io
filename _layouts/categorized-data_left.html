@@ -8,8 +8,6 @@ layout: archive_left
 
 {% assign grouped_data = site.data.bookmarks | group_by_exp: 'data', 'data[1].category' %}
 
-<section class="taxonomy__section">
-  <h2 class="archive__subtitle">Tipos de artículo</h2>
   <ul class="taxonomy__index">
     {% for list in grouped_data %}
       <li>
@@ -20,7 +18,6 @@ layout: archive_left
       </li>
     {% endfor %}
   </ul> 
-</section>
 
 {% for list in grouped_data %}
 <section id="{{ list.name }}" class="taxonomy__section">
@@ -32,7 +29,7 @@ layout: archive_left
       {% endfor %}
     </div>
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-</section><br>
+</section>
 {% endfor %}
 
 
