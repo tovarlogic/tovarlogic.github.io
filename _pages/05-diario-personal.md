@@ -1,9 +1,10 @@
 ---
-title: "Diario personal"
+title: Diario personal
 breadcrumb_name: Diario
 permalink: /diario/
-excerpt: "Sección donde recojo brevemente pensamientos que quiero recordar para más adelante desarrollarlos en un artículo."
-last_modified_at: 2021-05-13
+excerpt: Sección donde recojo brevemente pensamientos que quiero recordar para más
+  adelante desarrollarlos en un artículo.
+lastmod: 2022-06-06T21:08:03.575Z
 layout: single_left
 ---
 

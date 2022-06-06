@@ -1,20 +1,28 @@
 ---
-title:  "Protocolo de Montreal"
-date:   2021-05-15
-last_modified_at: 2021-05-16
-categories: [Medio Ambiente]
-tags: [Cambio Climático, Ozono, Derecho Internacional, Tratados Internacionales]
+title: Protocolo de Montreal
+date: 2021-05-15
+lastmod: 2022-06-06T21:08:03.584Z
+categories:
+  - Medio Ambiente
+tags:
+  - Cambio Climático
+  - Ozono
+  - Derecho Internacional
+  - Tratados Internacionales
 serie: cambio-climatico
 layout: serie
-excerpt: Resumen sobre el contenido del Protocolo de Montreal para la protección de la capa de ozono.
+excerpt: Resumen sobre el contenido del Protocolo de Montreal para la protección de la
+  capa de ozono.
 header:
   overlay_color: "#333"
   actions:
     - label: "Serie: Cambio climático"
-      url: "/blog/series/cambio-climatico/"
+      url: /blog/series/cambio-climatico/
 shared-content:
-  definitions: [derecho-internacional]
-  acronyms: [cambio-climatico]
+  definitions:
+    - derecho-internacional
+  acronyms:
+    - cambio-climatico
 ---
 
 # Introducción

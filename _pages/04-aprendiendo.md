@@ -1,7 +1,7 @@
 ---
-title: "Aprendiendo"
+title: Aprendiendo
 permalink: /aprendiendo/
-last_modified_at: 2021-05-13
+lastmod: 2022-06-06T21:08:03.578Z
 layout: single_left
 ---
 

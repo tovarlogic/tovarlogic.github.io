@@ -2,7 +2,6 @@
 title: "Émile Durkheim: Referente del pensamiento sociológico"
 isbn: 9789681624453
 date: 2022-03-03
-last_modified_at: 2022-03-04
 categories:
   - Sociología
 tags:
@@ -10,7 +9,7 @@ tags:
   - Métoco científico
 excerpt: Émile Durkheim es considerado uno de los padres de la Sociología. En este
   artículo reviso su obra sintetizando las ideas principales que desarrollan.
-lastmod: 2022-05-28T10:59:51.760Z
+lastmod: 2022-06-06T21:08:19.620Z
 ---
 
 # Sobre el autor
@@ -50,7 +49,7 @@ Finalmente, Durkheim creía que la ciencia sociológica tenía una vocación int
 
 # Las reglas del método sociológico
 
-Con la publicación de *Las reglas del método sociológico* (1912)Durkheim trata de determinar de manera inequívoca en que consiste esta nueva ciencia, todo ello admitiendo la posibilidad de una futura evolución y mejora del mismo a medida que se obtenga mayor conocimiento en el campo sociológico.
+Con la publicación de *Las reglas del método sociológico* (1912) Durkheim trata de determinar de manera inequívoca en que consiste esta nueva ciencia, todo ello admitiendo la posibilidad de una futura evolución y mejora del mismo a medida que se obtenga mayor conocimiento en el campo sociológico.
 
 En línea con lo expuesto anteriormente propone lo siguiente:
 
@@ -256,11 +255,119 @@ Precisando aún más en el principio de clasificación, sabemos que toda socieda
 
 Si nuestra clasificación debe comenzar por las sociedades de primer orden, es decir, las simples, será necesario definir que significa **Sociedad simple**.
 
-Se podría entender una sociedad simple como una cuya organización es rudimentaria. Esto tiene el potencial de crear gran confusión además de depender de un enfoque subjetivo.
+Se podría entender una sociedad simple como una cuya organización es rudimentaria. Esto tiene el potencial de crear gran confusión además de depender de un enfoque subjetivo. **Simplicidad en realidad lo que significa es la asusencia completa de partes**, es decir, toda sociedad que no contenga otras más simples.
 
-Simplicidad en realidad lo que significa es la asusencia completa de partes.
+La Horda es la forma social básica, es una masa absolutamente homogénea en que las partes (individuos) no se distinguirían unas de otras, y, por consiguiente, no estarían coordinadas entre sí; en una palabra, estaría desprovista de toda forma definida y de toda organización [^6]. Cuando la Horda se convierte en un segmento social, es decir, es una parte de la sociedad, esta pasa a llamarse Clan. En este sentido clan y horda serían sinónimos.
+
+El concepto habitual de clan, el de agregado de varias familias se considera posterior a la del concepto de clan como agregado social básico.
+
+Puestos a establecer una clasificación Durkheim propone la siguiente:
+- **Sociedades polisegmentarias simples**. Son una reunión de clanes sin asociación a modo de forma intermediaria entre los grupos y la sociedad general. Suelen ser tribus en las que se reunen distintos clanes a modo de poblado.
+- **Sociedades polisegmentarias simplemente compuestas**. Sociedades formadas por la reunión de varias sociedades polisegmentarias simples. Una suerte de reunión de tribus.
+- **Sociedades polisegmentarias doblemente compuestas**. Sociedades formadas por la reunión de varias polisegmentarias simplemente compuestas. Ejemplo de esto es la Ciudad, un agregado de tribus.
+
+Lo anterior supone que cada tipo superior esta formado por asociación de tipos inferiores pero, en realidad, nada impide que sociedades de especies diferentes se reunan para formar una nueva especie. En cualquier caso, las diferencias entre los grupos integrantes no debe ser demasiado amplia; de otro modo, no podría haber entre ellas comunidad moral alguna.
+
+Los fenómenos sociales varían no sólo de acuerdo a la naturaleza de los elementos que componen la sociedad sino también con su modo de composición. Así cabe un amplio abanico de posibilidades entre que se mantenga cierta individualidad en cada elemento, que cada grupo parcial conserve su vida local; o que se vean arrastrados en la vida general. Es decir, Varía también según se hayan concentrado más o menos estrechamente.
+
+Es por lo anterior que se debe investigar, si en un momento dado, se produce una coalescencia completa de esos segmentos. Dicha coalescencia completa significa que la composición original de la sociedad ya no afecta a su organización administrativa y política. En ese caso, toda división o segmentación es únicamente privada.
+
+Así el modo de clasificación será el siguiente:
+1. Se clasificarán las sociedades de acuerdo con el grado de composición tomando como base la más simple.
+2. Para cada clase se distinguuirán variedades de acuerdo a si se produce o no una coalescencia completa.
 
 ## 5. Reglas relativas a la explicación de los hechos sociales
+
+Cuantas mas partes componen una cosa, más compleja es esta por el incremento de opciones de combinación de sus componentes. Tanto las variaciones individuales como las circustancias, por su puesto, también añaden matices y dificultan la obtención de atributos concretos de cada especie, más allá de los más generales y simples. Aún así, la constitución de especies es un medio de agrupar los hechos y facilitar su interpretación.
+
+### Dualidad causa-efecto de los hechos sociales
+Tradicionalmente se han pretendido explicar los hechos sociales por medio del rol que juegan, de su utilidad; ya sea como resultado de la búsqueda de la felicidad (Spencer) o anteriormente por el impulso natural del ser humano en buscar el progreso (Comte). En cualquier caso se explicaba la formación de la sociedad por las ventajas que supone.
+
+Sin embargo, explicar para que sería útil un hecho no explica como ha nacido ni como es lo que es. Se suponen las propiedades específicas que lo caracterizan, pero no lo crean. Por otro lado, ya que cada hecho social tiene naturaleza propia y es una fuerza que domina al individuo, no es suficiente que exista cierta voluntad. Es por tanto preciso remontar a las causas y efectos hasta encontrar el punto de acción donde el ser humano tiene capacidad.
+
+**Ejemplo:** Para reanimar el espíritu de familia allí en donde se ha debilitado, no es suficiente con que todo el mundo comprenda sus ventajas; es preciso hacer actuar a las causas que son suceptibles de engendrarlo.
+{: .notice-info }
+
+Además, cabe la posibilidad de que existan hechos que no sirvan para nada, ya sea porque nunca tuvieron utilidad o porque después de tenerla la haya perdido y el hecho haya continuado su existencia por fuerza de la costumbre. También hay casos en los que una práctica o institución social, cambien de función sin por ello cambiar de naturaleza.
+
+**Ejemplo:** Los dogmas religiosos del cristianismo han permanecido invariantes durante siglos, mientras que el rol que juegan en nada se parecen en la actualidad a con la Edad Media.
+{: .notice-info }
+
+Es decir, el fenómeno es independiente de la función; las causas que lo hacen ser son independientes de los fines a los que sirve. Esto no quiere decir, que las necesidades, los deseos no puedan intervenir de manera activa en la evolución social; estos pueden actuar en las condiciones de las que depende un hecho, apurando o conteniendo su desarrollo. La única razón de la existencia de un hecho es la realización de las condiciones necesarias de las que depende.
+
+Por todo ello, para explicar un fenómeno social, hay que buscar de manera separada la causa de su existencia y la función que cumple. Entendiendo función, como fin u objetivo, pues la consecución de unos resultados no necesariamente condiciona su existencia. Lo que es necesario es determinar si existe correspondencia entre el hecho considerado y las necesidades generales. Si existe o no intencionalidad es irrelevante, ya que son cuestiones demasiado subjetivas como para poder tratarlas científicamente.
+
+Si bien es natural buscar la causa de un fenómeno antes que intentar determinar sus efectos, no se puede obviar que existe cierta reciprocidad entre ambos que las mantiene ligadas. Por eso la segunda también es necesaria para la explicación del hecho social.
+
+**Ejemplo:** La reacción social que constituye la pena se debe a la intensidad de los sentimientos colectivos que el crimen ofende, pero tiene como función la de mantener los sentimientos en el mismo grado de intensidad, ya que no tardarían en debilitarse si las ofensas padecidas no fueran castigadas.
+{: .notice-info }
+
+### Método de explicación
+
+Tradicionalmente se han explicado los fenómenos primordialmente por medios psicológicos (al igual que en la economía ortodoxa); pues se parte de la suposición de que la sociedad parte de un agrupamiento de consciencias particulares y que, por tanto, los fines no podían ser mas que individuales.
+
+Sin embargo, dado que la característica esencial de los hechos sociales consiste en el poder que tienen de ejercer una presión externa sobre las conciencias individuales, es porque no derivan de ella. Por tanto, la sociología no puede ser un corolario de la psicología.
+
+La ihibición, la contención de nuestros propios instintos y tendencias es en realidad el medio a través del cual la coerción social produce sus efectos psíquicos; no es, ella misma, coerción. La única obligación es la que nos viene dada y no podemos controlar.
+
+Un todo no es idéntico a la suma de sus partes. El sistema formado por la asociación de individuos representa una realidad específica que tiene sus propias características. No se puede producir nada colectivo sin las conciencias individuales, pero esta condición necesaria, no es suficiente. El grupo piensa, siente y actúa de un modo completamente distinto al que lo harían sus miembros si estuvieran aislados. Los sentimientos colectivos pueden incluso oponerse a la media de los sentimientos individuales. Mayor será dicho desfase en tanto en cuanto a la acción de los contemporáneos se agrega la de las generaciones pasadas y la tradición.
+
+Si se parte de los individuos para explicar los hechos sociales, no se podrá entender nada de lo que ocurre en el grupo. A una explicación puramente psicológica de los hechos sociales necesariamente se le escapa todo lo que tienen de específico, es decir, de social. Así que, descartada la parte individual, solo queda la sociedad para explicar los fenómenos sociales.
+
+**Nota:** En consecuencia, toda explicación de un fenómeno social a través de otro psíquico es falsa.
+{: .notice-warning }
+
+Los fenómenos psicológicos solo pueden tener consecuencias sociales cuando están íntimamente relacionados a la acción de individuos con fuerza social especialmente grande, como los funcionarios, personas de estado u autoridades intelectuales con gran capacidad de influencia.
+
+**Nota personal:** Incluso en esos casos dichos individuos no escapan enteramente a la presión social.
+{: .notice-warning }
+
+El hecho de asociación es el más obligatorio de todos; porque es la fuente de todas las demás obligaciones. No puede concernir al pasado, que no pudo ser consentido y que sin embargo determina el presente y futuro. Puedo no haber querido la nacionalidad o educación que he recibido; y no obstante son, ante toda causa, las que me fija en la sociedad.
+
+**Ejemplo:** Como consecuencia de mi nacimiento, estoy obligatoriamente ligado a un pueblo determinado. Se suele decir, que luego, una vez adulto, se acepta esta obligación por el solo hecho de continuar viviendo en la mi país. Pero, en realidad, esto no le quita el caracter imperativo, pues una presión aceptada y padecida de buena gana no deja de ser una presión. Y, por otro lado, dicha adhesión es forzada tanto en cuanto, en la mayoría de casos, es material y moralmente imposible despojarnos de nuestra nacionalidad. 
+{: .notice-info }
+
+Se llega entonces a las siguientes reglas:
+- La causa determinante de un hecho social debe ser buscada entre los hechos sociales precedentes (que tienen caracter causal y de utilidad) y no entre los estados de conciencia individual.
+- La función de un hecho social se debe siempre buscar en la relación que sostiene con algún fin social.
+
+Como la condición determinante de los fenómenos sociales consiste en el hecho de asociación, estos variarán en consecuencia según las formas de asociación de las partes constituyentes de la sociedad. Es lo que llama el «*medio social interno*».
+
+Los elementos que componen dicho medio son de dos tipos:
+- Las personas
+- Las cosas. Cosas materiales y productos de la actividad social como el derecho y costumbres, obras literarias y artísticas, etcétera.
+
+En cualquier caso, la acción del cambio social no proviene de ninguna aunque ejercen cierto peso. Son en realidad la materia a la que se aplican las fuerzas vivas de la sociedad.
+
+El sociólogo debe **principalmente** descubrir las diferentes propiedades  de ese medio que sean suceptibles de ejercer una acción en el curso de los fenómenos sociales.
+
+Sin descartar otros, Durkheim identifica dos:
+- **El volumen de la sociedad**. 
+- **La densidad dinámica**. Concepto que se define en función del número de individos que están efectivamente en estrecha relación, que vivien una vida común. Lo que mejor la expresa es el grado de coalescencia de los segmentos sociales, o la poca diferencia entre los grupos parciales. Donde el espiritu local y vida regional es bajo con respecto al general.
+
+Como buen indicador de la *densidad dinámica*, está la *densidad material*. Que además del número de habitantes por unidad de superficie también ha de tener en cuenta el desarrollo de las vías de comunicación y transmisión como las infraestructuras de transporte, mecanismos de comercio, etcétera.
+
+**Nota:** La *densidad material* no es infalible, pues es posible que dichas vías no se usen como medio de unión de las poblaciones sino como medios de negocio y transporte de mercancías.
+{: .notice-info }
+
+Esta concepción del medio social es de máxima importancia pues si no se tiene en cuenta se pierde toda posibilidad de establecer cualquier relación de causalidad.
+
+Los *medios sociales externos*, es decir las sociedades ambientales, no tienen capacidad de influencia más allá de las funciones con objeto de ataque o defensa y que en cualquier caso, su influencia será por medio del *medio social interno*.
+
+### Evolución social histórica
+Resulta imposible determinar como el estado en un momento dado de una civilización  puede ser la causa dominante del estado que sigue. Es evidente que los progresos [o más bien cambios] realizados en una época, ya sea en cuestiones morales, políticas, económicas o de orden jurídico, hacen posible nuevos progresos [o cambios]. ¿Pero en qué los determina?.
+
+Experimentalmente lo único que podemos alcanzar es la sucesión de cambios en una especie sin lazo causal aparente. El estado precedente no determina el consecuente, nos sirve solo como lazo cronológico. Sólo podemos decir cólo las cosas sucedieron hasta la actualidad y no como sucederán en el futuro, porque las causas de las cuales se supone que dependen no están determinadas científicamente.
+
+### De la utilidad de los hechos sociales
+
+El medio social es, como se dijo anteriormente, dónde se consuman los cambios sociales. Luego el valor de utilidad de los fenómenos no es otro que su función causal del estado en el que se encuentra la sociedad.
+
+Si la utilidad no se puede establecer que en relación a un medio dado, como estos son diversos existe entonces una variedad de puntos de referencia, fundados en la propia naturaleza de cada medio social.
+
+La existencia de especies sociales está en relación estrecha con esto, pues si existen es precisamente porque las condiciones de la vida colectiva dependen antes que nada de condiciones concomitantes que presentan cierta diversidad.
+
+
 ## 6. Reglas relativas a la administración de la prueba
 ## Conclusión
 
@@ -272,3 +379,4 @@ Simplicidad en realidad lo que significa es la asusencia completa de partes.
 [^3]: [Wikipedia (es): Epistemología](https://es.wikipedia.org/wiki/Epistemolog%C3%ADa)
 [^4]: [El Positivismo y la Investigación Cientíica por Ing. José Pérez Villamar](https://dialnet.unirioja.es/descarga/articulo/6419741.pdf)
 [^5]: "Las reglas del método sociológico por Émile Durkheim. 2a edición"
+[^6]: "División du travail social"
