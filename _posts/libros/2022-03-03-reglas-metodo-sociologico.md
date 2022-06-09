@@ -1,7 +1,8 @@
 ---
-title: "Émile Durkheim: Referente del pensamiento sociológico"
+title: Las reglas del método sociológico
 isbn: 9789681624453
 date: 2022-03-03
+draft: false
 categories:
   - Sociología
 tags:
@@ -9,7 +10,7 @@ tags:
   - Métoco científico
 excerpt: Émile Durkheim es considerado uno de los padres de la Sociología. En este
   artículo reviso su obra sintetizando las ideas principales que desarrollan.
-lastmod: 2022-06-06T21:08:19.620Z
+lastmod: 2022-06-09T10:48:38.555Z
 ---
 
 # Sobre el autor
@@ -367,9 +368,65 @@ Si la utilidad no se puede establecer que en relación a un medio dado, como est
 
 La existencia de especies sociales está en relación estrecha con esto, pues si existen es precisamente porque las condiciones de la vida colectiva dependen antes que nada de condiciones concomitantes que presentan cierta diversidad.
 
-
 ## 6. Reglas relativas a la administración de la prueba
+
+Sólo existe un medio para demostrar que un fenómeno es causa de otro, y es comparar los casos en los que están presentes o ausentes simultáneamente y averiguar si las variaciones que presentan las distintas combinaciones muestran que uno dependa del otro.
+
+En sociología, difícilmente se pueden crear artificialmente las condiciones en un ambiente asilada como para estudiarlas, por eso **el método que se emplea es el de la experimentación indirecta o método comparativo**.
+
+De acuerdo al apartado anterior, la explicación sociológica consiste exclusivamente en establecer relaciones de causalidad; ya sea vinculando un fenómeno con su causa o una causa con sus efectos útiles.
+
+Para la aplicación del método comparativo de una manera científica, se deberá aceptar que *a un mismo efecto corresponde siempre una misma causa*. Si al estudiar un fenómeno, como el suicidio, se concluye que depende de más de una única causa es porque, en realidad, existen distintos tipos de suicidio.
+
+Dentro del método comparativo existen distintos procedimientos. No todos tienen la misma fuerza demostrativa sociológica.
+- **El método de los residuos**, en general no es útil en Sociología. Suele ser aplicable a las ciencias en un estado avanzado pues se requiere del conocimiento de un número importante de las leyes que aplican en el campo de estudio. Los fenómenos sociales son demasiado complejos como para poder descontar con exactitud el efecto de todas las causas menos una.
+
+-  **Métodos de concordancia y de diferencia**, por la misma razón que en el punto anterior, ambos métodos son de ninguna utilidad pues suponen que los casos comparados concuerdan o o difieren en un sólo punto. No se puede estar absolíutamente seguro de no haber dejado escapar algún antecedente que concuerde o difiera con el consecuente, al mismo tiempo y de la misma manera que el único antecedente conocido.
+
+- **El método de las variaciones concomitantes**, este método sí es útil en Sociología. Para que sea demostrativo, no se necesita que todas las distintas variaciones hayan sido rigurosamente excluidas. El simple paralelismo de valores por los que pasan dos fenómenos, siempre y cuando se hayan establecido un número *suficiente* de casos lo *bastante* variados,es prueba suficiente de existencia una relación entre ambos. 
+
+### Sobre el método de las variaciones concomitantes
+
+Cuando dos fenómenos varían regularmente de manera semejante, es preciso mantener esta relación incluso cuando, en ciertos casos, uno de esos fenómenos se presente sin el otro. Porque puede ser que o bien a la causa se le haya impedido producir su efecto por la acción de alguna causa contraria, o bien que se encuentre presente, pero bajo una forma diferente aún no identificada. 
+
+Es cierto que las leyes establecidas mediante este procedimiento no se presenten siempre bajo la forma de relaciones de causalidad. La concomitancia se puede deber no a que un fenómeno sea causa de otro, sino a que ambos sean efectos de una misma causa, o incluso que exista entre ellos un tercer fenómeno intercalad, que es efecto del primero y causa del segundo, que ha pasado desapercibido.
+
+Por todo ello, los resultados de la aplicación de este método requieren de interpretación. Esto no es ideal, y por ello, para asegurar el mayor de los rigores en la interpretación se ha de seguir estricta y metódicamente los siguiente:
+1. Buscar, con ayuda de la deducción, cómo uno de los dos términos pudo producir el otro.
+1. Verificar el resultado de dicha deducción con ayuda de experiencias, es decir, de nuevas comparaciones.
+1. Finalmente, se determinará si existe la prueba
+	1. Si la deducción es posible y la verificación exitosa, podremos contemplar la prueba como realizada.
+	1. Si por el contrario no se encuentra un lazo directo, sobretodo si la hipótesis crontradice leyes previamente demostradas, buscaremos un posible tercer fenómeno de los que los otros dependan por igual, o que pueda servier de intermediario entre ambos.
+
+### Sobre la variación de los fenómenos
+
+La vida social es una sucesión ininterrumpida de transformaciones, paralelas a otras transformaciones en las condiciones de la existencia colectiva; y no sólo tenemos a nuestra disposición las que se relacionan con una época reciente, sino un enorme número de ellas, por las que han pasado los pueblos desaparecidos y han llegado hasta nosotros. A diferencia de las especies animales, la historia de la humanidad es clara y completa.
+
+Existen una multitud de fenómenos sociales que se producen en toda la extensión de la sociedad, pero toman formas diferentes de acuerdo con las regiones, profesiones, confesiones, etcétera. De la diversidad de dichos medios especiales resultan, para cada orden de hechos, nuevas series de variaciones, por fuera de las que produce la evolución histórica.
+
+El método anterior únicamente produce resultados si se practica con rigor. No probamos nada si nos contentamos con hacer ver con ejemplos más o menos numerosos que, en casos dispersos, los hechos han variado como lo quiere la hipótesis. **Ilustrar una idea no es demostrarla.** Lo que hace falta es comparar no variaciones aisladas, sino series de variaciones, regularmente constituidas.
+
+Estas series pueden ser formadas de las siguientes maneras:
+- **de una única sociedad**, cuando se trata de hechos de una gran generalidad y contamos con informaciones estadísticas *suficientes* en extensión y variación (un largo periodo de tiempo y distintas variables como clases, tipo de hábitat, sexo, edad, estado civil, educación, etc). Siempre es conveniente en cualquier caso, confirmar los resultados obtenidos de este modo con otros pueblos de la misma especie.
+- **de varias de la misma especie**, cuando por ejemplo tratamos con instituciones, reglas jurídicas o morales, costumbres organizadas, que son la misma y funcionan del mismo modo en toda la extensión de un país y que sólo varia con el tiempo. Al tener varios pueblos distintos se dispone de un campo de comparación más extendido para comprobar si la evolución histórica de un fenómeno en cada pueblo por separado es en función de las mismas condiciones.
+- **de varias especies sociales diferentes**, dado que la mayoría de fenómenos no tienen origen en los pueblos comparados, pues la gran mayoría son transmitidos en parte por los pueblos precedentes, se requiere un campo de comparación mucho más amplio que permita entender los fenómenos más fundamentales, que son la raiz de los fenómenos más modernos o actuales.
+
+El tercero es evidentemente el más completo pues ofrece tanto el análisis como la sítesis del fenómeno. Nos muestra, por un lado, en estado disociado los elementos que lo componen y el modo qen que se van agregando unos a otros, y al mismo tiempo, las condiciones de las que depende su formación y asociación. En consecuencia, *solamente podemos explicar un hecho social de cualquier complejidad que sea a condición de seguir su desarrollo integral a través de todas las especies sociales*.
+
+Por eso, la sociología comparada no es una rama particular de la sociología; es la sociología misma.
+
+Para evitar graves errores la comparación sólo puede ser demostrativa si se elimina el factor perturbador de la «edad». Así, *será suciente con considerar a las sociedades que se compara en el mismo periodo de desarrollo*.
+
 ## Conclusión
+
+Cómo síntesis del método sociológico enumeramos sus características:
+1. Es independiente de toda filosofía
+1. Es un método objetivo, dominado por completo por la idea de hechos sociales como cosas.
+1. Es exclusivamente sociológico. Un hecho social solo puede ser explicado a través de otro hecho social. El emdio social interno es el motor principal de la evolución colectiva.
+
+## Dudas personales
+- Las causas y condiciones de cambio social entiendo que son internas a la sociedad y externas a los individuos. Sin embargo, en ciertas afirmaciones a lo largo del libro a veces me hacen entender que también son externas a la sociedad misma.
+- ¿Como se determina en que periodo de desarrollo se encuentra una especia social?
 
 
 # Referencias y bibliografía

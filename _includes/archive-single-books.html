@@ -4,14 +4,14 @@
           {% if book.review %}
             <a href="/blog/{{ book.review }}">
               {% if book.isbn %}
-                <img alt="{{ book.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-L.jpg">
+                <img alt="{{ book.title }}" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-L.jpg">
               {% else %}
                 {{ book.title }} por {{ book.author }}
               {% endif %}
             </a>
           {% else %}
             {% if book.isbn %}
-                <img alt="{{ book.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-L.jpg">
+                <img alt="{{ book.title }}" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-L.jpg">
               {% else %}
                 {{ book.title }} por {{ book.author }}
               {% endif %}
