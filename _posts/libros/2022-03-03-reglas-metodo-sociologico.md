@@ -10,7 +10,7 @@ tags:
   - Métoco científico
 excerpt: Émile Durkheim es considerado uno de los padres de la Sociología. En este
   artículo reviso su obra sintetizando las ideas principales que desarrollan.
-lastmod: 2022-06-09T10:48:38.555Z
+lastmod: 2022-06-09T13:14:05.134Z
 ---
 
 # Sobre el autor
@@ -140,7 +140,7 @@ Dicho lo anterior las reglas que Durkheim define son:
 	En muchos casos la sociología trata cosas sobre las que hablamos y tenemos contacto a diario.  Cosas muy familiares, como el crimen, la familia, la democracia, etc. Por eso se suele cometer el error de no darles una definición previa y rigurosa científicamente. La noción común de las cosas suele ser ambigua, lo que hace que reunamos bajo una misma explicación cosas que en realidad son muy diferentes.
 
 	**Ejemplos**: No es lo mismo la monogamia de hecho (que se da en muchas especies animales) que la monogamia de derecho, la obligatoria (que sólo se da en ciertas sociedades). Análogamente, no es lo mismo la Democracia en las sociedades primitivas que la de las actuales.
-	{: .notice-info }
+	{: .notice--info }
 
 	La definición además no debe contener una clasificación pues de ser así se corre el riesgo de obtener resultados subjetivos y truncados. A menos que se pueda negar objetivamente el principio de causalidad, es decir, que un mismo fenómeno pueda deberse tanto a una causa como a otra, no se podrá dar un signo distintivo de una acción que produzca normalmente el mismo efecto que otra. Para evitar este error, hay que definir desde la base, lo esencial de las cosas y no al revés. Por ejemplo, no es la pena lo que hace al crimen sino que esta nos revela su caracter externo.
 
@@ -287,12 +287,12 @@ Tradicionalmente se han pretendido explicar los hechos sociales por medio del ro
 Sin embargo, explicar para que sería útil un hecho no explica como ha nacido ni como es lo que es. Se suponen las propiedades específicas que lo caracterizan, pero no lo crean. Por otro lado, ya que cada hecho social tiene naturaleza propia y es una fuerza que domina al individuo, no es suficiente que exista cierta voluntad. Es por tanto preciso remontar a las causas y efectos hasta encontrar el punto de acción donde el ser humano tiene capacidad.
 
 **Ejemplo:** Para reanimar el espíritu de familia allí en donde se ha debilitado, no es suficiente con que todo el mundo comprenda sus ventajas; es preciso hacer actuar a las causas que son suceptibles de engendrarlo.
-{: .notice-info }
+{: .notice--info }
 
 Además, cabe la posibilidad de que existan hechos que no sirvan para nada, ya sea porque nunca tuvieron utilidad o porque después de tenerla la haya perdido y el hecho haya continuado su existencia por fuerza de la costumbre. También hay casos en los que una práctica o institución social, cambien de función sin por ello cambiar de naturaleza.
 
 **Ejemplo:** Los dogmas religiosos del cristianismo han permanecido invariantes durante siglos, mientras que el rol que juegan en nada se parecen en la actualidad a con la Edad Media.
-{: .notice-info }
+{: .notice--info }
 
 Es decir, el fenómeno es independiente de la función; las causas que lo hacen ser son independientes de los fines a los que sirve. Esto no quiere decir, que las necesidades, los deseos no puedan intervenir de manera activa en la evolución social; estos pueden actuar en las condiciones de las que depende un hecho, apurando o conteniendo su desarrollo. La única razón de la existencia de un hecho es la realización de las condiciones necesarias de las que depende.
 
@@ -301,7 +301,7 @@ Por todo ello, para explicar un fenómeno social, hay que buscar de manera separ
 Si bien es natural buscar la causa de un fenómeno antes que intentar determinar sus efectos, no se puede obviar que existe cierta reciprocidad entre ambos que las mantiene ligadas. Por eso la segunda también es necesaria para la explicación del hecho social.
 
 **Ejemplo:** La reacción social que constituye la pena se debe a la intensidad de los sentimientos colectivos que el crimen ofende, pero tiene como función la de mantener los sentimientos en el mismo grado de intensidad, ya que no tardarían en debilitarse si las ofensas padecidas no fueran castigadas.
-{: .notice-info }
+{: .notice--info }
 
 ### Método de explicación
 
@@ -316,17 +316,17 @@ Un todo no es idéntico a la suma de sus partes. El sistema formado por la asoci
 Si se parte de los individuos para explicar los hechos sociales, no se podrá entender nada de lo que ocurre en el grupo. A una explicación puramente psicológica de los hechos sociales necesariamente se le escapa todo lo que tienen de específico, es decir, de social. Así que, descartada la parte individual, solo queda la sociedad para explicar los fenómenos sociales.
 
 **Nota:** En consecuencia, toda explicación de un fenómeno social a través de otro psíquico es falsa.
-{: .notice-warning }
+{: .notice--warning }
 
 Los fenómenos psicológicos solo pueden tener consecuencias sociales cuando están íntimamente relacionados a la acción de individuos con fuerza social especialmente grande, como los funcionarios, personas de estado u autoridades intelectuales con gran capacidad de influencia.
 
 **Nota personal:** Incluso en esos casos dichos individuos no escapan enteramente a la presión social.
-{: .notice-warning }
+{: .notice--warning }
 
 El hecho de asociación es el más obligatorio de todos; porque es la fuente de todas las demás obligaciones. No puede concernir al pasado, que no pudo ser consentido y que sin embargo determina el presente y futuro. Puedo no haber querido la nacionalidad o educación que he recibido; y no obstante son, ante toda causa, las que me fija en la sociedad.
 
 **Ejemplo:** Como consecuencia de mi nacimiento, estoy obligatoriamente ligado a un pueblo determinado. Se suele decir, que luego, una vez adulto, se acepta esta obligación por el solo hecho de continuar viviendo en la mi país. Pero, en realidad, esto no le quita el caracter imperativo, pues una presión aceptada y padecida de buena gana no deja de ser una presión. Y, por otro lado, dicha adhesión es forzada tanto en cuanto, en la mayoría de casos, es material y moralmente imposible despojarnos de nuestra nacionalidad. 
-{: .notice-info }
+{: .notice--info }
 
 Se llega entonces a las siguientes reglas:
 - La causa determinante de un hecho social debe ser buscada entre los hechos sociales precedentes (que tienen caracter causal y de utilidad) y no entre los estados de conciencia individual.
@@ -349,7 +349,7 @@ Sin descartar otros, Durkheim identifica dos:
 Como buen indicador de la *densidad dinámica*, está la *densidad material*. Que además del número de habitantes por unidad de superficie también ha de tener en cuenta el desarrollo de las vías de comunicación y transmisión como las infraestructuras de transporte, mecanismos de comercio, etcétera.
 
 **Nota:** La *densidad material* no es infalible, pues es posible que dichas vías no se usen como medio de unión de las poblaciones sino como medios de negocio y transporte de mercancías.
-{: .notice-info }
+{: .notice--info }
 
 Esta concepción del medio social es de máxima importancia pues si no se tiene en cuenta se pierde toda posibilidad de establecer cualquier relación de causalidad.
 
