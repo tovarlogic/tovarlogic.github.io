@@ -1,10 +1,13 @@
 ---
-title: Proyecto colaborativo de gestión de colonias felinas y reducción de su impacto
-  ambiental
+title: Proyecto de gestión de colonias felinas para la protección de la biodiversidad
+  y del bienestar animal
 date: 2022-06-14
+layout: serie
+serie: colonias-felinas
+permalink: /proyectos/colonias-felinas
 categories:
   - Medio Ambiente
-lastmod: 2022-06-15T10:54:47.378Z
+lastmod: 2022-06-15T19:01:01.545Z
 ---
 
 ## Motivación
@@ -51,15 +54,15 @@ Para ello habrá que actuar de modo que se mejore la concienciación y sensibili
 Resumidamente lo que proponemos es, por un lado, gestionar las colonias de felinos asilvestrados de una manera ecológicamente más responsable y, por el otro, reducir el flujo de nuevos gatos en el medio natural.
 
 
-## Planificación y gestión del proyecto
+## Metodología a seguir
 
 Para la correcta ejecución de cualquier tipo de idea resulta clave la fase inicial de estudio del problema, en análisis de las posibles soluciones y una vez seleccionada la que se considere más adecuada, la creación de una plan de acción coherente y realista.
 
 Para todo ello emplearemos la metodología estandar de Gestión de Proyectos establecida por el [PMI](https://www.pmi.org) (Project Management Institute) y trataremos de aplicar un enfoque ágil.
 
-Esperamos esto nos permita optimizar la necesaria cooperación con otras asociaciones cuya experiencia probablemente resulte indispensable, así como con las adminstraciones públicas locales, regionales e incluso nacionales y europeas sin las cuales resultaría muy complicado alcanzar la consecución de los objetivos. 
+Esperamos esto nos permita optimizar la necesaria cooperación con otras asociaciones cuya experiencia probablemente resulte indispensable, así como con las adminstraciones públicas locales, regionales e incluso nacionales sin las cuales resultaría muy complicado alcanzar la consecución de los objetivos. 
 
-Para la sostenibilidad en el tiempo de la empresa que nos hemos propuesto, necesitaremos fuentes de financiación suficientes, estables y previsibles.
+Para la sostenibilidad en el tiempo de la empresa que nos hemos propuesto, necesitaremos fuentes de financiación suficientes, estables y previsibles. Por eso, además de la financiación por crowdfunding o donaciones individuales, necesitaremos involucrar a sociedades cuya responsabilidad corporativa se alinee con los objetivos del proyecto y realizar un esfuerzo importante para lograr financiación a través de ayudas, fondos y subvenciones gubernamentales a todos los niveles geográficos y políticos.
 
 
 
