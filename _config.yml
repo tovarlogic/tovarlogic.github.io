@@ -326,10 +326,10 @@ defaults:
       type: notas
   # recursos
   - scope:
-      path: "_posts/recursos"
+      path: "_posts/proyectos"
       type: posts
     values:
-      type: recursos
+      type: proyectos
   # _pages
   - scope:
       path: "_pages"
