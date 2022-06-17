@@ -110,6 +110,10 @@ es: &DEFAULT_ES
   results_found              : "resultado(s) encontrado(s)"
   back_to_top                : "Volver arriba"
   draft                      : "Borrador"
+  declined                   : "Rechazado"
+  approved                   : "Aprobado"
+  pending_approval           : "Pendiente de aprobación"
+  open                       : "En edición"
 es-ES:
   <<: *DEFAULT_ES
 es-CO:

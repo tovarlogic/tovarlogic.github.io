@@ -2,8 +2,8 @@
 title: 1.1.2 Contexto moral y legal
 permalink: /proyectos/colonias-felinas/contexto-moral-legal
 date: 2022-06-15
-lastmod: 2022-06-17T11:07:23.863Z
-status: draft
+lastmod: 2022-06-17T17:20:14.011Z
+status: open
 ---
 
 ## En lo relativo al bienestar animal

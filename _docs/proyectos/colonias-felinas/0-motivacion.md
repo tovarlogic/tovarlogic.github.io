@@ -4,7 +4,8 @@ title: Programa de gestión integral de colonias felinas para la protección de 
 permalink: /proyectos/colonias-felinas
 serie_index: true
 date: 2022-06-14
-lastmod: 2022-06-17T11:13:26.929Z
+lastmod: 2022-06-17T17:19:55.359Z
+status: pending_approval
 ---
 
 ## Motivación

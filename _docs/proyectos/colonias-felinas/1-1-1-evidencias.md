@@ -2,8 +2,8 @@
 title: 1.1.1 Evidencias
 permalink: /proyectos/colonias-felinas/evidencias
 date: 2022-06-17
-lastmod: 2022-06-17T11:07:00.743Z
-status: draft
+lastmod: 2022-06-17T17:20:01.915Z
+status: open
 ---
 
 Una vez expuestas las motivaciones de la idea que pretendemos desarrollar a modo de proyecto, resulta indispensable adquirir un conocimiento suficiente sobre las cuestiones fundamentales. 

@@ -36,9 +36,9 @@
     {% if document.show_status and document.status and document.show_date or document.read_time %}<span class="page__meta-sep"></span>{% endif %}
 
     {% if document.show_status and document.status %}
-      <span class="page__meta-status {% if document.status == 'draft' %} --bs-danger {% endif %}">
-        <i class="far {% if include.type == 'grid' and document.read_time or document.show_date %}fa-fw {% endif %}fa-file-alt" aria-hidden="true"></i>
-        {{ site.data.ui-text[site.locale].[document.status] }}
+      <span class="page__meta-status {% if document.status == 'draft' %} text-pink {% elsif document.status == 'declined' %} text-danger {% elsif document.status == 'approved' %} text-success {% elsif document.status == 'pending_approval' %} text-warning {% elsif document.status == 'open' %} text-primary {% endif %}">
+        <i class="{% if include.type == 'grid' and document.read_time or document.show_date %}fa-fw {% endif %} {% if document.status == 'draft' %} far fa-file-alt {% elsif document.status == 'declined' %} far fa-times {% elsif document.status == 'approved' %} far fa-check {% elsif document.status == 'pending_approval' %} fas fa-file-alt {% elsif document.status == 'open' %} far fa-edit {% endif %}" aria-hidden="true"></i>
+        {{ site.data.ui-text[site.locale].[document.status] }} 
       </span>
     {% endif %}
   </p>
