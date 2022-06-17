@@ -1,19 +1,21 @@
 ---
-title: "El Pacto Verde Europeo"
+title: El Pacto Verde Europeo
 date: 2022-02-02
-categories: [Medio Ambiente]
-tags: [Europa, Cambio Climático, Derecho Internacional]
+categories:
+  - Medio Ambiente
+tags:
+  - Europa
+  - Cambio Climático
+  - Derecho Internacional
 layout: serie
 serie: cambio-climatico
-header:
-  teaser: /assets/images/blog/teasers/european-green-deal.jpg
-  overlay_color: "#333"
-  actions:
-    - label: "Serie: Cambio climático"
-      url: "/blog/series/cambio-climatico/"
+serie_index: true
 shared-content:
-  definitions: [derecho-internacional]
-  acronyms: [cambio-climatico]
+  definitions:
+    - derecho-internacional
+  acronyms:
+    - cambio-climatico
+lastmod: 2022-06-17T11:34:55.171Z
 ---
 
 # Introducción

@@ -56,5 +56,19 @@
     }
   ],
   "frontMatter.framework.id": "jekyll",
-  "frontMatter.content.publicFolder": "assets"
+  "frontMatter.content.publicFolder": "assets",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "_posts",
+      "path": "[[workspace]]/_posts"
+    },
+    {
+      "title": "_recetas",
+      "path": "[[workspace]]/_recetas"
+    },
+    {
+      "title": "_docs",
+      "path": "[[workspace]]/_docs"
+    }
+  ]
 }

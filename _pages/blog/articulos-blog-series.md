@@ -1,12 +1,12 @@
 ---
 title: "Blog: Series monográficas"
 breadcrumb_name: series
-layout: archive
+layout: archive_left
 permalink: /blog/series/
 author_profile: false
 classes: wide
 entries_layout: grid
-lastmod: 2022-06-15T18:43:25.993Z
+lastmod: 2022-06-17T11:42:06.043Z
 ---
 
 [Ordenar por tipología y temática](/blog/){: .btn .btn--inverse} 
@@ -15,7 +15,7 @@ lastmod: 2022-06-15T18:43:25.993Z
 [Series monográficas](/blog/series){: .btn .btn--primary}
 [Borradores](/blog/borradores/){: .btn .btn--inverse}
 
-{% assign series_pages = site.pages | where: "item", "item.layout == serie" | sort %}
-{% for page in series_pages %}
-    {% include archive-single.html %}
+{% assign series = site.posts | where: "serie_index", true | sort %}
+{% for post in series %}
+    {% include archive-single-serie.html type=entries_layout %}
 {% endfor %}

@@ -1,19 +1,22 @@
 ---
-title:  "Protocolo de Kioto"
-date:   2021-05-05
-categories: [Medio Ambiente]
-tags: [Cambio Climático, Derecho Internacional, Tratados Internacionales]
+title: Protocolo de Kioto
+date: 2021-05-05
+categories:
+  - Medio Ambiente
+tags:
+  - Cambio Climático
+  - Derecho Internacional
+  - Tratados Internacionales
 serie: cambio-climatico
 layout: serie
-excerpt: Resumen sobre el contenido del acuerdo del Protocolo de Kioto de 1997 contra el cambio climático.
-header:
-  overlay_color: "#333"
-  actions:
-    - label: "Serie: Cambio climático"
-      url: "/blog/series/cambio-climatico/"
+excerpt: Resumen sobre el contenido del acuerdo del Protocolo de Kioto de 1997 contra
+  el cambio climático.
 shared-content:
-  definitions: [derecho-internacional]
-  acronyms: [cambio-climatico]
+  definitions:
+    - derecho-internacional
+  acronyms:
+    - cambio-climatico
+lastmod: 2022-06-17T11:34:14.341Z
 ---
 
 ## Introducción

@@ -324,12 +324,6 @@ defaults:
       type: posts
     values:
       type: notas
-  # recursos
-  - scope:
-      path: "_posts/proyectos"
-      type: posts
-    values:
-      type: proyectos
   # _pages
   - scope:
       path: "_pages"
@@ -339,34 +333,23 @@ defaults:
       author_profile: false
       related: false
       post_pagination: false
-  # _pages/blog/series
+  # Proyecto: Colonias-felinas
   - scope:
-      path: "_pages/blog/series"
-      type: pages
-    values:
-      layout: series
-      type: series
-      permalink: /:path
-      show_date: true
-      author_profile: false
-      related: false
-      post_pagination: false
-      classes: wide
-      entries_layout: grid
-  # _docs
-  - scope:
-      path: ""
+      path: "_docs/proyectos/colonias-felinas"
       type: docs
     values:
-      layout: single
-      read_time: false
+      layout: serie
+      serie: colonias-felinas
+      toc: false
+      classes: wide
+      read_time: true
+      show_date: true
+      show_status: true
       author_profile: false
       share: false
-      comments: false
-      related: false
-      post_pagination: false
-      toc: true
-      toc_sticky: true
+      comments: true
+      categories:
+        - Medio Ambiente
   # Frances
   - scope:
       path: "_docs/aprendiendo/frances"

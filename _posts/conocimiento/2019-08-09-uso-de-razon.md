@@ -1,16 +1,16 @@
 ---
-title:  "Uso de Razón"
-date:   2019-08-09
-categories: [Pensamiento]
-tags: [Razonamiento, Pensamiento Crítico]
+title: Uso de Razón
+date: 2019-08-09
+categories:
+  - Pensamiento
+tags:
+  - Razonamiento
+  - Pensamiento Crítico
 serie: razonamiento
 layout: serie
-excerpt: Resumen sobre el contenido del Acuerdo de París de 2015, ratificado en 2016 en Nueva York, contra el cambio climático.
-header:
-  overlay_color: "#333"
-  actions:
-    - label: "Serie: Razonamiento"
-      url: "/blog/series/razonamiento/"
+excerpt: Resumen sobre el contenido del Acuerdo de París de 2015, ratificado en 2016 en
+  Nueva York, contra el cambio climático.
+lastmod: 2022-06-17T11:26:49.606Z
 ---
 
 ## Definiciones

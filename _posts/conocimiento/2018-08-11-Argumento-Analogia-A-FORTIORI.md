@@ -1,16 +1,15 @@
 ---
-title:  Argumentos por Analogía "A Fortiori" o Comparación del mismo grado
-date:   2018-08-11
-categories: [Pensamiento]
-tags: [Razonamiento, Pensamiento Crítico]
+title: Argumentos por Analogía "A Fortiori" o Comparación del mismo grado
+date: 2018-08-11
+categories:
+  - Pensamiento
+tags:
+  - Razonamiento
+  - Pensamiento Crítico
 serie: razonamiento
 layout: serie
 excerpt: Comparación con ejemplos a mayores o menores.
-header:
-  overlay_color: "#333"
-  actions:
-    - label: "Serie: Razonamiento"
-      url: "/blog/series/razonamiento/"
+lastmod: 2022-06-17T11:26:49.617Z
 ---
 
 # Introducción

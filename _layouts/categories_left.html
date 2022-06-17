@@ -7,7 +7,6 @@ layout: archive_left
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
 {% assign posts_by_type = site.posts | where: "draft", false | group_by: "type" | sort: 'size' | reverse %}
-{% assign series = site.pages | where_exp:"page", "page.serie" %}
 
 <section class="taxonomy__section">
   <h2 class="archive__subtitle">Tipos de artículo</h2>
@@ -51,14 +50,7 @@ layout: archive_left
           <h3 class="archive__subtitle">{{ category_posts.name | replace: ", ", " - " | remove: "[" | remove: "]" | remove: '"' | remove: "\"}}</h3>
           <div class="entries-{{ entries_layout }}">
             {% for post in category_posts.items %}
-              {% unless post.serie %}
                 {% include archive-single.html type=entries_layout %}
-              {% endunless %}
-            {% endfor %}
-            {% for post in series %}
-              {% if post.serie and post.category == category_posts.name %}
-                {% include archive-single.html type=entries_layout %}
-              {% endif %}
             {% endfor %}
           </div>
           <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>

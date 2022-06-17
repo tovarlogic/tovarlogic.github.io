@@ -12,12 +12,7 @@ excerpt: La cultura griega supone el fundamento de las sociedades occidentales
   B.C. con la intención de comprender las similitudes y diferencias con nuestra
   cultura actual y entender por qué la sociedad contemporánea se ha definido en
   su forma actual.
-header:
-  overlay_color: "#333"
-  actions:
-    - label: "Serie: Civilizaciones"
-      url: /blog/series/civilizaciones/
-lastmod: 2022-05-26T11:44:45.775Z
+lastmod: 2022-06-17T11:27:47.255Z
 ---
 
 # Grecia y el occidente moderno

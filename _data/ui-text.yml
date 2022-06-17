@@ -11,7 +11,7 @@ en: &DEFAULT_EN
   pagination_previous        : "Previous"
   pagination_next            : "Next"
   breadcrumb_home_label      : "Home"
-  breadcrumb_separator       : "/"
+  breadcrumb_separator       : ">"
   menu_label                 : "Toggle menu"
   search_label               : "Toggle search"
   toc_label                  : "On this page"
@@ -109,6 +109,7 @@ es: &DEFAULT_ES
   search_algolia_no_results  :
   results_found              : "resultado(s) encontrado(s)"
   back_to_top                : "Volver arriba"
+  draft                      : "Borrador"
 es-ES:
   <<: *DEFAULT_ES
 es-CO:

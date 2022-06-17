@@ -1,19 +1,23 @@
 ---
-title:  "El convenio de viena"
-date:   2021-05-15
-categories: [Medio Ambiente]
-tags: [Cambio Climático, Ozono, Derecho Internacional, Tratados Internacionales]
+title: El convenio de viena
+date: 2021-05-15
+categories:
+  - Medio Ambiente
+tags:
+  - Cambio Climático
+  - Ozono
+  - Derecho Internacional
+  - Tratados Internacionales
 serie: cambio-climatico
 layout: serie
-excerpt: Resumen sobre el contenido del Convenio de Viena para la protección de la capa de ozono.
-header:
-  overlay_color: "#333"
-  actions:
-    - label: "Serie: Cambio climático"
-      url: "/blog/series/cambio-climatico/"
+excerpt: Resumen sobre el contenido del Convenio de Viena para la protección de la capa
+  de ozono.
 shared-content:
-  definitions: [derecho-internacional]
-  acronyms: [cambio-climatico]
+  definitions:
+    - derecho-internacional
+  acronyms:
+    - cambio-climatico
+lastmod: 2022-06-17T11:34:31.867Z
 ---
 
 # Introducción

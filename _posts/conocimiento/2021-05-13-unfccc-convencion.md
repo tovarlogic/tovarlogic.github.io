@@ -1,19 +1,22 @@
 ---
-title:  "La convención"
-date:   2021-05-13
-categories: [Medio Ambiente]
-tags: [Cambio Climático, Derecho Internacional, Tratados Internacionales]
+title: La convención
+date: 2021-05-13
+categories:
+  - Medio Ambiente
+tags:
+  - Cambio Climático
+  - Derecho Internacional
+  - Tratados Internacionales
 serie: cambio-climatico
 layout: serie
-excerpt: Resumen sobre el contenido de la Convención Marco de las Naciones Unidas por el Cambio Climático (CMNUCC) de 1992.
-header:
-  overlay_color: "#333"
-  actions:
-    - label: "Serie: Cambio climático"
-      url: "/blog/series/cambio-climatico/"
+excerpt: Resumen sobre el contenido de la Convención Marco de las Naciones Unidas por
+  el Cambio Climático (CMNUCC) de 1992.
 shared-content:
-  definitions: [derecho-internacional]
-  acronyms: [cambio-climatico]
+  definitions:
+    - derecho-internacional
+  acronyms:
+    - cambio-climatico
+lastmod: 2022-06-17T11:34:28.827Z
 ---
 
 # Introducción
