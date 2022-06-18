@@ -1,7 +1,7 @@
 ---
 title: Protocolo de Montreal
 date: 2021-05-15
-lastmod: 2022-06-17T11:34:38.478Z
+lastmod: 2022-06-18T12:28:01.051Z
 categories:
   - Medio Ambiente
 tags:
@@ -13,11 +13,13 @@ serie: cambio-climatico
 layout: serie
 excerpt: Resumen sobre el contenido del Protocolo de Montreal para la protección de la
   capa de ozono.
-shared-content:
-  definitions:
-    - derecho-internacional
-  acronyms:
-    - cambio-climatico
+definitions:
+  - derecho-internacional
+acronyms:
+  - organizaciones-internacionales
+  - acuerdos-internacionales
+  - cambio-climatico
+  - medio-ambiente
 ---
 
 # Introducción

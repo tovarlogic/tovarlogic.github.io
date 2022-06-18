@@ -11,12 +11,14 @@ serie: cambio-climatico
 layout: serie
 excerpt: Resumen sobre el contenido de la Convención Marco de las Naciones Unidas por
   el Cambio Climático (CMNUCC) de 1992.
-shared-content:
-  definitions:
-    - derecho-internacional
-  acronyms:
-    - cambio-climatico
-lastmod: 2022-06-17T11:34:28.827Z
+definitions:
+  - derecho-internacional
+acronyms:
+  - organizaciones-internacionales
+  - acuerdos-internacionales
+  - cambio-climatico
+  - medio-ambiente
+lastmod: 2022-06-18T12:38:34.870Z
 ---
 
 # Introducción
@@ -96,9 +98,9 @@ Se crean diferentes órganos subsidiarios para el correcto funcionamiento de la 
 
 Así mismo se establece un **Mecanismo de financiación** para  el  suministro  de  recursos financieros  a  título  de  subvención  o  en  condiciones  de  favor  para,  entre  otras  cosas,  la transferencia de tecnología.
 
+{% include shared-content.md %}
 
 # Bibliografía y referencias
 
 - [1]: https://unfccc.int/sites/default/files/convention_text_with_annexes_spanish_for_posting.pdf "CMNUCC ed consolidada 1992"
 
-{% include shared-content.html %}

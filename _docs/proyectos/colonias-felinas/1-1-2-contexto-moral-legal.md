@@ -2,23 +2,27 @@
 title: 1.1.2 Contexto moral y legal
 permalink: /proyectos/colonias-felinas/contexto-moral-legal
 date: 2022-06-15
-lastmod: 2022-06-17T17:20:14.011Z
+lastmod: 2022-06-18T13:05:25.761Z
+definitions:
+  - derecho-internacional
+  - bienestar-animal
+  - biodiversidad
 status: open
 ---
 
 ## En lo relativo al bienestar animal
 
-El 15 de Octubre de 1978 se proclama, en la sede de la [UNESCO](https://es.unesco.org/) de París, la [Declaración Universal de los Derechos del Animal (DUDA)](https://www.filosofia.org/cod/c1977ani.htm) por parte de la Liga Internacional de los Derechos del Animal (LIDA), las Ligas Nacionales afiliadas y las personas físicas asociadas a ellas. Su objetivo era concienciar a la sociedad acerca del cuidado y el respeto hacia los animales. 
+El 15 de Octubre de 1978 se proclama, en la sede de la [UNESCO](https://es.unesco.org/) de París, la [Declaración Universal de los Derechos del Animal](https://www.filosofia.org/cod/c1977ani.htm) (DUDA) por parte de la Liga Internacional de los Derechos del Animal (LIDA), las Ligas Nacionales afiliadas y las personas físicas asociadas a ellas. Su objetivo era concienciar a la sociedad acerca del cuidado y el respeto hacia los animales. 
 
-**Nota:** De las ligas nacionales destaca, por su trayectoria histórica, la francesa o [LFDA](https://www.fondation-droit-animal.org).
+**Nota:** De las ligas nacionales destaca, por su trayectoria histórica, la francesa (LFDA) [^link6].
 {: .notice--info}
 
 **Nota:** Diversas fuentes afirman que la declaración fue aprobada/ratificada tanto por la [UNESCO](https://es.unesco.org/) como por la [ONU](https://www.un.org/es/). Sin embargo, en sus páginas web, donde se pueden consultar las declaraciones firmadas no hemos encontrado referencia alguna a este asunto. Es decir, la Declacación no tiene validez legal. Es una «mera» declaración de valores éticos, aunque algunos de los derechos recogidos ya forman parte de la legislación de muchos países [^paper2].
 {: .notice--warning}
 
-No hay que confundir lo anterior con la Declaración Universal de Bienestar Animal (DUBA), que es una propuesta inespecífica - aún sin un contenido  determinado - por parte de la Sociedad Mundial para Protección Animal (WSPA) que a partir de mediados de 2014 pasó a llamarse Protección Animal Mundial ([WAP](https://www.worldanimalprotection.org)). Esta organización, como decíamos ha promovido la conocida promueve la adopción intergubernamental de un código por definir que reconozca a los animales como seres capaces de sentir y sufrir, que tienen unas necesidades de bienestar que deben ser respetadas y que la crueldad hacia ellos debe terminar. 
+No hay que confundir la DUDA con la Declaración Universal de Bienestar Animal (DUBA), que es una propuesta inespecífica - aún sin un contenido  determinado - por parte de la Sociedad Mundial para Protección Animal (WSPA) que a partir de mediados de 2014 pasó a llamarse Protección Animal Mundial ([WAP](https://www.worldanimalprotection.org)). Esta organización, como decíamos ha promovido la conocida promueve la adopción intergubernamental de un código por definir que reconozca a los animales como seres capaces de sentir y sufrir, que tienen unas necesidades de bienestar que deben ser respetadas y que la crueldad hacia ellos debe terminar. 
 
-Cabe destacar que la resolución 5/1 de la Asamblea de la ONU sobre el Medio Ambiente (UNEA) firmada en marzo de 2022. Esta reconoce la posibilidad de un "Nexo entre bienestar animal, medio ambiente y desarrollo sostenible". Se espera que para 2024 el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA) presente un informe analizando en profundidad dicho vínculo y su importancia en caso de existir. 
+Cabe destacar que la resolución 5/1 de la Asamblea de la ONU sobre el Medio Ambiente (UNEA) firmada en marzo de 2022. Esta reconoce la posibilidad de un "Nexo entre bienestar animal, medio ambiente y desarrollo sostenible". Se espera que para 2024 el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA) presente un informe analizando en profundidad dicho vínculo y, en caso de existir, su importancia. 
 
 A nivel europeo el artículo 13 del Tratado de Funcionamiento de la Unión Europea [^ley13], exige que los Estados respeten las exigencias en materia de bienestar de los animales como seres sensibles. Adicionalmente España ratificó en 2017 el Convenio Europeo sobre protección de animales de compañía [^ley14], que reconoce entre otras cuestiones que el ser humano tiene la obligación moral de respetar todo ser viviente y de tener en cuenta su relación especial con las mascotas. Por eso establece un estandar básico sobre las actitudes y prácticas que resulte en la tenencia responsable de animales de compañía. Entre los principios básicos destacamos los siguientes:
 - **No causar daño, sufrimiento o angustia** innecesarios.
@@ -34,16 +38,19 @@ En 1965 el profesor británico Roger Brambell elaboró un informe en el que esta
 1. **La libertad de expresar un comportamiento normal** - proporcionando espacio suficiente, instalaciones adecuadas y la compañía de animales de la propia especie del animal.
 1. **Estar libres de miedo y angustia** - asegurando las condiciones y trato que evitan el sufrimiento físico y mental.
 
-En españa existe diversa legislación relativa al binestar animal, a continuación se detallan las normas nacionales más relevantes:
-- Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal [^ley10]. Desde la entrada su entrada en vigor se han contemplado los delitos relativos a la protección de la flora, fauna y animales domésticos, incluyendo el de abandono de animales. Este y otro delitos fueron posteriormente modificados posteriormente en 2003. 
+En españa existe diversa legislación relativa al binestar animal, a continuación se detallan las normas nacionales más relevantes, en cualquier caso se puede también consultar el Código de Protección y Bienestar Animal [^link5] que detalla toda la normativa española vigente:
 
-  Es el Artículo 337 el que tipifica como delito el maltrato injustificado, causando lesiones que menoscaben gravemente la salud del animal que no viva en estado salvaje, es decir, los domésticos, amansados, domesticados o bajo control humano.
+- Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal [^ley10]. Desde la entrada su entrada en vigor se han contemplado los delitos relativos a la protección de la flora, fauna y animales domésticos, incluyendo el de abandono de animales. 
+
+  Tras diversas reformas (2003, 2010 y 2015) quedaría de la siguiente manera:
+  
+  El Artículo 337 tipifica como delito el maltrato injustificado, causando lesiones que menoscaben la salud del animal que no viva en estado salvaje, es decir, los domésticos, amansados, domesticados o bajo control humano. Los delitos serán leves o graves dependiendo del daño causado.
 
   El Artículo 337 bis, introducido en 2015, contempla también como delito el abandono de los animales anteriores en condiciones en que pueda peligrar su vida o integridad [^link1]. 
 
 - Ley 8/2003, de 24 de abril, de sanidad animal [^ley2]. Tiene como motivaciones principales la prevención de enfermedades en animales, ya sean de caracter epizoóticas (epedímecas) o enzoóticas (endémicas), aunque también establece un régimen sancionador. Otorga a las CC.AA. las competencias exclusivas en materia de sanidad animal. El foco de esta ley se centra en la ganadería, reconociendo además el aumento de riesgo sanitario tanto para la población animal doméstica y silvestre, como para la humana, a causa de la concentración de poblaciones de animales en expltaciones ganaderas. También reconoce la necesidad de una gestión respetuosa con el medio ambiente y el entorno natural en las explotaciones ganaderas, en especial desde el punto de vista de la correcta gestión de los residuos. El alcance de esta ley abarca a todos los animales sin excepciones.
 
-- Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio [^ley1]. La motivación de esta ley es el cumplimiento de las obligaciones impuestas a los estados miembros por parte de la Unión Europea sobre protección de los animales en la explotación, el transporte, la experimentación y el sacrificio. Establece un común denominador normativo en el cual las Comunidades Autónomas ejerzan sus competencias. Existen una serie de Reales Decreto previos, todos enfocados a los animales de producción, que quedan definitivamente enmarcados bajo esta ley [^ley3] [^ley4] [^ley5] [^ley6] [^ley7] [^ley8] [^ley9]. En el alcance de esta ley se excluye la caza y la pesca, la fauna silvestre, los espectáculos taurinos, las competiciones deportivas regladas y los animales de compañía (salvo su transporte cuando se realice de forma colectiva y con fines económicos; y lo relativo a algunas infracciones detalladas en su disposición adicional primera).
+- Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio [^ley1]. La motivación de esta ley es el cumplimiento de las obligaciones impuestas a los estados miembros por parte de la Unión Europea sobre protección de los animales en la explotación, el transporte, la experimentación y el sacrificio. Establece un común denominador normativo en el cual las Comunidades Autónomas ejerzan sus competencias. Existen una serie de Reales Decreto previos, todos enfocados a los animales de producción, que quedan definitivamente enmarcados bajo esta ley [^ley3] [^ley4] [^ley5] [^ley6] [^ley7] [^ley8] [^ley9] [^ley16]. En el alcance de esta ley se excluye la caza y la pesca, la fauna silvestre, los espectáculos taurinos, las competiciones deportivas regladas y los animales de compañía (salvo su transporte cuando se realice de forma colectiva y con fines económicos; y lo relativo a algunas infracciones detalladas en su disposición adicional primera).
 
 - Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana [^ley11]. Esta ley también tiene en cuenta el abandono de los animales, concretamente en su Artículo 37 apartado 16 la ley dice que "dejar sueltos o en condiciones de causar daños animales feroces o dañinos, así como abandonar animales domésticos en condiciones en que pueda peligrar su vida" es una infracción leve.
 
@@ -54,20 +61,29 @@ En españa existe diversa legislación relativa al binestar animal, a continuaci
 
   El nuevo artículo 333 bis del Código Civil establece que los animales son seres vivos dotados de sensibilidad, y que sólo les será aplicable el régimen jurídico de los bienes y de las cosas en la medida en que sea compatible con su naturaleza o con las disposiciones destinadas a su protección.
 
-  Por otro lado, los animales son, en general, apropiables y objeto de comercio. Sin perjuicio de ello, la relación de la persona y el animal ha de ser modulada por la cualidad de ser sintiente, de modo que los derechos y facultades sobre los animales han de ser ejercitados atendiendo al bienestar y protección del animal, evitando el maltrato, el abandono y la provocación de una muerte cruel o innecesaria.  
+  Por otro lado, los animales son, en general, apropiables y objeto de comercio. Sin perjuicio de ello, la relación de la persona y el animal ha de ser modulada por la cualidad de ser sintiente, de modo que los derechos y facultades sobre los animales han de ser ejercitados atendiendo al bienestar y protección del animal, evitando el maltrato, el abandono y la provocación de una muerte cruel o innecesaria. 
+  
+  De acuerdo a los Art. 460 y 611, el poseedor de un animal podrá perder su posesión en caso de abandono o pérdida o por la posesión de otro si esta durase más de un año. Si una persona encuentra una animal perdido, deberá restituirlo a su dueño o responsable, si conoce su identidad; en el caso de indicios fundados de maltrato o abandono el hallador estará eximido de restituirlo, debiendo notificar a las autoridades competentes.
+
+  En los apartados donde se regula lo relativo a al convivencia familiar, el animal doméstico toma una nueva consideración (algo así como la de un hijo) y, por ejemplo, en el Art. 90 dispone que en caso de separación o divorcio se tendrá en cuenta interés de los miembros de la familia y bienestar del animal para el reparto de tiempos de convivencia, cuidados y cargas asociadas. 
 
 Dado que las competencias son de las Comunidades Autónomas la legislación no es uniforme en todo el territorio nacional. En este caso nos centraremos inicialmente en lo dispuesto en Canarias:
 
+- Ley 8/1991, de 30 de abril, de protección de los animales [^ley18]. En general, esta ley se inspira en los principios de respeto, defensa y protección de los animales de los tratados y convenios internacionales mencionados previamente, así como en la DUDA. 
+
+### Asocioaciones y voluntariado
 
 ## En lo relativo a la proteccion del medio ambiente y biodiversidad
 
-El Convenio de Naciones Unidas sobre la Diversidad Biológica (ratificado por España en 1993), establece que se «impedirá que se introduzca, y en el caso de que ya estén presentes, se controlen o erradiquen las especies exóticas que amenacen los ecosistemas, los hábitats o especies».
+El Convenio de Naciones Unidas sobre la Diversidad Biológica (CDB) [^link7], ratificado por España en 1993 [^link8], establece que se «impedirá que se introduzca, y en el caso de que ya estén presentes, se controlen o erradiquen las especies exóticas que amenacen los ecosistemas, los hábitats o especies».
 
 A nivel europeo, la Convención para la conservación de la vida silvestre y hábitats naturales europeos [^ley15], que fue ratificada por España en 1986, reconoce en su preámbulo «el papel esencial de la flora y fauna silvestres en el mantenimiento de los equilibrios biológicos»; y que su conservación «debería tomarse en consideración por los gobiernos, en sus objetivos y programas nacionales...». En su Anexo III especifica que todas las especies de reptiles y aves deben ser protegidas.
 
 - Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal. Contempla los delitos contra los recursos naturales y el medio ambiente. 
 
   En lo relativo al contexto medioambiental de este proyecto resulta destabable el contenido del Artículo 333 que contempla como delito la introducción o liberación de especies de flora o fauna no autóctona, de modo que perjudique el equilibrio biológico, contraviniendo las leyes o disposiciones de carácter general protectoras de las especies de flora o fauna.
+
+{% include shared-content.md %} 
 
 ## Fuentes y referencias
 
@@ -81,32 +97,65 @@ A nivel europeo, la Convención para la conservación de la vida silvestre y há
 
 [^link4]: [Farm Animal Welfare Council (FAWC): Las Cinco libertades del bienestar animal](https://webarchive.nationalarchives.gov.uk/ukgwa/20121010012427/http://www.fawc.org.uk/freedoms.htm)
 
-[^ley1]: [Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio](https://noticias.juridicas.com/base_datos/Admin/l32-2007.html)
+[^link5]: [Código de Protección y Bienestar Animal](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=204&modo=2&nota=0)
 
-[^ley2]: [Ley 8/2003, de 24 de abril, de sanidad animal](https://noticias.juridicas.com/base_datos/Admin/l8-2003.html)
+[^link6]: [LFDA ](https://www.fondation-droit-animal.org)
 
-[^ley3]: [Real Decreto 1047/1994, de 20 de mayo, relativo a las normas mínimas para la protección de terneros](https://noticias.juridicas.com/base_datos/Admin/rd1047-1994.html) 
+[^link7]: [Convenio de Naciones Unidas sobre la Diversidad Biológica (CDB)](https://www.cbd.int/)
 
-[^ley4]: [Real Decreto 54/1995, de 20 de enero, sobre protección de los animales en el momento de su sacrificio o matanza](https://noticias.juridicas.com/base_datos/Admin/rd54-1995.html)
+[^link8]: [Objetivos de España en lo relativo al CDB](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-la-biodiversidad/conservacion-de-la-biodiversidad-en-el-mundo/cb_mundo_convenio_diversidad_biologica.aspx)
 
-[^ley5]: [Real Decreto 348/2000, de 10 de marzo, por el que se incorpora al ordenamiento jurídico la Directiva 98/58/CE, relativa a la protección de los animales en las explotaciones ganaderas](https://noticias.juridicas.com/base_datos/Admin/rd348-2000.html)
+[^ley1]: [Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio](https://www.boe.es/eli/es/l/2007/11/07/32/con)
 
-[^ley6]: [Real Decreto 3/2002, de 11 de enero, por el que se establecen las normas mínimas de protección de las gallinas ponedoras](https://noticias.juridicas.com/base_datos/Admin/rd3-2002.html)
+[^ley2]: [Ley 8/2003, de 24 de abril, de sanidad animal](https://www.boe.es/eli/es/l/2003/04/24/8/con)
 
-[^ley7]: [Real Decreto 1135/2002, de 31 de octubre, relativo a las normas mínimas para la protección de cerdos](https://noticias.juridicas.com/base_datos/Admin/rd1135-2002.html)
+[^ley3]: [Real Decreto 1047/1994, de 20 de mayo, relativo a las normas mínimas para la protección de terneros](https://www.boe.es/eli/es/rd/1994/05/20/1047) 
 
-[^ley8]: [Real Decreto 751/2006, de 16 de junio, sobre autorización y registro de transportistas y medios de transporte de animales, por el que se crea el Comité español de bienestar y protección de los animales de producción](https://noticias.juridicas.com/base_datos/Admin/rd751-2006.html)
+[^ley4]: [Real Decreto 54/1995, de 20 de enero, sobre protección de los animales en el momento de su sacrificio o matanza](https://www.boe.es/eli/es/rd/1995/01/20/54/con)
 
-[^ley9]: [Real Decreto 53/2013, de 1 de febrero, por el que se establecen las normas básicas aplicables para la protección de los animales utilizados en experimentación y otros fines científicos, incluyendo la docencia](https://noticias.juridicas.com/base_datos/Admin/rd53-2013.html)
+[^ley5]: [Real Decreto 348/2000, de 10 de marzo, por el que se incorpora al ordenamiento jurídico la Directiva 98/58/CE, relativa a la protección de los animales en las explotaciones ganaderas](https://www.boe.es/eli/es/rd/2000/03/10/348/con)
 
-[^ley10]: [Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal](https://noticias.juridicas.com/base_datos/Penal/lo10-1995.html)
+[^ley6]: [Real Decreto 3/2002, de 11 de enero, por el que se establecen las normas mínimas de protección de las gallinas ponedoras](https://www.boe.es/eli/es/rd/2002/01/11/3)
 
-[^ley11]: [Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana](https://noticias.juridicas.com/base_datos/Penal/549725-lo-4-2015-de-30-mar-proteccion-de-la-seguridad-ciudadana.html#a37)
+[^ley7]: [Real Decreto 1135/2002, de 31 de octubre, relativo a las normas mínimas para la protección de cerdos](https://www.boe.es/eli/es/rd/2002/10/31/1135/con)
 
-[^ley12]: [Ley 17/2021, de 15 de diciembre, de modificación del Código Civil, la Ley Hipotecaria y la Ley de Enjuiciamiento Civil, sobre el régimen jurídico de los animales](https://noticias.juridicas.com/base_datos/Privado/714216-l-17-2021-de-15-dic-modificacion-del-codigo-civil-la-ley-hipotecaria-y-la.html)
+[^ley8]: [Real Decreto 542/2016, de 25 de noviembre, sobre normas de sanidad y protección animal durante el transporte.](https://www.boe.es/eli/es/rd/2016/11/25/542)
+
+[^ley9]: [Real Decreto 53/2013, de 1 de febrero, por el que se establecen las normas básicas aplicables para la protección de los animales utilizados en experimentación y otros fines científicos, incluyendo la docencia](https://www.boe.es/eli/es/rd/2013/02/01/53)
+
+[^ley10]: [Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal](https://www.boe.es/eli/es/lo/1995/11/23/10/con)
+
+[^ley11]: [Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana](https://www.boe.es/eli/es/lo/2015/03/30/4/con)
+
+[^ley12]: [Ley 17/2021, de 15 de diciembre, de modificación del Código Civil, la Ley Hipotecaria y la Ley de Enjuiciamiento Civil, sobre el régimen jurídico de los animales](https://www.boe.es/eli/es/l/2021/12/15/17)
 
 [^ley13]: [Versión consolidada del Tratado de funcionamiento de la UE](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:12012E/TXT&from=es)
 
 [^ley14]: [Convención europea para la protección de animales de compañía](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=125)
 
 [^ley15]: [Convención para la conservación de la vida silvestre y hábitats naturales europeos](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=104)
+
+[^ley16]: [Real Decreto 542/2016, de 25 de noviembre, sobre normas de sanidad y protección animal durante el transporte.](https://www.boe.es/eli/es/rd/2016/11/25/542)
+
+[^ley17]: [Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil.](https://www.boe.es/eli/es/rd/1889/07/24/(1)/con)
+
+[^ley18]: [Ley 8/1991, de 30 de abril, de protección de los animales.](https://www.boe.es/eli/es-cn/l/1991/04/30/8/con)
+
+[^ley19]:
+
+[^ley20]:
+
+[^ley21]:
+
+[^ley22]:
+
+[^ley]:
+[^ley]:
+[^ley]:
+[^ley]:
+[^ley]:
+[^ley]:
+[^ley]:
+[^ley]:
+[^ley]:
+[^ley]:

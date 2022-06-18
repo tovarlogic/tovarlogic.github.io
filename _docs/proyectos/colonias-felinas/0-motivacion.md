@@ -4,8 +4,8 @@ title: Programa de gestión integral de colonias felinas para la protección de 
 permalink: /proyectos/colonias-felinas
 serie_index: true
 date: 2022-06-14
-lastmod: 2022-06-17T17:19:55.359Z
-status: pending_approval
+lastmod: 2022-06-18T09:10:03.961Z
+status: approved
 ---
 
 ## Motivación
@@ -16,7 +16,7 @@ Dichas agrupaciones de voluntarios suelen aplicar cómo método principal de ges
 
 El defecto que encontramos a esta metodología es que ignora el impacto negativo que supone la existencia de un gato suelto el libertad en el medio natural para el resto de fauna local.
 
-Los animales de compañía, como perros y gatos - entre otros -, disfrutan de los privilegios que supone la creación un vínculo afectivo con el ser humano y, a la vez, la misma cercanía a nuestra especie hace que también sufran las consecuencias de nuestro abandono y maltrato. Creemos que es por ello que, en ciertos ámbitos sociales, exista una mayor concienciación sobre la importancia de velar por sus intereses vitales. 
+Los animales de compañía, como perros y gatos - entre otros -, disfrutan de los privilegios que supone la creación un vínculo afectivo con el ser humano y, a la vez, la misma cercanía a nuestra especie hace que también sufran las consecuencias del abandono y maltrato. Es debido a esta relación especial que, en ciertos ámbitos sociales, existe una mayor sensibilización sobre la protección de sus interesas frente al resto de animales. 
 
 Ahora bien, desde un punto de vista más objetivo, apartando en la medida de lo posible el factor emocional, resulta imposible defender que un tipo de animal se merezca una mayor protección que otro. Lamentablemente todos, en mayor o menor medida, son víctimas de la acción humana. Es por ello que tenemos la oblicación moral de tener en cuenta a todos los animales cuando realizamos cualquier actividad, incluida la protección del bienestar felino.
 

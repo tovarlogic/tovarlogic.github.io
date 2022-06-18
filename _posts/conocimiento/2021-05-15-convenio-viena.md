@@ -12,19 +12,21 @@ serie: cambio-climatico
 layout: serie
 excerpt: Resumen sobre el contenido del Convenio de Viena para la protección de la capa
   de ozono.
-shared-content:
-  definitions:
-    - derecho-internacional
-  acronyms:
-    - cambio-climatico
-lastmod: 2022-06-17T11:34:31.867Z
+definitions:
+  - derecho-internacional
+acronyms:
+  - organizaciones-internacionales
+  - acuerdos-internacionales
+  - cambio-climatico
+  - medio-ambiente
+lastmod: 2022-06-18T12:35:50.735Z
 ---
 
 # Introducción
 
 El Convenio de Viena para la protección de la capa de ozono, como su propio nombre indica se creó a consecuencia de las evidencias científicas sobre el impacto de ciertas sustancias antropogénicas cuya emisión a la atmósfera tienen sobre la capa de ozono. El convenio se firmó en 1985, entrando en vigor en 1988 y cuya ratificación mundial se alcanzó en 2009. 
 
-El Convenio se crea en virtud de los principios establecidos en la Declaración de la Conferencia de las Naciones Unidas sobre el Medio Humano, especialmente con el de que “los Estados tienen el derecho soberano de explotar sus propios recursos en aplicación de su propia política ambiental y la obligación de asegurar que las actividades que se lleven a cabo bajo su jurisdicción o control no perjudiquen el medio de otros Estados o de zonas situadas fuera de toda jurisdicción nacional”.
+El Convenio se crea en virtud de los principios establecidos en la Declaración de la Conferencia de las Naciones Unidas sobre el Medio Humano (CNUMAH), especialmente con el de que “los Estados tienen el derecho soberano de explotar sus propios recursos en aplicación de su propia política ambiental y la obligación de asegurar que las actividades que se lleven a cabo bajo su jurisdicción o control no perjudiquen el medio de otros Estados o de zonas situadas fuera de toda jurisdicción nacional”.
 
 Este asentó los principios necesarios para que en el posterior Protocolo de Montreal se establecieran las medidas concretas para su protección. Porque para aquel entonces ya era evidente que la modificación de las características físicas y bioquímicas de dicha capa afectan a la salud humana y el medio ambiente.
 

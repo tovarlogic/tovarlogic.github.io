@@ -11,12 +11,14 @@ serie: cambio-climatico
 layout: serie
 excerpt: Resumen sobre el contenido del Acuerdo de París de 2015, ratificado en 2016 en
   Nueva York, contra el cambio climático.
-shared-content:
-  definitions:
-    - derecho-internacional
-  acronyms:
-    - cambio-climatico
-lastmod: 2022-06-17T11:34:26.021Z
+definitions:
+  - derecho-internacional
+acronyms:
+  - organizaciones-internacionales
+  - acuerdos-internacionales
+  - cambio-climatico
+  - medio-ambiente
+lastmod: 2022-06-18T12:38:49.047Z
 ---
 
 # Introducción

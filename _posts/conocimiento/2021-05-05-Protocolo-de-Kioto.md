@@ -11,12 +11,14 @@ serie: cambio-climatico
 layout: serie
 excerpt: Resumen sobre el contenido del acuerdo del Protocolo de Kioto de 1997 contra
   el cambio climático.
-shared-content:
-  definitions:
-    - derecho-internacional
-  acronyms:
-    - cambio-climatico
-lastmod: 2022-06-17T11:34:14.341Z
+definitions:
+  - derecho-internacional
+acronyms:
+  - organizaciones-internacionales
+  - acuerdos-internacionales
+  - cambio-climatico
+  - medio-ambiente
+lastmod: 2022-06-18T12:38:55.283Z
 ---
 
 ## Introducción

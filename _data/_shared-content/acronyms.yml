@@ -1,0 +1,196 @@
+acuerdos-internacionales:
+  - key: CMNUCC
+    value: Convención Marco de las Naciones Unidas por el Cambio Climático - UNFCCC
+  - key: UNFCCC
+    value: Convención Marco de las Naciones Unidas por el Cambio Climático - CMNUCC
+  - key: UNCCD
+    value: Convención de Lucha contra la Desertificación
+  - key: CNUDB
+    value: Convenio de las Naciones Unidas sobre la Diversidad Biológica
+  - key: KP
+    value: Protocolo de Kioto
+  - key: AP
+    value: Acuerdo de París
+  - key:
+    value: 
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+
+organizaciones-internacionales:
+  - key: EU
+    value: Unión Europea
+  - key: UE
+    value: Unión Europea
+  - key: UNESCO
+    value: Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura
+  - key: UN
+    value: Naciones Unidas
+  - key: ONU
+    value: Organización de las Naciones Unidas
+  - key: BM
+    value: Banco Mundial
+  - key: FMI
+    value: Fondo Monetario Internacional
+  - key: BIRF
+    value: Banco Internacional de Reconstrucción y Fomento
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+
+organizaciones-nacionales:
+  - key: CEOE
+    value: Confederación Española de Organizaciones Empresariales 
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+
+legislacion:
+  - key: CP
+    value: Código Penal
+  - key: CC
+    value: Código Civil
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+
+medio-ambiente:
+  - key: PNUMA
+    value: Programa de las Naciones Unidas para el Medio Ambiente
+  - key: CNUMAH
+    value: Conferencia de las Naciones Unidas sobre el Medio Humano ("Conferencia de Estocolmo", 1972)
+  - key: CNUMAD
+    value: Conferencia de las Naciones Unidas sobre el Medio Ambiente y el Desarrollo ("Cumbre de la tierra", )
+  - key: UNEA
+    value: Asamblea de la ONU sobre el Medio Ambiente
+  - key: CDB
+    value: Convenio de Naciones Unidas sobre la Diversidad Biológica
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+
+cambio-climatico:
+  - key: IPCC
+    value: Grupo Intergubernamental de Expertos sobre el Cambio Climático
+  - key: GEI
+    value: Gases de Efecto Invernadero
+  - key: COPs
+    value: Conferencias de las Partes
+  - key: NDC
+    value: Contribuciones Determinadas a nivel Nacional
+  - key: JI
+    value: Proyectos de Aplicación Conjunta
+  - key: CDM
+    value: Clean Development Mechanism
+  - key: MDL
+    value: Mecanismo de Desarrollo Limpio
+  - key: CMP
+    value: Reuniones de las Partes del Protocolo de Kioto
+  - key: LULUCF
+    value: Land Use, Land-Use Change and Forestry - Uso de la Tierra, Cambio de Uso de la Tierra y Silvicultura (UTCUTS).
+  - key: DOL
+    value: 
+  - key: HFC
+    value: Hidrofluorocarbonos
+  - key: PAO
+    value: Potencial de agotamiento del ozono - Ozono Depletion Potential (ODP)
+  - key: PCA100
+    value: Potencial de calentamiento atmosférico en 100 años - Global warming potential (GWP)
+  - key: SAO
+    value: Sustancias que agotan el Ozono - Ozonoe Depletion Substantes (ODS)
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+
+filofofia-derecho:
+  - key: TS
+    value: Tesis Social
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+
+bienestar-animal:
+  - key: DUDA
+    value: Declaración Universal de los Derechos del Animal
+  - key: DUBA
+    value: Declaración Universal de Bienestar Animal
+  - key: LIDA
+    value: Liga Internacional de los Derechos del Animal
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  - key:
+    value:
+  

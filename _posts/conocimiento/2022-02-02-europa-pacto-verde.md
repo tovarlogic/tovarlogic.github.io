@@ -10,12 +10,14 @@ tags:
 layout: serie
 serie: cambio-climatico
 serie_index: true
-shared-content:
-  definitions:
-    - derecho-internacional
-  acronyms:
-    - cambio-climatico
-lastmod: 2022-06-17T11:34:55.171Z
+definitions:
+  - derecho-internacional
+acronyms:
+  - organizaciones-internacionales
+  - acuerdos-internacionales
+  - cambio-climatico
+  - medio-ambiente
+lastmod: 2022-06-18T12:27:41.340Z
 ---
 
 # Introducción

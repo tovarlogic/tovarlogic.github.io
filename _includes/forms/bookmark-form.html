@@ -1,6 +1,6 @@
   {% capture comments_provider %}{{ site.comments.provider }}{% endcapture %}
-  {% capture categories %}{{ site.data.data_categories.bookmarks }}{% endcapture %}
-  {% assign categories = site.data.data_categories.bookmarks %}
+  {% capture categories %}{{ site.data._shared-content.categories.bookmarks }}{% endcapture %}
+  {% assign categories = site.data._shared-content.categories.bookmarks %}
   <!-- Start data-form -->
   <div id="respond" style="">
     <form id="data-form" class="js-data-form" method="post" action="{{ site.comments.[comments_provider].endpoint }}{{ site.comments.[comments_provider].branch }}/bookmarks">

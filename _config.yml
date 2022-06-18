@@ -350,6 +350,12 @@ defaults:
       comments: true
       categories:
         - Medio Ambiente
+      acronyms:
+        - organizaciones-internacionales
+        - acuerdos-internacionales
+        - legislacion
+        - bienestar-animal
+        - medio-ambiente
   # Frances
   - scope:
       path: "_docs/aprendiendo/frances"

@@ -1,0 +1,12 @@
+books:
+  - not-read
+  - read
+  - reading
+  - pending
+
+documents:
+  - draft
+  - open
+  - pending_approval
+  - approved
+  - declined
