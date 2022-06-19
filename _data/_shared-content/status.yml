@@ -7,6 +7,6 @@ books:
 documents:
   - draft
   - open
-  - pending_approval
+  - pending-approval
   - approved
   - declined

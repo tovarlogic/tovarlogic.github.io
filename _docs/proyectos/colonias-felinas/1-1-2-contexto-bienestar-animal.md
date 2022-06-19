@@ -1,13 +1,12 @@
 ---
 title: 1.1.2 Contexto moral y legal
-permalink: /proyectos/colonias-felinas/contexto-moral-legal
+permalink: /proyectos/colonias-felinas/contexto-bienestar-animal
 date: 2022-06-15
-lastmod: 2022-06-19T12:52:44.203Z
+lastmod: 2022-06-19T16:26:33.648Z
 definitions:
   - derecho-internacional
   - bienestar-animal
-  - biodiversidad
-status: open
+status: pending-approval
 ---
 En el presente apartado se espera ilustrar tanto los sentimientos colectivos y consideraciones éticas como las obligaciones y derechos que establecen la legislación comunitaria, nacional y autonómica en lo relativo al Bienestar Animal y a la Biodiversidad.
 
@@ -37,6 +36,8 @@ En 1965 el profesor británico Roger Brambell elaboró un informe en el que esta
 1. **Estar libres de dolor, lesiones y enfermedades** - mediante la prevención o el diagnóstico rápido y el tratamiento.
 1. **La libertad de expresar un comportamiento normal** - proporcionando espacio suficiente, instalaciones adecuadas y la compañía de animales de la propia especie del animal.
 1. **Estar libres de miedo y angustia** - asegurando las condiciones y trato que evitan el sufrimiento físico y mental.
+
+Como ha quedado patente, parece que existe una obligación moral y legal para el respeto del bienestar animal por parte de las personas y que dicha obligación es superior cuando se trata de animales domésticos de compañía. La legislación nacional, como veremos más adelante aún no especifica que especies cumplen esa condición. No obstante, en la legislación europea si se determina, concretamente en el Anexo I del Reglamento (UE) 2016/429 del Parlamento Europeo y del Consejo, de 9 de marzo de 2016 [^ley23]. Entre estos animales se encuentran los Gatos (*Felis silvestris catus*).
 
 En España existe diversa legislación relativa al bienestar animal, a continuación se detallan las normas nacionales más relevantes, en cualquier caso se puede también consultar el Código de Protección y Bienestar Animal [^link5] que detalla toda la normativa española vigente:
 
@@ -94,14 +95,19 @@ En España existe diversa legislación relativa al bienestar animal, a continuac
   - «Comunicar a la autoridad competente la pérdida del animal en el plazo máximo de cuarenta y ocho horas desde que se produjo la misma; la falta de comunicación dentro del plazo señalado será considerada abandono, salvo prueba en contrario.»
   - «La cesión de animales entre particulares deberá ser, en todo caso, gratuita y quedar reflejada por contrato.»
   - «Las personas titulares o, en su defecto, los responsables de la tenencia de animales de compañía que habitualmente permanezcan en espacios abiertos y convivan o puedan relacionarse con otros animales de la misma especie y distinto sexo, estarán obligados a la esterilización de sus animales de compañía.»
-  - «Aquellos animales de compañía que por su actividad se desenvuelven habitualmente de forma independiente sin la supervisión de su persona titular o responsable de su tenencia, no tendrán la consideración de abandonados, debiendo ir provistos de sistemas de localización y posicionamiento geográfico, cuyas características se desarrollarán reglamentariamente».
+  - «Aquellos animales de compañía que por su actividad se desenvuelven habitualmente de forma independiente sin la supervisión de su persona titular o responsable de su tenencia, no tendrán la consideración de abandonados, debiendo ir provistos de sistemas de localización y posicionamiento geográfico, cuyas características se desarrollarán reglamentariamente». 
+  - Salvo en transmisiones entre responsables de cría, «los animales de compañía deberán ser esterilizados con carácter previo a su transmisión en los casos que se establezcan reglamentariamente. Cuando la transmisión sea previa a la edad aconsejada para la esterilización el adquirente deberá suscribir un compromiso de esterilización posterior.» 
+
+    **Reflexión:** ¿Quién será responsable de establecer los casos en que se requieren esterilización? ¿Qué criterios comunes se emplearán?
+    {: .notice--warning}
 
   Sobre las prohibiciones destacamos:
   - «Se prohíbe el sacrificio público de animales[...] Asimismo, la autoridad competente podrá establecer excepciones debidamente motivadas cuando sea necesario dar muerte a un animal en situaciones de emergencia por motivos [...] medioambientales.»
   - Se prohíbe «abandonarlos en espacios cerrados o abiertos».
   - Se prohíbe «la puesta en libertad o introducción en el medio natural de ejemplares de cualquier animal incluido en el Listado Positivo que se desarrolla en la presente Ley».
   - Se prohíbe «la cría no autorizada de cualquier especie de animal de compañía. «La cría solo podrá ser llevada a cabo por personas responsables de la actividad de la cría de animales de compañía autorizadas.»
-  - Se prohíbe «la comercialización de animales de compañía, excepto peces, en tiendas [...]. La transmisión, a título oneroso o gratuito, de animales solo podrá realizarse directamente bien desde la persona responsable de la cría, bien desde una Entidad de Protección Animal, sin la intervención de intermediarios».
+  - Se prohíbe «la comercialización de animales de compañía, excepto peces, en tiendas [...]. La transmisión, a título oneroso o gratuito, de animales solo podrá realizarse directamente bien desde la persona responsable de la cría, bien desde una Entidad de Protección Animal, sin la intervención de intermediarios». 
+  - «Queda prohibida la transmisión de animales no identificados» (Art. 67)
 
   **Reflexión:** Nos preocupa que, aunque el sentido de las obligaciones y prohibiciones comparten objetivos con lo que proponemos, en la práctica resulten inútiles por la dificultad de forzar su cumplimiento. Su eficacia queda, en realidad, supeditada a la concienciación y voluntad ciudadana. Creemos, por ejemplo, que dado que la venta o cesión de animales queda muy restringida, en los casos de venta profesional se establezca obligatoriamente el requisito previo de esterilización en animales que hayan superado una edad determinada, o el compromiso legal por medio de contrato de llevar a cabo dicha esterilización una vez alcanzada la edad necesaria. El costo de dicha esterilización debería ser abonado en el momento de la venta, de modo que no exista un factor económico desincentivador en casos de la esterilización diferida.
   {: .notice--warning} 
@@ -120,15 +126,11 @@ En España existe diversa legislación relativa al bienestar animal, a continuac
   **Importante:** El modelo de «gestión **ética** de colonias felinas» que establece la ley no permite otro procedimiento distinto al retorno. Esto significa que incluso si se logra evitar el aumento poblacional descontrolado no se reduzca el impacto ambiental hasta que la colonia desaparezca (si llega a hacerlo). Hay que tener en cuenta la prolongación en el tiempo de una colonia, entre otros factores, depende de la esperanza de vida de los gatos (que puede superar 15 años). 
   {: .notice--danger}
 
-  **Reflexión:** Resulta paradójico que se permita el sacrificio de estos animales cuando «esté debidamente justificado por la autoridad sanitaria o por motivos de seguridad o medioambientales» (Art. 49), pero no se permita un procedimiento intermedio que mejore la eficacia del control medioambiental sin la necesidad de sacrificar. Algunas alternativas pueden ser la puesta en cautividad mediante la perimetración de la colonia, el traslado de la colonia a una ubicación con menor importancia ecológica o el traslado de los gatos a unas instalaciones preexistentes adecuadas.
+  **Reflexión:** ¿Qué pasa con los gatos que aún encontrándose en espacios urbanizados también afecten al medio ambiente?. ¿Se les podrá considerar gatos ferales no urbanos?. En el Art. 54 se prohíben la reubicación de gatos urbanos, su confinamiento en centros de protección animal, residencias o similares y su sacrificio (sin posibilidad de excepción por cuestiones medioambientales). En cualquier caso, incluso en los no urbanos el Art. 56 prohíbe su reubicación y su confinamiento de gatos ferales en albergues, residencias o similares
   {: .notice--warning}
 
-
-
-
-
-
-
+  **Reflexión:** Resulta paradójico que se permita el sacrificio de estos animales cuando «esté debidamente justificado por la autoridad sanitaria o por motivos de seguridad o medioambientales» (Art. 49), pero no se permita un procedimiento intermedio que mejore la eficacia del control medioambiental sin la necesidad de sacrificar. Algunas alternativas pueden ser la puesta en cautividad mediante la perimetración de la colonia, el traslado de la colonia a una ubicación con menor importancia ecológica o el traslado de los gatos a unas instalaciones preexistentes adecuadas.
+  {: .notice--warning}
 
 Dado que las competencias son de las Comunidades Autónomas la legislación (aún) no es uniforme en todo el territorio nacional. En este caso nos centraremos inicialmente en lo dispuesto en Canarias:
 
@@ -140,7 +142,7 @@ Dado que las competencias son de las Comunidades Autónomas la legislación (aú
 
   En lo relacionado con el abandono y centros de acogida, en el Art. 17 se establece que «corresponderá a los Ayuntamientos la competencia de recogida de animales abandonados» y que «los centros de recogida de animales abandonados, una vez transcurrido el plazo legal para su posible recuperación (10 días), podrán apropiárselos, sacrificarlos o cederlos a un tercero». Finalmente, «corresponderá a los Ayuntamientos o, en su caso, a los Cabildos Insulares [en caso de cesión de competencias] [...] recoger, donar, esterilizar o sacrificar, cuando fuera preciso, los animales domésticos vagabundos, abandonados o entregados por su dueño o poseedor, directamente o mediante convenios con asociaciones de protección y defensa de los animales».
 
-  **Nota:** Resulta llamativo que no se establecen condición alguna para determinar si el sacrificio eutanásico.
+  **Nota:** Resulta llamativo que no se establecen condición alguna para determinar el sacrificio eutanásico.
   {: .notice--info}
 
   Se considera infracción muy grave el abandono de un animal doméstico o de compañía.
@@ -149,47 +151,9 @@ Dado que las competencias son de las Comunidades Autónomas la legislación (aú
 
   En sus principios rectores, descritos en Artículo 37 se establece «la garantía de que las instituciones públicas velarán por el bienestar animal, luchando contra el maltrato y protegiendo de manera particular a aquellas especies en peligro de extinción y endemismos con presencia en el Archipiélago».  
 
-
-
-
-
-
-### Asociaciones y voluntariado
-
-## En lo relativo a la protección del medio ambiente y biodiversidad
-
-El Convenio de Naciones Unidas sobre la Diversidad Biológica (CDB) [^link7], ratificado por España en 1993 [^link8], establece que se «impedirá que se introduzca, y en el caso de que ya estén presentes, se controlen o erradiquen las especies exóticas que amenacen los ecosistemas, los hábitats o especies».
-
-A nivel europeo, la Convención para la conservación de la vida silvestre y hábitats naturales europeos [^ley15], que fue ratificada por España en 1986, reconoce en su preámbulo «el papel esencial de la flora y fauna silvestres en el mantenimiento de los equilibrios biológicos»; y que su conservación «debería tomarse en consideración por los gobiernos, en sus objetivos y programas nacionales...». En su Anexo III especifica que todas las especies de reptiles y aves deben ser protegidas.
-
-- Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal. Contempla los delitos contra los recursos naturales y el medio ambiente. 
-
-  En lo relativo al contexto medioambiental de este proyecto resulta destacable el contenido del Artículo 333 que contempla como delito la introducción o liberación de especies de flora o fauna no autóctona, de modo que perjudique el equilibrio biológico, contraviniendo las leyes o disposiciones de carácter general protectoras de las especies de flora o fauna.
-
-
-Asimismo, la Resolución del Parlamento Europeo de 9 de junio de 2021, sobre la “Estrategia de la
-Biodiversidad 2030”, insta a los Estados Miembros a desarrollar los Listados Positivos, listas blancas de
-especies permitidas para la importación, el mantenimiento, la cría y el comercio como animales de compañía
-sobre la base de una evaluación científica, solicitando su desarrollo a la mayor brevedad posible. Además, en la
-misma resolución del Parlamento Europeo se insta a los países miembros a ampliar los recursos ecológicos y
-de biodiversidad, mediante zonas verdes en áreas urbanas y promoviendo la interconectividad entre hábitats y
-creación de corredores verdes y a combatir el tráfico de especies exóticas y silvestres.
-https://www.mdsocialesa2030.gob.es/servicio-a-la-ciudadania/proyectos-normativos/documentos/AP_LEY_ANIMALES.pdf
-
-
-
-
-
-
-
-
-
-
 {% include shared-content.md %} 
 
 ## Fuentes y referencias
-
-[^paper1]: [Carrete, M., Clavero, M., Arrondo, E., Traveset, A., Bernardo-Madrid, R., Vilà, M., Blas, J., Nogales, M., Delibes, M., García-Rodríguez, A., Hernández-Brito, D., Romero-Vidal, P., & Tella, J. L. 2022. Emerging laws must not protect stray cats and their impacts. Conservation Science and Practice, e12706. ISSN 2578-4854.](http://hdl.handle.net/10261/268968)
 
 [^paper2]: [Capacete, F. 2018. La Declaración universal de los derechos del animal. Derecho Animal (Forum of Animal Law Studies) 2018, vol. 9/3 143-146](https://www.filosofia.org/cod/img/2018capa.pdf)
 
@@ -202,10 +166,6 @@ https://www.mdsocialesa2030.gob.es/servicio-a-la-ciudadania/proyectos-normativos
 [^link5]: [Código de Protección y Bienestar Animal](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=204&modo=2&nota=0)
 
 [^link6]: [LFDA ](https://www.fondation-droit-animal.org)
-
-[^link7]: [Convenio de Naciones Unidas sobre la Diversidad Biológica (CDB)](https://www.cbd.int/)
-
-[^link8]: [Objetivos de España en lo relativo al CDB](https://www.miteco.gob.es/es/biodiversidad/temas/conservacion-de-la-biodiversidad/conservacion-de-la-biodiversidad-en-el-mundo/cb_mundo_convenio_diversidad_biologica.aspx)
 
 [^ley1]: [Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio](https://www.boe.es/eli/es/l/2007/11/07/32/con)
 
@@ -235,8 +195,6 @@ https://www.mdsocialesa2030.gob.es/servicio-a-la-ciudadania/proyectos-normativos
 
 [^ley14]: [Convención europea para la protección de animales de compañía](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=125)
 
-[^ley15]: [Convención para la conservación de la vida silvestre y hábitats naturales europeos](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=104)
-
 [^ley16]: [Real Decreto 542/2016, de 25 de noviembre, sobre normas de sanidad y protección animal durante el transporte.](https://www.boe.es/eli/es/rd/2016/11/25/542)
 
 [^ley17]: [Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil.](https://www.boe.es/eli/es/rd/1889/07/24/(1)/con)
@@ -247,17 +205,6 @@ https://www.mdsocialesa2030.gob.es/servicio-a-la-ciudadania/proyectos-normativos
 
 [^ley20]: [Anteproyecto de Ley de protección, derechos y bienestar de los animales](https://www.mdsocialesa2030.gob.es/servicio-a-la-ciudadania/proyectos-normativos/documentos/AP_LEY_ANIMALES.pdf)
 
-[^ley21]: [Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la biodiversidad.](https://www.boe.es/eli/es/l/2007/12/13/42/con)
-
 [^ley22]: [Real Decreto 630/2013, de 2 de agosto, por el que se regula el Catálogo español de especies exóticas invasoras.](https://www.boe.es/eli/es/rd/2013/08/02/630)
 
-[^ley]:
-[^ley]:
-[^ley]:
-[^ley]:
-[^ley]:
-[^ley]:
-[^ley]:
-[^ley]:
-[^ley]:
-[^ley]:
+[^ley23]: [ Reglamento (UE) 2016/429 del Parlamento Europeo y del Consejo, de 9 de marzo de 2016, relativo a las enfermedades transmisibles de los animales y por el que se modifican o derogan algunos actos en materia de sanidad animal («Legislación sobre sanidad animal»)](http://data.europa.eu/eli/reg/2016/429/oj)
