@@ -2,5 +2,22 @@
     "frontMatter.content.publicFolder": "",
     "frontMatter.content.autoUpdateDate": true,
     "[markdown]": {
-    }
+    },
+    "spellright.language": [
+        "es_ES"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "languageToolLinter.languageTool.ignoredWordsInWorkspace": [
+        "danger",
+        "enzoóticas",
+        "enzoótico",
+        "epedímecas",
+        "info",
+        "notice",
+        "warning"
+    ]
 }

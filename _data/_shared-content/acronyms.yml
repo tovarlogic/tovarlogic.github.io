@@ -1,31 +1,3 @@
-acuerdos-internacionales:
-  - key: CMNUCC
-    value: Convención Marco de las Naciones Unidas por el Cambio Climático - UNFCCC
-  - key: UNFCCC
-    value: Convención Marco de las Naciones Unidas por el Cambio Climático - CMNUCC
-  - key: UNCCD
-    value: Convención de Lucha contra la Desertificación
-  - key: CNUDB
-    value: Convenio de las Naciones Unidas sobre la Diversidad Biológica
-  - key: KP
-    value: Protocolo de Kioto
-  - key: AP
-    value: Acuerdo de París
-  - key:
-    value: 
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-
 organizaciones-internacionales:
   - key: EU
     value: Unión Europea
@@ -77,14 +49,14 @@ legislacion:
     value: Código Penal
   - key: CC
     value: Código Civil
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
+  - key: AP
+    value: Anteproyecto de Ley
+  - key: LO
+    value: Ley Orgánica
+  - key: RD
+    value: Real Decreto
+  - key: OM
+    value: Orden Ministerial / Ordenanza Municipal
   - key:
     value:
   - key:
@@ -101,6 +73,10 @@ medio-ambiente:
     value: Asamblea de la ONU sobre el Medio Ambiente
   - key: CDB
     value: Convenio de Naciones Unidas sobre la Diversidad Biológica
+  - key: CNUDB
+    value: Convenio de las Naciones Unidas sobre la Diversidad Biológica
+  - key: UNCCD
+    value: Convención de Lucha contra la Desertificación
   - key:
     value:
   - key:
@@ -113,8 +89,16 @@ medio-ambiente:
     value:
 
 cambio-climatico:
+  - key: CMNUCC
+    value: Convención Marco de las Naciones Unidas por el Cambio Climático - UNFCCC
+  - key: UNFCCC
+    value: Convención Marco de las Naciones Unidas por el Cambio Climático - CMNUCC
   - key: IPCC
     value: Grupo Intergubernamental de Expertos sobre el Cambio Climático
+  - key: KP
+    value: Protocolo de Kioto
+  - key: AP
+    value: Acuerdo de París
   - key: GEI
     value: Gases de Efecto Invernadero
   - key: COPs
@@ -175,10 +159,10 @@ bienestar-animal:
     value: Declaración Universal de Bienestar Animal
   - key: LIDA
     value: Liga Internacional de los Derechos del Animal
-  - key:
-    value:
-  - key:
-    value:
+  - key: OIE
+    value: Organización Mundial de Sanidad Animal (ahora WOAH)
+  - key: WOAH
+    value: Organización Mundial de Sanidad Animal (anteriormente OIE)
   - key:
     value:
   - key:

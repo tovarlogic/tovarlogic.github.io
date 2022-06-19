@@ -6,10 +6,12 @@
     <a href="{{ include.item.url | relative_url }}" class="{% if include.item.url == include.page.url %} active {% endif %}">
 {% endif %}
         {% if document.status == 'approved' %}
-            <i class="fa-fw fas fa-check text-success" aria-hidden="true"></i>
+            <i class="fa-fw fas fa-check-square text-success" aria-hidden="true"></i>
+        {% elsif document.status == 'declined' %}
+            <i class="fa-fw fas fa-times text-danger" aria-hidden="true"></i>
         {% elsif document.status == 'pending_approval' %}
-            <i class="fa-fw fas fa-file-alt text-warning" aria-hidden="true"></i>
-        {% elsif document.status == 'open' %}
+            <i class="fa-fw fas fa-exclamation-triangle text-warning" aria-hidden="true"></i>
+        {% elsif document.status == 'open' or document.status == 'draft' %}
             <i class="fa-fw far fa-edit text-primary" aria-hidden="true"></i>
         {% endif %}
 
@@ -25,13 +27,13 @@
         {% assign updated = document.lastmod | date: '%s' | plus: 0 %}
 
         {% if updated > last_day %}
-            <i class="fas fa-sync-alt text-danger"> <small>24h</small></i>
+            <i class="fas fa-sync-alt text-secondary"> <small>24h</small></i>
             {% elsif updated > last_two_days %}
-            <i class="fas fa-sync-alt text-warning"> <small>48h</small></i>
+            <i class="fas fa-sync-alt text-secondary"> <small>48h</small></i>
         {% elsif updated > last_week %}
-            <i class="fas fa-sync-alt text-success"> <small>esta semana</small></i>
+            <i class="fas fa-sync-alt text-secondary"> <small>esta semana</small></i>
         {% elsif updated > last_month %}
-            <i class="fas fa-sync-alt text-primary"> <small>este mes</small></i>
+            <i class="fas fa-sync-alt text-secondary"> <small>este mes</small></i>
         {% endif %}
     </a>
 {% if include.level == 'first' %}

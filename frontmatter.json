@@ -70,5 +70,6 @@
       "title": "_docs",
       "path": "[[workspace]]/_docs"
     }
-  ]
+  ],
+  "frontMatter.templates.enabled": false
 }

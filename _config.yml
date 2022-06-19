@@ -292,6 +292,7 @@ defaults:
       author_profile: false
       show_date: true
       read_time: true
+      show_status: true
       comments: true
       share: true
       related: false
@@ -352,7 +353,6 @@ defaults:
         - Medio Ambiente
       acronyms:
         - organizaciones-internacionales
-        - acuerdos-internacionales
         - legislacion
         - bienestar-animal
         - medio-ambiente

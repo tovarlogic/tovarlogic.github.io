@@ -1,10 +1,8 @@
 derecho-internacional:
   - key: Tratado
     value: Acuerdo formal, legalmente vinculantes, entre varias partes, generalmente tres o más. Las partes son países o una unión regional de ellos.
-
   - key: Convención
     value: Se suele emplear como sinónimo de Tratado, pero en realidad se trata de acuerdos multilaterales con un gran número de participantes, y a diferencia de los Tratados, no son legalmente vinculantes y suelen emplearse para definir marcos estratégicos o conceptos que no incluyen medidas específicas.
-
   - key: Protocolo
     value: Son similares a los tratados aunque generalmente se emplean para modificar, suplementar o aclarar un acuerdo.
 
@@ -13,4 +11,34 @@ filofofia-derecho:
     value: Es lo que hace verdadera a una proposición.
 
 bienestar-animal:
+  - key: Bienestar animal (OIE/WOAH)
+    value: el estado físico y mental de un animal en relación con las condiciones en las que vive y muere
+  - key: Animal de compañía (AP Bienestar Animal)
+    value: aquel que está incluido en el Listado Positivo de animales de compañía. En todo caso perros, gatos y hurones, independientemente del fin a que se destinen o el lugar en el que habiten o del que procedan.
+  - key: Animal abandonado (AP Bienestar Animal)
+    value: todo animal incluido en el ámbito de aplicación de esta Ley, que circula o deambula sin el acompañamiento o supervisión de persona alguna, estando o no identificado su origen o persona titular o responsable y no habiendo sido denunciada su pérdida o sustracción. Asimismo, serán considerados animales abandonados aquellos que no fueren recogidos por sus titulares o responsables, de las residencias u otros establecimientos similares en los que los hubieran depositado previamente, pese a no conllevar riesgo. Se exceptúan de esta categoría a los gatos ferales y a los gatos urbanos pertenecientes a colonias felinas.
+  - key: Animal desamparado (AP Bienestar Animal)
+    value: todo aquel que, independientemente del origen o especie, se encuentran en una situación de indefensión o enfermedad que requiere atención o auxilio.
+  - key: Animal extraviado (AP Bienestar Animal)
+    value: todo aquel que circula o deambula, pese a portar identificación de su origen o el de la persona titular, sin el acompañamiento o supervisión de persona alguna, siempre que sus titulares o responsables hayan comunicado o denunciado la pérdida de los mismos.
+  - key: Animal identificado (AP Bienestar Animal)
+    value: aquel que porta el sistema de marcaje establecido reglamentariamente para su especie por las autoridades competentes y que se encuentra dado de alta en el registro correspondiente.
+  - key: Animal silvestre (AP Bienestar Animal)
+    value: todo aquel que forma parte del conjunto de especies, subespecies y poblaciones de fauna presente en el ámbito territorial de aplicación de esta norma de manera espontánea, independientemente de su origen, natural o introducido. Incluye ejemplares de especies autóctonas y alóctonas, ya se encuentren en cautividad o libres en el medio. No se considerarán animales silvestres los animales de compañía, aún en el caso de que hubieren vuelto a un estado asilvestrado
+  - key: Colonia felina (AP Bienestar Animal)
+    value: grupo de gatos urbanos vinculados entre sí y, especialmente, con el territorio que habitan y en el que tienen sus recursos de subsistencia.
+  - key: Gato feral (AP Bienestar Animal)
+    value: Es un Animal perteneciente a la especie Felis catus, que vive en libertad, vinculado a un territorio, con escaso o nulo grado de socialización con el ser humano, y que carece de persona titular. También conocido como gato cimarrón o simplemente gato. 
+  - key: Gato merodeador (AP Bienestar Animal)
+    value: aquel gato que accede libremente al exterior del hogar de su titular.
+  - key: Gestión ética de colonias felinas (AP Bienestar Animal)
+    value: método de gestión de colonias felinas en el que los gatos son alimentados, reciben atención veterinaria, son sometidos al sistema de control ético de población CER (Captura, Esterilización y Retorno) y se censan, controlando la llegada de nuevos individuos.
+  - key: Maltrato (AP Bienestar Animal)
+    value: toda conducta, tanto por acción como por omisión, que genera perjuicios o compromete las necesidades básicas de dicho animal.
+  - key: 
+    value:
+  - key: 
+    value:
+  - key: 
+    value:
 biodiversidad:
