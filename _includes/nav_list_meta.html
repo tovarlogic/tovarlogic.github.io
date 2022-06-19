@@ -18,22 +18,14 @@
         {{ include.item.title }}
 
         {% assign now = site.time | date: '%s' | plus: 0 %}
-
-        {% assign last_day = now | minus: 86400 %}
-        {% assign last_two_days = now | minus: 172800 %}
-        {% assign last_week = now | minus: 604800 %}
-        {% assign last_month = now | minus: 2592000 %}
-
         {% assign updated = document.lastmod | date: '%s' | plus: 0 %}
+        {% assign month = updated | date: '%s' | plus: 2592000 %}
+        {% assign days = now | minus: updated | divided_by: 86400 %}
 
-        {% if updated > last_day %}
-            <i class="fas fa-sync-alt text-secondary"> <small>24h</small></i>
-            {% elsif updated > last_two_days %}
-            <i class="fas fa-sync-alt text-secondary"> <small>48h</small></i>
-        {% elsif updated > last_week %}
-            <i class="fas fa-sync-alt text-secondary"> <small>esta semana</small></i>
-        {% elsif updated > last_month %}
-            <i class="fas fa-sync-alt text-secondary"> <small>este mes</small></i>
+        {% if days == 0 %}
+            <i class="fas fa-sync-alt text-secondary"> <small>hoy</small></i>
+        {% elsif updated < month %}
+            <i class="fas fa-sync-alt text-secondary"> <small>{{ days }} días</small></i>
         {% endif %}
     </a>
 {% if include.level == 'first' %}
