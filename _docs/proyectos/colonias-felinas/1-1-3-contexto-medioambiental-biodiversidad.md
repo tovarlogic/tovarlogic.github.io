@@ -2,7 +2,7 @@
 title: 1.1.3 Contexto de protección medioambiental
 permalink: /proyectos/colonias-felinas/contexto-medioambiental-biodiversidad
 date: 2022-06-15
-lastmod: 2022-06-19T16:25:26.877Z
+lastmod: 2022-06-20T21:38:49.450Z
 definitions:
   - derecho-internacional
   - bienestar-animal
@@ -13,13 +13,21 @@ En el presente apartado se espera ilustrar tanto los sentimientos colectivos y c
 
 Esta recopilación, más o menos exhaustiva, se elabora con la intención de justificar o desacreditar las motivaciones del proyecto. Esperamos sirva también como fuente de información básica para, en caso de concluir que su necesidad está suficientemente demostrada, planificar el alcance y métodos a aplicar.  
 
-## En lo relativo a la protección del medio ambiente y biodiversidad
+Existe una relación evidente entre los asuntos de protección del bienestar de los animales de compañía y de protección del medio ambiente y la biodiversidad que, incluso, es patente en el propio contenido de las normas de «ambos mundos». Para facilitar la síntesis de los aspectos más destacables de las legislaciones que afectan al proyecto, hemos tratado de mantener cierta estanqueidad en entre ambas temáticas. En el pasado apartado mostrábamos las cuestiones más destacables sobre el bienestar animal, mientras que en el presente se muestran las cuestiones que afectan al medio ambiente. Más adelante, ya conociendo ambos contextos por separado, los enlazaremos de modo que dicha relación sea más evidente.
+
+## Ámbito internacional y comunitario
 
 El Convenio de Naciones Unidas sobre la Diversidad Biológica (CDB) [^link1], ratificado por España en 1993 [^link2], establece que se «impedirá que se introduzca, y en el caso de que ya estén presentes, se controlen o erradiquen las especies exóticas que amenacen los ecosistemas, los hábitats o especies».
 
-A nivel europeo, la Convención para la conservación de la vida silvestre y hábitats naturales europeos [^ley2], que fue ratificada por España en 1986, reconoce en su preámbulo «el papel esencial de la flora y fauna silvestres en el mantenimiento de los equilibrios biológicos»; y que su conservación «debería tomarse en consideración por los gobiernos, en sus objetivos y programas nacionales...». En su Anexo III especifica que **todas las especies de reptiles y aves deben ser protegidas**.
+A nivel europeo, la Convención para la conservación de la vida silvestre y hábitats naturales europeos [^ley2], que fue ratificada por España en 1986, reconoce en su preámbulo «el papel esencial de la flora y fauna silvestres en el mantenimiento de los equilibrios biológicos»; y que su conservación «debería tomarse en consideración por los gobiernos, en sus objetivos y programas nacionales...». En su Anexo III especifica que a diferencia de otros tipos de animales **todas las especies de reptiles y aves deben ser protegidas**.
+
+Por su parte en el Convenio europeo sobre protección de animales de compañía [^ley6], en su Art. 2 especifica que «ninguna disposición del presente Convenio afectará a la aplicación de otros instrumentos para la protección de animales o para la protección de especies salvajes amenazadas». Es decir, que las normas nacionales que deriven de dicho Convenio no deben afectar a dicha labor de protección medioambiental.
 
 Asimismo, la Resolución del Parlamento Europeo de 9 de junio de 2021 [^ley5], sobre la “Estrategia de la Biodiversidad 2030” [^link3], insta a los Estados Miembros a desarrollar los Listados Positivos, listas blancas de especies permitidas para la importación, el mantenimiento, la cría y el comercio como animales de compañía sobre la base de una evaluación científica, solicitando su desarrollo a la mayor brevedad posible. Además, en la misma resolución del Parlamento Europeo se insta a los países miembros a ampliar los recursos ecológicos y de biodiversidad, mediante zonas verdes en áreas urbanas y promoviendo la interconectividad entre hábitats y creación de corredores verdes y a combatir el tráfico de especies exóticas y silvestres.
+
+## Ámbito nacional
+
+A partir del 
 
 - Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal [^ley1]. Contempla los delitos contra los recursos naturales y el medio ambiente. 
 
@@ -52,7 +60,8 @@ https://www.mdsocialesa2030.gob.es/servicio-a-la-ciudadania/proyectos-normativos
 
 [^ley5]: [Resolución del Parlamento Europeo de 9 de junio de 2021, sobre la “Estrategia de la Biodiversidad 2030”](https://www.europarl.europa.eu/doceo/document/TA-9-2021-0277_ES.html)
 
-[^ley]:
+[^ley6]: [Convenio europeo sobre protección de animales de compañía](https://www.boe.es/eli/es/ai/1987/11/13/(1))
+
 [^ley]:
 [^ley]:
 [^ley]:
