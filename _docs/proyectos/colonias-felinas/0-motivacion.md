@@ -1,10 +1,9 @@
 ---
-title: Programa de gestión integral de colonias felinas para la protección de la
-  biodiversidad y del bienestar animal
-permalink: /proyectos/colonias-felinas
+title: Motivación
+permalink: /proyectos/colonias-felinas/
 serie_index: true
 date: 2022-06-14
-lastmod: 2022-06-17T12:52:32.364Z
+lastmod: 2022-06-20T21:57:00.585Z
 status: approved
 ---
 

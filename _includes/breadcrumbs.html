@@ -14,22 +14,22 @@
 
 <nav style="--bs-breadcrumb-divider: '{{ site.data.ui-text[site.locale].breadcrumb_separator | default: '>' }}';" aria-label="breadcrumb">
   <ol class="breadcrumb">
-    {% assign crumbs = page.url | split: '/' %}
-    {% assign i = 1 %}
+    {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
     {% for crumb in crumbs offset: 1 %}
       {% if forloop.first %}
         <li class="breadcrumb-item">
-          <a href="{{ site.url }}{{ site.baseurl }}/" itemprop="item"><span itemprop="name">{{ site.data.ui-text[site.locale].breadcrumb_home_label | default: "Home" }}</span></a>
+          <a href="{{ site.url }}{{ site.baseurl }}/">{{ site.data.ui-text[site.locale].breadcrumb_home_label | default: "Home" }}</span></a>
         </li>
       {% endif %}
       {% if forloop.last %}
-        <li class="breadcrumb-item active" aria-current="page">{% if forloop.last %}{{ page.breadcrumb_name }}{% else %}{{ page.title }}{% endif %}</li>
-      {% else %}
-        {% assign i = i | plus: 1 %}
         <li class="breadcrumb-item">
-          <a href="{{ crumb | downcase | replace: '%20', '-' | prepend: path_type | prepend: crumb_path | relative_url }}" itemprop="item"><span itemprop="name">{{ crumb | replace: '-', ' ' | replace: '%20', ' ' | capitalize }}</span></a>
+          {{ page.title }}
         </li>
-      {% endif %}
+      {% else %}
+        <li class="breadcrumb-item">
+          <a href="{% assign crumb_limit = forloop.index | plus: 1 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
+        </li>
+        {% endif %}
     {% endfor %}
   </ol>
 </nav>

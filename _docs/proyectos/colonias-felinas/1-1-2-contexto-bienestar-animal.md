@@ -2,7 +2,7 @@
 title: 1.1.2 Contexto moral y legal
 permalink: /proyectos/colonias-felinas/contexto-bienestar-animal
 date: 2022-06-15
-lastmod: 2022-06-19T16:26:33.648Z
+lastmod: 2022-06-20T20:17:06.175Z
 definitions:
   - derecho-internacional
   - bienestar-animal
@@ -12,8 +12,9 @@ En el presente apartado se espera ilustrar tanto los sentimientos colectivos y c
 
 Esta recopilación, más o menos exhaustiva, se elabora con la intención de justificar o desacreditar las motivaciones del proyecto. Esperamos sirva también como fuente de información básica para, en caso de concluir que su necesidad está suficientemente demostrada, planificar el alcance y métodos a aplicar.  
 
-## En lo relativo al bienestar animal
+Existe una relación evidente entre los asuntos de protección del bienestar de los animales de compañía y de protección del medio ambiente y la biodiversidad que, incluso, es patente en el propio contenido de las normas de «ambos mundos». Para facilitar la síntesis de los aspectos más destacables de las legislaciones que afectan al proyecto, hemos tratado de mantener cierta estanqueidad en entre ambas temáticas. En el presente apartado se muestran las cuestiones que afectan al bienestar animal y en la siguiente se mostrarán las que afecten al medio ambiente. Más adelante, ya conociendo ambos contextos por separado, los enlazaremos de modo que dicha relación sea más evidente.
 
+## Ámbito internacional y comunitario
 El 15 de octubre de 1978 se proclama, en la sede de la [UNESCO](https://es.unesco.org/) de París, la [Declaración Universal de los Derechos del Animal](https://www.filosofia.org/cod/c1977ani.htm) (DUDA) por parte de la Liga Internacional de los Derechos del Animal (LIDA), las Ligas Nacionales afiliadas y las personas físicas asociadas a ellas. Su objetivo era concienciar a la sociedad acerca del cuidado y el respeto hacia los animales. 
 
 **Nota:** Diversas fuentes afirman que la declaración fue aprobada/ratificada tanto por la [UNESCO](https://es.unesco.org/) como por la [ONU](https://www.un.org/es/). Sin embargo, en sus páginas web, donde se pueden consultar las declaraciones firmadas no existe referencia alguna a este asunto. Es decir, la declaración no tiene validez legal. Es una «mera» declaración de valores éticos, aunque algunos de los derechos recogidos ya forman parte de la legislación de muchos países [^paper2].
@@ -23,7 +24,7 @@ No hay que confundir la DUDA con la Declaración Universal de Bienestar Animal (
 
 Cabe destacar que la resolución 5/1 de la Asamblea de la ONU sobre el Medio Ambiente (UNEA) firmada en marzo de 2022. Esta reconoce la posibilidad de un "Nexo entre bienestar animal, medio ambiente y desarrollo sostenible". Se espera que para 2024 el Programa de las Naciones Unidas para el Medio Ambiente (PNUMA) presente un informe analizando en profundidad dicho vínculo y, en caso de existir, su importancia. 
 
-A nivel europeo el artículo 13 del Tratado de Funcionamiento de la Unión Europea [^ley13], exige que los Estados respeten las exigencias en materia de bienestar de los animales como seres sensibles. Adicionalmente, España ratificó en 2017 el Convenio Europeo sobre protección de animales de compañía [^ley14], que reconoce entre otras cuestiones que el ser humano tiene la obligación moral de respetar todo ser viviente y de tener en cuenta su relación especial con las mascotas. Por eso establece un estándar básico sobre las actitudes y prácticas que resulte en la tenencia responsable de animales de compañía. Entre los principios básicos destacamos los siguientes:
+A nivel europeo el artículo 13 del Tratado de Funcionamiento de la Unión Europea [^ley13], exige que los Estados respeten las exigencias en materia de bienestar de los animales como seres sensibles. Adicionalmente, España ratificó en 2017 el Convenio Europeo sobre protección de animales de compañía [^ley14] [^ley24], que reconoce entre otras cuestiones que el ser humano tiene la obligación moral de respetar todo ser viviente y de tener en cuenta su relación especial con las mascotas. Por eso establece un estándar básico sobre las actitudes y prácticas que resulte en la tenencia responsable de animales de compañía. Entre los principios básicos destacamos los siguientes:
 - **No causar daño, sufrimiento o angustia** innecesarios.
 - **No abandonar**.
 - **Quien esté a cargo de un animal es responsable de su salud y bienestar**, por lo que debe proporcionarle los cuidados y atención adecuados, incluyendo medidas para evitar que se pierda o escape.
@@ -39,7 +40,9 @@ En 1965 el profesor británico Roger Brambell elaboró un informe en el que esta
 
 Como ha quedado patente, parece que existe una obligación moral y legal para el respeto del bienestar animal por parte de las personas y que dicha obligación es superior cuando se trata de animales domésticos de compañía. La legislación nacional, como veremos más adelante aún no especifica que especies cumplen esa condición. No obstante, en la legislación europea si se determina, concretamente en el Anexo I del Reglamento (UE) 2016/429 del Parlamento Europeo y del Consejo, de 9 de marzo de 2016 [^ley23]. Entre estos animales se encuentran los Gatos (*Felis silvestris catus*).
 
-En España existe diversa legislación relativa al bienestar animal, a continuación se detallan las normas nacionales más relevantes, en cualquier caso se puede también consultar el Código de Protección y Bienestar Animal [^link5] que detalla toda la normativa española vigente:
+## Ámbito nacional
+
+En España existe diversa legislación relativa al bienestar animal, a continuación se detallan las normas nacionales más relevantes, en cualquier caso se puede también consultar los Códigos de [Protección y Bienestar Animal](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=204&modo=2&nota=0) [^link5] y de [Animales de Compañía](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=210_Codigo_de_Animales_de_Compania&tipo=C&modo=2) [^link7] que detallan toda la normativa española vigente:
 
 - Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal [^ley10]. Desde la entrada su entrada en vigor se han contemplado los delitos relativos a la protección de la flora, fauna y animales domésticos, incluyendo el de abandono de animales. 
 
@@ -68,7 +71,11 @@ En España existe diversa legislación relativa al bienestar animal, a continuac
 
   En los apartados donde se regula lo relativo a la convivencia familiar, el animal doméstico toma una nueva consideración (algo así como la de un hijo) y, por ejemplo, en el Art. 90 dispone que en caso de separación o divorcio se tendrá en cuenta interés de los miembros de la familia y bienestar del animal para el reparto de tiempos de convivencia, cuidados y cargas asociadas. 
 
-- Anteproyecto de Ley de protección, derechos y bienestar de los animales (previamente llamado de "Bienestar Animal") [^ley20]. Este documento propuesto en octubre de 2021 por el Ministerio de Derechos Sociales y Agenda 2030, ha sido aprobado por el Consejo de Ministros en febrero de 2022. Su tramitación en el congreso, sin embargo, parece que permanece bloqueada por cuestiones relativas a la demanda del colectivo de cazadores para excluir a los perros de caza de la ley. Como anteproyecto aún no tiene validez jurídica alguna, pero su análisis resulta de utilidad al ilustrar la posible evolución de la legislación nacional. El alcance previsto excluye la protección de animales silvestres al existir legislación específica.
+### Futura legislación
+
+Además de la legislación actualmente vigente, resulta útil analizar los proyectos legislativos en trámite porque, aunque aún no tienen validez jurídica alguna, ilustran la posible evolución de la legislación nacional.
+
+- Anteproyecto de Ley de protección, derechos y bienestar de los animales (previamente llamado de "Bienestar Animal") [^ley20]. Este documento propuesto en octubre de 2021 por el Ministerio de Derechos Sociales y Agenda 2030, ha sido aprobado por el Consejo de Ministros en febrero de 2022. El alcance previsto excluye la protección de animales silvestres al existir legislación específica.
 
   La motivación más destacable en lo relativo a este proyecto es su pretensión de «implementar mecanismos legales con el fin de prevenir el alto grado de maltrato y abandono de animales en nuestro país, estableciendo un marco general de protección y bienestar animal para todo el territorio nacional». Para ello pretende regular «nuestro comportamiento hacia ellos como seres vivos dentro de nuestro entorno de convivencia».
 
@@ -132,6 +139,18 @@ En España existe diversa legislación relativa al bienestar animal, a continuac
   **Reflexión:** Resulta paradójico que se permita el sacrificio de estos animales cuando «esté debidamente justificado por la autoridad sanitaria o por motivos de seguridad o medioambientales» (Art. 49), pero no se permita un procedimiento intermedio que mejore la eficacia del control medioambiental sin la necesidad de sacrificar. Algunas alternativas pueden ser la puesta en cautividad mediante la perimetración de la colonia, el traslado de la colonia a una ubicación con menor importancia ecológica o el traslado de los gatos a unas instalaciones preexistentes adecuadas.
   {: .notice--warning}
 
+- Proyecto de Real Decreto por el que se establecen normas básicas de ordenación de los núcleos zoológicos de animales de compañía [^ley24].
+
+  Este proyecto se presenta como una respuesta a las nuevas sensibilidades sociales sobre los animales de compañía cuya población es creciente. Los aspectos fundamentales sobre los que incide son, de acuerdo al propio documento: «la sanidad, la protección animal y sus implicaciones medioambientales». 
+
+  Tiene como objeto «regular los núcleos zoológicos que alberguen animales de compañía, entre los cuales se encuentran, entre otros, los correspondientes a entidades de protección animal». Además, el Ministerio de Derechos Sociales y Agenda 2030 pretende solucionar la ausencia de criterios comunes que permitan establecer un plan nacional de controles de los núcleos zoológicos armonizado.
+
+  Simplemente, destacaremos unos pocos aspectos de la norma en tramitación:
+  1. Los núcleos zoológicos, considerados como tales cuando convivan 5 o más gatos (Anexo II), deberán estar perimetrados y evitar la posibilidad de huida de los animales así como su contacto directo con animales del exterior y con las zonas de aislamiento y (Art. 12).
+  1. Se establecen las dimensiones mínimas que deben cumplir los alojamientos de gatos, que estarán compuestos por una zona de actividad y otra de reposo (Anexo X).
+  1. Se excluye de la norma los lugares de titularidad pública donde existan colonias de gatos.
+
+## Ámbito autonómicos
 Dado que las competencias son de las Comunidades Autónomas la legislación (aún) no es uniforme en todo el territorio nacional. En este caso nos centraremos inicialmente en lo dispuesto en Canarias:
 
 - Ley 8/1991, de 30 de abril, de protección de los animales [^ley18]. En general, esta ley se inspira en los principios de respeto, defensa y protección de los animales de los tratados y convenios internacionales mencionados previamente, así como en la DUDA. El objeto de la ley es, entre otras cuestiones, establecer «las atenciones mínimas que deben recibir los animales domésticos, específicamente, los de compañía» y «obligaciones de los poseedores o dueños de animales y de los centros de recogida o albergues». También pretende «aumentar la sensibilidad colectiva de Canarias hacia comportamientos más humanitarios y propios de una sociedad moderna en el trato a los animales». No obstante, esta ley **no regula** la protección y conservación de la fauna silvestre.
@@ -167,6 +186,8 @@ Dado que las competencias son de las Comunidades Autónomas la legislación (aú
 
 [^link6]: [LFDA ](https://www.fondation-droit-animal.org)
 
+[^link7]: [Código de Animales de Compañía](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=210_Codigo_de_Animales_de_Compania&tipo=C&modo=2)
+
 [^ley1]: [Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio](https://www.boe.es/eli/es/l/2007/11/07/32/con)
 
 [^ley2]: [Ley 8/2003, de 24 de abril, de sanidad animal](https://www.boe.es/eli/es/l/2003/04/24/8/con)
@@ -193,7 +214,9 @@ Dado que las competencias son de las Comunidades Autónomas la legislación (aú
 
 [^ley13]: [Versión consolidada del Tratado de funcionamiento de la UE](https://eur-lex.europa.eu/legal-content/ES/TXT/PDF/?uri=CELEX:12012E/TXT&from=es)
 
-[^ley14]: [Convención europea para la protección de animales de compañía](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=125)
+[^ley14]: [Convenio europeo para la protección de animales de compañía (inglés)](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=125)
+
+[^ley24]: [Convenio europeo para la protección de animales de compañía (español)](https://www.boe.es/eli/es/ai/1987/11/13/(1))
 
 [^ley16]: [Real Decreto 542/2016, de 25 de noviembre, sobre normas de sanidad y protección animal durante el transporte.](https://www.boe.es/eli/es/rd/2016/11/25/542)
 
@@ -208,3 +231,5 @@ Dado que las competencias son de las Comunidades Autónomas la legislación (aú
 [^ley22]: [Real Decreto 630/2013, de 2 de agosto, por el que se regula el Catálogo español de especies exóticas invasoras.](https://www.boe.es/eli/es/rd/2013/08/02/630)
 
 [^ley23]: [ Reglamento (UE) 2016/429 del Parlamento Europeo y del Consejo, de 9 de marzo de 2016, relativo a las enfermedades transmisibles de los animales y por el que se modifican o derogan algunos actos en materia de sanidad animal («Legislación sobre sanidad animal»)](http://data.europa.eu/eli/reg/2016/429/oj)
+
+[^ley24]: [Proyecto de Real Decreto por el que se establecen normas básicas de ordenación de los núcleos zoológicos de animales de compañía](https://www.mdsocialesa2030.gob.es/servicio-a-la-ciudadania/proyectos-normativos/documentos/rd_nucleos_zoologicos.pdf)

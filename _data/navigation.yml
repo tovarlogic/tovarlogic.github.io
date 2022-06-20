@@ -101,7 +101,7 @@ frances:
 
 colonias-felinas:
   - title: "Motivación del proyecto"
-    url: /proyectos/colonias-felinas
+    url: /proyectos/colonias-felinas/
   - title: "Inicio"
     children:
       - title: "1.1. Justificación"

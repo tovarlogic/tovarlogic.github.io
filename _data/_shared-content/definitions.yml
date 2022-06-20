@@ -26,19 +26,22 @@ bienestar-animal:
   - key: Animal silvestre (AP Bienestar Animal)
     value: todo aquel que forma parte del conjunto de especies, subespecies y poblaciones de fauna presente en el ámbito territorial de aplicación de esta norma de manera espontánea, independientemente de su origen, natural o introducido. Incluye ejemplares de especies autóctonas y alóctonas, ya se encuentren en cautividad o libres en el medio. No se considerarán animales silvestres los animales de compañía, aún en el caso de que hubieren vuelto a un estado asilvestrado
   - key: Colonia felina (AP Bienestar Animal)
-    value: grupo de gatos urbanos vinculados entre sí y, especialmente, con el territorio que habitan y en el que tienen sus recursos de subsistencia.
+    value: grupo de gatos urbanos (o cominitarios) vinculados entre sí y, especialmente, con el territorio que habitan y en el que tienen sus recursos de subsistencia.
   - key: Gato feral (AP Bienestar Animal)
     value: Es un Animal perteneciente a la especie Felis catus, que vive en libertad, vinculado a un territorio, con escaso o nulo grado de socialización con el ser humano, y que carece de persona titular. También conocido como gato cimarrón o simplemente gato. 
+  - key: Gato urbano
+    value: Los gatos ferales que establezcan su territorio en suelo urbano, en contacto con el hombre y dependiendo de él para su supervivencia, serán considerados gatos urbanos.
   - key: Gato merodeador (AP Bienestar Animal)
     value: aquel gato que accede libremente al exterior del hogar de su titular.
+  - key: Gato comunitario
+    value: Animal doméstico de compañía de la especie Felis Catus, que vive en libertad, pero vinculado a un territorio y que carece de persona titular o responsable, pudiendo ser alimentado o atendido por una o diferentes personas. Estos gatos no son fauna silvestre y su grado de socialización con el ser humano es variable, aunque dependen de la intervención humana para su supervivencia.
   - key: Gestión ética de colonias felinas (AP Bienestar Animal)
     value: método de gestión de colonias felinas en el que los gatos son alimentados, reciben atención veterinaria, son sometidos al sistema de control ético de población CER (Captura, Esterilización y Retorno) y se censan, controlando la llegada de nuevos individuos.
   - key: Maltrato (AP Bienestar Animal)
     value: toda conducta, tanto por acción como por omisión, que genera perjuicios o compromete las necesidades básicas de dicho animal.
-  - key: 
-    value:
-  - key: 
-    value:
-  - key: 
-    value:
+  - key: Establecimiento para animales abandonados
+    value: Establecimiento en el que se alberguen animales vagabundos, silvestres, perdidos, abandonados, desamparados y decomisados, así como los cedidos por sus titulares, con el objetivo de devolver a los animales a sus titulares o encontrar nuevos dueños para ellos. Pueden ser refugios o santuarios.
+  - key: Santuario (Proyecto de RD Núcleos zoológicos)
+    value: refugio permanente de animales cuyo objetivo es alojar a los animales hasta su muerte, salvo que por razones de bienestar animal se transfieran a otro establecimiento con la misma clasificación.
+
 biodiversidad:

@@ -15,34 +15,10 @@ organizaciones-internacionales:
     value: Fondo Monetario Internacional
   - key: BIRF
     value: Banco Internacional de Reconstrucción y Fomento
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
 
 organizaciones-nacionales:
   - key: CEOE
     value: Confederación Española de Organizaciones Empresariales 
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
 
 legislacion:
   - key: CP
@@ -57,10 +33,6 @@ legislacion:
     value: Real Decreto
   - key: OM
     value: Orden Ministerial / Ordenanza Municipal
-  - key:
-    value:
-  - key:
-    value:
 
 medio-ambiente:
   - key: PNUMA
@@ -79,14 +51,6 @@ medio-ambiente:
     value: Convención de Lucha contra la Desertificación
   - key: UICN
     value: Unión Internacional para la Conservación de la Naturaleza
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
 
 cambio-climatico:
   - key: CMNUCC
@@ -125,32 +89,10 @@ cambio-climatico:
     value: Potencial de calentamiento atmosférico en 100 años - Global warming potential (GWP)
   - key: SAO
     value: Sustancias que agotan el Ozono - Ozonoe Depletion Substantes (ODS)
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
 
 filofofia-derecho:
   - key: TS
     value: Tesis Social
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
 
 bienestar-animal:
   - key: DUDA
@@ -163,18 +105,4 @@ bienestar-animal:
     value: Organización Mundial de Sanidad Animal (ahora WOAH)
   - key: WOAH
     value: Organización Mundial de Sanidad Animal (anteriormente OIE)
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
-  - key:
-    value:
   
