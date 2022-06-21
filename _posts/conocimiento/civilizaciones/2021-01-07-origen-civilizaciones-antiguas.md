@@ -1,23 +1,19 @@
 ---
 title: Origen Civilizaciones Antiguas
 date: 2021-01-07
-categories:
-  - Historia
 tags:
   - Civilizaciones
-serie: civilizaciones
 serie_index: true
-layout: serie
+permalink: /blog/civilizaciones/
 excerpt: Artículo que permite comprender nuestra civilización actual conociendo las
   tradiciones e instituciones que hemos heredado de las primeras civilizaciones
   humanas. Aquí se resume su origen en la edad de bronce, a partir de pueblos
   neolíticos pre-existentes en la región del creciente fértil, y su desarrollo
   hasta la edad de hierro.
-lastmod: 2022-06-17T11:28:24.496Z
 ---
 
-# Introducción
-## Sumeria
+## Introducción
+### Sumeria
 
 La civilización Sumeria surge en las zonas del *Creciente fértil*  entre las montañas del este de Turquía (Zagros), el más Mediterráneo y el Golfo pérsico. Sus orígenes se remontan al periodo *Neolítico* (7000-5000 BC) cuando aún se empleaban herramientas de piedra y ya se habrían domesticado algunas especies animales y vegetales, proceso que se había iniciado previamente en torno a 10000 BC. El Neolítico es la época en la que se comienza la especialización de oficios.
 
@@ -34,7 +30,7 @@ Hasta 3500 BC, en el sur del creciente fértil se desarrollan tecnologías de ir
 El desarrollo del comercio y la agricultura eran la base que sostenía a dichos poblados y ciudades. La escritura sería un desarrollo promovido por el comercio como sistema necesario para llevar un mejor control del "stock" y transacciones.
 
 
-## Egipto
+### Egipto
 Con un proceso básicamente paralelo, aunque con un pequeño retraso de unos siglos con respecto a Sumeria, surgen las primeras ciudades a los bordes del río Nilo. 
 
 <img src="/assets/images/OGAC/L1.2 - egypto hoy en dia.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
@@ -52,16 +48,16 @@ Alrededor de 3100 BC se conquista todo el territorio de orillas del Nilo desde e
 <img src="/assets/images/OGAC/L1.10 - rapida evolucion kingdom egypt 1.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
 
 
-## India
+### India
 En esta región se crean las primeras ciudades a las orillas del río Indus con casi 1000 años de retraso, en torno a 2600 BC, en lo que en la actualidad es Paquistán. Durante esta época, los poblados neolíticos tienen las mismas características y emplean las mismas especies animales y vegetales que en el Creciente fértil y Egipto. Sin embargo, fueron los primeros en producir algodón y tejidos vegetales. Al ser contemporáneos con los Sumerios, existían rutas comerciales por el mar y península arábica. 
 <img src="/assets/images/OGAC/L1.11 - origines civilizaciones indus.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
 <img src="/assets/images/OGAC/L1.12 - conexiones comerciales con mesopotamia.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
 
 No obstante, en el 1700 BC, por razones desconocidas, las ciudades fueron abandonadas. 700 años después vuelven a surgir ciudades, pero esta vez, en las orillas del Ganges. Este cambio pudo ser debido a la llegada de los Indo-Aryans, de habla indo-europea y que crearían el Sanscrito. Los pueblos anteriores tenían una lengua escrita que por el momento no se ha podido descifrar. Los pueblos Hindús actuales parece provenir de este origen.
 
-# Primeras Civilizaciones en la edad de bronce
-## Mesopotamia
-### Primeras ciudades Sumerias
+## Primeras Civilizaciones en la edad de bronce
+### Mesopotamia
+#### Primeras ciudades Sumerias
 Para el surgimiento de las primeras civilizaciones tuvieron que darse al menos los siguientes factores:
 * Agricultura intensiva, capaz de soportar a la población cada vez más numerosa.
 * Especialización de oficios, que diera soporte al comercio.
@@ -80,7 +76,7 @@ Como las ciudades y el comercio crecen de la mano, el segundo se consideraba de 
 
 <img src="/assets/images/OGAC/L2.2 - rutas comerciales en sumeria.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
 
-### Origen de la escritura
+#### Origen de la escritura
 El comercio supuso un incentivo para la innovación en la escritura. Inicialmente se usaban tokens físicos para representar el inventario (3D). Posteriormente, en torno a 3400 BC se pasó al uso de tablillas de piedra o barro con imágenes inscritas (2D) que en 3100 BC se mejorarían con el uso de pictogramas e ideogramas más abstractos. Finalmente en 2800 BC estos pictogramas evolucionaran en escrituras de mayor complejidad en modo de escritura cuneiforme.
 
 <img src="/assets/images/OGAC/L2.4 - origen escritura 1 (3D).PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
@@ -104,7 +100,7 @@ A excepción de las culturas Mayas y Japonesa, esta escritura originada en Mesop
 
 Ya en 1900 BC, en el norte de Siria, se da otro paso aportando significado fonético de sílabas a cada símbolo. Posteriormente los fenicios 900 años después crearían el alfabeto de consonantes y en 770 BC los griegos le añadirían vocales. 
 
-### Nuevas clases sociales
+#### Nuevas clases sociales
 Volviendo atrás entre 3500-3000 BC las ciudades crecen constantemente sobre sus terrenos marginales hasta aproximarse a los de otras ciudades vecinas. Esto originaría conflictos y guerras por pugnas fronterizas, uso de tierras potencialmente cultivables e incluso dominio sobre rutas comerciales.
 
 Estas ciudades sumerias eran teocráticas, donde las familias poderosas tenían el control del culto y que mantenían una organización muy jerárquica. Este hecho explica como fueron capaces de obtener los recursos necesarios para la construcción de monumentos, primigenios a las pirámides egipcias, a base de ladrillos de barro. 
@@ -115,7 +111,7 @@ A partir de 2900 BC a medida que proliferan los conflictos y la importancia de l
 
 Para entonces ya existía la figura del *rey* que era el gobernador de una ciudad que había sido capaz de derrotar a otros gobernadores, tomando así el control de los territorios de ambas ciudades.
 
-### Imperios de Mesopotamia
+#### Imperios de Mesopotamia
 El origen de Mesopotamia se de a la conquista de Sumeria por parte del rey de de los Acadios "Sargon I" en el 2200 BC creando el *1er Imperio de mesopotamia*. Los Acadios se les puede considerar un pueblo heredero de los sumerios, con mismo origen linguístico semita pero con dioses distintos.
 
 <img src="/assets/images/OGAC/L3.1 - origen mesopotamia.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
@@ -162,12 +158,12 @@ La actividad intelectual de Babilonia no tenía precedentes, su producción lite
 
 Otra característica de Babilonia era que sus reyes se veían a sí mismos como pastores del pueblo, a diferencia de los Egipcios que ya se veían como dioses. Hasta tiempos de Alejandro Magno los reinos e imperios se basarían en las instituciones creadas por Hammurabi. Esta figura de Gran Rey permanecería inalterada hasta 1920 AD con la desaparición del imperio Otomano.
 
-## Egipto
+### Egipto
 Mesopotamia fue donde se inició la agricultura intensiva y la escritura, fue la base de la civilización urbana. En la región del Nilo, hasta que este tomara su forma definitiva y se terminara de formar el desierto del Sáhara (4500 BC), la agricultura era complicada. Sin embargo, una vez dadas estas condiciones la agricultura sería mucho más sencilla que en Mesopotamia. El rio Nilo era muy predecible, se podía conocer con certeza cuando eran las épocas de inundación que fertilizarían las orillas para la siguiente temporada de siembra.
 
 La región, al estar rodeada de desiertos, no era de fácil acceso y por ello había contacto limitado con otros pueblos. El Sáhara era una protección natural contra enemigos. El río por tanto era una manera cómoda y eficaz para el movimiento de personas y mercancías, y a través de él se creó una sociedad muy homogénea que en toda su historia siempre hablaría Egipcio una lengua (Hamitic) que aún sigue siendo la base del Copto, la versión moderna.
 
-### Primer reino
+#### Primer reino
 Esta homogeneidad facilitó que ya en el 3100 BC existieran poblados neolíticos muy sofisticados que evolucionarían en el primer reinado conocido por la humanidad, la unificación de Egipto por el Rey Narmer 800 años antes de que Sargon I cree el primer imperio de Mesopotamia.
 
 <img src="/assets/images/OGAC/L5.1 - primer reinado unificado de egipto.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
@@ -176,7 +172,7 @@ Ambos reinos serían gobernados desde una nueva capital, Memphis (cerca del actu
 
 Probablemente los jeroglíficos surgieran de la influencia Sumeria ejercida a través del comercio. Antes de esa época, es decir 3500-3300 BC sólo existían tokens físicos.
 
-### Primeras pirámides
+#### Primeras pirámides
 A partir de 2700 BC se comienza la construcción de pirámides, el epítome del desarrollo cultural y tecnológico de la sociedad. La mayoría fueron construidas entre 2600-2300 BC. Antes de eso, se construían monumentos funerarios más simples, de forma cuadrada con bases superpuestas de manera escalonada, como en Sumeria, pero basado en ladrillos de piedra en vez de barro. Esta técnica se mejoraría hasta la forma piramidal lisa tan característica.
 
 <img src="/assets/images/OGAC/L5.2 -primeras piramides egipcias.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
@@ -194,7 +190,7 @@ Ya en la IV dinastía se evidencia el declive del poder del faraón a través de
 
 La reunificación egipcia vendría de la mano del Príncipe de Thebes, que gestionaba el sur y que se veían a sí mismos como restauradeores del orden y la justicia; muestra del relativo caos que existió durante la decadencia del «Old Kingdom». Thebes no era la capital del «Upper Egypt», pero era por la que llegaban todas las mercancías provenientes de África, y como ciudad fronteriza tenía poder militar, ya que para 2050 BC ya existía un ejercito profesional compuesto por mercenarios extranjeros mayoritariamente Nubios, población negra del actual Somalia. 
 
-### Hacia religiones monoteistas
+#### Hacia religiones monoteistas
 La llegada de las nuevas dinastías de Thebes supuso la introducción de nuevas diodeades locales en el ámbito «nacional». Estos nuevos dioses, como Amen, se fueron asimilando en Menphis hasta el punto que se llegaron a fusionar con los pre-existentes como el Caso de Amen-Ra. Con esto se pretendía legimitizar su reinado a la vista de la gente del delta (que veneraban a los dioses "tradicionales") y a la misma vez introducir los propios del sur. Las fusiones se podrían interpretar  como el mismo dios pero diferente manifestación. Es posible que esto supusiera el primer paso para las siguientes religiones monoteístas. Osiris, el dios del más allá, sería un instrumento para restaurar el orden y la justicia a través de la influencia sobre el comportamiento del pueblo. Este dios juzgaba la moralidad de los recién muertos durante su vida y así determinaba el destino de su alma. 
 
 <img src="/assets/images/OGAC/L5.6 -thebes, origen de la XII dinastía.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
@@ -203,7 +199,7 @@ Fueron los nuevos faraones del sur los que introdujeron reformas administrativas
 
 <img src="/assets/images/OGAC/L6.2 - las 3 nuevas administraciones reales.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
 
-### El imperio egipcio
+#### El imperio egipcio
 Los Nubios, un pueblo vecino al sur, que tradicionalmente habían sido empleados como mercenarios fueron eventualmente incorporados al reino de Egipto de manera relativamente pacífica ya que a cambio obtenían el beneficio de mejores infraestructuras de irrigación y tecnologías agricolas. Por el norte, hubieron campañas militares y se incrementó el flujo comercial con otros pueblos. Fue esta dinastía la XII la que crease las bases del primer imperio egipcio que se materializaría con la XVIII dinastía (1570 BC). Sin embargo, uno de los principales problemas de la d. XII era que sus faraones eran vistos como extranjeros por parte de los egipcios de Memphis y que estos promovieras varias rebeliones que acabarían en guerra civil.
 
 <img src="/assets/images/OGAC/L6.3 - the new kingdom 1.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
@@ -244,13 +240,13 @@ La concentración de Akhenaton o Amentotep en la reforma monoteista supuso descu
 <img src="/assets/images/OGAC/L7.9 - recuperación provincias asiaticas Ramses II.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
 
 
-# Nuevas civilizaciones
+## Nuevas civilizaciones
 Existieron tres regiones geográficas especialmente influenciadas tanto por las civilizaciones de Mesopotamia como la de Egipto, que darían lugar a nuevas civilizaciones durante la que quedaba de la edad de Bronce, basadas en las anteriores, y que a su vez serían los cimientos de nuestra sociedad actual. Estas zonas estas son:
 * Levante
 * Asia menor
 * Mar Egeo
 
-## Levante 
+### Levante 
 
 El Levante es la masa de tierra costera del mediterráneo que une Mesopotamia con Egipto, es decir, los actuales Líbano (fenicios), Israel y Jordania. También se incluye la zona del Eufrates actualmente conocido como Al-Jazirah en la actual Siria.
 
@@ -260,7 +256,7 @@ Durante todo el desarrollo de Mesopotamia, en esta región se irían creando ciu
 <img src="/assets/images/OGAC/L8.2 - ciudades comerciales.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
 
 
-### Primer Silabario y alfabeto
+#### Primer Silabario y alfabeto
 El comercio sumerio fue la semilla para que surgieran muchas ciudades como Ebla (2600 BC) basadas en el modelo de mesopotamia, con sus propias lenguas semitas, como el Cannanite, con escritura cuneiforme y que en la Edad de Hierro estarían representadas por el Hebreo o el Fenicio. Fue en Ugarit, en unos de estas ciudades costeras con un puerto importante, donde se introdujo el primer Syllabary en torno a 1800-1500 BC, es decir, una forma simplificada de escritura cuneiforme que representaba sílabas. Posteriormente los Fenicios lo evolucionarían en el primer alfabeto (únicamente compuesto por consonantes) en torno a 1600-1000 BC.
 
 Por otro lado, en el territorio entre las actuales Turquía y Siria se asentaron, en torno a 2500-2000 BC, los Hurrians (la base cultural de los actuales Armenios) con lengua propia, pero que también adoptaron la escritura cuneiforme. Su influencia fue enorme ya que tras adoptar la cultura mesopotámica, fueron los responsables de su transmisión a Asia menor e incluso más al Oeste. El origen de este pueblo es desconocido, aunque parece que eran comerciantes que se mezclaron con los Acadios y Cannaites. 
@@ -272,7 +268,7 @@ Posteriorme, unos 500 años después en torno a 1750-1500BC llegaron a la misma 
 <img src="/assets/images/OGAC/L8.4 -Indo-Aryans.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
 <img src="/assets/images/OGAC/L8.5 - Kingdom of the Mitanni 1550bc.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
 
-## Asia Menor
+### Asia Menor
 Esta región también había recibido la influencia de Mesopotamia a través del comercio. Los emperadores Acadios costearon guerras en esta zona y a partir de 1900 BC los mercenarios Asyrios crearían asentamientos. En torno a 1700 BC los Hittitas comenzarían a unirse en reinados, que posteriosmente formaría uno mucho más grande llamado "Hittite Old Kingdom" y que llegaría a ampliarse por el SE hasta Asyria. 
 
 <img src="/assets/images/OGAC/L8.7 - origen de los Hittitas.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
@@ -287,10 +283,10 @@ Dicha crisis permitiría a los Hittitas seguir conquistando ciudades ricas del E
 <img src="/assets/images/OGAC/L8.10 - recuperacion poder hittita.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
 <img src="/assets/images/OGAC/L8.11 - imperio hittita egeo.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;"" />
 
-### Semilla de los imperios romanos
+#### Semilla de los imperios romanos
 En varias maneras, el Imperio Hittita sería el predecesor de posteriores imperios, como el romano, ya que del mism o modo que estos el Hittita se basaba en establecer en las tierras conquistadas colonias militares, construcción de vias y la creación de tratados de alianzas y servidumbre con sus pueblos.
 
-## Mundo Egeo
+### Mundo Egeo
 La civilización en el Egeo se origió en la isla de Creta por los Minoans, cuya sociedad era muy jerarquizada, como la Mesopotámica. Para 2100 BC los reyes de la ciudad de Cnossos unificaron la isla y tomaron el control del mar. 
 
 <img src="/assets/images/OGAC/L8.12 -Minoan civilization based on sea control.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
@@ -302,10 +298,10 @@ De ahí su cultura se extendión por todas las islas hasta llegar a Grecia que p
 
 En Grecia la edad de bronce comenzó con 700 años de retraso con respecto a Mesopotamia y corresponde con el periodo entre 2800-1200 BC. En dicho periodo es cuando se crearon muchas de las tradiciones culturales, estéticas y materiales de la Grecia Clásica.
 
-### Primer alfabeto con vocales
+#### Primer alfabeto con vocales
 En torno a 770 BC los griegos le añadirían vocales al alfabeto, que habían heredado de los Fenicios y sólo tenía consonantes. 
 
-# Declive de la edad de bronce
+## Declive de la edad de bronce
 Entre 1225-1050 BC los grandes imperios de la edad de bronce tardía ya habrían caido, consumando su declive a modo de refragmentación. Dicho declive probablemente se debió a varios factores, principalmente:
  - Gran cantidad de inmigración
  - Debilidad y coste de las instituciones
@@ -329,7 +325,7 @@ Además, los pueblos fronterizos, armados por los Egipcios e Hititas tendrían e
 <img src="/assets/images/OGAC/L9.3 - elites militares empleadas por los imperios.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
 
 
-## Fragmentación y analfabetismo
+### Fragmentación y analfabetismo
 En Egipto y Babilonia, la civilización se mantuvo, ya no en forma de imperio sino muy fragmentada, mientras que en el Egeo, Anatolia y Levante la civilización urbana y alfabetizada se vio interrumpida, la escritura se perdió por completo.  Reaparecería mas tarde, en el 1000 BC tras adoptar el sistema alphabético de los Fenicios. 
 
 El imperio hitita cayó por completo, el orden político no se recuperaría hasta 350 años después, fragmentandose en reinados neo-Hititas en el SE que mantenían las tradiciones, del mismo modo que los Bizantinos mantendrían las tradiciones de Roma. Los neo-Hittitas no hablaban Hittita sino dialectos de los nuevos pueblos (******* . Mientras que los Phrygians, un nuevo pueblo inmigrante, morarían en la Anatolia occidental y central, adoptanto eventualmente el sistema alphafético de los Fenicios y manteniendo contacto con los Griegos. 
@@ -365,7 +361,7 @@ Los Hebreos, por su parte permanecerían en las tierras altas entre Jordania y P
 
 En Egipto y Mesopotamia, también hubieron cambios, las élites militares Libias y Nubias dominaron el valle del Nilo y los Asirios Babilonia.
 
-## Hebreos
+### Hebreos
 La primera referencia a los Hebreos data del siglo 9 BC en textos cuneiformes y Arameos dan cuenta del los reyes de Israel y Judah o Judea, que dicen descender del rey David.
 
 El colapso de la Edad de bronce fue decisivo para la destrucción del Imperio Egipcio. Con su caida los "pueblos del mar", provenientes del Egeo asaltaron las pocesiones levantinas de Egipto, incluyendo los reinos de Israel y Judah. Los Filisteos, probablemente originarios de Creta, llegarían entre 1100-1000 BC a las costas de Israel, de acuerdo al Antiguo Testamento eran vistos como «intrusos» , que forzaría a los Hebreos a organizarse en reinos efectivos.  Su posición era la de un sandwhich de enemigos, los Filistinos en la costa al Oeste y por el Este los Arameos, Asirios y Moabitas.
@@ -390,7 +386,7 @@ Del resultado del mestizaje entre los Hebreos que quedaron en Israel y los colon
 
 <img src="/assets/images/OGAC/L10.8 - samaritanos.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
 
-### Judíos: Primera religión monoteista
+#### Judíos: Primera religión monoteista
 La caida del reino Israelí por la invasión Asiria sería importante para el establecimiento de la concepción identitaria y religiosa de los Hebreos. Judea quedó reducida a una provincia Asiria y supuso un desplazamiento súbito de poder hacia Jerusalem que se convertiría en la capital del reinado. Los reyes Hebreos seguían gobernando, pero pagando tributo a los reyes Asirios.  Los refugiados provenientes del norte aumentarían su población y tendrían influencia en la transformación cultural. Durante el periodo del reinado de Hezekiah (727-698 BC) y Josiah (640-609 BC), que se veían como sucerores del reinado de David, Judea se convertiría en el centro político y religioso de los Hebreos. Estos reyes impusieron un estricto monoteismo en la población. Bajo el reinado de los Asirios, Judea prosperó y logró mantenerse aparte de las guerras.
 
 <img src="/assets/images/OGAC/L10.9 - judea.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
@@ -400,8 +396,8 @@ Con el colapso del Imperio Asirio los reyes de Judea se enemistaron con los reye
 <img src="/assets/images/OGAC/L10.10 - exilio.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
 <img src="/assets/images/OGAC/L10.11 - fin exilio.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
 
-# Imperios de la edad de hierro
-## Imperio Asirio (911-612 BC)
+## Imperios de la edad de hierro
+### Imperio Asirio (911-612 BC)
 Entre 911-612 BC, los reyes neo-Asirios, que se veían a sí mismos como los herederos del imperio Acadio, fueron capaces de crear el primer imperio tras el colapso de la edad de bronce que culminaría en la unificación de todo el medio oriente u asia occidental, incluyendo los valles del Nilo y del Tigris-Eufrates.
 
 Para 1040 BC Egipto ya era incapaz de ejercer el dominio o influencia que hasta entonces ejercía. Esto se debió a 3 razones principales:
@@ -452,7 +448,7 @@ A modo de síntesis, se puede hacer un paralelismo entre Sumeria -> Babilonia ->
 - Babilonia y Grecia llevaron esas civilizaciones a su mayor exponente intelectual
 - Asiria y Roma extendieron las fronteras legales y políticas de dichas civilizaciones (con la excepción de que los Romanos si fueron capaces de ganarse la lealtad de los pueblos conquistados).
 
-## Imperio Persa (550-330 BC)
+### Imperio Persa (550-330 BC)
 De los restos, tras la caída del imperio neo-Asirio, resurgen cuatro (4) reinos de órden imperial: Egipto, la Babilonia de reyes Caldeos, el reino de Lidia en Asia Occidental y el de Medas en Oeste de Irán. Posteriormente entre 550-525 BC estos reinos cederían frente al Imperio Persa, que sería el mas amplio hasta la fecha, llegaría hasta al valle del río Hindus.
 
 <img src="/assets/images/OGAC/L12.2 - restos imperio neo-asirio.PNG" alt="image" style="border: 1px solid #000; max-width:500px; max-height:500px;" />
@@ -505,7 +501,7 @@ Las civilizaciones del Medio Oriente u Asia occidental establecieron los fundame
 > "[...] The whole life of men, Athenians, whether they dwell in a large state or a small one, is governed by nature and by the laws. Of these, nature is something irregular and incalculable, and peculiar to each individual; but the laws are something universal, definite, and the same for all. Now nature, if it be evil, often chooses wrong, and that is why you will find men of an evil nature committing errors.
 > But the laws desire what is just and honorable and salutary; they seek for it, and when they find it, they set it forth as a general commandment, equal and identical for all. The law is that which all men ought to obey for many reasons, but above all because every law is an invention and gift of the gods, a tenet of wise men, a corrective of errors voluntary and involuntary, and a general covenant of the whole State, in accordance with which all men in that State ought to regulate their lives. [...] For there are two objects, men of Athens, for which all laws are framed—to deter any man from doing what is wrong, and, by punishing the transgressor, to make the rest better men; [...]"
 
-# Listado Reinos, Imperios y dinastías
+## Listado Reinos, Imperios y dinastías
 * **Mesopotamia**
 	* Akkadian Empire (2300-2200 BC)
 	* 1er Imperio Mesopotamia por Sumerios (2200-XX BC)
@@ -525,7 +521,7 @@ Las civilizaciones del Medio Oriente u Asia occidental establecieron los fundame
 	* Imperio Persa (550-330 BC)
 
 
-# Listado de Pueblos
+## Listado de Pueblos
 * **Asia Menor**
 	* Hittitas (Turquía, indo-aryans)
 	* Elemites (Iran)
@@ -551,7 +547,7 @@ Las civilizaciones del Medio Oriente u Asia occidental establecieron los fundame
 *	Nubios (Somalia)
 *	Kush (Al sur de la tercera catarata)
 *	
-# Sintesis línea temporal
+## Sintesis línea temporal
 * 11000-6000 BC -> Desarrollo de la agricultura
 * **Neolítico (7000-5000 BC)** -> Aparición primeros poblados
 	* Al-Ubaid period (4500-3500) -> aumento población y tamaño poblados
@@ -662,7 +658,7 @@ Battles of Thermopylae and Salamis.
 479 B.C.............................Battle of Plataea: defeat of second Persian invasion.
 
 
-# Bibliografía
+## Bibliografía
 * [Great Courses Plus - Origins of ancient civilizations](https://www.thegreatcoursesplus.com/origins-of-great-ancient-civilizations)
 * [Demosthenes. Demosthenes with an English translation by A. T. Murray, Ph.D., LL.D. Cambridge, MA, Harvard University Press; London, William Heinemann Ltd. 1939.](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0074%3Aspeech%3D25%3Asection%3D15)
 

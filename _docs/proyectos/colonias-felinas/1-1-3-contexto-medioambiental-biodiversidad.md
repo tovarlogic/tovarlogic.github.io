@@ -19,11 +19,16 @@ Existe una relación evidente entre los asuntos de protección del bienestar de 
 
 El Convenio de Naciones Unidas sobre la Diversidad Biológica (CDB) [^link1], ratificado por España en 1993 [^link2], establece que se «impedirá que se introduzca, y en el caso de que ya estén presentes, se controlen o erradiquen las especies exóticas que amenacen los ecosistemas, los hábitats o especies».
 
-A nivel europeo, la Convención para la conservación de la vida silvestre y hábitats naturales europeos [^ley2], que fue ratificada por España en 1986, reconoce en su preámbulo «el papel esencial de la flora y fauna silvestres en el mantenimiento de los equilibrios biológicos»; y que su conservación «debería tomarse en consideración por los gobiernos, en sus objetivos y programas nacionales...». En su Anexo III especifica que a diferencia de otros tipos de animales **todas las especies de reptiles y aves deben ser protegidas**.
+A nivel europeo, la Convención para la conservación de la vida silvestre y hábitats naturales europeos [^ley2], que fue ratificada por España en 1986, reconoce en su preámbulo «el papel esencial de la flora y fauna silvestres en el mantenimiento de los equilibrios biológicos»; y que su conservación «debería tomarse en consideración por los gobiernos, en sus objetivos y programas nacionales...». En su Anexo III especifica que a diferencia de otros tipos de animales **todas las especies de reptiles y aves deben ser protegidas**. Por su parte, en el Convenio europeo sobre protección de animales de compañía de 1987 [^ley6], se especifica en el Art. 2 que «ninguna disposición del presente Convenio afectará a la aplicación de otros instrumentos para la protección de animales o para la protección de especies salvajes amenazadas».
 
-Por su parte en el Convenio europeo sobre protección de animales de compañía [^ley6], en su Art. 2 especifica que «ninguna disposición del presente Convenio afectará a la aplicación de otros instrumentos para la protección de animales o para la protección de especies salvajes amenazadas». Es decir, que las normas nacionales que deriven de dicho Convenio no deben afectar a dicha labor de protección medioambiental.
 
-Asimismo, la Resolución del Parlamento Europeo de 9 de junio de 2021 [^ley5], sobre la “Estrategia de la Biodiversidad 2030” [^link3], insta a los Estados Miembros a desarrollar los Listados Positivos, listas blancas de especies permitidas para la importación, el mantenimiento, la cría y el comercio como animales de compañía sobre la base de una evaluación científica, solicitando su desarrollo a la mayor brevedad posible. Además, en la misma resolución del Parlamento Europeo se insta a los países miembros a ampliar los recursos ecológicos y de biodiversidad, mediante zonas verdes en áreas urbanas y promoviendo la interconectividad entre hábitats y creación de corredores verdes y a combatir el tráfico de especies exóticas y silvestres.
+
+
+
+
+Asimismo, la Resolución del Parlamento Europeo de 9 de junio de 2021 [^ley5], sobre la “Estrategia de la Biodiversidad 2030” [^link3], insta a los Estados Miembros a desarrollar los Listados Positivos, listas blancas de especies permitidas para la importación, el mantenimiento, la cría y el comercio como animales de compañía **sobre la base de una evaluación científica**. Además, en la misma resolución del Parlamento Europeo se insta a los países miembros a ampliar los recursos ecológicos y de biodiversidad y a combatir el tráfico de especies exóticas y silvestres.
+
+
 
 ## Ámbito nacional
 

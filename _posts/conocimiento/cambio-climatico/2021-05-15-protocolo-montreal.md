@@ -1,32 +1,22 @@
 ---
 title: Protocolo de Montreal
 date: 2021-05-15
-lastmod: 2022-06-18T12:28:01.051Z
-categories:
-  - Medio Ambiente
 tags:
   - Cambio Climático
   - Ozono
   - Derecho Internacional
   - Tratados Internacionales
-serie: cambio-climatico
-layout: serie
 excerpt: Resumen sobre el contenido del Protocolo de Montreal para la protección de la
   capa de ozono.
 definitions:
   - derecho-internacional
-acronyms:
-  - organizaciones-internacionales
-  - acuerdos-internacionales
-  - cambio-climatico
-  - medio-ambiente
 ---
 
-# Introducción
+## Introducción
 
 El Protocolo de Montreal sobre las Sustancias que Agotan la capa de Ozono (SAO) es un acuerdo mundial para proteger la capa de ozono de la Tierra mediante la eliminación gradual de los productos químicos que la destruyen. El acuerdo se firmó en 1987 y entró en vigor en 1989. Es un protocolo que amplía el Convenio de Viena para la Protección de la Capa de Ozono firmado en 1985. 
 
-En el protocololo se  crea un plan de eliminación gradual que incluye tanto la producción como el consumo de sustancias agotadoras de la capa de ozono. Los Anexos C, E y F, establecen cuáles son las sustancias controladas. En la mayoría de casos, las sustancias controladas, que se identificaron como dañinas para la capa de ozono son empleados para:
+En el protocololo se crea un plan de eliminación gradual que incluye tanto la producción como el consumo de sustancias agotadoras de la capa de ozono. Los Anexos C, E y F, establecen cuáles son las sustancias controladas. En la mayoría de casos, las sustancias controladas, que se identificaron como dañinas para la capa de ozono son empleados para:
 - Sistemas de refrigeración y aire acondicionado, 
 - Equipos de protección contra incendios
 - Disolventes
@@ -54,7 +44,7 @@ De manera general, este protocolo establece los principios que heredarán los pr
 
 Cabe destacar que el Protocolo de Montreal, como el resto de convenios, tratados y acuerdos de la UN relacionados con el Ozono, protección del medio ambiente y cambio climático, es lo que se suele llamar "normativa blanda". Por ello, en caso de incumplimiento de los compromisos se suele optar por opciones facilitadoras que ayuden a evitar siguientes incumplimientos.
 
-# Sustancias controladas
+## Sustancias controladas
 
 La Organización Meteorológica Mundial o World Metorological Organization (WMO) estableció 
 Como se puede observar en las tablas siguientes, cada sustancia, tiene asociado un Potencial de Agotamiento del Ozono (PAO). Se trata de una medida relativa, tomando como referencia al CFC-11 cuyo PAO es 1, que indica el impacto que cada sustancia tiene sobre el ozono estratosféricos, es decir, su destrucción. Simplificadamente, el PAO de casa SAO se estima a partir de lsu capacidad de destrucción de ozono y el tiempo de vida/permanencia.
@@ -63,13 +53,12 @@ Por regla general las sustancias bromadas tienen un PAO superior mientras que lo
 
 Adicionalmente, existe la unidad relativa, empleando como referencia el CO2 cuyo PCA100 es 1, que indica el Potencial de Calentamiento Atmosférico a los 100 años (PCA100). Al igual que con el PAO el PCA100 se estima en base a dos variables, la "eficiencia radiativa" y el tiempo de permanencia en la atmósfera.
 
-{: .notice--info}
 **Info**: Hay que tener en cuenta que los efectos de las emisiones, y su reducción, no son inmediatos sino diferidos durante años. Esto se debe en primer lugar a que aunque la mayoría de emisiones se realizan al nivel de la superficie terrestre, las sustancias acaban llegando a la estratosfera después de varios años de "viaje". Adicionalmente, cada ODS tiene un periodo de vida determinado, lo que les permite permanecer un tiempo en dicha capa destruyendo ozono hasta su desaparición.
+{: .notice--info}
 
 La agencia americana de protección ambiental ha publicado un listado exhaustivo[^EPA_ODS] de SAO con sus respectivos DAO y PCA.
 
-
-## Anexo A - Grupo I: Clorofluorocarbonos 
+### Anexo A - Grupo I: Clorofluorocarbonos 
 
 |         | **Sustancia** | PAO  | PCA100 |
 | ------- | ------------- | ---- | ------ |
@@ -92,7 +81,7 @@ Las medidas con respecto a consumo y producción son:
 
 (*) con posibles exenciones para usos esenciales
 
-## Anexo A - Grupo II : Halones
+### Anexo A - Grupo II : Halones
 
 |           | **Sustancia**  | **Potencial de agotamiento del ozono** |
 | --------- | -------------- | -------------------------------------- |
@@ -111,7 +100,7 @@ Las medidas con respecto a consumo y producción son:
 
 (*) con posibles exenciones para usos esenciales
 
-## Anexo B - Grupo I: Otros CFC completamente halogenados
+### Anexo B - Grupo I: Otros CFC completamente halogenados
 
 |         | Sustancia | PAO  |
 | ------- | --------- | ---- |
@@ -138,7 +127,7 @@ Las medidas con respecto a consumo y producción son:
 
 (*) con posibles exenciones para usos esenciales
 
-## Anexo B - Grupo II: Tetracloruro de carbono
+### Anexo B - Grupo II: Tetracloruro de carbono
 
 |      | Sustancia               | PAO  |
 | ---- | ----------------------- | ---- |
@@ -152,7 +141,7 @@ Las medidas con respecto a consumo y producción son:
 | **Reducción 85%**     | 1995                 | 2005                 |
 | **Reducción 100%**    | 1996 (*)             | 2010 (*)             |
 
-## Anexo B - Grupo III: 1,1,1-tricloroetano (metilcloroformo)
+### Anexo B - Grupo III: 1,1,1-tricloroetano (metilcloroformo)
 
 |          | Sustancia                                        | PAO  |
 | -------- | ------------------------------------------------ | ---- |
@@ -171,7 +160,7 @@ Las medidas con respecto a consumo y producción son:
 
 (*) con posibles exenciones para usos esenciales
 
-## Anexo C - Grupo I: HCFCs 
+### Anexo C - Grupo I: HCFCs 
 
 |               | **Sustancia**  | Isomeros | PAO           |       |
 | ------------- | -------------- | -------- | ------------- | ----- |
@@ -246,7 +235,7 @@ Las medidas con respecto a **producción** son:
 
 (**) y en lo sucesivo, consumo restringido al mantenimiento del equipo de refrigeración y aire acondicionado existente en esa fecha.
 
-## Anexo C - Grupo II: HBFCs
+### Anexo C - Grupo II: HBFCs
 
 |           | Sustancia   | Isomeros | PAO      |
 | --------- | ----------- | -------- | -------- |
@@ -293,7 +282,7 @@ Las medidas con respecto a consumo y producción son:
 
 (*) con posibles exenciones para usos esenciales
 
-## Anexo C - Grupo III: Bromoclorometano
+### Anexo C - Grupo III: Bromoclorometano
 
 |         | **Sustancia**    | Isomeros | PAO  |
 | ------- | ---------------- | -------- | ---- |
@@ -307,7 +296,7 @@ Las medidas con respecto a consumo y producción son:
 
 (*) con posibles exenciones para usos esenciales
 
-## Anexo C - Sustancias de transición
+### Anexo C - Sustancias de transición
 
 |           | Sustancia  |
 | --------- | ---------- |
@@ -346,7 +335,7 @@ Las medidas con respecto a consumo y producción son:
 | C3H6FCl   | (HCFC-271) |
 |           |            |
 
-## Anexo E – Grupo I: Metilbromuro
+### Anexo E – Grupo I: Metilbromuro
 
 Grupo I
 
@@ -368,7 +357,7 @@ Las medidas con respecto a consumo y producción son:
 
 (*) con posibles exenciones para usos esenciales
 
-## Anexo F: Hidrofluorocarbonos (HFCs)
+### Anexo F: Hidrofluorocarbonos (HFCs)
 
 Grupo I
 
@@ -417,33 +406,32 @@ Grupo 2: Arabia Saudita, Bahrein, los Emiratos Árabes Unidos, la India,  el Ira
 
 # Enmiendas
 
-## Enmienda de Londres (1990)
+### Enmienda de Londres (1990)
 
 En esta enmienda se incluyen las sustancias del Anexo B, es decir,  "Otros CFC completamente halogenados", los Tetracloruro de carbono, los 1,1,1-tricloroetano (metilcloroformo) cuya protección comenzaría a partir de 1993.
 
 Adicionalmente se añade un listado de sustancias de tranasición para los HCFCs.
 
-## Enmienda de Copenhague (1992)
+### Enmienda de Copenhague (1992)
 
 En esta enmienda entre otros cambios se añade el Anexo E con el **Metilbromuro como nueva sustancia a controlar.a partir de 1994.** Y se actualiza el listado de sustancias Hidrobromofluorocarbonadas.
 
-## Enmienda de Montreal (1997)
+### Enmienda de Montreal (1997)
 
 Se crea un sistema de licencias para la importación y exportación de sustancias controladas, ya sean nuevas, usadas o recicladas y regeneradas, correspondientes a los Anexos A, B y C.
 
-## Enmienda de Beijing (1999)
+### Enmienda de Beijing (1999)
 
 Esta enmienda añade como sustancia a controlar el **Bromoclorometano a partir de 2001**
 
-## Enmienda de Kigali (2016)
+### Enmienda de Kigali (2016)
 
 Es la enmienda más reciente y exigió la reducción gradual de los **hidrofluorocarbonos (HFC) a partir de 2019**. Estos HFC se utilizaron como sustitutos de un lote de sustancias agotadoras de la capa de ozono eliminadas por el primer Protocolo de Montreal. Aunque estas sustancias no agotan la capa de ozono, son conocidas como potentes gases de efecto invernadero y, por lo tanto, contribuyentes al cambio climático.
 
+**Info**: Se estima que esta medida supondrá una reducción del calentamiento global en 2100 de 0.2-0.4ºC[^sap_report_2018]
 {: .notice--info}
 
-**Info**: Se estima que esta medida supondrá una reducción del calentamiento global en 2100 de 0.2-0.4ºC[^sap_report_2018]
-
-# Bibliografía
+## Bibliografía
 
 - [Protocolo de Montreal ed 2020](https://ozone.unep.org/sites/default/files/Handbooks/MP-Handbook-2020-Spanish.pdf)
 

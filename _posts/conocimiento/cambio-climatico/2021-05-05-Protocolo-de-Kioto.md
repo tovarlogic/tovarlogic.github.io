@@ -1,24 +1,14 @@
 ---
 title: Protocolo de Kioto
 date: 2021-05-05
-categories:
-  - Medio Ambiente
 tags:
   - Cambio Climático
   - Derecho Internacional
   - Tratados Internacionales
-serie: cambio-climatico
-layout: serie
 excerpt: Resumen sobre el contenido del acuerdo del Protocolo de Kioto de 1997 contra
   el cambio climático.
 definitions:
   - derecho-internacional
-acronyms:
-  - organizaciones-internacionales
-  - acuerdos-internacionales
-  - cambio-climatico
-  - medio-ambiente
-lastmod: 2022-06-18T12:38:55.283Z
 ---
 
 ## Introducción
@@ -29,17 +19,15 @@ El objetivo último del protocolo es **"estabilizar las concentraciones atmosfé
 
 El acuerdo es vinculante para los estados, aunque únicamente para los desarrollados, que se comprometen a reducir sus emisiones de GEI. Sólo los estados desarrollados se comprometen porque en el acuerdo se reconoce que son estos los principales responsables para el aumento de concentraciones de CO2 atmosférico. En la actualidad unos 190 países han ratificado el protocolo. No obstante, como los principales emisores no forman parte del acuerdo, únicamente están cubiertas el **12%** de las emisiones globales.
 
-{: .notice--warning}
-
 **Nota:** Originalmente se excluyeron a los países en desarrollo porque estos argumentaban que las limitaciones que les impondría el protocolo serían injustas ya que dificultaría su desarrollo. Por otro lado, una de las razones que alegó EE.UU. para no ratificar el protocolo era precisamente que al excluir a dichos países se ponía en riesgo la competitividad industrial del país y que sin ellos la eficacia del protocolo quedaba socavada. Europa como ente supranacional aceptó este hecho y asumió que su responsabilidad era de un orden superior a los intereses económicos y competitivos de la unión.
+{: .notice--warning}
 
 > Imagino que precisamente por la misma razón que EE.UU. China tampoco lo ratificó. Parece además que la situación china es especial, ya que este país se ha convertido en "la fábrica del mundo". Al relocalizar o cerrar las industrias de países occidentales, en cierta forma se está trasladando la responsabilidad a los chinos, ya que su cierre implica reducción de emisiones. Es decir, la relocalización industrial se puede ver como una estratagema para aparentar ser un estado limpio, aunque luego sus importaciones sean ingentes. Por eso, creo que una unidad que tuviera en cuenta el consumo o las importaciones sería muy eficaz para evitar perjudicar a países como el chino, que se encuentran en pleno desarrollo ofreciendo un servicio global de fabricación a bajo coste.
 
 La unidad que se emplea para el control de emisiones es t-CO2-eq, es decir, toneladas equivalentes de CO2, que por simplicidad se les llama "Unidades Kioto". 
 
-{: .notice--info}
-
 **Info**: El empleo de una unidad "equivalente a CO2" se debe a que las moléculas de los diferentes GEI tienen capacidades de absorción térmica y tiempos de permanencia en la atmósfera distintos. Con esta medida se corrigen estas diferencias en una unidad equivalente y, por tanto, comparable.
+{: .notice--info}
 
 Al comienzo de aplicación del protocolo se establece un "periodo de compromiso" de varios años en los que cada país se compromete a cumplir unos objetivos de reducción de emisiones. Para cada periodo cada estado es asignado con unas "Unidades Kioto" permitidas. Dichas unidades iniciales posteriormente se podrán modificar con la adopción de tecnologías de reducción de emisiones, cambios de uso de suelo o mediante el comercio que establecen los "Mecanismos de Kioto". 
 
@@ -164,7 +152,7 @@ La propia convención establece un comité de cumplimiento o conformidad con los
 
 > Como se puede comprobar, no se trata de sanciones sino en el mejor caso se pueden interpretar como medidas incentivadoras.
 
-# Enmienda de DOHA
+## Enmienda de DOHA
 
 En Diciembre de 2012 se aprueba en DOHA un segundo periodo de compromiso que comenzaría en 2013 hasta 2020. Sin embargo, de acuerdo a los preceptos del Protocolo de Kioto, la enmienda debía de ser ratificada por al menos 3/4 de las partes que lo habían ratificado. Esto significaba que al menos 144 naciones debían ratificar la enmienda, hito que no se alcanzó hasta el Octubre de 2020, con 147 firmas. Por tanto, el segundo periodo de compromiso de 8 años no comenzaría hasta el 1 de Enero de 2021.
 
@@ -174,7 +162,7 @@ Los estados que se acogieron al nuevo periodo de compromiso son distintos a los 
 
 Por último se decidió en esta enmienda que el Fondo de Adaptación, que se había puesto en marcha con el protocolo para financiar proyectos y programas de adaptación a países en desarrollo, se financiara con un 2% de los beneficios obtenidos por el comercio internacional de permisos de emisión, proyectos JI y MDL o CDM. Previamente, durante el primer periodo, se había financiado únicamente mediante proyectos MDL o CDM.
 
-# Bibliografía y enlaces de interés
+## Bibliografía y enlaces de interés
 
 - [UNFCCC: ¿Que es el Protocolo de Kioto?](https://unfccc.int/es/kyoto_protocol)
 - [UNFCCC: Protocolo de Kioto ed. 1998 (ENG)](https://unfccc.int/resource/docs/convkp/kpeng.pdf)

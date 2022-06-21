@@ -1,43 +1,31 @@
 ---
 title: Acuerdo de París
 date: 2021-05-10
-categories:
-  - Medio Ambiente
 tags:
   - Cambio Climático
   - Derecho Internacional
   - Tratados Internacionales
-serie: cambio-climatico
-layout: serie
 excerpt: Resumen sobre el contenido del Acuerdo de París de 2015, ratificado en 2016 en
   Nueva York, contra el cambio climático.
 definitions:
   - derecho-internacional
-acronyms:
-  - organizaciones-internacionales
-  - acuerdos-internacionales
-  - cambio-climatico
-  - medio-ambiente
-lastmod: 2022-06-18T12:38:49.047Z
 ---
 
-# Introducción
+## Introducción
 
-El Acuerdo de París es un tratado internacional jurídicamente vinculante, adoptado por un total de 196 [^ratificaciones] estados durante la COP 21, dentro del marco de la Convención Marco sobre Cambio Climático de Naciones Unidas (UNFCCC) en diciembre de 2015 y que entró en vigor a finales de 2016. Hay que destacar, que a diferencia del Protocolo de Kioto, China y EE.UU ratificaron el acuerdo desde el inicio.
+El Acuerdo de París es un tratado internacional jurídicamente vinculante, adoptado por un total de 196 [^ratificaciones] estados durante la COP 21, dentro del marco de la Convención Marco sobre Cambio Climático de Naciones Unidas (UNFCCC) en diciembre de 2015 y que entró en vigor a finales de 2016. Hay que destacar, que a diferencia del Protocolo de Kioto, China y EEUU ratificaron el acuerdo desde el inicio.
 
+**Info:** Con la elección de Donald Trump como presidente de EEUU en 2017, dicho estado se salió del acuerdo con el argumento de que perjudicaba a las empresas estadounidenses. A comienzos de 2021, con la finalización de su mandato y la elección de Joe Biden como nuevo presidente, EEUU ha vuelto a formar parte del acuerdo. 
 {: .notice--info}
 
-**Info:** Con la elección de Donald Trump como presidente de EE.UU. en 2017, dicho estado se salió del acuerdo con el argumento de que perjudicaba a las empresas estadounidenses. A comienzos de 2021, con la finalización de su mandato y la elección de Joe Biden como nuevo presidente, EE.UU. ha vuelto a formar parte del acuerdo. 
+El objetivo del acuerdo es lograr limitar el calentamiento global a un nivel inferior a 2ºC con respecto a los niveles preindustriales mientras se intenta limitar el aumento de temperatura a 1.5ºC, que reduciría en mayor medida los riesgos y efectos del cambio climático. Para ello se pretende que el pico máximo de emisiones de Gases de Efecto Invernadero (GEI) mundiales se alcance cuanto antes. Los países desarrollados tendrán que realizar los mayores esfuerzos en reducción de emisiones, mientras que aún se encuentran en desarrollo hacerlo adoptando las mejores tecnologías actuales, adaptarse al cambio climático y,, eventualmente esforzarse en reducir también sus emisiones.
 
-El objetivo del acuerdo es lograr limitar el calentamiento global a un nivel inferior a 2ºC con respecto a los niveles pre-industriales mientras se intenta limitar el aumento de temperatura a 1.5ºC, que reduciría en mayor medida los riesgos y efectos del cambio climático. Para ello se pretende que el pico máximo de emisiones de Gases de Efecto Invernadero (GEI) mundiales se alcance cuanto antes. Los países desarrollados tendrán que realizar los mayores esfuerzos en reducción de emisiones, mientras que aún se encuentran en desarrollo hacerlo adoptando las mejores tecnologías actuales, adaptarse al cambio climático y,, eventualmente esforzarse en reducir también sus emisiones.
-
+**Info:** De acuerdo al IPCC [^1] la reducción de emisiones necesaria para lograr el objetivo han de llevar a alcanzar en 2030 niveles equivalentes al 45% de las emisiones de 2010. No obstante, si se falla en comenzar a reducir de manera importante las emisiones, cuanto más nos retrasemos, la pendiente de la reducción de emisiones deberá ser aún más drástica.
 {: .notice--info}
 
-**Info:** De acuerdo al IPCC[^1]la reducción de emisiones necesaria para lograr el objetivo han de llevar a alcanzar en 2030 niveles equivalentes al 45% de las emisiones de 2010. No obstante, si se falla en comenzar a reducir de manera importante las emisiones, cuanto más nos retrasemos, la pendiente de la reducción de emisiones deberá ser aún más drástica.
+A diferencia del Protocolo de Kyoto, el acuerdo de París ha logrado el hito histórico de que por primera vez todos los países se pongan de acuerdo por una causa común, es decir, combatir el cambio climático y adaptarse a sus efectos.
 
-A diferencia del Protocolo de Kyoto, el acuerdo de París ha logrado el hito histórico de que por primera vez todos los países se pongan de acuerpo por una causa común, es decir, combatir el cambio climático y adaptarse a sus efectos.
-
-De manera similar al Protocolo de Kioto, la Conferencia de las Partes (COPs) es el órgano supremo de la Convención, que tiene lugar anualmente, actuará como reunión de las partes del Acuerdo de París. Del mismo modo, se organiza la ejecución de las medidas adoptadas en este acuerdo con una periodicidad de 5 años. Cada ciclo siguiente tendrá objetivos más ambiciosos que el anterior. Se trata además, de un acuerdo que pretende mejorar el enfoque político a largo plazo. Por ello en 2020, 4 años después de la ratificación del acuerdo cada estado debe presentar información relevante clasificables en dos ámbitos bien definidos:
+De manera similar al Protocolo de Kioto, la Conferencia de las Partes (COPs) es el órgano supremo de la Convención, que tiene lugar anualmente, actuará como reunión de las partes del Acuerdo de París. Del mismo modo, se organiza la ejecución de las medidas adoptadas en este acuerdo con una periodicidad de 5 años. Cada ciclo siguiente tendrá objetivos más ambiciosos que el anterior. Se trata además, de un acuerdo que pretende mejorar el enfoque político a largo plazo. Por ello en 2020, 4 años después de la ratificación del acuerdo cada estado debe presentar información relevante clasificable en dos ámbitos bien definidos:
 
 1. Estrategias a largo plazo para el desarrollo nacional con bajas emisiones de GEI
 2. Medidas concretas para el primer periodo (corto plazo): A estas medidas se las conoce como "Contribuciones determinadas a Nivel Nacional" (NDC) y se dividen en dos categorías:
@@ -52,15 +40,14 @@ Hay tres ámbitos de actuación en el marco que establece este acuerdo:
 
 - Financiero: Para dar apoyo a los países menos desarrollados que les permita, tanto reducir las emisiones como adaptarse a los efectos del calentamiento global. El acuerdo inicial compromete a las partes a llegar a una suma total de 100.000 millones de dólares anuales.
 - Tecnológico: Para fomentar y acelerar la transferencia tecnológica que permita nuevamente lograr los objetivos de reducción de emisiones y mejorar la resiliencia.
-- Fomento de Capacidad: Para facilitar a los países en desarrollo, no sólo en cuestiones financieras y tecnológicas, sino también en la educación, formación, sensibilización del público.
+- Fomento de Capacidad: Para facilitar a los países en desarrollo, no solo en cuestiones financieras y tecnológicas, sino también en la educación, formación, sensibilización del público.
 
+**Nota:** A fecha de la última revisión de este artículo, mayo de 2021, dicho compromiso económico aún no se ha materializado.[^2]
 {: .notice--warning}
-
-**Nota:** A fecha de la última revisión de este artículo, Mayo de 2021, dicho compromiso económico aún no se ha materializado.[^2]
 
 Las actuaciones a planificar e implementar por cada nación se consideran propias del país en cuestión, aunque se fomenta la cooperación internacional y se reconoce la diferencia de responsabilidad y capacidades entre países desarrollados y en desarrollo. La naturaleza de dichas acciones se enfocan principalmente en dos campos:
 
-- Mitigación:  A través de la reducción de emisión de GEI, mejora de la capacidad de los sumideros, protección de ecosistemas y, en general, desarrollo sostenible.
+- Mitigación: A través de la reducción de emisión de GEI, mejora de la capacidad de los sumideros, protección de ecosistemas y, en general, desarrollo sostenible.
 - Adaptación: A través de medidas que protejan a las personas, sus medios de vida y los ecosistemas de los efectos del cambio climático
 
 Por otro lado, en este nuevo marco se hace especial hincapié en la transparencia para que a partir de 2024 todos los países informen sobre las medidas adoptadas y su progreso. Esto facilitará la realización de un balance mundial que permita mejorar la evaluación de la situación global, el primer balance se realizará en 2023 y posteriormente cada 5 años.
@@ -69,25 +56,24 @@ El resultado del estudio del balance mundial servirá para revisar los objetivos
 
 Para que el acuerdo sea plenamente operativo los diferentes estados o partes comenzaron en 2016 trabajos para elaborar los procedimientos y directrices. 
 
+**Nota:** Inicialmente, estaba previsto que estas cuestiones estuvieran solventadas en 2018, no obstante, aún se continúa con negociaciones. En la COP 26 de noviembre de 2021 se espera que se muestren avances, ya que el COVID-19 ha complicado aún más el progreso en las negociaciones. [^2]
 {: .notice--warning}
-
-**Nota:** Inicialmente estaba previsto que estas cuestiones estuvieran solventadas en 2018, no obstante, aún se continúa con negociaciones. En la COP 26 de Noviembre de 2021 se espera que se muestren avances, ya que el COVID-19 ha complicado aún más el progreso en las negociaciones. [^2]
 
 Dado el aún incipiente estado de desarrollo del acuerdo, todo lo que a continuación se detalla corresponde al contenido de los artículos ratificados por las partes y resulta, por el momento, imposible profundizar más en los mecanismos de aplicación y objetivos concretos.
 
-El Acuerdo de París es, en definitiva, un acuerdo que engloba a todos los países del planeta, que refuerza e incrementa los compromisos que los países hayan podido contraer previamente, haciendo especial hincapié en la gestión integral de riesgos, mitigación del cambio climático y adaptación a sus efectos. Para ello se nutre de estructuras de gobernanza y cooperación previamente establecidos, como el Mecanismo internacional de Varsovia para las pérdidas y daños a causa del cambio climático, el Marco de Adaptación de Cancún, los Mecanismos del Protocolo de Kioto y el Mecanismo Financiero de la Convención.
+El Acuerdo de París es, en definitiva, un acuerdo que engloba a todos los países del planeta, que refuerza e incrementa los compromisos que los países hayan podido contraer previamente, haciendo especial hincapié en la gestión integral de riesgos, mitigación del cambio climático y adaptación a sus efectos. Para ello se nutre de estructuras de gobernanza y cooperación previamente establecidas, como el Mecanismo internacional de Varsovia para las pérdidas y daños a causa del cambio climático, el Marco de Adaptación de Cancún, los Mecanismos del Protocolo de Kioto y el Mecanismo Financiero de la Convención.
 
-Se reconoce la limitada capacidad de los países en desarrollo para mitigar sus emisiones y para llevar a cabo las tareas de planificación, educación, e información entre otras. Por ello se le da especial importancia en el acuerdo, que los estados desarrollados presten su apoyo para creare un marco de cooperación y confianza. Del mismo modo, se permite flexibilidad a los estados menos desarrollados resultando en recomendación, lo que para los más desarrollados es un deber.
+Se reconoce la limitada capacidad de los países en desarrollo para mitigar sus emisiones y para llevar a cabo las tareas de planificación, educación, e información entre otras. Por ello se le da especial importancia en el acuerdo, que los estados desarrollados presten su apoyo para crear un marco de cooperación y confianza. Del mismo modo, se permite flexibilidad a los estados menos desarrollados resultando en recomendación, lo que para los más desarrollados es un deber.
 
 > En mi opinión, el acuerdo representa valores importantes que hasta entonces no habían sido suficientemente reforzados en el Protocolo de Kioto, especialmente la gestión integral de riesgos y planificación a largo plazo. No obstante, parece que se abusa del carácter voluntario de la mayoría de cuestiones, especialmente los relativos a la cooperación internacional y transferencia tecnológica.
 >
 > Por otro lado, aunque se reconoce que tanto el problema como la solución son de carácter global, también se da demasiado margen a las decisiones nacionales y su independencia. Salvo que los mecanismos concretos que se establezcan para el funcionamiento práctico del acuerdo lo solucionen, me parece que se ha fallado a la hora de establecer órganos concretos que focalicen y faciliten los flujos financieros, la toma de decisiones sobre las medidas a llevar a cabo, la transferencia tecnológica. En general, veo demasiada atomización y duplicidad de órganos con capacidades y responsabilidad similares a nivel internacional.
 
-# Contribuciones Determinadas a nivel Nacional
+## Contribuciones Determinadas a nivel Nacional
 
 A pesar del enfoque nacionalista, el acuerdo prevé que los estados lleguen a acuerdos internacionales para su integración en marcos de actuación regional de integración económica y contra el cambio climático. En tales casos, se deberá informar del hecho y la asignación de emisiones resultante para cada nación. La responsabilidad del cumplimiento de reducción de emisiones asignado en el marco de dicha integración regional, seguirá siendo del estado en cuestión.
 
-El acuerdo explícitamente se recomienda que los estados, al aplicar medidas de mitigación consideren los métodos  y orientaciones existentes en el marco de la Convención.
+El acuerdo explícitamente se recomienda que los estados, al aplicar medidas de mitigación consideren los métodos y orientaciones existentes en el marco de la Convención.
 
 Dentro de las medidas a llevar a cabo, además de las relacionadas con la reducción de emisiones, también se deberán adoptar otras relacionadas con la gestión de sumideros y depósitos de GEI, especialmente para su conservación y aumento. Los sumideros y depósitos a los que se refiere son los descritos en el art. 4 de la convención, es decir, "la biomasa, los bosques y los océanos, así como otros ecosistemas terrestres, costeros y marinos". Así mismo hace referencia a la adopción de medidas de incentivación, basada en resultados, para reducir la deforestación y degradación de bosques. 
 
@@ -101,21 +87,21 @@ En cuanto a las actuaciones dirigidas a mejorar la capacidad de adaptación y fo
 
 Por ello todo ello se hace hincapié en la resiliencia de los sistemas socioeconómicos y ecológicos de manera integrada, mediante la diversificación económica y gestión de recursos naturales.
 
-También se reconoce que a mayor impacto de las medidas de mitigación menores serán las necesidades de adaptación y por tanto sus costes de implementación.
+También se reconoce que a mayor impacto de las medidas de mitigación menores serán las necesidades de adaptación y, por tanto, sus costes de implementación.
 
-# Recursos financieros
+## Recursos financieros
 
-Las partes que son países desarrollados tendrán que proporcionar recursos financieros, de manera voluntaria, a los que son países en desarrollo para prestarles asistencia tanto en la mitigación como adaptación, buscando un equilibro entre ambas. teniendo en cuenta las necesidades especiales de los países más vulnerables.
+Las partes que son países desarrollados tendrán que proporcionar recursos financieros, de manera voluntaria, a los que son países en desarrollo para prestarles asistencia tanto en la mitigación como adaptación, buscando un equilibro entre ambas. Teniendo en cuenta las necesidades especiales de los países más vulnerables.
 
 Para canalizar dichos recursos financieros, a modo de donaciones por parte de los estados desarrollados, se hará mediante el Mecanismo Financiero de la Convención.
 
-# Recursos Tecnológicos
+## Recursos Tecnológicos
 
 El Mecanismo Tecnológico de la Convención será la que haga efectivos el desarrollo y la transferencia de tecnología para la mitigación y adaptación a través de la cooperación.
 
 El apoyo financiero descrito en el apartado anterior también se empleará para promover la innovación, desarrollo y transferencia tecnológica.
 
-# Fomento de la capacidad
+## Fomento de la capacidad
 
 Además de la capacidad financiera y tecnológica, descritas anteriormente, se busca que mejorar la capacidad de los países en desarrollo para llevar a cabo eficazmente las medidas nacionales, mediante acciones educativas, divulgación, sensibilización pública y comunicación transparente de información.
 
@@ -123,7 +109,7 @@ Dicho fomento debería estar bajo control del propio país y responder a sus nec
 
 Para asegurar la eficacia, se pretende guiar el fomento en base a las lecciones aprendidas en las actividades realizadas en el marco de la Convención.
 
-# Rendición de cuentas
+## Rendición de cuentas
 
 El periodo obligatorio de comunicación que establece el acuerdo es de 5 años, coincidiendo con el final de cada ciclo.
 
@@ -147,12 +133,12 @@ Con respecto a la comunicación de las medidas concretas que cada estado implant
 - La transparencia
 - La exactitud, exhaustividad, comparabilidad y coherencia. Evitando especialmente el doble cómputo.
 
-# Mecanismo facilitador y de cumplimiento
+## Mecanismo facilitador y de cumplimiento
 
 Se establecerá un mecanismo para facilitar la aplicación y promover el cumplimiento del acuerdo. Dicho mecanismo consistirá en un comité de expertos, de carácter facilitador y en ningún momento contencioso ni punitivo.
 
 
-# Enlace de interés y referencias
+## Enlace de interés y referencias
 
 - [UNFCCC: ¿Qué es el acuerdo de París?](https://unfccc.int/es/process-and-meetings/the-paris-agreement/que-es-el-acuerdo-de-paris)
 

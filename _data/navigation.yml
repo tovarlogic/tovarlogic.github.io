@@ -11,29 +11,29 @@ cambio-climatico:
   - title: "Antecedentes"
     children:
       - title: "Conferencia sobre el Medio Humano"
-        url: /blog/conferencia-medio-humano
+        url: /blog/cambio-climatico/conferencia-medio-humano
       - title: "Convenio de Viena"
-        url: /blog/convenio-viena
+        url: /blog/cambio-climatico/
       - title: "Protocolo de Montreal"
-        url: /blog/protocolo-montreal
+        url: /blog/cambio-climatico/protocolo-montreal
   - title: "UNFCCC"
     children:
       - title: "La convención"
-        url: /blog/unfccc-convencion
+        url: /blog/cambio-climatico/unfccc-convencion
       - title: "Grupo Intergubernamental de Expertos"
-        url: /blog/ipcc
+        url: /blog/cambio-climatico/ipcc
       - title: "Protocolo de Kyoto"
-        url: /blog/Protocolo-de-Kioto
+        url: /blog/cambio-climatico/Protocolo-de-Kioto
       - title: "Acuerdo de París"
-        url: /blog/Acuerdo-Paris
+        url: /blog/cambio-climatico/Acuerdo-Paris
 
 civilizaciones:
   - title: "Occidente"
     children:
       - title: "Origen civilizaciones antiguas"
-        url: /blog/origen-civilizaciones-antiguas/
+        url: /blog/civilizaciones/
       - title: "Grecia antigua"
-        url: /blog/Grecia-Antigua/
+        url: /blog/civilizaciones/Grecia-Antigua
   - title: "Asia"
   - title: "America"
           

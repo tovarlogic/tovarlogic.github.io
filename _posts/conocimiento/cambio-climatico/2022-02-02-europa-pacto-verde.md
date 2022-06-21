@@ -1,31 +1,22 @@
 ---
 title: El Pacto Verde Europeo
 date: 2022-02-02
-categories:
-  - Medio Ambiente
 tags:
   - Europa
   - Cambio Climático
   - Derecho Internacional
-layout: serie
-serie: cambio-climatico
 definitions:
   - derecho-internacional
-acronyms:
-  - organizaciones-internacionales
-  - acuerdos-internacionales
-  - cambio-climatico
-  - medio-ambiente
-lastmod: 2022-06-20T22:22:29.829Z
+status: open
 ---
 
-# Introducción
+## Introducción
 
 El "European Green Deal" en inglés o el "Pacto Verde Europeo" en Español, es una de las seis prioridades estratégicas de la [Unión Europea](https://es.wikipedia.org/wiki/Uni%C3%B3n_Europea) (EU) para el periodo 2019-2024 [^3]. Dicho pacto tiene como pilar básico la sostenibilidad medioambiantal, de modo que pretende adaptar, o mejor dicho, transformar todas las actividades sociales y económicas europeas para que resulten climáticamente neutras en 2050 [^1] [^2] [^4].
 
 Se trata, en definitiva, de un paso mas allá en las políticas medioambientales y de lucha contra el cambio climático que que la EU lleva desarrollando desde hace décadas, siendo pioneras en reconocer la **interrelación** existente entre las actividades humanas y el medio natural. Con este pacto, mas allá de sus objetivos concretos, lo que espera conseguir es dar el peso adecuado a las cuestiones medioambientales en los procesos de toma de deciciones políticas, empresariales y sociales. 
 
-# Objetivos
+## Objetivos
 
 Con esta nueva estrategia, se establece una [hoja de ruta](https://eur-lex.europa.eu/legal-content/ES/TXT/?qid=1596443911913&uri=CELEX:52019DC0640#document2) con las actuaciones clave a alcanzar en unas fechas indicativas en torno 2020 y 2021 para desarrollar las políticas y leyes en distintos ámbitos/objetivos clave que se podían resumir en los siguientes:
 
@@ -42,16 +33,12 @@ Con esta nueva estrategia, se establece una [hoja de ruta](https://eur-lex.europ
 
 ![foo](/assets/images/blog/eu_green_deal/green-deal.jpg)](https://www.compostnetwork.info/eu-green-deal/){: .full}
 
-
-
-## Medios de comprobación
+### Medios de comprobación
 
 The progress towards an agreed methodology for the revised SEEA EEA, the Knowledge Innovation Project (KIP INCA) and the Mapping and Assessment for Integrated Ecosystem Accounting (MAIA) project all provide a means to measure the conservation and restoration of Europe’s natural capital. [^1]
 
 
-
-
-# Bibliografía y referencias
+## Bibliografía y referencias
 
 [^1]: [UN: The European Green Deal and What it Means for Natural Capital Accounting](https://seea.un.org/news/european-green-deal-and-what-it-means-natural-capital-accounting)
 [^2]: [Europa: Un Pacto Verde Europeo](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_es)

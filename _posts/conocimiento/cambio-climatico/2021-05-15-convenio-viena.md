@@ -1,28 +1,20 @@
 ---
 title: El convenio de viena
 date: 2021-05-15
-categories:
-  - Medio Ambiente
+serie_index: true
+permalink: /blog/cambio-climatico/
 tags:
   - Cambio Climático
   - Ozono
   - Derecho Internacional
   - Tratados Internacionales
-serie: cambio-climatico
-layout: serie
 excerpt: Resumen sobre el contenido del Convenio de Viena para la protección de la capa
   de ozono.
 definitions:
   - derecho-internacional
-acronyms:
-  - organizaciones-internacionales
-  - acuerdos-internacionales
-  - cambio-climatico
-  - medio-ambiente
-lastmod: 2022-06-18T12:35:50.735Z
 ---
 
-# Introducción
+## Introducción
 
 El Convenio de Viena para la protección de la capa de ozono, como su propio nombre indica se creó a consecuencia de las evidencias científicas sobre el impacto de ciertas sustancias antropogénicas cuya emisión a la atmósfera tienen sobre la capa de ozono. El convenio se firmó en 1985, entrando en vigor en 1988 y cuya ratificación mundial se alcanzó en 2009. 
 
@@ -30,9 +22,8 @@ El Convenio se crea en virtud de los principios establecidos en la Declaración 
 
 Este asentó los principios necesarios para que en el posterior Protocolo de Montreal se establecieran las medidas concretas para su protección. Porque para aquel entonces ya era evidente que la modificación de las características físicas y bioquímicas de dicha capa afectan a la salud humana y el medio ambiente.
 
-{: .notice--info}
-
 **Info**: El Ozono (O3) es un elemento muy reactivo y que en contacto con los seres vivos resulta tóxico, provocando daños en los tejidos. No obstante, el ozono en la estratosfera es muy beneficioso y fundamental, porque  filtra la radiación ultravioleta conocida como UV-B. Esta radiación  causa daños a los organismos al ser absorbida por diversas moléculas,  debido a los cambios físico-químicos que induce en las mismas, lo que es perjudicial para la piel y los ojos (quemaduras, cánceres, cataratas) y debilita el sistema inmunológico, además de reducir el rendimiento de  las cosechas.
+{: .notice--info}
 
 El objetivo de la Convención es el de **promover la cooperación entre las naciones mediante el intercambio de  información sobre los efectos de las actividades humanas en la capa de  ozono**. Al hacerlo, los creadores de la Convención esperaban que los  formuladores de políticas adoptaran medidas para combatir aquellas  actividades responsables del agotamiento de la capa de ozono.
 
@@ -42,11 +33,10 @@ Cabe destacar que en dicho convenio se identificas formalmente, por primera vez,
 
 La especial importancia que se da a la investigación en el Convenio que nos ocupa preparó el camino para la acumulación de evidencia científica sobre el impacto de las actividades humanas en el clima y, en particular, sobre el cambio climático. Este convenio y su consecuente protocolo establecieron los principios y mecanismos básicos que posteriormente se emplearían para la lucha contra el cambio climático.
 
+**Info**: "Es curioso que donde primero se notó el efecto de los compuestos  destructores de la capa de ozono fuera justamente en la parte del mundo  donde prácticamente no había ninguna emisión de los mismos. Allí, una  combinación de procesos químicos (favorecidos por las bajísimas  temperaturas, que posibilitan la formación de nubes estratosféricas  polares), y del aislamiento de las masas de aire antárticas, favorece  una acumulación de cloro y bromo activos (en forma de moléculas de cloro -Cl2 – y de otros compuestos como el ClOH) durante la noche  polar. Al empezar la primavera austral en septiembre-octubre, la luz  solar descompone estas moléculas, dando radicales cloro y bromo activos, que producen en pocos días la espectacular destrucción del ozono  estratosférico sobre la Antártida, conocida como el agujero de ozono. Al avanzar la primavera, el agujero se cierra. Además de este fenómeno se  observó una disminución de la cantidad global de ozono (del orden de un 3 % cada década), y la aparición de pequeños agujeros en latitudes altas  del hemisferio norte". **Fuente**: [Ecologistas en Acción](https://www.ecologistasenaccion.org/205/protocolo-de-montreal/)
 {: .notice--info}
 
-**Info**: "Es curioso que donde primero se notó el efecto de los compuestos  destructores de la capa de ozono fuera justamente en la parte del mundo  donde prácticamente no había ninguna emisión de los mismos. Allí, una  combinación de procesos químicos (favorecidos por las bajísimas  temperaturas, que posibilitan la formación de nubes estratosféricas  polares), y del aislamiento de las masas de aire antárticas, favorece  una acumulación de cloro y bromo activos (en forma de moléculas de cloro -Cl2 – y de otros compuestos como el ClOH) durante la noche  polar. Al empezar la primavera austral en septiembre-octubre, la luz  solar descompone estas moléculas, dando radicales cloro y bromo activos, que producen en pocos días la espectacular destrucción del ozono  estratosférico sobre la Antártida, conocida como el agujero de ozono. Al avanzar la primavera, el agujero se cierra. Además de este fenómeno se  observó una disminución de la cantidad global de ozono (del orden de un 3 % cada década), y la aparición de pequeños agujeros en latitudes altas  del hemisferio norte". **Fuente**: [Ecologistas en Acción](https://www.ecologistasenaccion.org/205/protocolo-de-montreal/)
-
-# Compromisos
+## Compromisos
 
 Los compromisos de las partes son principalmente:
 
@@ -58,13 +48,13 @@ Los compromisos de las partes son principalmente:
 
 3. **Adoptarán las medidas legislativas o administrativas adecuadas y cooperarán en la coordinación de las políticas apropiadas** para controlar, limitar, reducir o prevenir las actividades humanas bajo su jurisdicción o control que afecten a la capa de ozono
 
-# Principios
+## Principios
 
 1. **Investigación**
 2. **Cooperación internacional** en materia jurídica, científica y tecnológica
 3. **Transmisión de información**
 
-# Investigación
+## Investigación
 
 Las Partes en el Convenio reconocen que las principales cuestiones científicas son:
 
@@ -78,7 +68,7 @@ La actividad científica relativa a la protección de la capa de ozono incluye:
 - Investigación de los efectos sobre el clima
 - Observaciones sistemáticas
 
-## Sustancias capaces de modificar la capa de ozono
+### Sustancias capaces de modificar la capa de ozono
 
 En el Convenio se detallan las sustancias identificadas hasta el momento con potencial para modificar la capa de ozono, que son:
 
@@ -97,11 +87,11 @@ En el Convenio se detallan las sustancias identificadas hasta el momento con pot
   - H2: desempeña una función poco importante en la fotoquímica de la estratosfera.
   - H2O:  desempeña una función vital en la fotoquímica de la troposfera y de la estratosfera. Entre las fuentes locales de vapor de agua en la estratosfera figuran la oxidación del metano y, en menor grado, del hidrógeno.
 
-# Instituciones
+## Instituciones
 
 - Técnio-científicas: Se han establecido, de hecho, tres paneles de evaluación técnico-científica  (TEAP, SAP y EEAP) cuyo cometido principal es el de servir de guía sobre la ciencia relativa a la protección de la capa de ozono, e implicaciones técnicas y económicas de la transición hacia nuevos refrigerantes y su impacto en la salud humana y ecosistemas.
 - Financieras: El mecanismo financiero del protocolo de Montreal, que amplía este convenio ha creado un fondo multilateral para asisitir a los países con menores capacidades tanto económicas como tecnológicas. Para ello las agencias UNDP, UNEP, UNIDO y World Bank son las que lo gestionan en la práctica, siempre bajo el mando de los órganos de gobierno del convenio.
 
-# Bibliografía y referencias
+## Bibliografía y referencias
 
 - [Los tratados de ozono ed 2020](https://ozone.unep.org/sites/default/files/2020-03/The%20Ozone%20Treaties%20SP%20-%20WEB.pdf)

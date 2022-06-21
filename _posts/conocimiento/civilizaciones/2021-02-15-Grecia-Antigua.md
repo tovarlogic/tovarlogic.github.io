@@ -1,18 +1,13 @@
 ---
 title: Grecia antigua
-categories:
-  - Historia
 tags:
   - Civilizaciones
-serie: civilizaciones
-layout: serie
-draft: true
 excerpt: La cultura griega supone el fundamento de las sociedades occidentales
   actuales. En este artículo se cubre el periodo histórico entre 1500 B.C. - 400
   B.C. con la intención de comprender las similitudes y diferencias con nuestra
   cultura actual y entender por qué la sociedad contemporánea se ha definido en
   su forma actual.
-lastmod: 2022-06-17T11:27:47.255Z
+date: 2021-02-15
 ---
 
 # Grecia y el occidente moderno
