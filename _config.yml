@@ -10,12 +10,6 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-remote_theme: "mmistakes/minimal-mistakes@4.22.0"
-
-
 # Site Settings
 locale                   : "es-ES"
 title                    : "TovarLogic"
@@ -334,6 +328,23 @@ defaults:
       author_profile: false
       related: false
       post_pagination: false
+  # Serie: Razonamiento
+  - scope:
+      path: "_posts/conocimiento/razonamiento"
+      type: posts
+    values:
+      serie: razonamiento
+      categories:
+        - Pensamiento
+      permalink: /blog/razonamiento/:title
+      layout: serie
+      classes: wide
+      toc: true
+      read_time: true
+      show_date: true
+      author_profile: false
+      share: true
+      comments: true
   # Proyecto: Colonias-felinas
   - scope:
       path: "_docs/proyectos/colonias-felinas"
@@ -341,7 +352,7 @@ defaults:
     values:
       layout: serie
       serie: colonias-felinas
-      toc: false
+      toc: true
       classes: wide
       read_time: true
       show_date: true

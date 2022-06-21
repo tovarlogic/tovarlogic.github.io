@@ -1,16 +1,13 @@
 ---
 title: Razonamiento
 date: 2018-08-08
-categories:
-  - Pensamiento
+serie_index: true
+permalink: /blog/razonamiento/
 tags:
   - Razonamiento
   - Pensamiento Crítico
-serie: razonamiento
-serie_index: true
-layout: serie
-lastmod: 2022-06-17T11:23:29.898Z
 ---
+
 # Introducción
 El término «razonamiento» tiene dos acepciones (que el diccionario recoge en una sola): «acción y efecto de razonar». 
 La primera es procesal (la actividad del agente que razona) y otra funcional (la relación entre las premisas y la conclusión).

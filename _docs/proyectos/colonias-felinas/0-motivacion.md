@@ -1,9 +1,8 @@
 ---
 title: Motivación
 permalink: /proyectos/colonias-felinas/
-serie_index: true
 date: 2022-06-14
-lastmod: 2022-06-20T21:57:00.585Z
+lastmod: 2022-06-20T22:22:11.578Z
 status: approved
 ---
 

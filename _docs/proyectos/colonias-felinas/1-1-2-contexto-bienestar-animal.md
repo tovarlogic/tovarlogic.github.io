@@ -2,7 +2,7 @@
 title: 1.1.2 Contexto moral y legal
 permalink: /proyectos/colonias-felinas/contexto-bienestar-animal
 date: 2022-06-15
-lastmod: 2022-06-20T20:17:06.175Z
+lastmod: 2022-06-17
 definitions:
   - derecho-internacional
   - bienestar-animal

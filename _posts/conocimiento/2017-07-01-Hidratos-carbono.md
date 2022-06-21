@@ -7,15 +7,12 @@ tags:
   - Salud
   - Alimentación
 serie: alimentacion
-serie_index: true
 excerpt: Dado que los alimentos no son directamente absorbibles resulta necesario
   digerirlos para su descomposición, a continuación se desarrollan los procesos
   para la digestión de los carbohidratos (HC), así como los procesos metabólicos
   que permiten obtener energía de este macronutriente. Finalmente se trata muy
   brevemente los efectos hormonales que tiene su ingesta y que básicamente,
   regulan los niveles de glucosa en sangre..
-
-lastmod: 2022-06-17T11:26:37.059Z
 ---
 
 # Introducción

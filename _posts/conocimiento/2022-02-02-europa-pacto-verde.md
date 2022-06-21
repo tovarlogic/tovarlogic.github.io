@@ -9,7 +9,6 @@ tags:
   - Derecho Internacional
 layout: serie
 serie: cambio-climatico
-serie_index: true
 definitions:
   - derecho-internacional
 acronyms:
@@ -17,7 +16,7 @@ acronyms:
   - acuerdos-internacionales
   - cambio-climatico
   - medio-ambiente
-lastmod: 2022-06-18T12:27:41.340Z
+lastmod: 2022-06-20T22:22:29.829Z
 ---
 
 # Introducción

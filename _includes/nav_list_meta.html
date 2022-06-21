@@ -24,7 +24,7 @@
 
         {% if days == 0 %}
             <i class="fas fa-sync-alt text-secondary"> <small>hoy</small></i>
-        {% elsif updated < month %}
+        {% elsif days < 32 %}
             <i class="fas fa-sync-alt text-secondary"> <small>{{ days }} días</small></i>
         {% endif %}
     </a>

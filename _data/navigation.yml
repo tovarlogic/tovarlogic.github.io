@@ -51,31 +51,31 @@ razonamiento:
   - title: "Razonamiento"
     children:
       - title: "Fundamentos"
-        url: /blog/Razonamiento
+        url: /blog/razonamiento/
       - title: "Cuestiones básicas"
-        url: /blog/uso-de-razon
+        url: /blog/razonamiento/uso-de-razon
   - title: "Argumentos inductivos"
     children:
       - title: "de Autoridad"
-        url: /blog/Argumento-Autoridad
+        url: /blog/razonamiento/Argumento-Autoridad
       - title: "por Analogía 'A pari'"
-        url: /blog/Argumento-Analogia-A-PARI
+        url: /blog/razonamiento/Argumento-Analogia-A-PARI
       - title: "por Analogía 'A fortiori'"
-        url: /blog/Argumento-Analogia-A-FORTIORI
+        url: /blog/razonamiento/Argumento-Analogia-A-FORTIORI
       - title: " de Causa"
-        url: /blog/Argumento-causa
+        url: /blog/razonamiento/Argumento-causa
       - title: "de Contrarios 'Ex contrario'"
-        url: /blog/Argumento-contrarios
+        url: /blog/razonamiento/Argumento-contrarios
       - title: "de Generalización"
-        url: /blog/Argumento-generalizacion
+        url: /blog/razonamiento/Argumento-generalizacion
   - title: "Argumentos deductivos"
     children:
       - title: "condicional I"
-        url: /blog/Argumento-condicional-I
+        url: /blog/razonamiento/Argumento-condicional-I
   - title: "Argumentos hipotéticos"
     children:
       - title: "de Signo o indicios"
-        url: /blog/Argumento-indicios
+        url: /blog/razonamiento/Argumento-indicios
 
 frances:
   - title: "Gramática"
