@@ -106,15 +106,15 @@ colonias-felinas:
     children:
       - title: "1.1. Justificación"
       - title: "1.1.1 Evidencias"
-        url: /proyectos/colonias-felinas/evidencias
+        url: /proyectos/colonias-felinas/1-1-1-evidencias
       - title: "1.1.2 Contexto bienestar animal"
-        url: /proyectos/colonias-felinas/contexto-bienestar-animal
+        url: /proyectos/colonias-felinas/1-1-2-contexto-bienestar-animal
       - title: "1.1.3 Contexto de protección medioambiental"
-        url: /proyectos/colonias-felinas/contexto-medioambiental-biodiversidad
+        url: /proyectos/colonias-felinas/1-1-3-contexto-medioambiental-biodiversidad
       - title: "1.1.4 Mejores prácticas"
-        url: /proyectos/colonias-felinas/mejores-practicas
+        url: /proyectos/colonias-felinas/1-1-4-mejores-practicas
       - title: "1.1.5 Consideraciones finales"
-        url: /proyectos/colonias-felinas/contexto-consideraciones-finales
+        url: /proyectos/colonias-felinas/1-1-5-contexto-consideraciones-finales
       - title: "1.2 Definicion"
       - title: "1.2.1 Objetivos y alcance"
       - title: "1.2.2 Partes interesadas"

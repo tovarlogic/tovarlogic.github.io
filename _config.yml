@@ -278,6 +278,7 @@ defaults:
       type: posts
     values:
       layout: single_left
+      classes: wide
       author_profile: false
       show_date: true
       read_time: true
@@ -292,7 +293,6 @@ defaults:
   # libros
   - scope:
       path: "_posts/libros"
-      type: posts
     values:
       layout: book_review
       type: libros
@@ -308,12 +308,6 @@ defaults:
       type: posts
     values:
       type: conocimiento
-  # notas
-  - scope:
-      path: "_posts/notas"
-      type: posts
-    values:
-      type: notas
   # _pages
   - scope:
       path: "_pages"
@@ -323,6 +317,23 @@ defaults:
       author_profile: false
       related: false
       post_pagination: false
+  # Notas
+  - scope:
+      path: "_docs/notas"
+      type: docs
+    values:
+      layout: single
+      classes: wide
+      author_profile: false
+      related: false
+      post_pagination: false
+      show_date: true
+      read_time: true
+      show_status: true
+      comments: true
+      share: true
+      toc: false
+      permalink: notas/:title
   # Serie: Razonamiento
   - scope:
       path: "_posts/conocimiento/razonamiento"
@@ -332,7 +343,7 @@ defaults:
       categories:
         - Pensamiento
       permalink: /blog/razonamiento/:title
-      layout: serie
+      layout: document
       classes: wide
       toc: true
       read_time: true
@@ -353,7 +364,7 @@ defaults:
         - cambio-climatico
         - medio-ambiente
       permalink: /blog/cambio-climatico/:title
-      layout: serie
+      layout: document
       classes: wide
       toc: true
       read_time: true
@@ -374,7 +385,7 @@ defaults:
         - cambio-climatico
         - medio-ambiente
       permalink: /blog/civilizaciones/:title
-      layout: serie
+      layout: document
       classes: wide
       toc: true
       read_time: true
@@ -387,8 +398,11 @@ defaults:
       path: "_docs/proyectos/colonias-felinas"
       type: docs
     values:
-      layout: serie
-      serie: colonias-felinas
+      permalink: /proyectos/colonias-felinas/:title
+      layout: document
+      sidebar: 
+        title: Proyecto Colonias Felinas
+        nav: colonias-felinas
       toc: true
       classes: wide
       read_time: true
@@ -409,9 +423,8 @@ defaults:
       path: "_docs/aprendiendo/frances"
       type: docs
     values:
-      sidebar:
-        nav: "frances"
-      layout: single
+      serie: frances
+      layout: document
       read_time: false
       author_profile: false
       share: false

@@ -51,6 +51,12 @@ medio-ambiente:
     value: Convención de Lucha contra la Desertificación
   - key: UICN
     value: Unión Internacional para la Conservación de la Naturaleza
+  - key: ZEC
+    value: Zonas Especiales de Conservación
+  - key: LIC
+    value: Lugares de Importancia Comunitaria
+  - key: ZEPA
+    value: Zonas de Especial Protección para las Aves
 
 cambio-climatico:
   - key: CMNUCC

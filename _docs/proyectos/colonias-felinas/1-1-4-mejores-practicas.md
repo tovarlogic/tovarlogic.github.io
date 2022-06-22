@@ -1,6 +1,5 @@
 ---
 title: 1.1.3 Mejores prácticas
-permalink: /proyectos/colonias-felinas/mejores-practicas
 date: 2022-06-17
 lastmod: 2022-06-17T17:20:36.087Z
 status: open

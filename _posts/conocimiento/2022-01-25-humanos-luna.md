@@ -8,6 +8,7 @@ header:
   overlay_image: /assets/images/moon_apollo.jpg
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**NASA** Apollo 11](https://images.nasa.gov/search-results?q=AS11-44-6549)"
+draft: true
 ---
 
 # Introducción
