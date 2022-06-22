@@ -4,7 +4,6 @@ date: 2022-04-18
 tags:
   - Ética
 lastmod: 2022-05-22T14:32:11.913Z
-slug: consecuencias-eticas-del-capitalismo-en-democracia
 draft: true
 categories:
   - Filosofía
