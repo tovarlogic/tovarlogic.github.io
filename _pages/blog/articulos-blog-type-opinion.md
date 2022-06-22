@@ -1,6 +1,6 @@
 ---
 title: Artículos de opinión
-layout: category_left
+layout: category
 breadcrumb_name: Opinión
 permalink: /blog/opinion/
 taxonomy: opinion

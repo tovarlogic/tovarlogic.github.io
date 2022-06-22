@@ -4,7 +4,41 @@ layout: archive
 
 {{ content }}
 
+{% assign sorted_tags = site.tags | sort %}
+
+<ul class="taxonomy__index">
+    {% for tag in sorted_tags %}
+      {% if tag[1].size > 0 %}
+      	{% assign category_tag = tag[1] | where: "type", page.taxonomy | sort %}
+		{% if category_tag != empty %}
+        <li>
+          <a href="#{{ tag[0] | slugify }}">
+            <strong>{{ tag[0] }}</strong> <span class="taxonomy__count"></span>
+          </a>
+        </li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+</ul>
+
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% include posts-category.html taxonomy=page.taxonomy type=entries_layout %}
-</div>
+
+{% for tag in sorted_tags %}
+    {% if tag[1].size > 0 %}
+    	{% assign category_tag = tag[1] | where: "type", page.taxonomy | sort %}
+  		{% if category_tag != empty %}
+        <section id="{{ tag[0] | slugify | downcase }}" class="taxonomy__section">
+          <h2 class="archive__subtitle">{{ tag[0] }}</h2>
+          <div class="entries-{{ entries_layout }}">
+            {% assign category_posts = tag.last | where: "type", page.taxonomy | where: "draft", false | sort %}
+            {% for post in category_posts %}
+              {% include archive-single.html type=entries_layout %}
+            {% endfor %}
+          </div>
+          <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+        </section>
+      {% endif %}
+    {% endif %}
+{% endfor %}
+
+

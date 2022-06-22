@@ -1,7 +1,7 @@
 ---
 title: "Blog: Series monográficas"
 breadcrumb_name: series
-layout: archive_left
+layout: archive
 permalink: /blog/series/
 author_profile: false
 classes: wide

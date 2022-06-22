@@ -2,9 +2,6 @@
 title: 'El problema del tráfico rodado en las ciudades'
 date: 2022-02-05
 tags: [Urbanismo]
-sidebar: 
-  title: "hola"
-toc_sticky: true
 ---
 
 El tráfico rodado en las ciudades se ha convertido en un problema, por al menos tres razones muy distintas.

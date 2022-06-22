@@ -1,7 +1,7 @@
 ---
 title: "Blog: Artículos organizados por tipología y temática"
 breadcrumb_name: Blog
-layout: categories_left
+layout: categories
 permalink: /blog/
 author_profile: false
 classes: wide

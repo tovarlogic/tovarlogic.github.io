@@ -1,6 +1,6 @@
 ---
 title: Artículos informativos
-layout: category_left
+layout: category
 breadcrumb_name: Conocimiento
 permalink: /blog/conocimiento/
 taxonomy: conocimiento

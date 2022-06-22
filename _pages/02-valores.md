@@ -1,7 +1,7 @@
 ---
 title: "Mis valores fundamentales y objetivos de vida."
 permalink: /valores-objetivos/
-layout: single_left
+layout: single
 ---
 
 ## Objetivos

@@ -1,5 +1,5 @@
 ---
-layout: single_left
+layout: single
 ---
 
 {{ content }}

@@ -5,7 +5,7 @@ permalink: /diario/
 excerpt: Sección donde recojo brevemente pensamientos que quiero recordar para más
   adelante desarrollarlos en un artículo.
 lastmod: 2022-06-06T21:08:03.575Z
-layout: single_left
+layout: single
 ---
 
 ## 2021-10-19
