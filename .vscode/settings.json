@@ -1,6 +1,6 @@
 {
     "frontMatter.content.publicFolder": "",
-    "frontMatter.content.autoUpdateDate": false,
+    "frontMatter.content.autoUpdateDate": true,
     "[markdown]": {
     },
     "spellright.language": [

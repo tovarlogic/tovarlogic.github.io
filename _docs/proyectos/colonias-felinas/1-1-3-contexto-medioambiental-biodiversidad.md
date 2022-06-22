@@ -1,7 +1,7 @@
 ---
 title: 1.1.3 Contexto de protección medioambiental
 date: 2022-06-15
-lastmod: 2022-06-20T21:38:49.450Z
+lastmod: 2022-06-22T12:48:32.834Z
 definitions:
   - derecho-internacional
   - bienestar-animal
@@ -30,7 +30,6 @@ La Unión Europea ha creado un complejo entramado de estrategias, protocolos, pr
   {: .notice--info}
 
   En cuanto a cuestiones más concretas y relacionadas con nuestro ámbito de actuación, la Resolución del Parlamento Europeo de 9 de junio de 2021 [^ley5], sobre la “Estrategia de la Biodiversidad 2030” [^link3], insta a los Estados Miembros a desarrollar los **Listados Positivos**, listas blancas de especies permitidas para la importación, el mantenimiento, la cría y el comercio como animales de compañía **sobre la base de una evaluación científica**. Además, en la misma resolución del Parlamento Europeo se insta a los países miembros a combatir el tráfico de especies exóticas y silvestres.
-
 
 
 
