@@ -105,16 +105,15 @@ colonias-felinas:
   - title: "Inicio"
     children:
       - title: "1.1. Justificación"
-      - title: "1.1.1 Evidencias"
-        url: /proyectos/colonias-felinas/1-1-1-evidencias
-      - title: "1.1.2 Contexto bienestar animal"
-        url: /proyectos/colonias-felinas/1-1-2-contexto-bienestar-animal
-      - title: "1.1.3 Contexto de protección medioambiental"
-        url: /proyectos/colonias-felinas/1-1-3-contexto-medioambiental-biodiversidad
-      - title: "1.1.4 Mejores prácticas"
-        url: /proyectos/colonias-felinas/1-1-4-mejores-practicas
-      - title: "1.1.5 Consideraciones finales"
-        url: /proyectos/colonias-felinas/1-1-5-contexto-consideraciones-finales
+        url: /proyectos/colonias-felinas/justificacion/
+      - title: "1.1.1 Protección medioambiental"
+        url: /proyectos/colonias-felinas/justificacion/proteccion-medioambiental
+      - title: "1.1.2 Bienestar animal"
+        url: /proyectos/colonias-felinas/justificacion/bienestar-animal
+      - title: "1.1.3 Biodiversidad"
+        url: /proyectos/colonias-felinas/justificacion/biodiversidad
+      - title: "1.1.4 Consideraciones finales"
+        url: /proyectos/colonias-felinas/justificacion/consideraciones-finales
       - title: "1.2 Definicion"
       - title: "1.2.1 Objetivos y alcance"
       - title: "1.2.2 Partes interesadas"
@@ -125,7 +124,8 @@ colonias-felinas:
       - title: "1.3.3 Viabilidad económica"
       - title: "1.3.4 Resumen viabilidad"   
       - title: "1.4 Análisis DAFO"
-      - title: "INFO: Productos inicio"
+      - title: "Anexo I. Espacios naturales, hábitats y especies"
+        url: /proyectos/colonias-felinas/anexo-i-espacios-naturales-habitats-especies
   - title: "Planificación"
     children:
       - title: "2.1.1 Toma de contacto con las partes interesadas"

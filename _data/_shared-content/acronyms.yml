@@ -1,3 +1,5 @@
+---
+---
 organizaciones-internacionales:
   - key: EU
     value: Unión Europea
@@ -51,13 +53,9 @@ medio-ambiente:
     value: Convención de Lucha contra la Desertificación
   - key: UICN
     value: Unión Internacional para la Conservación de la Naturaleza
-  - key: ZEC
-    value: Zonas Especiales de Conservación
-  - key: LIC
-    value: Lugares de Importancia Comunitaria
-  - key: ZEPA
-    value: Zonas de Especial Protección para las Aves
-
+  - key: EM
+    value: Evaluación de los Ecosistemas del Milenio
+ 
 cambio-climatico:
   - key: CMNUCC
     value: Convención Marco de las Naciones Unidas por el Cambio Climático - UNFCCC
@@ -111,4 +109,27 @@ bienestar-animal:
     value: Organización Mundial de Sanidad Animal (ahora WOAH)
   - key: WOAH
     value: Organización Mundial de Sanidad Animal (anteriormente OIE)
-  
+
+biodiversidad:
+  - key: EEI
+    value: Especie Exótica Invasora
+  - key: IEPNB
+    value: Inventario Español del Patrimonio Natural y la Biodiversidad
+  - key: ZEC
+    value: Zonas Especiales de Conservación
+  - key: LIC
+    value: Lugares de Importancia Comunitaria
+  - key: ZEPA
+    value: Zonas de Especial Protección para las Aves
+  - key: CB
+    value: Convenio de Berna
+  - key: CNEA
+    value: Catálogo Nacional de Especies Amenazadas
+  - key: DH
+    value: Directiva de Hábitats
+  - key: LR
+    value: Libro Rojo
+  - key: CCEP
+    value: Catálogo Canario de Especies Protegidas
+  - key: IEPNB
+    value: Inventario Español del Patrimonio Natural y la Biodiversidad

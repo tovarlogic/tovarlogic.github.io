@@ -1,7 +1,7 @@
 derecho-internacional:
   - key: Tratado
     value: Acuerdo formal, legalmente vinculantes, entre varias partes, generalmente tres o más. Las partes son países o una unión regional de ellos.
-  - key: Convención
+  - key: Convención / Convenio
     value: Se suele emplear como sinónimo de Tratado, pero en realidad se trata de acuerdos multilaterales con un gran número de participantes, y a diferencia de los Tratados, no son legalmente vinculantes y suelen emplearse para definir marcos estratégicos o conceptos que no incluyen medidas específicas.
   - key: Protocolo
     value: Son similares a los tratados aunque generalmente se emplean para modificar, suplementar o aclarar un acuerdo.
@@ -47,3 +47,37 @@ bienestar-animal:
     value: refugio permanente de animales cuyo objetivo es alojar a los animales hasta su muerte, salvo que por razones de bienestar animal se transfieran a otro establecimiento con la misma clasificación.
 
 biodiversidad:
+  - key: Especie exótica (Reglamento (UE) 1143/2014)
+    value: cualquier ejemplar vivo de una especie, subespecie o taxón inferior de animales, plantas, hongos o microorganismos introducidos fuera de su área de distribución natural; incluye cualquier parte, gameto, semilla, huevo o propágulo de dicha especie, así como cualquier híbrido, variedad o raza que pueda sobrevivir y reproducirse posteriormente;
+  - key: Especie exótica invasora (Reglamento (UE) 1143/2014)
+    value: una especie exótica cuya introducción o propagación haya demostrado ser una amenaza o tener efectos adversos sobre la biodiversidad y los servicios asociados de los ecosistemas;
+  - key: Especie Exótica Invasora (Ley 42/2007)
+    value: aquella que se introduce o establece en un ecosistema o hábitat natural o seminatural y que es un agente de cambio y amenaza para la diversidad biológica nativa, ya sea por su comportamiento invasor, o por el riesgo de contaminación genética;
+  - key: Biodiversidad (Reglamento (UE) 1143/2014)
+    value: la variabilidad de organismos vivos de cualquier fuente, incluidos los ecosistemas terrestres y marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas;
+  - key: Biodiversidad o diversidad biológica ()
+    value: variabilidad de los organismos vivos de cualquier fuente, incluidos entre otras cosas, los ecosistemas terrestres y marinos y otros ecosistemas acuáticos y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de cada especie, entre las especies y de los ecosistemas
+  - key: Espacio contenido (Reglamento (UE) 1143/2014)
+    value: instalaciones cerradas en las que se mantiene a un organismo, de las que no le es posible escapar o propagarse;
+  - key: Especie naturalizada
+    value: Especie exótica establecida en el ecosistema con carácter permanente, introducida legalmente antes de la entrada en vigor de la presente Ley, y respecto de la que no existan indicios ni evidencias de efectos significativos en el medio natural en que habita, presentando además un especial interés, social o económico.
+  - key: Especies Exóticas (Ley 4/2010 Canarias)
+    value: Son aquellas cuya presencia en Canarias o en determinada zona de una isla o de sus aguas obedece a una introducción por intervención directa o indirecta de las actividades humanas
+  - key: Punto caliente de Biodiversidad ()
+    value: Cualquier área o región con una biodiversidad excepcionalmente alta en uno o más niveles de biodiversidad.
+  - key: Punto caliente de Biodiversidad
+    value: Cualquier área o región que cumple la combinación de tener altos niveles de endemismos y de pérdida de de hábitats.
+  - key: Los tres niveles de biodiversidad (IUCN)
+    value: Diversidad de ecosistemas, especies y genética
+
+ecologia:
+  - key: Ecosistema
+    value: es un sistema en el que seres vivos (plantas, animales, bacterias, etc.) y sus entornos inertes interactúan como una unidad funcional.
+  - key: Ecosistema (Ley 42/2007)
+    value: complejo dinámico de comunidades vegetales, animales y de microorganismos y su medio no viviente que interactúan como una unidad funcional
+  - key: Hábitat
+    value: un espacio natural o entorno en el que normalmente habita un determinado tipo de animal o planta.
+  - key: Biotipo
+    value: un área de condiciones ambientales uniformes que proporciona un espacio vital para una combinación específica de animales y plantas.
+  - key: Polinización
+    value: es la transferencia de polen entre partes masculinas y femeninas de las flores para posibilitar la fertilización y la reproducción. Los medios de polinización son la anemófila (por medio del viento), hidrófila (por medio del agua) o zoófila (por medio de animales). 

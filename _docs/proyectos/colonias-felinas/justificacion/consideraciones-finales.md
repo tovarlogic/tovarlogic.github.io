@@ -1,0 +1,1 @@
+no solo hay que justificar la razón sino el medio, es decir, hay ya otras organizaciones haciendo lo que queremos hacer? si es así, no es mejor colaborar con ellos directamente?

@@ -18,7 +18,7 @@ podcasts: [65324888]
 9. Aprender haciendo
 10. Que resulte lucrativo
 
-La reforestación si no se hace adecuadamente puede generar problemas en vez de soluciones. Por ello es necesario que se realice tras una correcta planificación, con recursos y conocimeinto suficiente. Por ejemplo, la correcta selección se semillas para asegurar la diversidad genética de la especia y evitar endogamia.
+La reforestación si no se hace adecuadamente puede generar problemas en vez de soluciones. Por ello es necesario que se realice tras una correcta planificación, con recursos y conocimeinto suficiente. Por ejemplo, la correcta selección se semillas para asegurar la diversidad genética de la especie y evitar endogamia.
 
 Generalmente se da mucha importancia al número de áboles plantados y no al numero de árboles que crecen (sobreviven). Los propios donantes o partes involucradas buscan resultados rápidos (irreales) que no tienen en cuenta los periodos normales de desarrollo de las especies que se plantan. Hay que hacer especial hincapié en el mantenimiento de las plantaciones para que se desarrollen. Por ello, no sólo hay que centrarse en plantar sino en otros ámbitos como la recuperación de suelo, especies sinérgicas y recuperación del hábitat en general incluyendo especies animales e insectos. 
 

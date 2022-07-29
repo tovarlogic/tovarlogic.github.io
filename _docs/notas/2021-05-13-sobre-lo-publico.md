@@ -1,7 +1,8 @@
 ---
-title: "Sobre lo publico"
+title: Sobre lo publico
 date: 2021-05-13
 draft: true
+lastmod: 2022-06-23T09:12:05.385Z
 ---
 
 ## Política
@@ -34,6 +35,9 @@ draft: true
 ##### Financiación
 ###### Impuestos
 - Como generalidad, en mi opinión, es deseable que exista cierta correspondencia entre los impuestos cobrados en un área, sector o de una categoría y lo que el estado invierte. Ej: impuestos energía, combustibles, envases vs inversión contra cambio climático y protección de habitats naturales; IRPF vs jubilación; permisos de circulación y peajes vs mantenimiento e inversión de infraestructuras.
+
+- como regla general deben de ser progresivos y evitar la proporcionalidad (que tengan un tipo fijo)
+- como regla general debentener en cuenta otras cuestiones integrales como la inclusividad social, la sostenibilidad medioambiental, etc...
 
 ####### IVA
 - Reflejar adecuadamente los costes públicos. Ej: sociales, medioambientales, mantenimiento, sanidad, etc...

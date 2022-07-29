@@ -1,19 +1,18 @@
 ---
-title: 1.1.2 Contexto moral y legal
+title: Bienestar animal
 date: 2022-06-15
 definitions:
   - derecho-internacional
   - bienestar-animal
-status: pending-approval
+status: pending_approval
 lastmod: 2022-06-19
 ---
 En el presente apartado se espera ilustrar tanto los sentimientos colectivos y consideraciones éticas como las obligaciones y derechos que establecen la legislación comunitaria, nacional y autonómica en lo relativo al Bienestar Animal y a la Biodiversidad.
 
 Esta recopilación, más o menos exhaustiva, se elabora con la intención de justificar o desacreditar las motivaciones del proyecto. Esperamos sirva también como fuente de información básica para, en caso de concluir que su necesidad está suficientemente demostrada, planificar el alcance y métodos a aplicar.  
 
-Existe una relación evidente entre los asuntos de protección del bienestar de los animales de compañía y de protección del medio ambiente y la biodiversidad que, incluso, es patente en el propio contenido de las normas de «ambos mundos». Para facilitar la síntesis de los aspectos más destacables de las legislaciones que afectan al proyecto, hemos tratado de mantener cierta estanqueidad en entre ambas temáticas. En el presente apartado se muestran las cuestiones que afectan al bienestar animal y en la siguiente se mostrarán las que afecten al medio ambiente. Más adelante, ya conociendo ambos contextos por separado, los enlazaremos de modo que dicha relación sea más evidente.
-
-## Ámbito internacional y comunitario
+## Legislación y normativa
+### Ámbito internacional y comunitario
 El 15 de octubre de 1978 se proclama, en la sede de la [UNESCO](https://es.unesco.org/) de París, la [Declaración Universal de los Derechos del Animal](https://www.filosofia.org/cod/c1977ani.htm) (DUDA) por parte de la Liga Internacional de los Derechos del Animal (LIDA), las Ligas Nacionales afiliadas y las personas físicas asociadas a ellas. Su objetivo era concienciar a la sociedad acerca del cuidado y el respeto hacia los animales. 
 
 **Nota:** Diversas fuentes afirman que la declaración fue aprobada/ratificada tanto por la [UNESCO](https://es.unesco.org/) como por la [ONU](https://www.un.org/es/). Sin embargo, en sus páginas web, donde se pueden consultar las declaraciones firmadas no existe referencia alguna a este asunto. Es decir, la declaración no tiene validez legal. Es una «mera» declaración de valores éticos, aunque algunos de los derechos recogidos ya forman parte de la legislación de muchos países [^paper2].
@@ -37,9 +36,9 @@ En 1965 el profesor británico Roger Brambell elaboró un informe en el que esta
 1. **La libertad de expresar un comportamiento normal** - proporcionando espacio suficiente, instalaciones adecuadas y la compañía de animales de la propia especie del animal.
 1. **Estar libres de miedo y angustia** - asegurando las condiciones y trato que evitan el sufrimiento físico y mental.
 
-Como ha quedado patente, parece que existe una obligación moral y legal para el respeto del bienestar animal por parte de las personas y que dicha obligación es superior cuando se trata de animales domésticos de compañía. La legislación nacional, como veremos más adelante aún no especifica que especies cumplen esa condición. No obstante, en la legislación europea si se determina, concretamente en el Anexo I del Reglamento (UE) 2016/429 del Parlamento Europeo y del Consejo, de 9 de marzo de 2016 [^ley23]. Entre estos animales se encuentran los Gatos (*Felis silvestris catus*).
+Como ha quedado patente, parece que existe una obligación moral y legal para el respeto del bienestar animal por parte de las personas y que dicha obligación es superior cuando se trata de animales domésticos de compañía. La legislación nacional, como veremos más adelante aún no especifica que especies cumplen esa condición. No obstante, en la legislación europea si se determina, concretamente en el Anexo I del Reglamento (UE) 2016/429 del Parlamento Europeo y del Consejo, de 9 de marzo de 2016 [^ley23]. Entre estos animales se encuentran los Gatos (*Felis silvestris catus*). Se puede consultar una síntesis legislativa europea sobre este asunto [aquí](https://eur-lex.europa.eu/ES/legal-content/glossary/animal-welfare.html) [^link8].
 
-## Ámbito nacional
+### Ámbito nacional
 
 En España existe diversa legislación relativa al bienestar animal, a continuación se detallan las normas nacionales más relevantes, en cualquier caso se puede también consultar los Códigos de [Protección y Bienestar Animal](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=204&modo=2&nota=0) [^link5] y de [Animales de Compañía](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=210_Codigo_de_Animales_de_Compania&tipo=C&modo=2) [^link7] que detallan toda la normativa española vigente:
 
@@ -70,7 +69,7 @@ En España existe diversa legislación relativa al bienestar animal, a continuac
 
   En los apartados donde se regula lo relativo a la convivencia familiar, el animal doméstico toma una nueva consideración (algo así como la de un hijo) y, por ejemplo, en el Art. 90 dispone que en caso de separación o divorcio se tendrá en cuenta interés de los miembros de la familia y bienestar del animal para el reparto de tiempos de convivencia, cuidados y cargas asociadas. 
 
-### Futura legislación
+#### Proyectos de ley
 
 Además de la legislación actualmente vigente, resulta útil analizar los proyectos legislativos en trámite porque, aunque aún no tienen validez jurídica alguna, ilustran la posible evolución de la legislación nacional.
 
@@ -149,7 +148,7 @@ Además de la legislación actualmente vigente, resulta útil analizar los proye
   1. Se establecen las dimensiones mínimas que deben cumplir los alojamientos de gatos, que estarán compuestos por una zona de actividad y otra de reposo (Anexo X).
   1. Se excluye de la norma los lugares de titularidad pública donde existan colonias de gatos.
 
-## Ámbito autonómicos
+### Ámbito autonómicos
 Dado que las competencias son de las Comunidades Autónomas la legislación (aún) no es uniforme en todo el territorio nacional. En este caso nos centraremos inicialmente en lo dispuesto en Canarias:
 
 - Ley 8/1991, de 30 de abril, de protección de los animales [^ley18]. En general, esta ley se inspira en los principios de respeto, defensa y protección de los animales de los tratados y convenios internacionales mencionados previamente, así como en la DUDA. El objeto de la ley es, entre otras cuestiones, establecer «las atenciones mínimas que deben recibir los animales domésticos, específicamente, los de compañía» y «obligaciones de los poseedores o dueños de animales y de los centros de recogida o albergues». También pretende «aumentar la sensibilidad colectiva de Canarias hacia comportamientos más humanitarios y propios de una sociedad moderna en el trato a los animales». No obstante, esta ley **no regula** la protección y conservación de la fauna silvestre.
@@ -186,6 +185,8 @@ Dado que las competencias son de las Comunidades Autónomas la legislación (aú
 [^link6]: [LFDA ](https://www.fondation-droit-animal.org)
 
 [^link7]: [Código de Animales de Compañía](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=210_Codigo_de_Animales_de_Compania&tipo=C&modo=2)
+
+[^link8]: [Síntesis sobre legislación europea sobre bienestar animal](https://eur-lex.europa.eu/ES/legal-content/glossary/animal-welfare.html)
 
 [^ley1]: [Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio](https://www.boe.es/eli/es/l/2007/11/07/32/con)
 

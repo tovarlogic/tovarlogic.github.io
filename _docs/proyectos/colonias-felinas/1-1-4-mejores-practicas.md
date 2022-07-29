@@ -1,7 +1,7 @@
 ---
 title: 1.1.3 Mejores prácticas
 date: 2022-06-17
-lastmod: 2022-06-17T17:20:36.087Z
+lastmod: 2022-06-24T11:06:26.821Z
 status: open
 ---
 

@@ -36,8 +36,8 @@
     {% if document.show_status and document.status or document.draft and document.show_date or document.read_time %}<span class="page__meta-sep"></span>{% endif %}
 
     {% if document.show_status and document.status or document.draft %}
-      <span class="page__meta-status {% if document.status == 'draft' or document.status == 'open' or document.draft %} text-primary {% elsif document.status == 'declined' %} text-danger {% elsif document.status == 'approved' %} text-success {% elsif document.status == 'pending-approval' %} text-warning {% endif %}">
-        <i class="{% if include.type == 'grid' and document.read_time or document.show_date %}fa-fw {% endif %} {% if document.status == 'draft' or document.draft %} far fa-file-alt {% elsif document.status == 'declined' %} fas fa-times {% elsif document.status == 'approved' %} fas fa-check {% elsif document.status == 'pending-approval' %} fas fa-exclamation-triangle {% elsif document.status == 'open' %} far fa-edit {% endif %}" aria-hidden="true"></i>
+      <span class="page__meta-status {% if document.status == 'draft' or document.status == 'open' or document.draft %} text-primary {% elsif document.status == 'declined' %} text-danger {% elsif document.status == 'approved' %} text-success {% elsif document.status == 'pending_approval' %} text-warning {% endif %}">
+        <i class="{% if include.type == 'grid' and document.read_time or document.show_date %}fa-fw {% endif %} {% if document.status == 'draft' or document.draft %} far fa-file-alt {% elsif document.status == 'declined' %} fas fa-times {% elsif document.status == 'approved' %} fas fa-check {% elsif document.status == 'pending_approval' %} fas fa-exclamation-triangle {% elsif document.status == 'open' %} far fa-edit {% endif %}" aria-hidden="true"></i>
         {% if document.draft %} {{ site.data.ui-text[site.locale].draft }}  {% else %} {{ site.data.ui-text[site.locale].[document.status] }} {% endif %}
       </span>
     {% endif %}

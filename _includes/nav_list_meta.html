@@ -9,7 +9,7 @@
             <i class="fa-fw fas fa-check-square text-success" aria-hidden="true"></i>
         {% elsif document.status == 'declined' %}
             <i class="fa-fw fas fa-times text-danger" aria-hidden="true"></i>
-        {% elsif document.status == 'pending-approval' %}
+        {% elsif document.status == 'pending_approval' %}
             <i class="fa-fw fas fa-exclamation-triangle text-warning" aria-hidden="true"></i>
         {% elsif document.status == 'open' or document.status == 'draft' %}
             <i class="fa-fw far fa-edit text-primary" aria-hidden="true"></i>

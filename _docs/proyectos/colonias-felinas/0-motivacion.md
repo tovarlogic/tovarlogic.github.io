@@ -4,6 +4,7 @@ permalink: /proyectos/colonias-felinas/
 date: 2022-06-14
 lastmod: 2022-06-17
 status: approved
+toc: false
 ---
 
 ## Motivación
@@ -35,7 +36,7 @@ La primera opción probablemente sea la más eficaz y eficiente. Actúa directam
 
 Como ya hemos argumentado anteriormente, la metodología con mayor adopción es la segunda, la que tiene como fin la suelta y retorno al medio donde el felino fue capturado. Desde nuestro punto de vista, el resultado de este procedimiento es inaceptable por perpetuar en el tiempo el impacto negativo sobre la biodiversidad de la zona afectada.
 
-Es por ello que proponemos la única metodología que consideramos integra los valores de bienestar animal y protección ecológica, es decir, la que resulta en el confinamiento de los individuos capturados. Así se imposibilita que los depredadores sigan cazando a la vez que se les permite continuar viviendo (en buenas condiciones). En este caso, creemos que la esterilización sigue siendo necesaria para, por un lado, asegurar que la población dentro de los refugios sea manejable y, por el otro, reducir el riesgo que supondría que un individuo fértil se escape de los mismos o de su hogar definitivo tras una eventual adopción.
+Es por ello que proponemos la única metodología que consideramos integra los valores de bienestar animal y protección ecológica, es decir, la que resulta en el confinamiento de los individuos capturados reubicándolos en espacios contenidos. Así se imposibilita que los depredadores sigan cazando a la vez que se les permite continuar viviendo (en buenas condiciones). En este caso, creemos que la esterilización sigue siendo necesaria para, por un lado, asegurar que la población dentro de los refugios sea manejable y, por el otro, reducir el riesgo que supondría que un individuo fértil se escape de los mismos o de su hogar definitivo tras una eventual adopción.
 
 Somos conscientes que **la gestión de colonias no es la solución al problema**. De nada sirve gestionar colonias integral y eficazmente, si no se reduce o elimina la fuente de nuevos gatos en los hábitats naturales.
 

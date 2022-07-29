@@ -341,7 +341,7 @@ defaults:
       categories:
         - Pensamiento
       permalink: /blog/razonamiento/:title
-      layout: document
+      layout: single
       toc: true
       toc_sticky: true 
       read_time: true
@@ -362,7 +362,7 @@ defaults:
         - cambio-climatico
         - medio-ambiente
       permalink: /blog/cambio-climatico/:title
-      layout: document
+      layout: single
       toc: true
       toc_sticky: true 
       read_time: true
@@ -383,7 +383,7 @@ defaults:
         - cambio-climatico
         - medio-ambiente
       permalink: /blog/civilizaciones/:title
-      layout: document
+      layout: single
       toc: true
       toc_sticky: true 
       read_time: true
@@ -396,8 +396,8 @@ defaults:
       path: "_docs/proyectos/colonias-felinas"
       type: docs
     values:
-      permalink: /proyectos/colonias-felinas/:title
-      layout: document
+      permalink: :path
+      layout: single
       sidebar: 
         title: Proyecto Colonias Felinas
         nav: colonias-felinas
@@ -416,13 +416,14 @@ defaults:
         - legislacion
         - bienestar-animal
         - medio-ambiente
+        - biodiversidad
   # Frances
   - scope:
       path: "_docs/aprendiendo/frances"
       type: docs
     values:
       serie: frances
-      layout: document
+      layout: single
       read_time: false
       author_profile: false
       share: false
