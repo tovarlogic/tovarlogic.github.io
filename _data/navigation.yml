@@ -81,23 +81,27 @@ frances:
   - title: "Gramática"
     children:
       - title: "Adverbios"
-        url: /aprendiendo/frances/Adverbios/
+        url: /aprendiendo/frances/gramatica/Adverbios/
       - title: "Pronombres"
-        url: /aprendiendo/frances/Pronombres/
+        url: /aprendiendo/frances/gramatica/Pronombres/
       - title: "Verbos"
-        url: /aprendiendo/frances/Verbos/
+        url: /aprendiendo/frances/gramatica/Verbos/
       - title: "Adjetivos"
-        url: /aprendiendo/frances/Adjetivos/
+        url: /aprendiendo/frances/gramatica/Adjetivos/
       - title: "Preposiciones"
-        url: /aprendiendo/frances/preposiciones/
+        url: /aprendiendo/frances/gramatica/preposiciones/
       - title: "Artículos"
-        url: /aprendiendo/frances/Articulos/
+        url: /aprendiendo/frances/gramatica/Articulos/
   - title: "Vocabulario"  
     children:
     - title: "Saludos y formas de cortesía"
-      url: /aprendiendo/frances/salutations/
+      url: /aprendiendo/frances/vocabulario/salutations/
     - title: "Números, fechas y horas"
-      url: /aprendiendo/frances/numeros-fecha-hora/
+      url: /aprendiendo/frances/vocabulario/numeros-fecha-hora/
+    - title: "Colores"
+      url: /aprendiendo/frances/vocabulario/couleurs/
+    - title: "Saludos y formas cortesía"
+      url: /aprendiendo/frances/vocabulario/salutations/
 
 colonias-felinas:
   - title: "Motivación del proyecto"

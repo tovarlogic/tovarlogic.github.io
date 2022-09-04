@@ -1,6 +1,6 @@
 ---
-title: "Larouse método integral: Ejercicios"
-permalink: /aprendiendo/frances/salutations/
+title: "Vocabulario: Saludos y formas de cortesía"
+lastmod: 2022-09-04T10:41:02.092Z
 ---
 
 | Sección                        						| Último repaso |

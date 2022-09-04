@@ -1,6 +1,6 @@
 ---
-title: "Gramática de Francés: Preposiciones"
-permalink: /aprendiendo/frances/preposiciones/
+title: "Gramática: Preposiciones"
+lastmod: 2022-09-04T10:39:58.762Z
 ---
 
 # Preposiciones temporales

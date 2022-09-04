@@ -1,7 +1,6 @@
 ---
-title: "Frances: Adverbios"
-permalink: /aprendiendo/frances/adverbios
-lastmod: 2022-06-06T21:08:03.588Z
+title: "Gramática: Adverbios"
+lastmod: 2022-09-04T10:39:49.259Z
 ---
 
 Mediante este `Libro de Notas` pretendo ir recogiendo todos los pensamientos que merecen ser recordados para más adelante reflexionar sobre ellos y desarrollar ideas. 
