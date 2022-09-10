@@ -1,9 +1,9 @@
 ---
-title: "Gramática: Preposiciones"
-lastmod: 2022-09-04T10:39:58.762Z
+title: Preposiciones
+lastmod: 2022-09-04T11:41:02.659Z
 ---
 
-# Preposiciones temporales
+## Preposiciones temporales
 
 | Último repaso |
 | ------------- |

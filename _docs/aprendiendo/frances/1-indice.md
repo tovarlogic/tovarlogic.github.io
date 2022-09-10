@@ -1,8 +1,7 @@
 ---
 title: Frances
 permalink: /aprendiendo/frances/
-toc: false
-lastmod: 2022-09-04T10:44:10.129Z
+lastmod: 2022-09-04T11:40:18.260Z
 ---
 
 ## Gramática
@@ -23,7 +22,7 @@ lastmod: 2022-09-04T10:44:10.129Z
 | --------------------------------------------- | ------------- |
 | [Números, fechas y horas](vocabulario/numeros-fecha-hora) |  -            |
 | [Saludos y formas de cortesía](vocabulario/salutations)   |  05 Feb 2022 (T)  |
-| [Animales](vocabulario/animals) | 4 Sep 2022 (T) |
+| [Animales](vocabulario/animaux) | 4 Sep 2022 (T) |
 | [Colores](vocabulario/couleurs) | 4 Sep 2022 (T) |
 
 

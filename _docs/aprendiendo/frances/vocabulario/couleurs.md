@@ -1,4 +1,14 @@
 ---
-title: "Vocabulario: Colores"
-lastmod: 2022-09-04T10:40:20.282Z
+title: Colores
+lastmod: 2022-09-04T11:00:51.663Z
 ---
+
+| Español   | Francés |
+| ----------|-------- |
+| Blanco    | Blanc |
+| Negro     | Noir  |
+| Rojo      | Rouge |
+| Verde     | Vert  |
+| Azul      | Blue  |
+| Amarillo  | Jaune |
+| Naranja   | Orange |

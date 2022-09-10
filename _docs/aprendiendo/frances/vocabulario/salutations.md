@@ -1,6 +1,6 @@
 ---
-title: "Vocabulario: Saludos y formas de cortesía"
-lastmod: 2022-09-04T10:41:02.092Z
+title: Saludos y formas de cortesía
+lastmod: 2022-09-04T11:41:18.246Z
 ---
 
 | Sección                        						| Último repaso |
@@ -10,7 +10,7 @@ lastmod: 2022-09-04T10:41:02.092Z
 | | |
 
 
-# Les salutations (los saludos)
+## Les salutations (los saludos)
 
 
 | Les salutations  		| Pronunciación         | traducción    		| Ejemplos y notas  |
@@ -49,7 +49,7 @@ lastmod: 2022-09-04T10:41:02.092Z
 
 
 
-# Les formules de politesse (las fórmulas de cortesía)
+## Les formules de politesse (las fórmulas de cortesía)
 
 | Les formules de politesse        | Pronunciación   | traducción    			| Ejemplos y notas  |
 | -------------------------------- | --------------- | ------------------------ | ----------------- |

@@ -6,9 +6,8 @@ draft: true
 categories:
   - Política
 tags:
-  - Unión Europea
-  - EU
-lastmod: 2022-05-23T17:21:11.373Z
+  - Europa
+lastmod: 2022-09-10T14:43:21.921Z
 ---
 
 ## Las Instituciones básicas [^ref1]
