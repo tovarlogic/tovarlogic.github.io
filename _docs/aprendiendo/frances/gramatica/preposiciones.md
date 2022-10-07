@@ -1,9 +1,9 @@
 ---
-title: "Gramática de Francés: Preposiciones"
-permalink: /aprendiendo/frances/preposiciones/
+title: Preposiciones
+lastmod: 2022-09-04T11:41:02.659Z
 ---
 
-# Preposiciones temporales
+## Preposiciones temporales
 
 | Último repaso |
 | ------------- |

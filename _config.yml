@@ -422,6 +422,7 @@ defaults:
       path: "_docs/aprendiendo/frances"
       type: docs
     values:
+      permalink: :path
       serie: frances
       layout: single
       read_time: false

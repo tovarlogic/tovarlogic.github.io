@@ -50,6 +50,10 @@ layout: default
           </aside>
         {% endif %}
         
+        {% if page.type == 'opinion' %}
+          {% include posts/opinion_disclaimer.html %}
+        {% endif %}
+
         {{ content }}
 
         {% if page.bookmarks %}

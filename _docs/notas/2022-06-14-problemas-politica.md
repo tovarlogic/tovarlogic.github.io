@@ -3,7 +3,7 @@ title: Problemas de la política
 date: 2022-06-14
 category: Política
 toc: false
-lastmod: 2022-06-22T10:16:55.008Z
+lastmod: 2022-09-30T19:19:48.178Z
 ---
 
 ## Listado de problemas evidentes
@@ -17,3 +17,9 @@ lastmod: 2022-06-22T10:16:55.008Z
 1. Poca visión a largo plazo, carencia de estrategias a largo plazo
 1. Falta de pactos de estado que den estabilidad y marquen una estrategia de largo plazo
 1. Demasiada burocracia y poca gestión eficiente del conocimiento, fondos, estrategias, etc.... Ejemplo: Europa crea una estrategia, España traspone, Cmunidades autonomas crean sus normas si afectan a sus competencias, municipios deben actuar.
+
+## EN la esfera internacional
+1. Falta de derecho de aguas internacionales
+1. falta de leyes y tribunal internacional en materia medioambiental
+1. falta de leyes y tribunal sobre derechos humanos
+1. falta de leyes y tribunal sobre la guerra (o mejor dicho la paz)

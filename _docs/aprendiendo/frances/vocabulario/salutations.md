@@ -1,6 +1,6 @@
 ---
-title: "Larouse método integral: Ejercicios"
-permalink: /aprendiendo/frances/salutations/
+title: Saludos y formas de cortesía
+lastmod: 2022-09-04T11:41:18.246Z
 ---
 
 | Sección                        						| Último repaso |
@@ -10,7 +10,7 @@ permalink: /aprendiendo/frances/salutations/
 | | |
 
 
-# Les salutations (los saludos)
+## Les salutations (los saludos)
 
 
 | Les salutations  		| Pronunciación         | traducción    		| Ejemplos y notas  |
@@ -49,7 +49,7 @@ permalink: /aprendiendo/frances/salutations/
 
 
 
-# Les formules de politesse (las fórmulas de cortesía)
+## Les formules de politesse (las fórmulas de cortesía)
 
 | Les formules de politesse        | Pronunciación   | traducción    			| Ejemplos y notas  |
 | -------------------------------- | --------------- | ------------------------ | ----------------- |
