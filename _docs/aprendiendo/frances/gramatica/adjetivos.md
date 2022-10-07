@@ -14,12 +14,22 @@ lastmod: 2022-06-06T21:08:03.588Z
 | Cantidades |   |
 | Estado de ánimo  | 07 Oct 2022 |
 
+* En general, el femenino se forma en general agregando -e al masculino
+* Algunas excepciones son los adjetivos terminados en:
+    -c forma femenino con la terminación -che
+    -eau forma femenino con la terminación -elle
+    -eux forma femenino con la terminación -euse
+    -eur forma femenino con la terminación -euse
+    -f forma femenino con la terminación -ve
+    -ou forma femenino con la terminación -olle
+    -teur forma femenino con la terminación -teuse/-trice
+    
 ## Colores
 
 | español            |     francés                  |
 | ------------------ | ---------------------------- |
-| negro |	noir|
-| azul |	bleu|
+| negro |	noir / noire |
+| azul |	bleu / bleue|
 | marrón |	brun|
 | gris |	gris|
 | verde	| vert|
@@ -38,7 +48,7 @@ lastmod: 2022-06-06T21:08:03.588Z
 | largo | long |
 | estrecho | étroit |
 | corto | court |
-| pequeño | petit |
+| pequeño | petit / petite |
 | alto | haut |
 | espeso | épais |
 | delgado | mince |
@@ -109,8 +119,7 @@ lastmod: 2022-06-06T21:08:03.588Z
 | mucho  | beaucoup |
 | muchos | beaucoup |
 | parte	 | partie |
-| poco	 | peu |
-| pocos	 | peu |
+| poco/s	 | peu |
 | todo	 | ensemble |
 | unos pocos | quelques |
 
