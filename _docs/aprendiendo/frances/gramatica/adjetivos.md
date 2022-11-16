@@ -1,6 +1,5 @@
 ---
 title: "Frances: Adjetivos"
-permalink: /aprendiendo/frances/adjetivos
 lastmod: 2022-06-06T21:08:03.588Z
 ---
 
@@ -13,6 +12,7 @@ lastmod: 2022-06-06T21:08:03.588Z
 | Cualidades |   |
 | Cantidades |   |
 | Estado de ánimo  | 07 Oct 2022 |
+| Posesivos | 07 Oct 2022 |
 
 * En general, el femenino se forma en general agregando -e al masculino
 * Algunas excepciones son los adjetivos terminados en:
@@ -23,7 +23,8 @@ lastmod: 2022-06-06T21:08:03.588Z
     -f forma femenino con la terminación -ve
     -ou forma femenino con la terminación -olle
     -teur forma femenino con la terminación -teuse/-trice
-    
+    -er o et forman femenino con la terminación -ère y -ète
+
 ## Colores
 
 | español            |     francés                  |
@@ -91,7 +92,7 @@ lastmod: 2022-06-06T21:08:03.588Z
 | fácil	 | facile |
 | joven	 | jeune |
 | lento	 | lent |
-| ligero | lumière |
+| ligero | lumière o léger |
 | limpio | propre |
 | local	 | local |
 | mal	 | tort |
@@ -134,3 +135,8 @@ lastmod: 2022-06-06T21:08:03.588Z
 | triste | triete |
 | calme  | tranquilo |
 | en forme / en forme | en forma |
+
+## Posesivos
+
+| francés            | español                      |
+| ------------------ | ---------------------------- |

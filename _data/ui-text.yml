@@ -113,7 +113,7 @@ es: &DEFAULT_ES
   declined                   : "Rechazado"
   approved                   : "Aprobado"
   pending_approval           : "Pendiente de aprobación"
-  open                       : "En edición"
+  open                       : "Borrador en edición"
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
