@@ -1,0 +1,149 @@
+# main links
+main:
+  - title: "Blog"
+    url: /blog/
+  - title: "Recetas"
+    url: /recetas/
+  - title: "Quotes"
+    url: /quotes/
+
+cambio-climatico:
+  - title: "Antecedentes"
+    children:
+      - title: "Conferencia sobre el Medio Humano"
+        url: /blog/cambio-climatico/conferencia-medio-humano
+      - title: "Convenio de Viena"
+        url: /blog/cambio-climatico/
+      - title: "Protocolo de Montreal"
+        url: /blog/cambio-climatico/protocolo-montreal
+  - title: "UNFCCC"
+    children:
+      - title: "La convención"
+        url: /blog/cambio-climatico/unfccc-convencion
+      - title: "Grupo Intergubernamental de Expertos"
+        url: /blog/cambio-climatico/ipcc
+      - title: "Protocolo de Kyoto"
+        url: /blog/cambio-climatico/Protocolo-de-Kioto
+      - title: "Acuerdo de París"
+        url: /blog/cambio-climatico/Acuerdo-Paris
+
+civilizaciones:
+  - title: "Occidente"
+    children:
+      - title: "Origen civilizaciones antiguas"
+        url: /blog/civilizaciones/
+      - title: "Grecia antigua"
+        url: /blog/civilizaciones/Grecia-Antigua
+  - title: "Asia"
+  - title: "America"
+          
+alimentacion:
+  - title: "Metabolismo"
+    children:
+      - title: "Hidratos de carbono"
+        url: /blog/Hidratos-carbono
+      - title: "Proteinas"
+        url: /blog/metabolismo-proteinas
+      - title: "Grasas"
+        url: /blog/metabolismo-grasas
+
+razonamiento:
+  - title: "Razonamiento"
+    children:
+      - title: "Fundamentos"
+        url: /blog/razonamiento/
+      - title: "Cuestiones básicas"
+        url: /blog/razonamiento/uso-de-razon
+  - title: "Argumentos inductivos"
+    children:
+      - title: "de Autoridad"
+        url: /blog/razonamiento/Argumento-Autoridad
+      - title: "por Analogía 'A pari'"
+        url: /blog/razonamiento/Argumento-Analogia-A-PARI
+      - title: "por Analogía 'A fortiori'"
+        url: /blog/razonamiento/Argumento-Analogia-A-FORTIORI
+      - title: " de Causa"
+        url: /blog/razonamiento/Argumento-causa
+      - title: "de Contrarios 'Ex contrario'"
+        url: /blog/razonamiento/Argumento-contrarios
+      - title: "de Generalización"
+        url: /blog/razonamiento/Argumento-generalizacion
+  - title: "Argumentos deductivos"
+    children:
+      - title: "condicional I"
+        url: /blog/razonamiento/Argumento-condicional-I
+  - title: "Argumentos hipotéticos"
+    children:
+      - title: "de Signo o indicios"
+        url: /blog/razonamiento/Argumento-indicios
+
+frances:
+  - title: "Gramática"
+    children:
+      - title: "Adverbios"
+        url: /aprendiendo/frances/gramatica/adverbios
+      - title: "Pronombres"
+        url: /aprendiendo/frances/gramatica/pronombres
+      - title: "Verbos"
+        url: /aprendiendo/frances/gramatica/verbos
+      - title: "Adjetivos"
+        url: /aprendiendo/frances/gramatica/adjetivos
+      - title: "Preposiciones"
+        url: /aprendiendo/frances/gramatica/preposiciones
+      - title: "Artículos"
+        url: /aprendiendo/frances/gramatica/articulos
+  - title: "Vocabulario"  
+    children:
+    - title: "Saludos y formas de cortesía"
+      url: /aprendiendo/frances/vocabulario/salutations
+    - title: "Números, fechas y horas"
+      url: /aprendiendo/frances/vocabulario/numeros-fecha-hora
+    - title: "Colores"
+      url: /aprendiendo/frances/vocabulario/couleurs
+    - title: "Animales"
+      url: /aprendiendo/frances/vocabulario/animaux
+
+colonias-felinas:
+  - title: "Motivación del proyecto"
+    url: /proyectos/colonias-felinas/
+  - title: "Inicio"
+    children:
+      - title: "1.1. Justificación"
+        url: /proyectos/colonias-felinas/justificacion/
+      - title: "1.1.1 Protección medioambiental"
+        url: /proyectos/colonias-felinas/justificacion/proteccion-medioambiental
+      - title: "1.1.2 Bienestar animal"
+        url: /proyectos/colonias-felinas/justificacion/bienestar-animal
+      - title: "1.1.3 Biodiversidad"
+        url: /proyectos/colonias-felinas/justificacion/biodiversidad
+      - title: "1.1.4 Consideraciones finales"
+        url: /proyectos/colonias-felinas/justificacion/consideraciones-finales
+      - title: "1.2 Definicion"
+      - title: "1.2.1 Objetivos y alcance"
+      - title: "1.2.2 Partes interesadas"
+      - title: "1.2.3 Recursos"
+      - title: "1.3. Viabilidad"
+      - title: "1.3.1 Viabilidad técnica"
+      - title: "1.3.2 Viabilidad legal y administrativa"
+      - title: "1.3.3 Viabilidad económica"
+      - title: "1.3.4 Resumen viabilidad"   
+      - title: "1.4 Análisis DAFO"
+      - title: "Anexo I. Espacios naturales, hábitats y especies"
+        url: /proyectos/colonias-felinas/anexo-i-espacios-naturales-habitats-especies
+  - title: "Planificación"
+    children:
+      - title: "2.1.1 Toma de contacto con las partes interesadas"
+      - title: "2.1.2 Creación de equipos de trabajo"
+      - title: "2.2.1 Definición de fases del proyecto"
+      - title: "2.2.2 Planificación temporal y de recursos"
+      - title: "2.3 Elaboración de mecanismos de evaluación"
+      - title: "2.4.1 Presentación interna del proyecto"
+      - title: "2.4.2 Revisión y mejora del diseño"
+      - title: "INFO: Productos planificación"
+  - title: "Ejecución"
+    children:
+      - title: "3.1 Presentación pública del proyecto"
+      - title: "INFO: Productos ejecución"
+  - title: "Seguimiento y control"
+    children:
+      - title: "INFO: Productos seguimiento y control"
