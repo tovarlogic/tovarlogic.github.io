@@ -5,7 +5,7 @@ categories:
   - Política
   - Sociología
 tags: progreso
-lastmod: 2022-09-30T22:00:21.820Z
+lastmod: 2022-10-12T19:46:45.121Z
 draft: true
 ---
 
@@ -54,13 +54,13 @@ Ya he insinuado que debe de existir unos valores compartidos por la generalidad 
 1. Una divulgación científica eficaz.
 1. Una Educación universal de calidad.
 
-Si estas dos condiciones básicas se cumplen, todas las cosas que emanan de ellas facilitarán el progreso deseado. Por ejemplo, las cuestiones económicas y políticas, son subsidiarias de la cultura y conocimiento de las personas e instituciones.
+Si estas dos condiciones básicas se cumplen, todas las cosas que emanan de ellas facilitarán el progreso deseado. Por ejemplo, las cuestiones económicas y políticas, son subsidiarias de la cultura, conocimientos y capacidad de las personas e instituciones.
 
-La Educación es un resultado colectivo. A través de la misma, en todas sus variantes, se pretende maximizar el valor de los individuos a la Sociedad. Paradójicamente existe también una relación de realimentación entre la Sociedad y la Educación. La Sociedad determina la Educación y la Educación predispone a la futura Sociedad.
+La Educación es un resultado colectivo. A través de la misma, en todas sus variantes, se pretende maximizar el valor de los individuos a la Sociedad. Paradójicamente existe también una relación de realimentación diferida entre la Sociedad y la Educación. La Sociedad actual determina la Educación futura, mientras que la Educación presente predispone a la venidera sociedad.
 
-El requerimiento de universalidad de la Educación se explica con lo siguiente. De nada sirve que unas «élites minoritarias» acaparen para sí el conocimiento. La sociedad en su conjunto ha de contar con unos conocimientos básicos que permitan su desarrollo profesional y personal. La sociedad es la cantera de científicos, técnicos y demás profesiones. Cuantas más personas posean dichos conocimientos más volumen de conocimiento que se podrá gestionar y, además, mayores opciones habrá para seleccionar a los profesionales más capaces. La educación en todos sus niveles es la responsable de formar la siguiente generación que mantenga la inercia progresista. 
+La sociedad está formada por todos sus miembros. Es de justicia que todas las personas tengan las mismas oportunidades de desarrollo. Además, si la educación es universal, mayor volumen de personas tendrá la oportunidad de convertirse en individuos útiles tanto para sí mismos como para el resto de la ciudadanía. Aunque las élites minoritarias puedan ser beneficiosas, para maximizar el ritmo de prodreso se requiere el desarrollo educativo de la mayoría. La educación en todos sus niveles es la responsable de formar a la siguiente generación que mantenga la inercia progresista. 
 
-El adjetivo cualitativo es nuevamente otro aspecto subjetivo del problema. Desde mi punto de vista, y sin querer dilatarme en explicaciones, una *buena* Educación es aquella que:
+Que una Educación sea de calidad, es nuevamente una cuestión subjetiva. Desde mi punto de vista, y sin querer dilatarme en explicaciones, una «*buena*» Educación es aquella que:
 1. Potencie el pensamiento crítico.
 1. Potencie la creatividad y curiosaidad.
 1. Potencie las habilidades sociales.
@@ -70,43 +70,52 @@ El adjetivo cualitativo es nuevamente otro aspecto subjetivo del problema. Desde
 1. Que exponga a los estudiantes a materias culturales diversas.
 1. Que exponga a los estudiantes a diferentes marcos de valores.
 
-Una buena educación es mucho más que la simple transferencia de conocimiento. El objetivo final de la educación no debe ser otro que el de proveer al las personas de las herramientas necesarias para poder desarrollarse satisfactoriamente como persona, en todas sus fases vitales, independientemente de los objetivos que puedan tener los poderes del momento. En todo caso, la cultura del momento y, por ende, los poderes públicos y privados deben interferir lo menos posible en los planes de estudio. Será inevitable cierta ingerencia, especialmente en los tres últimos puntos, por eso debe ser controlada por minuciosamente.
+Una buena educación es mucho más que la simple transferencia de conocimiento. El objetivo final de la educación no debe ser otro que el de proveer al las personas de las herramientas necesarias para poder desarrollarse satisfactoriamente como persona, en todas sus fases vitales, independientemente de los objetivos que puedan tener los poderes del momento, aunque será inevitable cierta ingerencia por su parte, especialmente en los tres últimos puntos.
 
-Una estructuración educativa equivalente en principio proveería a cada individuo de las capacidades necesarias de adaptación al medio en el que se encuentre y a la elección de sus propios esquemas morales. Evidentemente, la cultura de la sociedad en la que nos movemos nos influencia enormemente y el sistema educativo es solo una parte de la misma. Nadie está libre de influencia de sus círculos sociales, las costumbres arraigadas de la sociedad y de las corrientes de pensamiento populares, pasadas y presentes. Por eso, además del sistema educativo formal, la familia, amistades, medios de comunicación y sociedad en general tienen un papel muy importante.
+Una estructuración educativa equivalente a la descrita, en principio, proveería a cada individuo de las capacidades necesarias de adaptación al medio en el que se encuentre y a la elección de sus propios esquemas morales. Evidentemente, la cultura de la sociedad en la que nos movemos nos influencia enormemente y el sistema educativo es solo una parte de la misma. Nadie está libre de influencia de sus círculos sociales, las costumbres arraigadas de la sociedad y de las corrientes de pensamiento populares, pasadas y presentes. Por eso, además del sistema educativo formal, la familia, amistades, medios de comunicación y sociedad en general tienen un papel muy importante.
 
-Ninguna sociedad es perfecta, de eso no cabe duda, y por muy universal y *bueno* que sea el sistema educativo nada garantiza que la sociedad evolucione en concordancia con el conocimiento científico. Ni siquiera, cuando también se haya logrado una comunicación eficaz entre las comunidades científicas y el resto de la sociedad. Incliso así seguiremos sin estar libres de desigualdad, manipulación, irresponsabilidad, creencias infundadas y costumbres perjudiciales. Seguirán existiendo infinidad de *ineficiencias* que en el mejor de los casos supongan cierta desaceleración en el progreso e incluso que este se invierta.
+Ninguna sociedad es perfecta, de eso no cabe duda, y por muy universal y bueno que sea el sistema educativo nada garantiza que la sociedad evolucione en concordancia con el conocimiento científico. Ni siquiera, cuando también se haya logrado una comunicación eficaz entre las comunidades científicas y el resto de la sociedad. Incliso así seguiremos sin estar libres de desigualdad, manipulación, irresponsabilidad, creencias infundadas y costumbres perjudiciales. Seguirán existiendo multitud de *ineficiencias* que, en el mejor de los casos, supongan cierta desaceleración en el progreso e incluso que este se invierta.
 
 Las sociedades siempre serán dinámicas, el cambio siempre existirá. La cuestión es si este supone un progreso (mejora) o no. Dada la complejidad social, es muy posible que en unas fecetas se progrese mientras que en otras no. Volvemos al problema de raiz, ¿Cómo definir si un cambio es bueno o malo? La ciencia podrá responder en algunos casos, pero otros el problema será suficientemente subjetivo como para convertirlo en inabarcable científicamente.
 
-## Progreso social, moral, jurídico y económico
+## Principios rectores como punto de partida
 
 Al contrario del progreso educativo, que se puede medir de manera bastante objetiva, el análisis del progreso moral, social, jurídico, económico, o de cualquier otra índole necesita del establecimiento previo de un sistema de valores que lo haga posible. Primero se establece un ideal y luego se valora cuan lejos nos encontramos del mismo.
 
-Como no existe un único ideal social, tampoco se puede determinar que significa el progreso. Si además de la diversidad de valores, principios y metodologías de los sistemas socio-políticos y socio-económicos más relevantes (Socialismo, Comunismo, Anarquismo, Capitalismo) tenemos en cuenta la granularidad que introduce cada grupo social e individuos con sus desviaciones desde la generalidad, resulta obvio que el abanico de posibles definiciones es enorme. 
+Como no existe un único ideal social, tampoco se puede determinar que significa el progreso. Si además de la diversidad de valores, principios y metodologías de los sistemas socio-políticos y socio-económicos más relevantes (Socialismo, Comunismo, Anarquismo, Capitalismo) tenemos en cuenta la granularidad que introduce cada grupo social e individuos, con sus desviaciones desde la generalidad, resulta obvio que el abanico de posibles definiciones es enorme. 
 
 Para unos la sociedad (o economía, moral, tecnología, etc..) en su conjunto, o alguna de sus facetas, puede mostrar una tendencia positiva, mientras que para otros será negativa. La única alternativa objetiva será estudiar en que medida cambian para posteriormente analizar sus posibles causas y consecuencias. 
 
-En cualquier caso, en lo relativo al progreso social, como hasta el momento los sistemas políticos modernos predominantes, democráticos o no, son puramente antropocéntricos, si se intenta esgrimir una definición más o menos genérica pero constreñida a las democracias, quizás se pueda decir que el progreso social consiste en la mejora de las condiciones de vida de los seres humanos. Si bien cada sistema, no necesariamente ha de tener esto como objetivo primero o único y aunque así fuera tratarían de obtenerlo de distinta forma en base a sus prioridades.
+En cualquier caso, en lo relativo al progreso social, como hasta el momento los sistemas políticos modernos predominantes, democráticos o no, son puramente antropocéntricos, si se intenta esgrimir una definición más o menos genérica y constreñida a las democracias, quizás se pueda decir que el progreso social consiste en la mejora de las condiciones de vida de los seres humanos. Si bien cada sistema, no necesariamente ha de tener esto como objetivo principal y aunque así fuera tratarían de obtenerlo de distinta forma en base a sus prioridades.
 
-Como decía, establecer un ideal a partir de lo puramente racional es probablemente imposible, pero ante todo considero que es innecesario. Nadie tiene la capacidad de lograr un sistema perfecto, que sirva para toda la ciudadanía y menos aún para toda la humanidad. Como todo sistema complejo, existen innumerables variables e interacciones que lo condicionan. Es, por tanto, tarea de cada persona, comunidad, organización, estado y unión supranacional realizar sus propios experimentos sociales a partir de unos principios rectores básicos. Cuanto más básicos mejor, tanto que puedan parecer independientes al propio progreso o resultado que se busque. Si se mantienen fieles a sus principios el cambio social surgirá y, probablemente, con nuevas características insospechadas inicialmente. Mediante un proceso de «mejora continua», aunque no sea formal, se podrán tomar medidas para corregir aquellas que resulten indeseables.
+Como decía, establecer un ideal a partir de lo puramente racional es probablemente imposible pero, ante todo, considero que es innecesario. Nadie tiene la capacidad de lograr un sistema perfecto, que sirva para toda la ciudadanía y menos aún para toda la humanidad. Como todo sistema complejo, existen innumerables variables e interacciones que lo condicionan. Es, por tanto, tarea de cada persona, comunidad, organización, estado y unión supranacional realizar sus propios experimentos sociales a partir de unos principios rectores básicos. Si se mantienen fieles a sus principios el cambio social surgirá y, probablemente, con nuevas características insospechadas inicialmente. Mediante un proceso «mejora continua», aunque no sea formal y se base ne la prueba y error, se podrán tomar medidas para corregir aquellas que resulten indeseables.
 
-La historia nos ha enseñado que ninguna sociedad es completamente genuina. Todas y cada una de las sociedades actuales y pasadas son el resultado de otras sociedades pasadas y de la interacción con otras contemporáneas.
+La historia nos ha enseñado que ninguna sociedad es completamente genuina. Todas y cada una de las sociedades actuales y pasadas son el resultado de otras sociedades antiguas y de la interacción con las contemporáneas.
 
-Parece aun muy distante el momento en el que se solucione definitivamente la cuestión de como se decide lo que es indeseable. También resulta dificil definir los principios básicos rectores, pero su complejidad es menor en ordenes de magnitud. En primer lugar porque la naturaleza del problema es distinto. No se trata de definir un resultado u objetivo, sino unos principios básicos prácticamente independientes del mismo. Y, por el otro, porque por mucha variabilidad ética y moral que exista, toda sociedad cuenta con una base común compartida fácilmente identificable de un modo científico. De lo contrario no se podría hablar de una sociedad.
+Parece aún muy distante el momento en el que se solucione definitivamente la cuestión de como se decide lo que se considera ideal; mientras que determinar los principios rectores básicos presenta una menor complejidad. En primer lugar porque la naturaleza del problema es distinto. No se trata de definir un resultado u objetivo, sino unos principios básicos prácticamente independientes del mismo. Y, por el otro, porque por mucha variabilidad ética y moral que exista, toda sociedad cuenta con una base común compartida fácilmente identificable de un modo científico. De lo contrario no se podría hablar de una sociedad.
 
-Mas allá de admitir que este enfoque no es incompatible con el establecimiento de ciertos objetivos y trabajar en su consecución. Una visión del progreso como el que describo no deja de ser, en cierta medida, simplista e ingénua si se ignoran algunas cuestiones de vital importancia, que describen algunos de los «problemas sociales» actuales que achacan a nuestras sociedades.
+Por eso no creo en la elaboración o planificación de sociedades ideales a los que aspirar sino, por el contrario, me parece más abarcable determinar los principios básicos que siempre debemos respetar. Si centramos nuestro empeño en lograr un objetivo particular de alto nivel, puede pasar que perdamos el sentido de las razones que nos llevaron a anhelarlo y además puede generar división social si otros perciben que existen otras opciones mejores.
 
-Quiero ser cauto cuando hablo de «problemas sociales» porque esto no deja de ser una visión personal de las características no deseables de la sociedad actual. Ya he dejado entre ver que la Educación actual, al menos en España, está lejos de ser universal y de calidad. A partir de ahora, intaré tratar otros problemas aún pendientes de comentar. No hay que perder de vista que todos son subsidiarios en cierta medida del problema relativo al sistema educativo.
+Por el contrario, si intentamos ser menos ambiciosos en nuestras pretensiones, y prefiramos ir paso a paso, seguramente sea más facil encontrar puntos de encuentro entre distintas ideologías y por tanto encuentren menor oposición. 
+
+# La inercia como seguro del progreso
+He de admitir que seguramente existan varidad de hechos sociales complejos que hacen parecer esta visión de progreso demasiado simplista e ingénua. Se escapa de mis posibilidades tener una visión completa a la vez que detallada de nuestras sociedades. Dudo que nadie sea capaz. 
+
+De entre todos los problemas, ineficiencias o fuerzas en contra del progreso, pienso que hay una que es especialmente potente, además de la falta de una educación universal de calidad, me refiero a la falta de inercia política. 
+
+Desde luego la falta de inercia responde a más de una única causa. No pretendo aquí detallarlas, simplemente poner foco en su importancia.
 
 
+
+
+
+
+probablemente ocurran dos cosas. Una que Esto no quiere decir que no debamos soñar con lo que nos 
+Los deberes y derechos que surjan de estos son la brújula para un destino incierto. La Educación universal de calidad, es bajo mi perspectiva ambas cosas, es decir, un derecho individual y un deber colectivo a cumplir. Será ella la que nos aporte el resto de herramientas que permitan seguir avanzando es dicha andadura.
+
+que este enfoque no es incompatible con el establecimiento de ciertos objetivos y trabajar en su consecución. Una visión del progreso como el que describo no deja de ser, en cierta medida, simplista e ingénua si se ignoran algunas cuestiones de vital importancia, que describen algunos de los «problemas sociales» actuales que achacan a nuestras sociedades.
 
 ## Conclusión
 A modo de síntesis el enfoque propuesto se basa en definir los principios que nos unen y garantizar que estos no puedan ser violados hasta que, dado el caso, se modifiquen. Si, paralelamente se garantiza también el progreso educativo, el cambio sea cual sea se dará con el paso del tiempo. 
 
 No es por tanto, una cuestión de si el resultado es bueno o malo, sino de que el proceso sea el adecuado independientemente de su producto. Por eso no hablo de progreso, salvo en lo relativo a la educación, todo lo demás son cambios como consecuencia del mismo y de la experiencia social.
-
-
-
-
-
-
