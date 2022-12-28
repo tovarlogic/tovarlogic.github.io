@@ -1,6 +1,7 @@
 ---
 title: Agilidad adaptativa de las sociedades II
 date: 2022-12-20
+draft: true
 categories:
   - Política
   - Sociología
