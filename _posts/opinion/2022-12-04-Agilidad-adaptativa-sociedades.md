@@ -1,10 +1,11 @@
 ---
-title: Agilidad adaptativa de las sociedades
+title: Agilidad adaptativa de las sociedades I
 date: 2022-12-04
 categories:
   - Política
   - Sociología
 tags: progreso
+lastmod: 2022-12-22T10:09:48.110Z
 ---
 
 ## Introducción
@@ -29,6 +30,7 @@ Esto es así porque de nada sirve desarrollar un plan perfecto si cuando se va a
 
 Aún consiguiendo lo anterior, no parece razonable que logremos ir al mismo ritmo. Por eso, creo que otra tercera cuestión resulta vital si no nos podemos igualar a la velocidad del cambio: tendremos que preveerlos para tener márgen de maniobra.
 
+## Conclusiones
 En definitiva, lo que se propone es, por un lado, ser capaces de llevar a cabo pequeños y frecuentes cambios incrementales en el corto plazo. Al mismo tiempo, realizar estrategias a largo plazo, que tengan en cuenta las tendencias y previsiones, pero también los riesgos y dificultades más probables en base a análisis profundos y exhaustivos de todos los ámbitos relevantes. Dicha estrategia debería proponer acciones suficiente mente flexibles e incluso polivalentes, como para permitir la adaptación en caso de desviaciones. Resulta imprescindible por tanto tener en cuenta todo el ciclo de vida de las medidas a adoptar, y de sus consecuencias directas e indirectas, un pensamiento holístico e integrador a prueba de errores, resiliente, con un claro enfoque hacia la gestión del riesgo e incertidumbre. 
 
 Tomar decisiones y aplicarlas ágilmente, incrementa entre otras cosas el ritmo de adquisición de conocimiento a través de la prueba y el error. Lo que a su vez puede redundar en una mejora de la eficiencia al final del proceso iterativo. Parte del problema es que las sociedades no toleran bien el error, menos aún en el ámbito de la política. Esto hace que los agentes con poder político sean muy conservadores, demasiado según el caso. 
