@@ -12,7 +12,7 @@ excerpt: Theodor W. Adorno (1903-1969) fue un sociólogo alemán, considerado el
   dialéctica. Este artículo pretende resumir sus ideas expuestas en el curso de
   "Introducción a la Sociología" basada en las anotaciones recogidas por sus
   alumnos de 1968.
-lastmod: 2023-01-07T14:05:35.119Z
+lastmod: 2023-01-07T17:26:22.747Z
 ---
 
 # Sobre el autor
@@ -111,7 +111,6 @@ A causa de que en las formas dominantes de la sociedad cada individuo busca su v
 
 Justamente el hecho de que la totalidad de la sociedad no se mantenga viva solidariamente, como un objeto social único, sino a través de intereses antagónicos de los seres humanos, lleva a que esta sociedad racional de intercambio, desde su raíz, constitutivamente, aparezca un aspecto de irracionalidad que en todo momento amenaza con hacerla explotar.
 
-
 ### Dinámica social
 La sociedad es esencialmente un concepto dinámico, porque surje de la relación entre personas. Tradicionalmente se ha tenido en cuenta este característica a través del «Conflicto Social». Sin embargo, Adorno hace énfasis en otra modalidad relativa al sistema capitalista.
 
@@ -139,11 +138,31 @@ El sentido del concepto de institución, o de conformación social subjetiva, o 
 
 El destino social y, con ello, la acción social de cada individuo, depende en mucho más de estas instituciones y puede ser explicada mucho mejor apartir de estas instituciones, que si se considera esta acción como el sustrato último e inmediato y se cree poder explicar lo social en general a partir de la acción social.
 
+### Irracionalidad
+Históricamente se ha pasado por alto la importancia de las relaciones de producción en la sociedad. O para expresarlo de otro modo, pasaron por alto que la racionalidad tantas veces citada de la sociedad burguesa, científica o industrial (fase positiva de Comte), en realidad sigue siendo irracional. Por irracional se refiere a que, si uno considera que la **meta de la sociedad** es la conservación y liberación de los individuos que la componen, lo que uno se encuentra es que ésta se opone a su propia meta.
+
+Las instituciones llamdas irracionales tienen una función y uno puede deducir la supervivencia de los momentos irracionales en la sociedad a partir de la estructura social. Se trata
+En definitiva, solo por medio de la supervivencia de las funciones irracionales pueden mantenerse vivas en general las relaciones irracionales de producción.
+
+**reflexión personal:** Resulta interesante esta reflexión porque presupone una meta particular y que esta, de existir, es fija. Es cierto que todo sistema, tiene al menos un objetivo, pero este no necesariamente tiene que ser el que el sociólogo cree subjetivamente.
+{:.notice--warning}
+
+
 ## Objeciones a la sociología
 ### Falsa neutralidad científica
 Es por eso que opina que la neutralidad científica no existe, pues al aceptar lo anterior, en realidad está tomando una decisión social.
 
 En el fondo se trata de modo más o menos acentuado de una doctrina antrapológica de lo invariante, es decir, concepciones del ser humano y de la naturaleza supuestamente invariable del ser humano, en lugar de una reflexión acerca de las condiciones concretras en las cuales viven los seres humanos, y acerca de si esas condiciones pueden o no ser modificadas.
+
+Por otro lado, cuando Weber en su definición de sociología dice que la tarea es «comprender interpretativamente» las acciones sociales, lo hace restringiendo dicha interpretación a la racionalidad, es decir a la relación medio-fin que supuestamente se puede constatar en esa acción subjetiva. 
+
+Inmediatamente surje la pregunta de si la conducta interpretativa que se le exige a la sociología como algo evidente es efectivamente el método, o si realmente cuando se choca con algo contrapuesto al sujeto interpretante, se debería justamente renunciar a tal interpretación. 
+
+Esta visión interpretativa que introduce Weber, resulta muy dificil de tolerar para esa sociología libre de valores, que se abstiene estrictamente de pronunciar juicios de valor. Si en última instancia toda conducta social puede ser interpretada como subjetivamente con sentido, entonces se le otorga a toda conducta social ya de antemano algo así como un sentido; todo el curso del mundo aparece como reducible a algo así como un otorgamiento subjetivo de sentido, justificándose de ese modo también como algo qe, en sí, posee sentido.
+
+Decir que los actores sociales vinculan su acción con un sentido social subjetivo presupone un tipo de racionalidad en la conducta de los individuos que no puede presuponerse sin más. Hay que tener en cuenta las diferencias que existen entre el sentido sostenido subjetivamente por los individuos y el sentido objetivo que poseen sus acciones. Es decir, una cosa es la intención y otra el resultado objetivo. o dicho de otro modo, la relevancia social no tiene porqué coincidir con el sentido pensado subjetivamente. 
+
+En cualquier caso, esta vinculación de un sentido con acciones sociales es, en el fondo, una construcción ideal, pues la gran mayoría de las llamadas acciones sociales de los individuos no se producen en absoluto en dirección a un fin soccial preestablecido, sino de un modo más o menos reflejo.
 
 ### Excesiva importancia de lo concreto
 Durante estas lecciones Adorno se ocupa en varias ocasiones de defender su visión de la sociología, la de la teoría crítica o dialéctica, frente a las objeciones de otros sociólogos. La mayoría de estas cuestiones han sido ignoradas en esta síntesis. No obstante si recojo la única que considero es relevante reflexionar en la época actual por no estar resuelta.
