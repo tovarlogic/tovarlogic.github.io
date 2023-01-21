@@ -6,7 +6,7 @@ layout: archive
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign posts_by_type = site.posts | where: "draft", false | group_by: "type" | sort: 'size' | reverse %}
+{% assign posts_by_type = site.posts | where: "hidden", false | group_by: "type" | sort: 'size' | reverse %}
 
 <section class="taxonomy__section">
   <h2 class="archive__subtitle">Tipos de artículo</h2>
