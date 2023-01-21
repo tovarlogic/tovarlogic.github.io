@@ -12,7 +12,7 @@ excerpt: Theodor W. Adorno (1903-1969) fue un sociólogo alemán, considerado el
   dialéctica. Este artículo pretende resumir sus ideas expuestas en el curso de
   "Introducción a la Sociología" basada en las anotaciones recogidas por sus
   alumnos de 1968.
-lastmod: 2023-01-07T17:26:22.747Z
+lastmod: 2023-01-20T13:13:44.574Z
 ---
 
 # Sobre el autor
@@ -139,10 +139,9 @@ El sentido del concepto de institución, o de conformación social subjetiva, o 
 El destino social y, con ello, la acción social de cada individuo, depende en mucho más de estas instituciones y puede ser explicada mucho mejor apartir de estas instituciones, que si se considera esta acción como el sustrato último e inmediato y se cree poder explicar lo social en general a partir de la acción social.
 
 ### Irracionalidad
-Históricamente se ha pasado por alto la importancia de las relaciones de producción en la sociedad. O para expresarlo de otro modo, pasaron por alto que la racionalidad tantas veces citada de la sociedad burguesa, científica o industrial (fase positiva de Comte), en realidad sigue siendo irracional. Por irracional se refiere a que, si uno considera que la **meta de la sociedad** es la conservación y liberación de los individuos que la componen, lo que uno se encuentra es que ésta se opone a su propia meta.
+Históricamente se ha pasado por alto la importancia de las relaciones de producción en la sociedad. O para expresarlo de otro modo, pasaron por alto que la racionalidad tantas veces citada de la sociedad burguesa, científica o industrial (fase positiva de Comte), en realidad sigue siendo irracional. Las instituciones llamdas irracionales tienen una función y uno puede deducir la supervivencia de los momentos irracionales en la sociedad a partir de la estructura social. En definitiva, solo por medio de la supervivencia de las funciones irracionales pueden mantenerse vivas en general las relaciones irracionales de producción.
 
-Las instituciones llamdas irracionales tienen una función y uno puede deducir la supervivencia de los momentos irracionales en la sociedad a partir de la estructura social. Se trata
-En definitiva, solo por medio de la supervivencia de las funciones irracionales pueden mantenerse vivas en general las relaciones irracionales de producción.
+Por irracional se refiere a que, si uno considera que la **meta de la sociedad** es la conservación y liberación de los individuos que la componen, lo que uno se encuentra es que ésta se opone a su propia meta.
 
 **reflexión personal:** Resulta interesante esta reflexión porque presupone una meta particular y que esta, de existir, es fija. Es cierto que todo sistema, tiene al menos un objetivo, pero este no necesariamente tiene que ser el que el sociólogo cree subjetivamente.
 {:.notice--warning}
