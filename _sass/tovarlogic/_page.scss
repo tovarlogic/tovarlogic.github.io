@@ -1,6 +1,25 @@
 /* ==========================================================================
    SINGLE_LEFT PAGE/POST
    ========================================================================== */
+   .taxonomy__section {
+    margin-bottom: 0em;
+    padding-bottom: 0em;
+    overflow: hidden;
+  
+    .archive__item-title {
+      margin-top: 1.5em;
+    }
+  
+    .archive__subtitle {
+      clear: both;
+      border-bottom: solid 1px $border-color;
+    }
+  
+    + .taxonomy__section {
+      margin-top: 2em;
+      border-bottom: 0px;
+    }
+  }
 
 .page_left {
   @include breakpoint($large) {

@@ -12,7 +12,7 @@ excerpt: Theodor W. Adorno (1903-1969) fue un sociólogo alemán, considerado el
   dialéctica. Este artículo pretende resumir sus ideas expuestas en el curso de
   "Introducción a la Sociología" basada en las anotaciones recogidas por sus
   alumnos de 1968.
-lastmod: 2023-01-20T13:13:44.574Z
+lastmod: 2023-01-21T08:44:06.077Z
 ---
 
 # Sobre el autor
