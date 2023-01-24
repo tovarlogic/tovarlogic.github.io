@@ -1,6 +1,7 @@
 ---
-title: "Elecciones para un mejor ahora"
+title: Elecciones para un mejor ahora
 date: 2021-05-18
+lastmod: 2023-01-24T19:05:31.525Z
 ---
 ### Podcast "intelligence^2: Choices for a better now"
 
@@ -10,4 +11,4 @@ date: 2021-05-18
 - A las sociedades e individuos no sólo se les debe valorar por sus logros (acciones exitosas), sino por a lo que han aspirado e intentado sin éxito (acciones fracasadas).
 - Los sentimientos, especialmente la rabia o enfado, nublan nuestro juicio; y se requiere atención y reflexión para poder actuar, al menos de manera acorde a nuestros valores.
 
-{% include ivoox-player.html  id=70251356 %}
+{% include /media/podcast-ivoox-player.html  id=70251356 %}

@@ -1,20 +1,21 @@
-{% if page.shared-media.books %}
-	{% for book_isbn in page.shared-media.books %}
+{% if page.books %}
+	{% for book_isbn in page.books %}
     	{% assign book = site.data.books.list | where:'isbn', book_isbn | first %}
     	{% include archive-single-books.html type=list %}
   	{% endfor %}
 {% endif %}
 
-{% if page.shared-media.podcasts %}
-  	{% for podcast_id in page.shared-media.podcasts %}
+{% if page.podcasts %}
+  	{% for podcast_id in page.podcasts %}
     	{% assign podcast = site.data.podcasts.list | where:'id', podcast_id | first %}
     	{% include archive-single-podcast.html type=list %}
   	{% endfor %}
 {% endif %}
 
-{% if page.shared-media.videos %}
-  	{% for video_id in page.shared-media.videos %}
+{% if page.videos %}
+  	{% for video_id in page.videos %}
    	 	{% assign video = site.data.videos.list | where:'id', video_id | first %}
+		{{ video }}
     	{% include archive-single-video.html type=list %}
   	{% endfor %}
 {% endif %}

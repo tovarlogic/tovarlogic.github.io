@@ -1,0 +1,16 @@
+
+<div class="{{ include.type | default: 'list' }}__item">
+    <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+      <div>
+        {% include video id=video.id provider=video.platform %}
+        </div>
+            <span class="stars-container stars-{{ video.stars | times:20 | round: 0 }}" title="{{ video.stars }}/5">★★★★★</span><br>
+            {% if video.review %}<a href="/videos/reviews/{{ video.review }}"> Mis notas </a>{% endif %}
+            {% if video.posts %}
+            	{% for post in video.post %}
+            		<a href="/blog/{{ post }}"> Notas </a><br>
+            	{% endfor %}
+            {% endif %}
+    </article>
+</div>
+

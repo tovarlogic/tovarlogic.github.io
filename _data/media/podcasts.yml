@@ -80,3 +80,13 @@ list:
     stars: 3
     category: []
     tags: []
+  
+  - id: 76599303
+    title: The Battle Over Free Speech and trigger warnings
+    platform: ivoox
+    show: Intelligence Squared
+    speakers: [speaker]
+    date: 2021-11-01
+    stars: 4
+    category: [sociologia]
+    tags: [debate, libertad-expresión, censura, plataformas, redes-sociales]

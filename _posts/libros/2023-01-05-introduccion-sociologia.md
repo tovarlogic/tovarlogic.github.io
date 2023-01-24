@@ -2,7 +2,7 @@
 title: Introducción a la Sociología
 isbn: 9789681624453
 date: 2023-01-05
-draft: true
+draft: false
 categories:
   - Sociología
 tags:
@@ -12,7 +12,7 @@ excerpt: Theodor W. Adorno (1903-1969) fue un sociólogo alemán, considerado el
   dialéctica. Este artículo pretende resumir sus ideas expuestas en el curso de
   "Introducción a la Sociología" basada en las anotaciones recogidas por sus
   alumnos de 1968.
-lastmod: 2023-01-21T08:44:06.077Z
+lastmod: 2023-01-24T12:41:03.728Z
 ---
 
 # Sobre el autor
@@ -174,6 +174,19 @@ Si una teoría no es capaz <u>también</u> de predecir algo, entonces esto const
 
 Parte del problema radica en que en muchos acontecimientos sociales que pueden ser observados concretamente, sólo en apariencia son concretos. Generalmente resulta insuficiente reducirlo en relación a unas pocas cuestiones, normalmente hay mucho de fondo; además de matices y pequeñas diferencias entre unos lugares y otros. Es posible, sin embargo, percibir los fenómenos concretos/individuales en un sentido fisionómico (característico) sino también que todas las explicaciones de dichos fenómenos llevan a considerar cosas como la estructura social.
 
+### Dominación
+La antigua pretensión sociológica de Compte no se dirige a producir una sociedad racional a partir de sus propias potencialidades y tendencias, sino a ejercer un control racional particular, desde arriba, sobre la sociedad. 
+
+Así concepto de racionalización ocupa el lugar de la racionalidad.
+
+Se convierte de ese modo a la sociología en una instancia más de control. Se extiende más allá de mecanismo de producción, penetrando en la conviviencia de los seres humanos y, finalmente, en lo consciente e incosciente de los seres humanos.
+
+Esta tecnocratización del ideal sociológico se da con mayor medida cuanto más cómoda se siente la sociología pura con una técnica. El propio concepto de técnica contiene el matiz de dominación de la naturaleza. Cuando se aplica un método de manera inmediata, irreflexiva a los seres humanos, se traslada igualmente el concepto de dominación de la naturaleza a los seres humanos.
+
+En la actualidad esta dominación sólo se da en sectores particulares y no en la totalidad de la sociedad. Por ejemplo, en métodos para aumentar la productividad a partir de hallazgos sociológicos, creando unas condiciones psicológicas determinadas. Sin embargo, puede surgir la pretensión de extender el control científico de situaciones particulares como la anterior, a la totalidad de la sociedad. 
+
+Lo peculiar de la socilogía es que consiste básicamente en una autoreflexión, pues se analiza a la sociedad desde dentro de sí misma. Los métodos objetivantes [racionalizadores] de la sociedad se aplican a los procesos sociales, compuestos a su vez por personas. De aplicarse en la totalidad, sería ver a la sociedad como si fuera una expresión consciente propia. Sin embargo, dichos métodos racionalizadores debería tener como límite a los individuos vivientes.
+
 ## Consideraciones metodológicas
 En sociología no existe un método único. La antigua exigencia de que sólo lo semejante puede conocer a lo semejante, tiene cierta justificación. La tendencia de la sociología positivista es la separación entre el objeto de estudio y el método a emplear. Para Adorno, sin embargo, lo esencial es que no se puede establecer el método de modo absoluto frente al objeto, sino que el método en la sociología debe de estar en una relación viva con el objeto.
 
@@ -215,6 +228,13 @@ La sociedad, el objeto primordial de estudio para la sociología, no es un objet
 La teoría crítica o dialéctica de la «escuela de frankfurt» prentende  solventar las divergencias teóricas mediante la visibilización de las contradicciones y dificultades sociales.
 
 El método a elegir en cualquier estudio sociológico debe ser determinado en función del objeto a analizar, pues no existe en sociología un método único o ideal.
+
+Para Adorno la sociología debería ser un examen crítico de la sociedad, de lo esencial, de modo que se advierta la carencia de aquello que pretende ser, para detectar así las posibilidades de una transformación. De ahí que haga especial hincapié en la crítica del estudio de fenómenos sin una perspectiva histórica, que permita determinar lo que estos significaban en el pasado, los condicionantes que los han ido tranformando y su potencial evolución. Lo decisivo de la sociología es conocer las tendencias para entender hacia donde se dirige esa totalidad y deducir como se puede intervenir en ella. 
+
+La sociología no obedece a las leyes naturales del "siempre que - entonces" sino a la suya propia del tipo "luego de que esto ha ocurrido y la sociedad se ha desarrollado en esta dirección, entonces probablemente ocurra esto o aquello".
+
+La sociología es una suerte de autoreflexión, desde dentro,a veces con un foco particular, pero generalmente con intención de conocer la totalidad. Por eso la sociología convive estrechamente con la psicología, la economía, la política y la historia; las categorías sociológicas carecen de sentido sin referencia a las de las otras ciencias vecinas.
+
 
 ## Cronología e influencia de autores
 - Hume (1711-1776)

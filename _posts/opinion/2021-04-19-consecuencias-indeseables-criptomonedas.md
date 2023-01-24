@@ -1,9 +1,11 @@
 ---
-title: "Las consecuencias indeseables de las criptomonedas"
-date:   2021-04-19
+title: Las consecuencias indeseables de las criptomonedas
+date: 2021-04-19
 categories: Tecnología
-tags: [Derechos humanos]
+tags:
+  - Derechos humanos
 author_profile: false
+lastmod: 2023-01-24T19:05:31.531Z
 ---
 # Introducción
 Las criptomonedas tienen una larga historia, no obstante se popularizaron tras la creación del Bitcoin a finales de 2008. Este artículo no tiene intención de cubrir dicha historia ni descubrir sus fundamentos (aunque se aclara todo lo imprescindible para comprender sus implicaciones), para ello puedes empezar por la [Wikipedia](https://es.wikipedia.org/wiki/Criptomoneda) y los enlaces que incluyo al final del artículo. Por el contrario, lo que pretendo es articular dentro de mis propias limitaciones algunas de las consecuencias de su adopción. Las mas relevantes, en mi opinión, las relativas al *Medio ambiente* y los *Derechos humanos*.
@@ -14,7 +16,7 @@ Resulta imprescindible en este caso, dejar bien claro que desde mi primer contac
 
 Por último, he de recordarme a mí mismo, que esta entrada en el blog viene inspirada tras escuchar el siguiente, y más que recomendable, [Podcast](https://www.ivoox.com/podcast-intelligence-squared_sq_f1130665_1.html) de [Intelligence Squared](https://www.intelligencesquared.com/) relacionado en general con el cumplimiento de los Derechos humanos, mediante un nuevo modelo, que no depende del Principio de justicia universal - no reconocido en paises como EE.UU., Rusia o China -, sino del desarrollo de leyes nacionales que se han ido promoviendo en distintas naciones. Algunas de las últimas leyes de este tipo están enmarcadas por el caso de Sergei Magnitsky, un abogado ruso que tras exponer casos de corrupción sistémica murió a finales de 2009, tras un año de encarcelación preventiva, donde sufrió continuo maltrato e incluso tortura, presuntamente por las mismas personas que denunciaba.
 
-{% include ivoox-player.html  id=68577406 %}
+{% include /media/podcast-ivoox-player.html  id=68577406 %}
 
 # Usos de las criptomonedas
 Como decía inicialmente, las criptomonedas, y Bitcoin como su caso práctico de vanguardia por antonomasia, han supuesto un nuevo salto tecnológico con grandísimo potencial para el desarrollo en distintos campos, que trataré de desgranar a continuación. 

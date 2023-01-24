@@ -1,11 +1,13 @@
 ---
-title: "Sostenibilidad de los vehículos eléctricos"
+title: Sostenibilidad de los vehículos eléctricos
 date: 2021-12-03
-tags: [Medio Ambiente]
+tags:
+  - Medio Ambiente
+lastmod: 2023-01-24T19:05:31.520Z
 ---
 El presente artículo ha sido inspirado por el siguiente podcast:
 
-{% include ivoox-player.html id=78555823 %}
+{% include /media/podcast-ivoox-player.html id=78555823 %}
 
 ## Introducción
 En la actualidad es habitual encontrarse con debates y artículos que tratan de responder a la pregunta de si **¿Es el coche eléctrico más "verde" o ecológico que los de motor de combustión?**. Se trata de una pregunta simple, pero que esconde una complejidad enorme por varias razones:
