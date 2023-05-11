@@ -5,7 +5,9 @@ categories:
   - Política
   - Medio Ambiente
 draft: false
-lastmod: 2023-05-11T17:45:07.542Z
+tags: propuestas ciudadanía
+toc: false
+lastmod: 2023-05-11T18:08:45.682Z
 ---
 
 La lucha contra las especies exóticas invasoras es un problema complejo que requiere de un análisis profundo y una planificación meticulosa, fundamentada en estándares técnicos y científicos. Es crucial adoptar una visión holística del problema, considerando sus raíces en todos los ámbitos de la sociedad, para desarrollar métodos efectivos.
