@@ -7,12 +7,12 @@ categories:
 draft: false
 tags: propuestas ciudadanía
 toc: false
-lastmod: 2023-05-11T18:08:45.682Z
+lastmod: 2023-05-11T19:41:48.970Z
 ---
 
 La lucha contra las especies exóticas invasoras es un problema complejo que requiere de un análisis profundo y una planificación meticulosa, fundamentada en estándares técnicos y científicos. Es crucial adoptar una visión holística del problema, considerando sus raíces en todos los ámbitos de la sociedad, para desarrollar métodos efectivos.
 
-Si no se implementa un conjunto amplio de soluciones efectivas, los recursos económicos se desperdiciarán y el problema persistirá. Mientras no se controlen las especies exóticas de flora y fauna, su expansión continuará. Por lo tanto, esfuerzos aislados y limitados no serán suficientes.
+Si no se implementa un conjunto amplio de soluciones efectivas, los recursos económicos se desperdiciarán y el problema persistirá. Mientras no se controlen las especies exóticas de flora y fauna, su expansión continuará. Dicha expansión se acelera con el paso del tiempo y el incrremento de las zonas afectadas. Por lo tanto, esfuerzos aislados y limitados no serán suficientes.
 
 El enfoque no debe centrarse únicamente en eliminar las especies invasoras presentes en el medio ambiente. Es necesario también prevenir su introducción. Actualmente, nuestro modelo de gestión es reactivo y debe evolucionar hacia uno preventivo. Los esfuerzos de las administraciones públicas y la sociedad civil deben abordar:
 
