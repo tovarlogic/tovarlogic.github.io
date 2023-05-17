@@ -417,6 +417,24 @@ defaults:
         - bienestar-animal
         - medio-ambiente
         - biodiversidad
+  # Proyecto: Organización politica
+  - scope:
+      path: "_docs/proyectos/organizacion-politica"
+      type: docs
+    values:
+      permalink: :path
+      layout: single
+      sidebar: 
+        title: Proyecto Organización política
+        nav: organizacion-politica
+      toc: true
+      toc_sticky: true 
+      read_time: true
+      show_date: true
+      show_status: true
+      author_profile: false
+      share: false
+      comments: true
   # Frances
   - scope:
       path: "_docs/aprendiendo/frances"
