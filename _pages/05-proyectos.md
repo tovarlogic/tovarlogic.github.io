@@ -6,5 +6,5 @@ toc: false
 
 | Sección                        | Último repaso |
 | ------------------------------ | ------------- |
-| [Colonias felinas](proyectos/colonias-felinas/)        | -              |
-| [Organización política](proyectos/organizacion-politica/)      | -              |
+| [Colonias felinas](colonias-felinas/)        | -              |
+| [Organización política](organizacion-politica/)      | -              |
