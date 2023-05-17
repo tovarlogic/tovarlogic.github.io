@@ -106,8 +106,14 @@ frances:
 organizacion-politica:
   - title: "Motivación del proyecto"
     url: /proyectos/organizacion-politica
-  - title: "Contexto y condiciones iniciales"
-    url: /proyectos/condiciones-iniciales
+  - title: "Inicio"
+    children:
+      - title: "Contexto y condiciones iniciales"
+        url: /proyectos/organizacion-politica/condiciones-iniciales
+      - title: "Ideas preconcebidas"
+        url: /proyectos/organizacion-politica/ideas-preconcebidas
+      - title: "Experimentos y casos previos"
+        url: /proyectos/organizacion-politica/casos-previos
     
 colonias-felinas:
   - title: "Motivación del proyecto"
