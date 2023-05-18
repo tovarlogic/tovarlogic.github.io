@@ -10,6 +10,12 @@ Cornelius Fiddlebone:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tovarlogic"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://social.politicaconciencia.org/@tovarlogic"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tovarlogic"
 
 Billy Rick:
   name        : "Billy Rick"

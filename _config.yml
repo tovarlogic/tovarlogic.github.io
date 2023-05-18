@@ -106,10 +106,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/tovarlogic"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://social.politicaconciencia.org/@tovarlogic"
 
 # Site Footer
 footer:
@@ -122,7 +125,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/tovarlogic"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -132,6 +135,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://social.politicaconciencia.org/@tovarlogic"
 
 
 # Reading Files
@@ -402,9 +408,6 @@ defaults:
         - Política
       permalink: :path
       layout: single
-      sidebar: 
-        title: Sistema y Organización política
-        nav: organizacion-politica
       toc: true
       toc_sticky: true 
       read_time: true
