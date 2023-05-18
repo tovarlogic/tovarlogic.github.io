@@ -346,6 +346,9 @@ defaults:
       serie: razonamiento
       categories:
         - Pensamiento
+      tags:
+        - Razonamiento
+        - Pensamiento Crítico
       permalink: /blog/razonamiento/:title
       layout: single
       toc: true
@@ -397,16 +400,15 @@ defaults:
       author_profile: false
       share: true
       comments: true
-  # Serie: Análisis de politica
+  # Serie: politica
   - scope:
       path: "_posts/opinion/politica"
-      type: docs
+      type: posts
     values:
       serie: politica
       permalink: /blog/politica/:title
       categories:
         - Política
-      permalink: :path
       layout: single
       toc: true
       toc_sticky: true 

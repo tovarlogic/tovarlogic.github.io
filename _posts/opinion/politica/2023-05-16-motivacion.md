@@ -1,8 +1,9 @@
 ---
 title: Motivación
 permalink: /blog/politica/
+serie_index: true
 date: 2023-05-16
-lastmod: 2023-05-18T13:05:50.840Z
+lastmod: 2023-05-18T13:10:50.204Z
 status: approved
 toc: false
 ---
