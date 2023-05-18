@@ -1,4 +1,4 @@
-{%- unless post.hidden or (page.serie and !page.serie_index) -%}
+{%- unless post.hidden or (post.serie and post.serie_index == nil) -%}
   {% if post.header.teaser %}
     {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
   {% else %}
