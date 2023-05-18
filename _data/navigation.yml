@@ -104,20 +104,22 @@ frances:
       url: /aprendiendo/frances/vocabulario/animaux
 
 politica:
-  - title: "Sobre Política"
-    url: /blog/politica
-  - title: "Análisis"
+  - title: "Política"
     children:
-      - title: "Contexto y condiciones iniciales"
-        url: /blog/politica/contexto
-      - title: "Retos de futuro"
-        url: /blog/politica/retos-futuros
-      - title: "Ideas preconcebidas"
-        url: /blog/politica/ideologia-previa
-  - title: "Propuestas"
-    children:
-      - title: "Experimentos y casos previos"
-        url: /blog/politica/casos-previos
+      - title: "Motivación y objetivos"
+        url: /blog/politica
+      - title: "Análisis"
+        children:
+          - title: "Contexto y condiciones iniciales"
+            url: /blog/politica/contexto
+          - title: "Retos de futuro"
+            url: /blog/politica/retos-futuros
+          - title: "Ideas preconcebidas"
+            url: /blog/politica/ideologia-previa
+      - title: "Propuestas"
+        children:
+          - title: "Experimentos y casos previos"
+            url: /blog/politica/casos-previos
     
 colonias-felinas:
   - title: "Motivación del proyecto"
