@@ -41,9 +41,10 @@ civilizaciones:
 
 politica:
   - title: "Análisis"
+    url: /blog/politica/
     children:
       - title: "Motivación y objetivos"
-        url: /blog/politica
+        url: /blog/politica/motivacion
       - title: "Contexto y condiciones iniciales"
         url: /blog/politica/contexto
       - title: "Retos de futuro"

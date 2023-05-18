@@ -1,14 +1,12 @@
 ---
-title: Análisis de la política
-permalink: /blog/politica/
+title: Analizando la política
 serie_index: true
 date: 2023-05-16
-lastmod: 2023-05-18T16:21:42.343Z
+lastmod: 2023-05-18T19:36:36.072Z
 toc: false
 ---
 
-## Objetivo
-
+## Introducción
 Como toda construcción humana, no existe un único ideal de Democracia. En cualquier caso, parece razonable pensar que cuanto mayor sea la capacidad de un pueblo para discernir sobre sus propios intereses, tanto más eficaz será el sistema a la hora de intentar asegurarlos.
 
 Cada sistema tiene sus propias debilidades. En la Democracia posiblemente sea la diversidad de intereses y prioridades de la ciudadanía. No todos queremos lo mismo. Es un sistema competitivo, en el que se solucionan los conflictos dando la "razón" a la mayoría.
@@ -32,7 +30,10 @@ Finalmente, el propio sistema político de representación actual establece indi
 
 Algunos problemas o púntos débiles comentados son propios de toda democracia, y no pueden ser subsanados completamente, menos aún si sólo se tiene en cuenta el sistema electoral y se ignoran otras cuestiones estructurales de las sociedades. Aún así creemos que aún hay margen de mejora en el propio sistema político. 
 
-Nuestro objetivo aquí es proponer posibles soluciones para solventar algunos problemas que hemos resumido muy genéricamente en los párrafos anteriores. No son cuestiones totalmente originales, ya hay casos de experimentos que han puesto en práctica algunas de estas ideas con resultados mixtos. Otras, sin embargo, no tenemos constancia de que hayan sido probadas. Buscamos tres mejoras concretas:
+## Objetivo del análisis
+Nuestro objetivo aquí es proponer posibles soluciones para solventar algunos problemas que hemos resumido muy genéricamente en los párrafos anteriores y revisaremos en los sigiuentres capítulos.
+
+Las propuestas no son totalmente originales, ya hay casos de experimentos que han puesto en práctica algunas de estas ideas con resultados mixtos. Otras, sin embargo, no tenemos constancia de que hayan sido probadas. Buscamos tres mejoras concretas:
 1. Mejorar la capacidad de la ciudadanía para tomar deciciones informadas.
 1. Incentivar una mayor participación ciudadana en la toma de deciciones que nos aproxime a una democracia más directa.
 1. Minimizar los incentivos "negativos", aquellos que fomenten comportamientos contrarios al "bien común".
