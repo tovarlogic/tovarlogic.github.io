@@ -295,6 +295,20 @@ defaults:
       toc_sticky: true
       post_pagination: false
       permalink: blog/:title
+  # blog
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      related: false
+      post_pagination: false
+      show_date: true
+      read_time: true
+      show_status: true
+      comments: true
+      share: true
   # libros
   - scope:
       path: "_posts/libros"
@@ -307,12 +321,21 @@ defaults:
       type: posts
     values:
       type: opinion
+      permalink: opinion/:title
   # conocimiento
   - scope:
       path: "_posts/conocimiento"
       type: posts
     values:
       type: conocimiento
+      permalink: conocimiento/:title
+  # Notas
+  - scope:
+      path: "_posts/notas"
+      type: posts
+    values:
+      type: notas
+      permalink: notas/:title
   # _pages
   - scope:
       path: "_pages"
@@ -322,22 +345,7 @@ defaults:
       author_profile: false
       related: false
       post_pagination: false
-  # Notas
-  - scope:
-      path: "_docs/notas"
-      type: docs
-    values:
-      layout: single
-      author_profile: false
-      related: false
-      post_pagination: false
-      show_date: true
-      read_time: true
-      show_status: true
-      comments: true
-      share: true
-      toc: false
-      permalink: notas/:title
+
   # Serie: Razonamiento
   - scope:
       path: "_posts/conocimiento/razonamiento"
@@ -418,9 +426,9 @@ defaults:
       author_profile: false
       share: true
       comments: true
-  # Proyecto: Colonias-felinas
+  # Colonias-felinas
   - scope:
-      path: "_docs/proyectos/colonias-felinas"
+      path: "_posts/colonias-felinas"
       type: docs
     values:
       permalink: :path
@@ -446,7 +454,7 @@ defaults:
         - biodiversidad
   # Frances
   - scope:
-      path: "_docs/aprendiendo/frances"
+      path: "_docs/frances"
       type: docs
     values:
       permalink: :path

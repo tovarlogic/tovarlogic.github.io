@@ -1,7 +1,7 @@
 ---
 title: Frances
-permalink: /aprendiendo/frances/
-lastmod: 2022-09-04T11:40:18.260Z
+permalink: /frances/
+lastmod: 2023-05-18T15:08:48.456Z
 ---
 
 ## Gramática

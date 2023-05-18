@@ -1,6 +1,6 @@
 ---
 title: Aprendiendo
-permalink: /aprendiendo/
+permalink: /
 lastmod: 2022-06-06T21:08:03.578Z
 layout: single
 ---

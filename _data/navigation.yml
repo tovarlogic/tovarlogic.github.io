@@ -83,25 +83,25 @@ frances:
   - title: "Gramática"
     children:
       - title: "Adverbios"
-        url: /aprendiendo/frances/gramatica/adverbios
+        url: /frances/gramatica/adverbios
       - title: "Pronombres"
-        url: /aprendiendo/frances/gramatica/pronombres
+        url: /frances/gramatica/pronombres
       - title: "Verbos"
-        url: /aprendiendo/frances/gramatica/verbos
+        url: /frances/gramatica/verbos
       - title: "Adjetivos"
-        url: /aprendiendo/frances/gramatica/adjetivos
+        url: /frances/gramatica/adjetivos
       - title: "Preposiciones"
-        url: /aprendiendo/frances/gramatica/preposiciones
+        url: /frances/gramatica/preposiciones
       - title: "Artículos"
-        url: /aprendiendo/frances/gramatica/articulos
+        url: /frances/gramatica/articulos
   - title: "Vocabulario"  
     children:
     - title: "Saludos y formas de cortesía"
-      url: /aprendiendo/frances/vocabulario/salutations
+      url: /frances/vocabulario/salutations
     - title: "Números, fechas y horas"
-      url: /aprendiendo/frances/vocabulario/numeros-fecha-hora
+      url: /frances/vocabulario/numeros-fecha-hora
     - title: "Animales"
-      url: /aprendiendo/frances/vocabulario/animaux
+      url: /frances/vocabulario/animaux
 
 politica:
   - title: "Política"
