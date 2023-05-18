@@ -38,7 +38,23 @@ civilizaciones:
         url: /blog/civilizaciones/Grecia-Antigua
   - title: "Asia"
   - title: "America"
-          
+
+politica:
+  - title: "Análisis"
+    children:
+      - title: "Motivación y objetivos"
+        url: /blog/politica
+      - title: "Contexto y condiciones iniciales"
+        url: /blog/politica/contexto
+      - title: "Retos de futuro"
+        url: /blog/politica/retos-futuros
+      - title: "Ideas preconcebidas"
+        url: /blog/politica/ideologia-previa
+  - title: "Propuestas"
+    children:
+      - title: "Experimentos y casos previos"
+        url: /blog/politica/casos-previos
+
 alimentacion:
   - title: "Metabolismo"
     children:
@@ -102,24 +118,6 @@ frances:
       url: /frances/vocabulario/numeros-fecha-hora
     - title: "Animales"
       url: /frances/vocabulario/animaux
-
-politica:
-  - title: "Política"
-    children:
-      - title: "Motivación y objetivos"
-        url: /blog/politica
-      - title: "Análisis"
-        children:
-          - title: "Contexto y condiciones iniciales"
-            url: /blog/politica/contexto
-          - title: "Retos de futuro"
-            url: /blog/politica/retos-futuros
-          - title: "Ideas preconcebidas"
-            url: /blog/politica/ideologia-previa
-      - title: "Propuestas"
-        children:
-          - title: "Experimentos y casos previos"
-            url: /blog/politica/casos-previos
     
 colonias-felinas:
   - title: "Motivación del proyecto"

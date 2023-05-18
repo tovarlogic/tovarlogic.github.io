@@ -1,10 +1,9 @@
 ---
-title: Motivación
+title: Análisis de la política
 permalink: /blog/politica/
 serie_index: true
 date: 2023-05-16
-lastmod: 2023-05-18T13:10:50.204Z
-status: approved
+lastmod: 2023-05-18T16:21:42.343Z
 toc: false
 ---
 
