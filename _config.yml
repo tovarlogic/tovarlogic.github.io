@@ -391,6 +391,28 @@ defaults:
       author_profile: false
       share: true
       comments: true
+  # Serie: Análisis de politica
+  - scope:
+      path: "_posts/opinion/sistema-y-organizacion-politica"
+      type: docs
+    values:
+      serie: politica
+      permalink: /blog/politica/:title
+      categories:
+        - Política
+      permalink: :path
+      layout: single
+      sidebar: 
+        title: Sistema y Organización política
+        nav: organizacion-politica
+      toc: true
+      toc_sticky: true 
+      read_time: true
+      show_date: true
+      show_status: true
+      author_profile: false
+      share: true
+      comments: true
   # Proyecto: Colonias-felinas
   - scope:
       path: "_docs/proyectos/colonias-felinas"
@@ -417,27 +439,6 @@ defaults:
         - bienestar-animal
         - medio-ambiente
         - biodiversidad
-  # Serie: Organización politica
-  - scope:
-      path: "_posts/opinion/sistema-y-organizacion-politica"
-      type: docs
-    values:
-      serie: politica
-      categories:
-        - Política
-      permalink: :path
-      layout: single
-      sidebar: 
-        title: Sistema y Organización política
-        nav: organizacion-politica
-      toc: true
-      toc_sticky: true 
-      read_time: true
-      show_date: true
-      show_status: true
-      author_profile: false
-      share: false
-      comments: true
   # Frances
   - scope:
       path: "_docs/aprendiendo/frances"
