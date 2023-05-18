@@ -1,8 +1,7 @@
 ---
 title: Retos de futuro
-serie: politica
 date: 2023-05-18
-lastmod: 2023-05-18T13:00:12.857Z
+lastmod: 2023-05-18T13:06:06.198Z
 status: open
 ---
 

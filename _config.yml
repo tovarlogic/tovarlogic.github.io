@@ -399,7 +399,7 @@ defaults:
       comments: true
   # Serie: Análisis de politica
   - scope:
-      path: "_posts/opinion/sistema-y-organizacion-politica"
+      path: "_posts/opinion/politica"
       type: docs
     values:
       serie: politica

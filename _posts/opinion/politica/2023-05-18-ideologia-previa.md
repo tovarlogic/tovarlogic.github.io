@@ -1,8 +1,7 @@
 ---
 title: Ideas preconcebidas
-serie: politica
 date: 2023-05-18
-lastmod: 2023-05-18T13:00:08.245Z
+lastmod: 2023-05-18T13:06:00.655Z
 status: open
 ---
 
