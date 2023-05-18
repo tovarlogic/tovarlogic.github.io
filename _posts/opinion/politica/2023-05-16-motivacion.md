@@ -2,9 +2,8 @@
 title: Motivación
 permalink: /blog/politica/
 date: 2023-05-16
-lastmod: 2023-05-18T10:05:45.166Z
-status: open
-toc: false
+lastmod: 2023-05-18T10:23:08.603Z
+status: approved
 ---
 
 ## Objetivo

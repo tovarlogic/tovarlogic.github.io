@@ -1,9 +1,8 @@
 ---
-title: Contexto y condiciones iniciales
-date: 2023-05-17
-lastmod: 2023-05-18T10:06:48.155Z
+title: Retos de futuro
+date: 2023-05-18
+lastmod: 2023-05-18T10:23:56.271Z
 status: open
-toc: true
 ---
 
 ### Retos futuros más próximos
