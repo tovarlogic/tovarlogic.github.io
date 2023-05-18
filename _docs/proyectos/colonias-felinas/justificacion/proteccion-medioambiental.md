@@ -1,12 +1,12 @@
 ---
 title: Protección medioambiental
 date: 2022-06-15
-lastmod: 2022-07-07T11:31:57.176Z
+lastmod: 2023-05-18T10:31:50.917Z
 definitions:
   - derecho-internacional
   - biodiversidad
   - ecologia
-status: pending_approval
+status: pending
 ---
 Una vez expuestas las motivaciones de la idea que pretendemos desarrollar, a modo de proyecto, resulta indispensable adquirir un conocimiento suficiente sobre las cuestiones fundamentales. 
 

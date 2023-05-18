@@ -4,8 +4,8 @@ date: 2022-06-15
 definitions:
   - derecho-internacional
   - bienestar-animal
-status: pending_approval
-lastmod: 2022-06-19
+status: pending
+lastmod: 2023-05-18T10:31:50.921Z
 ---
 En el presente apartado se espera ilustrar tanto los sentimientos colectivos y consideraciones éticas como las obligaciones y derechos que establecen la legislación comunitaria, nacional y autonómica en lo relativo al Bienestar Animal y a la Biodiversidad.
 
