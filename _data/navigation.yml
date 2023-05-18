@@ -104,16 +104,20 @@ frances:
       url: /aprendiendo/frances/vocabulario/animaux
 
 organizacion-politica:
-  - title: "Motivación del proyecto"
-    url: /proyectos/organizacion-politica
-  - title: "Inicio"
+  - title: "Sobre Política"
+    url: /blog/politica
+  - title: "Análisis"
     children:
       - title: "Contexto y condiciones iniciales"
-        url: /proyectos/organizacion-politica/condiciones-iniciales
+        url: /blog/politica/contexto
+      - title: "Retos de futuro"
+        url: /blog/politica/retos-futuros
       - title: "Ideas preconcebidas"
-        url: /proyectos/organizacion-politica/ideas-preconcebidas
+        url: /blog/politica/ideologia-previa
+  - title: "Propuestas"
+    children:
       - title: "Experimentos y casos previos"
-        url: /proyectos/organizacion-politica/casos-previos
+        url: /blog/politica/casos-previos
     
 colonias-felinas:
   - title: "Motivación del proyecto"

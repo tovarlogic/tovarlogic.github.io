@@ -1,8 +1,8 @@
 ---
 title: Motivación
-permalink: /proyectos/organizacion-politica/
-date: 2023-05-17
-lastmod: 2023-05-17T11:55:01.151Z
+permalink: /blog/politica/
+date: 2023-05-16
+lastmod: 2023-05-18T10:05:45.166Z
 status: open
 toc: false
 ---
@@ -26,7 +26,7 @@ El modelo de democracia actual se basa en la representación. Salvo algunas exce
 
 Ahora bien, este modelo también introduce algunos problemas. El más notorio, en mi opinión, es la dificultad para asegurar una representación real. Una vez elegidos los representantes, estos tienen práctica independencia en el sentido de sus votos (salvo por la imposición de los partidos). Es inevitable que en ocasiones su voto no coincida con lo que sus electores habrían votado. 
 
-No todo puede saberse de antemano. Aunque existan programas electorales, los detalles de las iniciativas legislativas pueden ser argumento suficiente como para que se vote lo contrario de lo que se esperaría ***a priori***. Ningún programa electoral puede ser suficientemente detallado como para eliminar toda incertidumbre. También entran en juego la honestidad o capacidad de los representantes. Incluso los propios partídos políticos, en cierta medida, pueden ejercer presión para determinar el sentido del voto de sus miembros y que estos no sean fieles a sus propias convicciones o promesas electorales. Siempre surjirán cuestiones de las que no se ha hablado en campaña electoral y no se encuentran en los programas electorales, en esos casos los representantes emplearán su "mejor criterio". 
+No todo puede saberse de antemano. Aunque existan programas electorales, los detalles de las iniciativas legislativas pueden ser argumento suficiente como para que se vote lo contrario de lo que se esperaría *a priori*. Ningún programa electoral puede ser suficientemente detallado como para eliminar toda incertidumbre. También entran en juego la honestidad o capacidad de los representantes. Incluso los propios partídos políticos, en cierta medida, pueden ejercer presión para determinar el sentido del voto de sus miembros y que estos no sean fieles a sus propias convicciones o promesas electorales. Siempre surjirán cuestiones de las que no se ha hablado en campaña electoral y no se encuentran en los programas electorales, en esos casos los representantes emplearán su "mejor criterio". 
 
 Finalmente, el propio sistema político de representación actual establece indirectamente una serie de incentivos que pueden favorecer que las decisiones de los políticos no se alineen ni con la opinión generalizada de su electorado, ni con la del bien común. En ocasiones estos incentivos hacen que se comporten de manera egoista, parcial, populista, e incluso corrupta.
 

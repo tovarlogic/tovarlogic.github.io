@@ -417,15 +417,18 @@ defaults:
         - bienestar-animal
         - medio-ambiente
         - biodiversidad
-  # Proyecto: Organización politica
+  # Serie: Organización politica
   - scope:
-      path: "_docs/proyectos/organizacion-politica"
+      path: "_posts/opinion/sistema-y-organizacion-politica"
       type: docs
     values:
+      serie: politica
+      categories:
+        - Política
       permalink: :path
       layout: single
       sidebar: 
-        title: Proyecto Organización política
+        title: Sistema y Organización política
         nav: organizacion-politica
       toc: true
       toc_sticky: true 
