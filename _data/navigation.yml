@@ -40,8 +40,7 @@ civilizaciones:
   - title: "America"
 
 politica:
-  - title: "Análisis"
-    url: /blog/politica/
+  - title: "Introducción"
     children:
       - title: "Motivación y objetivos"
         url: /blog/politica/motivacion
@@ -51,8 +50,14 @@ politica:
         url: /blog/politica/retos-futuros
       - title: "Ideas preconcebidas"
         url: /blog/politica/ideologia-previa
+  - title: "Retos y problemas"
+
   - title: "Propuestas"
     children:
+      - title: "Política de Calidad"
+        url: /blog/politica/politica-calidad
+      - title: "Equipos capaces"
+        url: /blog/politica/equipos-capaces
       - title: "Experimentos y casos previos"
         url: /blog/politica/casos-previos
 

@@ -2,8 +2,9 @@
 title: Analizando la política
 serie_index: true
 date: 2023-05-16
-lastmod: 2023-05-18T19:36:36.072Z
+lastmod: 2023-05-19T18:32:07.976Z
 toc: false
+draft: true
 ---
 
 ## Introducción
