@@ -1,7 +1,7 @@
 ---
 title: Política de calidad
 date: 2023-05-19
-lastmod: 2023-05-19T18:41:05.289Z
+lastmod: 2023-05-20T16:40:43.077Z
 toc: false
 draft: true
 ---
@@ -32,5 +32,3 @@ La última y peor opción, sin embargo, sería, no hacer nada. Dilatar los debat
 Lo más deseable para cualquier estado es maximizar las opciones de que la política se encargue incansablemente de identificar problemas existentes y previsibles; diseñar ágilmente soluciones eficaces acordadas con la mayoría (fuerzas políticas y resto de agentes sociales), ejecutarlas sin dilación y controlar si los resultados son los esperados para, en caso contrario, adaptarlas. Esto no es otra cosa que una política de Calidad. 
 
 Si se es responsable, esta es la única forma de hacer las cosas. Hacerlas bien.
-
-No decimos nada nuevo, este enfoque proviene de los estándares de calidad internacionales. En concreto nos hemos referido al modelo EFQM.

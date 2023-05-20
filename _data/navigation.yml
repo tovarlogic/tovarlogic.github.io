@@ -52,6 +52,8 @@ politica:
         url: /blog/politica/contexto
       - title: "Retos de futuro"
         url: /blog/politica/retos-futuros
+      - title: "Política de Calidad"
+        url: /blog/politica/politica-calidad
   - title: "Mejoras"
     children:
       - title: "Partidos de Calidad"

@@ -2,7 +2,7 @@
 title: Por una política mejor
 serie_index: true
 date: 2023-05-16
-lastmod: 2023-05-20T11:47:31.140Z
+lastmod: 2023-05-20T16:41:45.246Z
 toc: false
 draft: true
 ---
@@ -39,4 +39,5 @@ Las propuestas no son totalmente originales, ya hay casos de experimentos que ha
 1. Incentivar una mayor participación ciudadana en la toma de deciciones que nos aproxime a una democracia más directa.
 1. Minimizar los incentivos "negativos", aquellos que fomenten comportamientos contrarios al "bien común".
 
-En cualquier caso, una Democracia "fuerte" no es el fin, sino únicamente el medio. Lo que perseguimos es en realidad encontrar un sistema político más adecuado a los tiempos actuales que nos permita evolucionar hacia una sociedad más libre y justa. Una sociedad más resiliente y adaptable. Una más amable con las personas y más responsable con el medio que nos rodea.
+En cualquier caso, una Democracia "fuerte" no es el fin, sino únicamente el medio. Lo que perseguimos es en realidad encontrar un sistema político más adecuado a los tiempos actuales que nos permita evolucionar hacia una sociedad más libre y justa. Una sociedad más resiliente y adaptable. Una más amable con las personas y más responsable con el medio que nos rodea. Buscamos una política de calidad.
+
