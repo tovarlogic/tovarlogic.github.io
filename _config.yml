@@ -409,7 +409,7 @@ defaults:
       path: "_posts/colonias-felinas"
       type: posts
     values:
-      permalink: /blog/:path
+      permalink: /blog/colonias-felinas/:title
       sidebar: 
         title: Proyecto Colonias Felinas
         nav: colonias-felinas
