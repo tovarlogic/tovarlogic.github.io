@@ -10,7 +10,7 @@ locale                   : "es-ES"
 title                    : "TovarLogic"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Kinsay"
+name                     : "TovarLogic"
 description              : "Personal cultural and knowledge body."
 url                      :  "https://TovarLogic.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -36,7 +36,7 @@ google:
   instant_search         : # false (default), true
 
 comments:
-  active: true
+  active: false
   max_replies_level: 4
   provider: "staticman"
   staticman:
@@ -407,7 +407,7 @@ defaults:
   # Colonias-felinas
   - scope:
       path: "_posts/colonias-felinas"
-      type: docs
+      type: posts
     values:
       permalink: /blog/:path
       sidebar: 
