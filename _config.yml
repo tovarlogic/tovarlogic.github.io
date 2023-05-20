@@ -90,11 +90,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Este es un espacio destinado a uso personal, aunque abierto, para gestionar mi proceso de aprendizaje continuo."
   location         : "Somewhere"
-  email            :
+  email            : "tovarlogic[@]gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kinsay+tovarlogic@gmail.com"
+      url: "mailto:tovarlogic[@]gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://tovarlogic.github.io/"
@@ -117,6 +117,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tovarlogic[@]gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/tovarlogic"
@@ -289,7 +292,7 @@ defaults:
       read_time: true
       show_status: true
       comments: true
-      share: true
+      share: false
       related: false
       toc: true
       toc_sticky: true
@@ -308,7 +311,7 @@ defaults:
       read_time: true
       show_status: true
       comments: true
-      share: true
+      share: false
   # libros
   - scope:
       path: "_posts/libros"
@@ -358,14 +361,8 @@ defaults:
         - Razonamiento
         - Pensamiento Crítico
       permalink: /blog/razonamiento/:title
-      layout: single
       toc: true
       toc_sticky: true 
-      read_time: true
-      show_date: true
-      author_profile: false
-      share: true
-      comments: true
   # Serie: cambio-climatico
   - scope:
       path: "_posts/conocimiento/cambio-climatico"
@@ -379,14 +376,8 @@ defaults:
         - cambio-climatico
         - medio-ambiente
       permalink: /blog/cambio-climatico/:title
-      layout: single
       toc: true
       toc_sticky: true 
-      read_time: true
-      show_date: true
-      author_profile: false
-      share: true
-      comments: true
   # Serie: civilizaciones
   - scope:
       path: "_posts/conocimiento/civilizaciones"
@@ -400,14 +391,8 @@ defaults:
         - cambio-climatico
         - medio-ambiente
       permalink: /blog/civilizaciones/:title
-      layout: single
       toc: true
       toc_sticky: true 
-      read_time: true
-      show_date: true
-      author_profile: false
-      share: true
-      comments: true
   # Serie: politica
   - scope:
       path: "_posts/opinion/politica"
@@ -417,33 +402,19 @@ defaults:
       permalink: /blog/politica/:title
       categories:
         - Política
-      layout: single
       toc: true
       toc_sticky: true 
-      read_time: true
-      show_date: true
-      show_status: true
-      author_profile: false
-      share: true
-      comments: true
   # Colonias-felinas
   - scope:
       path: "_posts/colonias-felinas"
       type: docs
     values:
       permalink: :path
-      layout: single
       sidebar: 
         title: Proyecto Colonias Felinas
         nav: colonias-felinas
       toc: true
       toc_sticky: true 
-      read_time: true
-      show_date: true
-      show_status: true
-      author_profile: false
-      share: false
-      comments: true
       categories:
         - Medio Ambiente
       acronyms:
