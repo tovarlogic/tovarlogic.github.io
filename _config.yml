@@ -271,7 +271,7 @@ compress_html:
 collections:
   docs:
     output: true
-    permalink: /:collection/:path/
+    permalink: /docs/:collection/:path/
   recetas:
     output: true
     permalink: /:collection/:path/
@@ -409,7 +409,7 @@ defaults:
       path: "_posts/colonias-felinas"
       type: docs
     values:
-      permalink: :path
+      permalink: /blog/:path
       sidebar: 
         title: Proyecto Colonias Felinas
         nav: colonias-felinas
@@ -428,7 +428,6 @@ defaults:
       path: "_docs/frances"
       type: docs
     values:
-      permalink: :path
       serie: frances
       layout: single
       read_time: false

@@ -1,8 +1,9 @@
 ---
 title: Motivación
-permalink: /proyectos/colonias-felinas/
+permalink: /blog/colonias-felinas/
+serie_index: true
 date: 2022-06-14
-lastmod: 2022-06-17
+lastmod: 2023-05-20T17:05:53.610Z
 status: approved
 toc: false
 ---
