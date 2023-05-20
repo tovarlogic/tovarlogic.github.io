@@ -1,7 +1,7 @@
 ---
 title: Partidos de calidad
 date: 2023-05-19
-lastmod: 2023-05-20T12:03:30.977Z
+lastmod: 2023-05-20T16:37:50.410Z
 draft: true
 ---
 
@@ -21,7 +21,7 @@ Desde un punto de vista político, simplificando mucho la cuestión, podemos dec
 
 Por tanto, una política de Calidad será aquella cuyos procesos aseguren que sus productos cumplan los requisitos de diseño (que tengan los efectos deseados) y cumplan también las expectativas de la ciudadanía.
 
-## Gestión de expectativas
+### Gestión de expectativas
 
 Queda claro que la Calidad es un concepto muy subjetivo pues su consecusión depende de las expectativas *a priori* y de la percepción de satisfacción de dichas expectativas *a posteriori*.
 
@@ -62,7 +62,13 @@ Del mismo modo, se deben de emplear los medios a sudisposición para que los men
 
 De conseguir lo anterior se lograría una comunicación Responsable y de Calidad.
 
-## Equipos competentes
+Como parte de la comunicación se podría considerar la Transparencia. Cuanta más información sobre las actividades de partidos y políticos exista, más capacidad habrá para valorar sus acciones, sus decisiones y sus motivaciones. No vemos razones de peso para argumentar que exista información, cualquier tipo de información no disponible públicamente. Incluso la relativa a las propias actividades y procesos internos. Especialmente esos. Mucho menos las actividades y procesos públicos, salvo por razones de seguridad nacional. 
+
+## Precursores de la calidad
+
+Hay una serie de factores que influyen en la capacidad de una organización para asegurar la calidad. Quizás sea mejor verlos como requisitos necesarios que deben de cumplirse. A continuación se detallan los más relevantes.
+
+### Equipos competentes
 
 Tras los apartados anteriores creemos ha quedado suficientemente clara la necesidad de que la Política ha de ser de Calidad y Responsable, y lo que esto significa. El estándar de oro implica la creación procedimientos, servicios y productos de responsables y de calidad.
 
@@ -84,10 +90,64 @@ En el pasado, y para mi sorpresa, se ha llegado a tildar de manera despectiva a 
 
 Creemos que el idealismo tiene que ir de la mano del utilitarismo. Se tienen que compensar. Ninguna sociedad es un modelo perfecto en el que aplicar ideas puras y esperar que funcionen como es debido. Hay que adaptarlas para que sus resultados sean los esperados. Toda teoría social y económica son "simples narrativas" hasta que se demuestre lo contrario. Hay que comprobar su veracidad mediante la práctica. 
 
-Por eso, debemos huir de todo pensamiento "radical" por muy sugerente que nos pueda parecer. Toda medida política tiene el potencial de manifestarse en diversidad de areas, y sus efectos, a veces inesperados, tener impacto en cientos de miles, si no millones, de personas. Por responsabilidad hay que ser comedidos, y basar todo plan de implementación en la iteración. Es decir, llevar a cabo pequeños y, aún así, relevantes cambios de manera secuencial. Antes de cada nueva medida, tendremos que habernos asegurado que las anteriores han surtido los efectos deseados. 
+Por eso, debemos huir de todo pensamiento extremo por muy sugerente que nos pueda parecer. Se debe de tener una meta lejana en mente, pero hemos de actuar de poco a poco. Toda medida política tiene el potencial de manifestarse en diversidad de areas, y sus efectos, a veces inesperados, tener impacto en cientos de miles, si no millones, de personas. Por responsabilidad hay que ser comedidos, y basar todo plan de acción en la iteración. En pequeños cambios relevantes secuenciados en el tiempo. Antes de cada nueva medida, tendremos que habernos asegurado que las anteriores han surtido los efectos deseados. 
 
 Para ello solo vemos una vía posible, aprovecharnos del conocimiento generado por el método científico, la técnica y la experiencia. Seguir nuestras ideas con recelo. Mantener una actitud crítica con respecto a nuestras propias creencias y obligarnos continuamente a ponerlas a prueba. 
 
-## Metodología y sistematización
+### Metodología y sistematización
 
-## Independencia
+Hay que minimizar la improvisación. No porque haya que limitar la creatividad, todo lo contrario, sino porque no podemos esperar resultados consistentes a partir de métodos de trabajo distintos y elegidos de manera casual. No sólo se trata de propósito y trabajo duro, sino de inteligencia, de optimización de recursos, de un sistema de trabajo que reduzca la posibilidad de error y aleatoriedad. 
+
+Con todo lo anterior hemos ido adelantanto en que se basaría dicha metodología sistemática. En realidad, no se trata de nada original. Básicamente es la aplicación de los principios de gestión de proyectos aplicados a la política. Al fin y al cabo, para cada legislatura los partidos crean sus programas electorales donde describen los distintos proyectos políticos que pretenden llevar a cabo en caso de alcanzar el poder.
+
+Si aplicamos los conceptos anteriores (y alguno adicional que no hemos comentado) para llevarlos a la práctica, obtendríamos algo así como una lista de requisitos que debe de cumplir la metodología de trabajo de todas las áreas de un partido político, es decir, aquellos que siguien los principios de:
+- Agilidad.
+- Gestión de la Calidad.
+- Gestión del Riesgo .
+- Colaboración interna horizontal e integración de los proyectos en un programa coherente (buscando sinergias).
+- Colaboración con todo tipo de agentes sociales.
+- Gestión de la comunicación
+- Gestión de los recursos
+
+### Independencia
+
+Cuando tratamos la independencia lo hacemos desde el punto de vista en el que todo político y partido está obligado moralmente a cumplir sus promesas electorales y a ejercer sus funciones libre de presiones externas. Cada representante debería ser absolutamente independiente a la hora de tomar sus decisiones.
+
+Tradicionalmente se habla de la independencia económica, pero hay que dejar claro desde ya, que los partidos y políticos pueden recibir solicitudes de favores o presiones para actuar de una determinada manera sin necesidad de existir una relación económica previa. La financiación no es la única vía de presión o influencia, existen otras mucho más mundanas como relaciones personales, laborales y un larguísimo etcétera. La imaginación es el límite.
+
+En cualquier caso, si no existe absoluta independencia es probable que en algún momento, alguna de las personas o entidades capaces de influir en el partido o sobre políticos individuales puedan pedir que en ciertos casos se actúe de una manera concreta. Si se ceden a estas presiones, es posible que el resultado vaya en contra de los intereses generales, eso no es bueno. Si no es bueno, menos aún podrá ser de calidad.
+
+La independencia absoluta es imposible de conseguir. Se puede, no obstante, llevar a cabo medidas para maximizar la necesaria independencia y controles para mitigar los efectos indeseados de la influencia de intereses externos.
+
+#### Independencia económica
+
+Hemos tratado la cuestión de la importancia de crear (y mantener) equipos de trabajo competentes. El alcance de cada proyecto, su duración y los recursos humanos disponibles están interelacionados y todos ellos dependen directamente del nivel de recursos económicos de que se disponga.
+
+Como en toda competición, los distintos equipos, entendiendo como tales a los diferentes partidos políticos han de jugar bajo las mismas reglas. Las reglas de financiación han de ser tales que se asegure cierta igualdad de condiciones iniciales y proporcionalidad en base a su representatividad. 
+
+El sistema electoral español hace bastante buen trabajo a la hora de asegurar una financiación pública que asegure la operatividad de todos los partidos así como su independencia de otros poderes. La teoría es que si la gran mayoría de su financiación proviene de fuesntes públicas a partir del número de votos recibidos, menos dependencia económica tendrán de otras posibles fuentes de financiación privadas que puedan solicitar cierta reciprocidad. Es decir, que pidan favores a cambio del dinero donado.
+
+ dentro del partido. Algunos de ellos son:
+- Independencia económica:
+    - Maximizar financiación pública.
+    - Minimizar financiación privada. Limitar la cantidad y número de donaciones privadas de una misma persona física o jurídica. 
+    - Absoluta transparencia mediante la publicación de las donaciones privadas.
+- Control de conflicto de intereses de los miembros del partido según sus tareas. 
+- Limitación
+
+#### Independencia del partido
+
+Cuando un partido obtiene el gobierno u alguno de sus miembros ocupa un puesto público de representación, incluso en la oposición, se genera de facto un conflicto de intereses potencial. En cualquier momento los intereses del partido pueden colisionar con los deberes públicos del político o sus propias convicciones. Esto es algo que difícilmente se puede eliminar.
+
+### Dedicación plena de los representantes
+
+Si queremos que los servicios y productos de los políticos sean de calidad, estos han de ser efectivos en tiempo y forma. No hay mayor importancia que el trabajo realizado para el servicio público y por eso no hay justificación posible a que la dedicación de los políticos a sus deberes de representación no sea plena. estos han de cumplir unos requisitos mínimos deExiste una causística especial, y que actualmente pocos partidos contemplan. El PNV es uno de ellos. 
+
+La mayoría de políticos comparten sus tareas institucionales con las propias del partido. Esto es desde nuestro punto de vista inaceptable. Una vez se acepta un puesto público se debe renunciar automáticamente a toda obligación para con el partido político. 
+
+Salvo en los casos concretos en los que la remuneración salarial del puesto público no alcance niveles suficientes, cualquier otra relación laboral debe de ser suspendida inmediátamente.
+
+Ambos casos no deberían estar sujetos a opción, sino que deberían tomar efecto de manera automática. En ningún caso esto puede ser causa justificada de despido.
+
+### Otros incentivos para la alineación de intereses
+
