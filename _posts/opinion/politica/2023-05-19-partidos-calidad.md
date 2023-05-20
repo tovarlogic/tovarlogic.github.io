@@ -1,9 +1,8 @@
 ---
 title: Partidos de calidad
 date: 2023-05-19
-lastmod: 2023-05-20T11:55:35.454Z
+lastmod: 2023-05-20T12:03:30.977Z
 draft: true
-toc: false
 ---
 
 Uno de los pilares principales de nuestra democracia es el Partido político. Si buscamos una Democracia de Calidad, necesitamos contar con partidos políticos de Calidad. ¿Que significa de Calidad? y, ¿En qué consiste tal cosa?.
