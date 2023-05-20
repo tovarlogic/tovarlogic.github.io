@@ -44,20 +44,18 @@ politica:
     children:
       - title: "Motivación y objetivos"
         url: /blog/politica/motivacion
-      - title: "Contexto y condiciones iniciales"
+      - title: "Ideas preconcebidas"
+        url: /blog/politica/ideologia-previa
+  - title: "Análisis"
+    children:
+      - title: "Situación actual general"
         url: /blog/politica/contexto
       - title: "Retos de futuro"
         url: /blog/politica/retos-futuros
-      - title: "Ideas preconcebidas"
-        url: /blog/politica/ideologia-previa
-  - title: "Retos y problemas"
-
-  - title: "Propuestas"
+  - title: "Mejoras"
     children:
-      - title: "Política de Calidad"
-        url: /blog/politica/politica-calidad
-      - title: "Equipos capaces"
-        url: /blog/politica/equipos-capaces
+      - title: "Partidos de Calidad"
+        url: /blog/politica/partidos-calidad
       - title: "Experimentos y casos previos"
         url: /blog/politica/casos-previos
 

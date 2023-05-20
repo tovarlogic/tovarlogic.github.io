@@ -1,7 +1,8 @@
 ---
 title: Política de calidad
 date: 2023-05-19
-lastmod: 2023-05-19T18:02:55.551Z
+lastmod: 2023-05-19T18:41:05.289Z
+toc: false
 draft: true
 ---
 

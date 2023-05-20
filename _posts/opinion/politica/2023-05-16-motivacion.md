@@ -1,8 +1,8 @@
 ---
-title: Analizando la política
+title: Por una política mejor
 serie_index: true
 date: 2023-05-16
-lastmod: 2023-05-19T18:32:07.976Z
+lastmod: 2023-05-20T11:47:31.140Z
 toc: false
 draft: true
 ---
