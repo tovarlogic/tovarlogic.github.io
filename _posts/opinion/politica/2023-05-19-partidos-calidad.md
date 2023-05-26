@@ -1,7 +1,7 @@
 ---
 title: Partidos de calidad
 date: 2023-05-19
-lastmod: 2023-05-26T18:52:47.916Z
+lastmod: 2023-05-26T19:16:33.795Z
 draft: true
 ---
 
@@ -45,6 +45,36 @@ Consideremos la política medioambiental como ejemplo ilustrativo de lo anterior
 Ningún ámbito se libra del juicio moral y ético de sus acciones. Por eso existen otros estándares que complementan al de Calidad, son los estándares de Responsabilidad (social, medioambiental o seguridad y salud). La política no es una excepción. Quizás lo que diferencia a la política de otros ámbitos como el empresarial es su fundamento y motivaciones. La ética y moral son el fundamento de la Política. En ningún ámbito el fin debería justificar los medios, pero en política menos aún. Su motivación es hacer el bien común. Dicho bien no puede ser tal cosa si se ignoran sus efectos indeseados (incluso cuando estos afecten a terceros). Si ignoramos tales cosas, seremos en realidad irresponsables e hipócritas.
 
 Si bien la calidad se centra en la gestión, procesos, servicios y productos; la responsabilidad tiene que estar presente igualemnte en todos y cada uno de ellos.
+
+## Precursores de la calidad
+
+Hay una serie de factores que influyen en la capacidad de una organización para asegurar la calidad. Quizás sea mejor verlos como requisitos necesarios que deben de cumplirse. A continuación se detallan los más relevantes.
+
+### Equipos competentes
+
+Tras los apartados anteriores creemos ha quedado suficientemente clara la necesidad de que la Política ha de ser de Calidad y Responsable, y lo que esto significa. El estándar de oro implica la creación procedimientos, servicios y productos de responsables y de calidad.
+
+Ya sabemos lo que queremos. Lo importante ahora es lograrlo.
+
+Como toda organización, se basa en sus recursos humanos. Todo partido político requiere de ciudadanos comprometidos, que se involucren, que tengan sentido del servicio público, que mejorar las cosas les motive y satisfaga. Sin ellos, ningun proyecto político puede llegar a término, ahora bien, y sin querer ofender ni restar importancia a estas personas, hemos de ser conscientes que a la motivación hay que suplementarla con capacidad.
+
+Hay que saber transformar una idea en un plan de acción eficaz y eficiente. Eso no es fácil. Se requiere de equipos multidisciplinares competentes. Se requiere de colaboración con agentes sociales de todo tipo e ideología, en distintas partes del país e internacionales.
+
+Seamos humildes y reconozcamos que nadie tiene suficiente capacidad para solucionar los grandes problemas. En realidad, ni siquiera los más pequeños. Hay que sacar el máximo provecho de los voluntarios pero seguramente no sea suficiente. Muy posiblemente sea necesario colaborar contractualmente con individuos y empresas que nos ayuden a llevar a cabo algunas tareas. 
+
+Debemos afrontar esta tarea con el peor pronóstico posible. Tenemos que prever que fallaremos en el intento. Pensar siempre en el peor caso posible y, con eso en mente, crear los mejores equipos de personas posibles. Buscar talento en cualquier lugar y cooperar la mayor cantidad de expertos, profesionales, asociaciones y empresas posible. 
+
+Debemos también de aprender de experiencias pasadas. Nuestros problemas no son especiales, otros pueblos también los tienen y ya se habrán enfrentado a ellos. Analicemos sus circustancias, verifiquemos que son comparables a las nuestras y veamos como se han propuesto arreglar las cosas y que resultado obtuvieron. Apliquemos siempre que podamos el método científico. 
+
+Todo ello consume grandes cantidades de recursos. Por ello, hay que asegurar una fuente de financiación estable y suficiente, pero esto es otro tema en el que profundizar más adelante.
+
+En el pasado, y para mi sorpresa, se ha llegado a tildar de manera despectiva a algún partido como "tecnócrata". De abandonar la ideología en favor de la praxis. No pretendemos eso. Creemos, sin embargo, que es mejor aprovechar el conocimiento y la experiencia tanto profesional como científica para nuestros fines. Antaño grandes ideas han terminado en absolutos fracasos e incluso en calamidades por pecar de soberbia. Todas las ideologías cuentan con manchas de este tipo. 
+
+Creemos que el idealismo tiene que ir de la mano del utilitarismo. Se tienen que compensar. Ninguna sociedad es un modelo perfecto en el que aplicar ideas puras y esperar que funcionen como es debido. Hay que adaptarlas para que sus resultados sean los esperados. Toda teoría social y económica son "simples narrativas" hasta que se demuestre lo contrario. Hay que comprobar su veracidad mediante la práctica. 
+
+Por eso, debemos huir de todo pensamiento extremo por muy sugerente que nos pueda parecer. Se debe de tener una meta lejana en mente, pero hemos de actuar de poco a poco. Toda medida política tiene el potencial de manifestarse en diversidad de areas, y sus efectos, a veces inesperados, tener impacto en cientos de miles, si no millones, de personas. Por responsabilidad hay que ser comedidos, y basar todo plan de acción en la iteración. En pequeños cambios relevantes secuenciados en el tiempo. Antes de cada nueva medida, tendremos que habernos asegurado que las anteriores han surtido los efectos deseados. 
+
+Para ello solo vemos una vía posible, aprovecharnos del conocimiento generado por el método científico, la técnica y la experiencia. Seguir nuestras ideas con recelo. Mantener una actitud crítica con respecto a nuestras propias creencias y obligarnos continuamente a ponerlas a prueba. 
 
 ## Comunicación
 
@@ -96,36 +126,6 @@ De conseguir lo anterior se lograría una comunicación Responsable y de Calidad
 Como parte de la comunicación se podría considerar la Transparencia. Cuanta más información sobre las actividades de partidos y políticos exista, más capacidad habrá para valorar sus acciones, sus decisiones y sus motivaciones. No vemos razones de peso para argumentar que exista información, cualquier tipo de información no disponible públicamente. Incluso la relativa a las propias actividades y procesos internos. Especialmente esos. Mucho menos las actividades y procesos públicos, salvo por razones de seguridad nacional. 
 
 Posiblemente no genere grandes beneficios al partido, pero si permite un mejor control de sus actividades por parte de la ciudadanía. Una transparencia radical, es una barrera contra comportamientos indeseados.
-
-## Precursores de la calidad
-
-Hay una serie de factores que influyen en la capacidad de una organización para asegurar la calidad. Quizás sea mejor verlos como requisitos necesarios que deben de cumplirse. A continuación se detallan los más relevantes.
-
-### Equipos competentes
-
-Tras los apartados anteriores creemos ha quedado suficientemente clara la necesidad de que la Política ha de ser de Calidad y Responsable, y lo que esto significa. El estándar de oro implica la creación procedimientos, servicios y productos de responsables y de calidad.
-
-Ya sabemos lo que queremos. Lo importante ahora es lograrlo.
-
-Como toda organización, se basa en sus recursos humanos. Todo partido político requiere de ciudadanos comprometidos, que se involucren, que tengan sentido del servicio público, que mejorar las cosas les motive y satisfaga. Sin ellos, ningun proyecto político puede llegar a término, ahora bien, y sin querer ofender ni restar importancia a estas personas, hemos de ser conscientes que a la motivación hay que suplementarla con capacidad.
-
-Hay que saber transformar una idea en un plan de acción eficaz y eficiente. Eso no es fácil. Se requiere de equipos multidisciplinares competentes. Se requiere de colaboración con agentes sociales de todo tipo e ideología, en distintas partes del país e internacionales.
-
-Seamos humildes y reconozcamos que nadie tiene suficiente capacidad para solucionar los grandes problemas. En realidad, ni siquiera los más pequeños. Hay que sacar el máximo provecho de los voluntarios pero seguramente no sea suficiente. Muy posiblemente sea necesario colaborar contractualmente con individuos y empresas que nos ayuden a llevar a cabo algunas tareas. 
-
-Debemos afrontar esta tarea con el peor pronóstico posible. Tenemos que prever que fallaremos en el intento. Pensar siempre en el peor caso posible y, con eso en mente, crear los mejores equipos de personas posibles. Buscar talento en cualquier lugar y cooperar la mayor cantidad de expertos, profesionales, asociaciones y empresas posible. 
-
-Debemos también de aprender de experiencias pasadas. Nuestros problemas no son especiales, otros pueblos también los tienen y ya se habrán enfrentado a ellos. Analicemos sus circustancias, verifiquemos que son comparables a las nuestras y veamos como se han propuesto arreglar las cosas y que resultado obtuvieron. Apliquemos siempre que podamos el método científico. 
-
-Todo ello consume grandes cantidades de recursos. Por ello, hay que asegurar una fuente de financiación estable y suficiente, pero esto es otro tema en el que profundizar más adelante.
-
-En el pasado, y para mi sorpresa, se ha llegado a tildar de manera despectiva a algún partido como "tecnócrata". De abandonar la ideología en favor de la praxis. No pretendemos eso. Creemos, sin embargo, que es mejor aprovechar el conocimiento y la experiencia tanto profesional como científica para nuestros fines. Antaño grandes ideas han terminado en absolutos fracasos e incluso en calamidades por pecar de soberbia. Todas las ideologías cuentan con manchas de este tipo. 
-
-Creemos que el idealismo tiene que ir de la mano del utilitarismo. Se tienen que compensar. Ninguna sociedad es un modelo perfecto en el que aplicar ideas puras y esperar que funcionen como es debido. Hay que adaptarlas para que sus resultados sean los esperados. Toda teoría social y económica son "simples narrativas" hasta que se demuestre lo contrario. Hay que comprobar su veracidad mediante la práctica. 
-
-Por eso, debemos huir de todo pensamiento extremo por muy sugerente que nos pueda parecer. Se debe de tener una meta lejana en mente, pero hemos de actuar de poco a poco. Toda medida política tiene el potencial de manifestarse en diversidad de areas, y sus efectos, a veces inesperados, tener impacto en cientos de miles, si no millones, de personas. Por responsabilidad hay que ser comedidos, y basar todo plan de acción en la iteración. En pequeños cambios relevantes secuenciados en el tiempo. Antes de cada nueva medida, tendremos que habernos asegurado que las anteriores han surtido los efectos deseados. 
-
-Para ello solo vemos una vía posible, aprovecharnos del conocimiento generado por el método científico, la técnica y la experiencia. Seguir nuestras ideas con recelo. Mantener una actitud crítica con respecto a nuestras propias creencias y obligarnos continuamente a ponerlas a prueba. 
 
 ### Recursos suficientes
 Los recursos humanos son el pilar de toda organización, no obstante este no podrá mantenerse sin recursos económicos ni medios suficientes.
