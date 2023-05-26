@@ -1,7 +1,7 @@
 ---
 title: Partidos de calidad
 date: 2023-05-19
-lastmod: 2023-05-20T16:37:50.410Z
+lastmod: 2023-05-26T18:52:47.916Z
 draft: true
 ---
 
@@ -9,6 +9,7 @@ Uno de los pilares principales de nuestra democracia es el Partido político. Si
 
 ## Calidad como concepto
 
+### Definición
 Se trata de un concepto amplio que puede ser interpretado de distinta manera según el contexto. Se podría resumir la cuestión en dos variantes que se encuentran directamente relacionadas:
 1. Sobre la gestión y los procesos, que serán buenos cuando sean consistentemente efectivos y eficientes.
 1. Sobre un producto o servicio, que será bueno cuando sus características se ajusten a lo deseado en su etapa de diseño y/o que cumpla con las expectativas de los clientes.
@@ -21,7 +22,7 @@ Desde un punto de vista político, simplificando mucho la cuestión, podemos dec
 
 Por tanto, una política de Calidad será aquella cuyos procesos aseguren que sus productos cumplan los requisitos de diseño (que tengan los efectos deseados) y cumplan también las expectativas de la ciudadanía.
 
-### Gestión de expectativas
+### Percepción subjetiva
 
 Queda claro que la Calidad es un concepto muy subjetivo pues su consecusión depende de las expectativas *a priori* y de la percepción de satisfacción de dichas expectativas *a posteriori*.
 
@@ -47,9 +48,35 @@ Si bien la calidad se centra en la gestión, procesos, servicios y productos; la
 
 ## Comunicación
 
-Hay una cuestión que aún no hemos tratado lo suficiente sobre la política que es tan importante como sus productos y servicios. Cuando tratamos la gestión de expectativas se nombró someramente la Comunicación. Este es un aspecto de máxima importancia, pues una de las tareas de la política es la gestión del debate público, uno de los procesos. 
+Por las características propias de la política, la Comunicación cobra una trascendencia enorme. Una buena comunicación es la base para lograr tres objetivos principales:
+1. Entender las necesidades y reclamaciones de la ciudadanía
+2. Trasmitir a la sociedad las dificultades y logros de las medidas aplicadas.
+3. Coordinación interna
 
-La comunicación debe de ser bidireccional, es muy importante que los partidos conozcan la opinión pública. No obstante, en este contexto queremos referirnos a la comunicación en la que el emisor es el partido y el receptor la ciudadanía en su conjunto. 
+Existen otras tareas que todo partido y político debe realizar a través de una comunicación efectiva, como la gestión del debate público. En muchos casos los partidos manipulan el debate público, y lo enfocan de acuerdo a sus propios intereses. Un partido de calidad, dirige el debate hacia los problemas más urgentes o importantes a los que se debe enfrentar la sociedad.
+
+Todos y cada uno de estos procesos deben de ser contínuos. No pueden limitarse a periodos preelectorales.
+
+### Escucha y diálogo activo
+La participación ciudadana, la escucha activa y el compromiso con todos los sectores de la sociedad son fundamentales para el buen funcionamiento de un partido político. La comunicación no debe ser unidireccional; debe ser un diálogo abierto y constante.
+
+Se deben de poner en marcha todo tipo de procesos accesibles al público para que dicho diálogo sea efectivo. Algunos ejemplos son:
+
+1. Consultas Públicas: Los partidos políticos pueden establecer procesos para realizar consultas públicas sobre temas importantes. Esto puede incluir foros comunitarios, audiencias públicas y plataformas de participación en línea.
+
+1. Encuestas y Sondeos: Los partidos pueden realizar encuestas y sondeos regularmente para entender mejor las opiniones y necesidades de los votantes. Estos datos pueden luego usarse para informar sus propuestas políticas y estrategias de comunicación.
+
+1. Reuniones con Grupos de Interés: Los partidos políticos deben establecer un proceso para reunirse regularmente con grupos de interés y representantes de varios sectores de la sociedad. Esto puede incluir organizaciones no gubernamentales, comunidades vecinales, sindicatos, grupos empresariales, y otros.
+
+1. Creación de Políticas: Los partidos deben establecer un proceso de desarrollo de políticas que incluya la entrada de los miembros del partido, los expertos relevantes y, en la medida de lo posible, la ciudadanía en general. Esto podría incluir foros de discusión, talleres de trabajo y otras formas de consulta y participación ciudadana.
+
+1. Procesos de Reclamos y Sugerencias: Los partidos políticos deberían tener un proceso claro y accesible para que los ciudadanos puedan presentar quejas, sugerencias o comentarios. Esto no solo ayuda a resolver problemas, sino que también puede proporcionar ideas valiosas para mejorar y ajustar las políticas y programas del partido.
+
+Estos procesos ayudan a garantizar que los partidos políticos estén en sintonía con las necesidades y deseos de la gente a la que representan, y que sus políticas y propuestas sean percibidas como relevantes y efectivas.
+
+En todos los casos anteriores las Redes Sociales y Plataformas Digitales tienen un papel vital. Los partidos pueden usar estas herramientas no solo para transmitir su mensaje, sino también para escuchar y responder a los comentarios y preguntas de los ciudadanos.
+
+### Información pública
 
 En condiciones ideales, todos los agentes políticos deben asegurar que el foco de la opinión pública se encuentra en los asuntos importantes, y no en lo que interese a cada uno de ellos para su bien particular. Han de conseguir apoyo popular para tratar aquellas cuestiones que consideran importantes. Deben al mismo tiempo evitar la creación de debates que manipulen o distraigan a la población. 
 
@@ -58,11 +85,17 @@ Para ello la tarea de cualquier partido en cuanto a comunicación ha de ser trip
 1. Promover debates serenos, informados y relevantes
 1. Informar con transparencia sobre acciones políticas, detallando las razones para haber seguido un camino y no otro.
 
-Del mismo modo, se deben de emplear los medios a sudisposición para que los mensajes lleguen a la mayor audiencia posible, no unicamente a sus seguidores o votantes potenciales. La comunicación debe de ser simple y directa, que capte la atención del receptor y brindarle la posibilidad de informarse en mayor detalle, si es lo que desea, por otras otras vías.
+Del mismo modo, se deben de emplear los medios a su disposición para que los mensajes lleguen a la mayor audiencia posible, no unicamente a sus seguidores o votantes potenciales. La comunicación debe de ser simple y directa, que capte la atención del receptor y brindarle la posibilidad de informarse en mayor detalle, si es lo que desea, por otras otras vías.
+
+No obstante, cuando la comunicación es unidireccional y el emisor es el propio partido o sus miembros, se debe de adaptar el medio y el mensaje al tipo de receptor deseado. No todos los medios ni técnicas de comunicación son igualmente efectivos para todos los tipos de audiencia. 
 
 De conseguir lo anterior se lograría una comunicación Responsable y de Calidad.
 
+### Transparencia
+
 Como parte de la comunicación se podría considerar la Transparencia. Cuanta más información sobre las actividades de partidos y políticos exista, más capacidad habrá para valorar sus acciones, sus decisiones y sus motivaciones. No vemos razones de peso para argumentar que exista información, cualquier tipo de información no disponible públicamente. Incluso la relativa a las propias actividades y procesos internos. Especialmente esos. Mucho menos las actividades y procesos públicos, salvo por razones de seguridad nacional. 
+
+Posiblemente no genere grandes beneficios al partido, pero si permite un mejor control de sus actividades por parte de la ciudadanía. Una transparencia radical, es una barrera contra comportamientos indeseados.
 
 ## Precursores de la calidad
 
@@ -93,6 +126,32 @@ Creemos que el idealismo tiene que ir de la mano del utilitarismo. Se tienen que
 Por eso, debemos huir de todo pensamiento extremo por muy sugerente que nos pueda parecer. Se debe de tener una meta lejana en mente, pero hemos de actuar de poco a poco. Toda medida política tiene el potencial de manifestarse en diversidad de areas, y sus efectos, a veces inesperados, tener impacto en cientos de miles, si no millones, de personas. Por responsabilidad hay que ser comedidos, y basar todo plan de acción en la iteración. En pequeños cambios relevantes secuenciados en el tiempo. Antes de cada nueva medida, tendremos que habernos asegurado que las anteriores han surtido los efectos deseados. 
 
 Para ello solo vemos una vía posible, aprovecharnos del conocimiento generado por el método científico, la técnica y la experiencia. Seguir nuestras ideas con recelo. Mantener una actitud crítica con respecto a nuestras propias creencias y obligarnos continuamente a ponerlas a prueba. 
+
+### Recursos suficientes
+Los recursos humanos son el pilar de toda organización, no obstante este no podrá mantenerse sin recursos económicos ni medios suficientes.
+
+### Sinergias
+El término sinergia proviene del griego "*synergos*", que significa "trabajar juntos". En el contexto de una organización, se refiere a la idea de que el rendimiento colectivo de un grupo de individuos o departamentos es mayor que la suma de sus rendimientos individuales. En otras palabras, 2+2 no es igual a 4, sino a 5 o más. La sinergia puede surgir de la cooperación, la coordinación, la integración y la explotación de complementariedades.
+
+La búsqueda de sinergias requiere una actitud abierta y colaborativa, y puede requerir cambios en la forma en que el partido opera. Sin embargo, el potencial para aumentar la eficiencia y la eficacia hace que este esfuerzo sea muy valioso.
+
+Algunas estrategias para encontrar sinergias se basan en:
+
+1. Colaboración Interna: Dentro de un partido, diferentes equipos y departamentos pueden trabajar juntos de manera más estrecha para compartir recursos y conocimientos. Por ejemplo, el equipo de campaña podría trabajar con el equipo de comunicaciones para crear mensajes coherentes y atractivos.
+
+1. Alianzas y Asociaciones: Los partidos políticos pueden buscar sinergias a través de alianzas y asociaciones con otras organizaciones. Esto podría incluir otras partes con objetivos similares, organizaciones no gubernamentales, grupos de la sociedad civil y organizaciones internacionales.
+
+1. Participación Ciudadana: Los partidos pueden encontrar sinergias al involucrar más a los ciudadanos en su trabajo. Esto podría incluir la creación de foros de participación ciudadana, la realización de consultas públicas y la colaboración con grupos de la comunidad.
+
+1. Innovación Tecnológica: El uso inteligente de la tecnología puede conducir a sinergias en muchas áreas, desde la comunicación y la gestión de campañas hasta la recolección de datos y la administración interna.
+
+1. Formación y Desarrollo: Los partidos pueden buscar sinergias a través de programas de formación y desarrollo que beneficien a varios equipos o departamentos. Por ejemplo, podrían ofrecer formación en habilidades de comunicación, liderazgo o análisis de datos.
+
+1. Compromiso con los Grupos de Interés: Los partidos pueden trabajar más estrechamente con grupos de interés y representantes de varios sectores para entender mejor sus necesidades y preocupaciones, lo que puede informar sus propuestas políticas y estrategias de comunicación.
+
+1. Compartir Mejores Prácticas: Los partidos pueden buscar sinergias compartiendo las mejores prácticas y aprendiendo unos de otros. Esto podría ser dentro del mismo partido, entre diferentes partidos o a través de redes y asociaciones de partidos políticos.
+
+1. Investigación y Análisis: Los partidos pueden unir recursos para realizar investigaciones y análisis que informen sus políticas y estrategias. Esto podría ser a nivel local, nacional o incluso internacional.
 
 ### Metodología y sistematización
 
@@ -135,9 +194,13 @@ El sistema electoral español hace bastante buen trabajo a la hora de asegurar u
 - Control de conflicto de intereses de los miembros del partido según sus tareas. 
 - Limitación
 
-#### Independencia del partido
+#### Independencia de los representantes
 
-Cuando un partido obtiene el gobierno u alguno de sus miembros ocupa un puesto público de representación, incluso en la oposición, se genera de facto un conflicto de intereses potencial. En cualquier momento los intereses del partido pueden colisionar con los deberes públicos del político o sus propias convicciones. Esto es algo que difícilmente se puede eliminar.
+Cuando un partido obtiene el gobierno u alguno de sus miembros ocupa un puesto público de representación, incluso en la oposición, se genera de facto un conflicto de intereses potencial. En cualquier momento los intereses del partido pueden colisionar con los deberes públicos del político, sus promesas o sus propias convicciones. Esto es algo que difícilmente se puede eliminar y que por tanto se debe de gestionar.
+
+Esto está muy relacionado con la dedicación plena de los representantes que comentamos anteriormente. Por un lado, las labores organizativas del partido no deben de recaer en personas que ya cuentan con responsabilidades públicas. Por el otro, el partido debe de permitir que cada representante actúe de acuerdo a sus propias convicciones o promesas. 
+
+El partido debe de estar preparado para la inevitable eventualildad en que alguna/s persona/s con poder representativo y ejecutivo actúen de manera discordante a las "directrices del partido". Debe de existir un proceso y protocolos que permitan gestionar adecuadamente estas situaciones.
 
 ### Dedicación plena de los representantes
 
@@ -150,4 +213,34 @@ Salvo en los casos concretos en los que la remuneración salarial del puesto pú
 Ambos casos no deberían estar sujetos a opción, sino que deberían tomar efecto de manera automática. En ningún caso esto puede ser causa justificada de despido.
 
 ### Otros incentivos para la alineación de intereses
+
+## Enemigos de la calidad
+
+Al igual que hay factores que promueven la excelencia, hay muchos otros factores que también pueden amenazar la calidad y eficacia en un partido político o cualquier otra organización:
+
+1. **Crecimiento excesivamente rápido**: Esto puede ser un desafío para mantener la calidad y eficacia debido a la falta de estructuras adecuadas, la pérdida de control y la dificultad para mantener la cohesión y la cultura organizativa. Hay que tener en cuenta, no obstante, que un crecimiento demasiado lento pone en riesgo la propia existencia de la organización. Por tanto, hay que buscar un equilibrio entre ambos extremos.
+
+1. **Crecimiento sin control**: Relacionado con la cuestión anterior está la selección de personal. Aunque en una democracia toda persona tiene el mismo derecho a involucrarse, desde el punto de vista organizativo resultaría contraproducente admitir a cualquier persona sin realizar un mínimo filtrado previo.
+
+1. **Desalineamiento de Objetivos**: Si los objetivos de los individuos o de los diferentes equipos no están alineados con los objetivos generales de la organización, esto puede resultar en esfuerzos contradictorios o redundantes y en una falta general de dirección. Si se gestionan adecuadamente los dos primeros factores descritos relacionados con el crecimiento, la alineación de objetivos se facilita enormemente, aunque no se garantiza sin establecer otros procesos complementarios.
+
+1. **Falta de Liderazgo Efectivo**: Un liderazgo pobre o inexistente puede dificultar la toma de decisiones, fomentar la confusión y el conflicto, y debilitar la moral y la motivación del equipo.
+
+1. **Comunicación Inadecuada**: La falta de comunicación clara y abierta puede llevar a malentendidos, falta de coordinación y pérdida de oportunidades. Esto también puede dar lugar a la desinformación y la desconfianza.
+
+1. **Resistencia al Cambio**: Las organizaciones que se resisten al cambio pueden quedarse atrás y no ser capaces de adaptarse a las nuevas circunstancias o aprovechar las nuevas oportunidades.
+
+1. **Falta de Transparencia y Rendición de Cuentas**: Sin transparencia y rendición de cuentas, los errores y las malas prácticas pueden pasar desapercibidos y sin corregir, lo que puede dañar la reputación y la eficacia de la organización.
+
+1. **Recursos Insuficientes**: La falta de recursos suficientes, ya sean humanos, financieros o materiales, puede limitar la capacidad de una organización para llevar a cabo sus actividades y alcanzar sus objetivos.
+
+1. **Falta de Planificación y Estrategia**: Sin una planificación y estrategia adecuadas, una organización puede perderse en su camino, gastar recursos de manera ineficiente y luchar para lograr sus objetivos.
+
+1. **Cultura Organizacional Negativa**: Una cultura que no valora la calidad, la mejora continua, la ética y las leyes, el respeto, la diversidad puede llevar a un bajo rendimiento, a un alto nivel de rotación y a problemas legales y de reputación.
+
+1. **Falta de Formación y Desarrollo**: Si los miembros del equipo no reciben la formación y el desarrollo que necesitan, pueden no ser capaces de realizar su trabajo de manera efectiva, lo que puede perjudicar la calidad y la eficacia de la organización.
+
+1. **Desalineamiento de Objetivos**: Si los objetivos de los individuos o de los diferentes equipos no están alineados con los objetivos generales de la organización, esto puede resultar en esfuerzos contradictorios o redundantes y en una falta general de dirección.
+
+
 
