@@ -2,8 +2,7 @@
 title: Por una política mejor
 serie_index: true
 date: 2023-05-16
-lastmod: 2023-05-20T16:41:45.246Z
-toc: false
+lastmod: 2023-05-28T11:25:26.459Z
 draft: true
 ---
 
