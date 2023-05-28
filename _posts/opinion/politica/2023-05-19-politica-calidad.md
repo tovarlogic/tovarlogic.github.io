@@ -1,8 +1,8 @@
 ---
 title: Política de calidad
 date: 2023-05-19
-lastmod: 2023-05-26T19:58:39.203Z
-draft: true
+lastmod: 2023-05-28T11:39:26.506Z
+toc: false
 ---
 
 ### Necesitamos una política de calidad

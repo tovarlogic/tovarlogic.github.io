@@ -1,8 +1,7 @@
 ---
 title: Partidos de calidad
 date: 2023-05-19
-lastmod: 2023-05-26T19:16:33.795Z
-draft: true
+lastmod: 2023-05-28T11:39:34.825Z
 ---
 
 Uno de los pilares principales de nuestra democracia es el Partido político. Si buscamos una Democracia de Calidad, necesitamos contar con partidos políticos de Calidad. ¿Que significa de Calidad? y, ¿En qué consiste tal cosa?.
@@ -76,7 +75,7 @@ Por eso, debemos huir de todo pensamiento extremo por muy sugerente que nos pued
 
 Para ello solo vemos una vía posible, aprovecharnos del conocimiento generado por el método científico, la técnica y la experiencia. Seguir nuestras ideas con recelo. Mantener una actitud crítica con respecto a nuestras propias creencias y obligarnos continuamente a ponerlas a prueba. 
 
-## Comunicación
+### Comunicación
 
 Por las características propias de la política, la Comunicación cobra una trascendencia enorme. Una buena comunicación es la base para lograr tres objetivos principales:
 1. Entender las necesidades y reclamaciones de la ciudadanía
@@ -87,7 +86,7 @@ Existen otras tareas que todo partido y político debe realizar a través de una
 
 Todos y cada uno de estos procesos deben de ser contínuos. No pueden limitarse a periodos preelectorales.
 
-### Escucha y diálogo activo
+#### Escucha y diálogo activo
 La participación ciudadana, la escucha activa y el compromiso con todos los sectores de la sociedad son fundamentales para el buen funcionamiento de un partido político. La comunicación no debe ser unidireccional; debe ser un diálogo abierto y constante.
 
 Se deben de poner en marcha todo tipo de procesos accesibles al público para que dicho diálogo sea efectivo. Algunos ejemplos son:
@@ -106,7 +105,7 @@ Estos procesos ayudan a garantizar que los partidos políticos estén en sinton�
 
 En todos los casos anteriores las Redes Sociales y Plataformas Digitales tienen un papel vital. Los partidos pueden usar estas herramientas no solo para transmitir su mensaje, sino también para escuchar y responder a los comentarios y preguntas de los ciudadanos.
 
-### Información pública
+#### Información pública
 
 En condiciones ideales, todos los agentes políticos deben asegurar que el foco de la opinión pública se encuentra en los asuntos importantes, y no en lo que interese a cada uno de ellos para su bien particular. Han de conseguir apoyo popular para tratar aquellas cuestiones que consideran importantes. Deben al mismo tiempo evitar la creación de debates que manipulen o distraigan a la población. 
 
@@ -121,7 +120,7 @@ No obstante, cuando la comunicación es unidireccional y el emisor es el propio 
 
 De conseguir lo anterior se lograría una comunicación Responsable y de Calidad.
 
-### Transparencia
+#### Transparencia
 
 Como parte de la comunicación se podría considerar la Transparencia. Cuanta más información sobre las actividades de partidos y políticos exista, más capacidad habrá para valorar sus acciones, sus decisiones y sus motivaciones. No vemos razones de peso para argumentar que exista información, cualquier tipo de información no disponible públicamente. Incluso la relativa a las propias actividades y procesos internos. Especialmente esos. Mucho menos las actividades y procesos públicos, salvo por razones de seguridad nacional. 
 

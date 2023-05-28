@@ -1,8 +1,7 @@
 ---
 title: Ideas preconcebidas
 date: 2023-05-24
-lastmod: 2023-05-28T11:24:52.417Z
-draft: true
+lastmod: 2023-05-28T11:39:41.978Z
 ---
 
 Antes de comenzar el análisis nos parece conveniente describir los prejuicios que nos acompañan. Estas ideas preconcebidas influyen en, e incluso limitan, nuestra capacidad crítica y, por tanto, en las conclusiones y medidas que se propongan.
