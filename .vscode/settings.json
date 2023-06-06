@@ -17,5 +17,10 @@
         "info",
         "notice",
         "warning"
-    ]
+    ],
+    "frontMatter.content.draftField": {
+        
+        "name": "draft",
+        "type": "boolean"
+    }
 }

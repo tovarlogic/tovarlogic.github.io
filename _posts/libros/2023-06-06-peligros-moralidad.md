@@ -8,8 +8,7 @@ categories:
   - Psicología
   - Política
 excerpt: Este libro pretende sirve guía para entender muchas cuestiones de nuestras sociedades actuales. El autor ha creado una recopilación de publicaciones científicas y ensayos con los que apoya la idea de que "la moralidad es un arma de doble filo" y que muchos problemas actuales provienen de una moralización excesiva.
-lastmod: 2023-06-06T11:48:21.727Z
-description: ""
+lastmod: 2023-06-06T11:48:43.256Z
 ---
 
 ## Definiendo la Moralidad

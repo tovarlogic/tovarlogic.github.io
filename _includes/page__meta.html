@@ -25,7 +25,7 @@
         <i class="far {% if include.type == 'grid' and document.show_status or document.show_date %}fa-fw {% endif %}fa-clock" aria-hidden="true"></i>
         {% if document.serie %}
           {{ site.data.ui-text[site.locale].long_read }}
-        {% elseif words < words_per_minute %}
+        {% elsif words < words_per_minute %}
           {{ site.data.ui-text[site.locale].less_than | default: "less than" }} 1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
         {% elsif words == words_per_minute %}
           1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
