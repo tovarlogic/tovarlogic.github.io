@@ -14,7 +14,7 @@ layout: default
   {% endunless %}
 {% endif %}
 
-{% assign book = site.data.books.list | where:'isbn', page.isbn | first %}
+{% assign book = site.data.books| where:'isbn', page.isbn | first %}
 
 <div id="main" role="main">
   
@@ -44,7 +44,7 @@ layout: default
         
         <div class="book_info" itemprop="itemReviewed" itemscope itemtype="http://schema.org/Book">
             <figure class="book_cover">
-              {% if page.isbn %}
+              {% if book.isbn %}
                   <img alt="{{ book.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-L.jpg?default=false">
                   <figcaption>Cortesía de <a href="https://openlibrary.org/isbn/{{ book.isbn }}">Open Library</a>.</figcaption>
               {% elsif book.olid %}

@@ -1,6 +1,6 @@
 {% if page.books %}
 	{% for book_isbn in page.books %}
-    	{% assign book = site.data.books.list | where:'isbn', book_isbn | first %}
+    	{% assign book = site.data.books | where:'isbn', book_isbn | first %}
     	{% include archive-single-books.html type=list %}
   	{% endfor %}
 {% endif %}

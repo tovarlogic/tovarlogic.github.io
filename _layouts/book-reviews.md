@@ -21,7 +21,7 @@ layout: single
 
   <div class="posts">
 
-  {% assign list = site.data.books.list | where_exp: "review", "review" %}
+  {% assign list = site.data.books | where_exp: "review", "review" %}
 
   {% for year in reviewsInYear %}
   <section id="{{ year.name }}" class="taxonomy__section">
