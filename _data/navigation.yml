@@ -43,7 +43,7 @@ politica:
   - title: "Introducción"
     children:
       - title: "Motivación y objetivos"
-        url: /blog/politica/motivacion
+        url: /blog/politica/
       - title: "Ideas preconcebidas"
         url: /blog/politica/ideologia-previa
   - title: "Análisis y mejoras generales"

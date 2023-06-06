@@ -51,12 +51,22 @@
           "title": "lastmod",
           "name": "lastmod",
           "type": "datetime"
+        },
+        {
+          "title": "isbn",
+          "name": "isbn",
+          "type": "number"
+        },
+        {
+          "title": "excerpt",
+          "name": "excerpt",
+          "type": "string"
         }
       ]
     }
   ],
   "frontMatter.framework.id": "jekyll",
-  "frontMatter.content.publicFolder": "assets",
+  "frontMatter.content.publicFolder": "",
   "frontMatter.content.pageFolders": [
     {
       "title": "_posts",
@@ -71,5 +81,7 @@
       "path": "[[workspace]]/_docs"
     }
   ],
-  "frontMatter.templates.enabled": false
+  "frontMatter.templates.enabled": false,
+  "frontMatter.content.autoUpdateDate": true,
+  "frontMatter.preview.host": "http://localhost:4000"
 }

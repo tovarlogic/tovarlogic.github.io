@@ -1,12 +1,48 @@
 ---
 title: Ideas preconcebidas
 date: 2023-05-24
-lastmod: 2023-05-29T17:51:45.428Z
+lastmod: 2023-06-06T11:41:42.138Z
 ---
 
-Antes de comenzar el análisis nos parece conveniente describir los prejuicios que nos acompañan. Estas ideas preconcebidas influyen en, e incluso limitan, nuestra capacidad crítica y, por tanto, en las conclusiones y medidas que se propongan.
+Antes de comenzar el análisis nos parece conveniente describir los prejuicios que nos acompañan. 
+Lo consideramos oportuno porque son la fuente principal de motivación y justificación de cualquier acción (como escribir estos artículos), y también una de las razones más importantes que determinan nuestra manera de ver las cosas, hasta el punto de limitar nuestra capacidad crítica. Cualquier detalle de esta serie de artículos está inevitablemente relacionado con nuestras ideas preconcebidas.
 
-Resulta conveniente por ello, detallarlas *a priori* para evaluar críticamente la idoneidad de nuestras propias convicciones y la calidad de nuestro análisis. Además supone un ejercicio de transparencia para con el lector, de modo que tenga claro desde el inicio cuales son las ideas prestablecidas que pueden influir en nuestro pensamiento y motivaciones.
+Detallarlas *a priori*, es un ejercicio que favorece la identificación sesgos que enmascaran creencias subjetivas como si de hechos objetivos se trataran. Es decir, facilita la identificación de defectos de razonamiento y evaluar críticamente la idoneidad de nuestras propias convicciones y la calidad de nuestro análisis y propuestas.
+
+En primer lugar creemos que la política sólo debe de seguir un fin: el "bien común". De ninguna manera el bien común es un concepto inequívoco, al contrario, está abierto a todo tipo de interpretaciones. 
+
+A continuación desarrollamos un poco más sobre el término. Posteriormente describimos las características que consideramos deseables en la política.
+
+## Bien común
+Dado que el bien común es un concepto muy amplio y abierto a interpretaciones subjetivas, proponemos desde el comienzo un par de definiciones para crear un marco común de entendimiento.
+
+Servicio público 
+: Desde un punto de vista amplio y no gubernamental, son actividades cuya característica común es que están diseñadas para satisfacer ciertas necesidades de la comunidad. 
+: Desde un punto de vista más particular, el gubernamental, un servicio público es un servicio proporcionado por el Gobierno/Administración a las personas que viven dentro de su jurisdicción. Los servicios públicos se financian con los impuestos de los ciudadanos y generalmente están destinados a servir al bien común. Estos servicios pueden incluir cosas como la educación, la atención sanitaria, la infraestructura (como las carreteras y los puentes), la seguridad y la protección (como la policía y los bomberos), los servicios sociales y los servicios de utilities (como el agua y la electricidad). 
+
+Bien común
+: El bien común se refiere a lo que beneficia a todos los miembros de una comunidad o sociedad y engloba varios conceptos, incluido el de servicio público. Es el conjunto de condiciones sociales que permiten a los individuos, familias y comunidades alcanzar su plenitud de manera más completa y fácil. Incluye aspectos básicos como el derecho a la seguridad, la justicia, la paz, la educación, la atención sanitaria, el medio ambiente sano, entre otros. En cierto sentido, el bien común es lo que promueve el bienestar general de la sociedad. 
+
+La existencia de distintas corrientes o ideologías políticas obedece al hecho de que el "bien común" puede tener variedad de interpretaciones. Incluso cuando éstas son similares, parece posible lograr los mismos objetivos de diferente manera. Dicha diversidad es algo más que aceptable, es deseable. 
+
+La gran mayoría de organizaciones, políticas o no, carecen de sentido si no ofrecen un servicio público. En muchas ocasiones, como en el caso de las empresas, dicho servicio no es el fin, sino el medio para lograr sus propios intereses (generalmente económicos). 
+
+A diferencia de las sociedades mercantiles, los partidos son organizaciones sin ánimo de lucro. Sus servicios no se ofrecen en condiciones de intercambio económico y, además, su fin no es el beneficio propio, sino el de la sociedad. Esto no quiere decir que no exista cierta reciprocidad en la relación entre los partidos y la ciudadanía. Al contrario, el Estado se compromete a financiar dichas organizaciones de manera proporcional a su representatividad de modo que cuenten con recursos suficientes para llevar a cabo dicho servicio. 
+
+Esta financiación pública además reduce su dependencia de la financiación privada. Esto es algo bueno ya que facilita la independencia política. El riesgo de la financiación a través de donaciones privadas es que cabe la posibilidad de que dichas donaciones no se realicen altruistamente, sino con la intención de que se defiendan unos intereses particulares a cambio.
+
+Por todo ello, un partido político entra en una categoría propia y especial porque se trata de un agente que se ofrece para gestionar el bien común. **Dado que se gestionan los servicios fundamentales en la promoción del bienestar general de la sociedad, con recursos públicos, no es aceptable que un partido político persiga intereses propios.**
+
+Hay ciertos comportamientos comunes en la política que no cumplen con el requisito de interés común como única motivación. Son comportamientos fácilmente comprensibles desde un punto de vista psicológico, pero que no debemos tolerar porque afectan negativamente a la sociedad en su conjunto. Algunos de dichos comportamientos son:
+1. Corrupción, malversación y clientelismo
+1. Afán de permanencia en el poder
+1. Manipulación y distorsión de los hechos
+
+El primer punto creemos es demasiado obvio como para molestarnos en una argumentación que lo sustente. Los restantes, sin embargo, quizás si requieren de cierta reflexión.
+
+Cuando se trata de ideologías resulta fácil caer en la impresión de que solo existe una verdad. Cada partido tiende a pensar que son los portadores de dicha verdad y que el resto se equivocan. Esto da lugar, eventualmente, al sentimiento de que como valedores de la única verdad deben de mantener el poder bajo cualquier circunstancia. De lo contrario, resultaría fatal para la sociedad. Desde su punto de vista, se trata de un acto de responsabilidad no permitir que gobierne el bando "malo". Se entra así en una especie de utilitarismo en el que «los fines justifican los medios».
+
+Además la política, por diversas razones, puede convertirse en el único modo de vida de algunas personas. Esto genera intereses individuales. Lograr su permanencia en el puesto y la del partido que le apoya se convierte en una fuerte motivación porque de alcanzar ese objetivo se asegura un medio de vida y un futuro con menos dificultades. Todo partido político debe de luchar contra este tipo de actitud. La profesionalización de la política, puede llegar a ser positiva hasta cierto punto, pero nunca debe de estar motivada por razones distintas a la vocación de servicio público para el bien común.
 
 ## Democracia
 En el contexto de una sociedad democrática, no tiene sentido que los partidos políticos no integren en sus procesos internos los mecanismos democráticos. Esto, desde nuestro punto de vista es un requisito indispensable. No es negociable.
@@ -20,7 +56,7 @@ Algunos de estos mecanismos comprenden:
 ## Ejemplaridad
 No concebimos la política sin ejemplaridad. Los partidos y líderes políticos deben actuar de una manera modélica en cuanto a comportamiento ético y moral para los ciudadanos que representan. No se trata de un ejercicio de paternalismo, sino de un ejercicio de responsabilidad.
 
-Los líderes políticos tienen un impacto significativo en la sociedad. Sus acciones y comportamientos pueden influir en las normas y valores sociales y pueden afectar la confianza y fe de los ciudadanos en el sistema político. Cuando los líderes políticos actúan de manera ejemplar, pueden ayudar a fomentar una sociedad más ética y justa.
+Los líderes políticos tienen un impacto significativo en la sociedad. Sus acciones y comportamientos pueden influir en las normas y valores sociales y pueden afectar la confianza y fe de los ciudadanos en las instituciones. Cuando los líderes políticos actúan de manera ejemplar, pueden ayudar a fomentar una sociedad más ética y justa.
 
 De la ejemplaridad derivan los siguientes valores o virtudes a consider como los más importantes:
 1. **Integridad**: Los políticos deben adherirse a altos estándares de honestidad en todas sus acciones. Deben actuar de acuerdo con los principios éticos y evitar comportamientos como la corrupción, el nepotismo, el soborno y otros actos ilegales o inmorales.
@@ -30,60 +66,72 @@ De la ejemplaridad derivan los siguientes valores o virtudes a consider como los
 
 Es posible que exista una componente psicológica que haga que ciertos perfiles de personas se sientan atraídas por la política, acumulación de poder y ser el centro de atención. Es algo inevitable. Creemos que cumpliendo la premisa de ejemplaridad logramos gestionar este hecho y limitar sus posibles efectos negativos. 
 
-Queremos incluir en este apartado la advertencia de que ejemplaridad ética no es lo mismo que inflexibilidad o, mejor dicho, intransigencia moral. Cada cual tiene derecho a vivir como considere. No debemos de caer en el error de elevar artificialmente el listón hasta el puritanismo y valorar comportamientos propios de nuestras sociedades y tiempo como indecentes; eso sería hipocresía.
+Queremos aclarar que ejemplaridad ética no es lo mismo que inflexibilidad o, mejor dicho, intransigencia moral. Cada cual tiene derecho a vivir como considere. No debemos de caer en el error de elevar artificialmente el listón hasta el puritanismo y valorar comportamientos propios de nuestras sociedades y tiempo como indecentes cuando son llevados a cabo por representantes políticos; eso sería hipocresía. 
 
-## Política basada en la evidencia
-Debemos de tener una postura crítica hacia nuestras propias ideas e inclinaciones naturales. Estas vienen primero, pero siempre deben de contrastarse con los hechos. Cualquier actitud, pensamiento y acción debería estar limitado por la evidencia, minimizando en lo posible las presunciones y el uso del "sentido común" en favor de datos objetivos. 
+La ejemplaridad a la que nos referimos es **únicamente** aplicable en lo relativo al servicio público que se ofrece y a los comportamientos de índole privado en relación con lo público. Todo lo demás se merece el máximo respeto y tolerancia.
 
-La política en su gran mayoría es opinión cuando, en realidad, las distintas áreas del conocimiento científico pueden guiarnos de manera mucho más efectiva a la hora de analizar y diagnosticar una situación concreta o determinar las posibles soluciones. 
+## Política basada en la razón y evidencia
+La política en su gran mayoría es opinión. Sobretodo, cuando las «convicciones morales» están involucradas. En esos casos la componente decisiva es la emocional y no la racional. Normalmente sobrevaloramos la importancia de nuestras ideas y opiniones; mientras ignoramos la capacidad de la ciencia, la técnica y la experiencia para aportarnos una base de conocimiento mucho más sólida y fiable. 
 
-Las sociedades actuales, los sistemas económicos y productivos, e incluso nuestra interacción con el medio ambiente presentan una enorme complejidad. Resulta prácticamente imposible integrar y tener en cuenta todos los factores y variables relevantes en cuanquier cuestión antes de tomar una decisión. Ni la ciencia ni la técnica son infalibles. Sus ámbitos de estudio y actuación están tan segregados y especializados que cualquier resultado es parcial, nunca completo. Sin embargo, es el conocimiento más perfecto a nuestra disposición y sería una irresponsabilidad ignorarlo.
+Debemos de tener una postura crítica hacia nuestras propias ideas e inclinaciones naturales. Nuestras convicciones siempre vienen primero. A partir de ellas construimos *ad-hoc* "razonamientos" que nos permiten llegar a conclusiones predefinidas. Por eso, toda opinión debe ser cuestionada y contrastada con los hechos. Cualquier actitud, pensamiento y acción debería estar limitado por la evidencia, minimizando en lo posible las presunciones y el uso del "sentido común" en favor de datos objetivos. 
+
+La evidencia científica proviene de miles de estudios y experimentos llevados a cabo por cientos de miles de personas. Por otro lado, la filosofía y las creencias, por ejemplo, son el resultado de especulaciones de relativamente pocos intelectuales,que ue siguen otros métodos menos fiables para detectar errores en las hipótesis y teorías planteadas. Por eso, el conocimiento científico es el más perfecto a nuestra disposición y sería una irresponsabilidad ignorarlo.
+
+Lamentablemente, la ciencia no es infalible, y requiere de cierta formación y capacidad para interpretar correctamente sus resultados. Además es habitual que la evidencia científica en un ámbito de interés determinado, con unas características muy concretas no sea suficiente como para obtener resultados o recomendaciones unívocas. 
+
+Por eso, no se trata de seguir a ciegas ni lo uno, ni lo otro, sino de complementarse entre sí. De tener una actitud crítica y confrontar nuestras ideas con los hechos para ver si siguen siendo válidas después del test.
+
+## Colaboración
+Para que pueda existir colaboración, se necesitan al menos cuatro requisitos:
+- Visión universalista o inclusiva de la sociedad; no tribalista y exclusiva
+- Respeto a las personas que opinan distinto,
+- Tolerancia con sus ideas y
+- Empatía
+
+Si se dan esas condiciones creemos que resulta más sencillo que exista voluntad de cooperación. No vemos como es posible trabajar con otros si son considerados "distintos" (a modo peyorativo, como si fueran peores o inferiores, e incluso peligrosos de algún modo) y que sus ideas están equivocadas o son absurdas (sin haber realizado un esfuerzo previo por entender porqué piensan de ese modo).
+
+Dado que cualquier variante del bien común nos afecta a todos, lo ideal es que los gobiernos y administraciones no trabajen aisladamente, persiguiendo su visión particular del mismo. Aún teniendo mayorías absolutas deben esforzarse al máximo en conseguir acuerdos y consenso.
+
+Identificamos dos razones primordiales para defender lo anterior:
+1. Existe cierta correlación entre las condiciones de vida y las ideas políticas. Si unos piensan distinto, es posible que sea porque sus condiciones y experiencias son diferentes. Nuestra visión puede ser parcial. Si queremos lo mejor para todos, debemos de esforzarnos en adquirir una visión lo más amplia posible. Complementarla con las perspectivas originadas a partir de experiencias y condiciones de vida distintas parece lo más razonable.
+1. Cualquier medida llevada a cabo desde el consenso tiene más probabilidades de permanencia a pesar de los cambios de ciclo políticos. ¿De que sirve una medida objetivamente fantástica, si la mitad de la población está en contra de ella y tras las próximas elecciones pueda ser derogada?
+
+En definitiva, **creemos que si las políticas parten de la cooperación entre grupos con ideas diferentes e incluso opuestas, su aplicación generará menor rechazo y serán más eficaces a largo plazo**.
+
+El mayor riesgo para la cooperación política es la polarización, lo que dificulta en gran medida encontrar puntos de encuentro, ideas compartidas y solventar satisfactoriamente los conflictos. 
+Creemos que el factor más importante para que se de dicha polarización y se imposibilite la colaboración, es la moralización de las ideas políticas. 
+
+En esas condiciones se pierde la objetividad y la tolerancia, el utilitarismo gana legitimidad y se crea un ambiente de excitación que promueve los conflictos. Si se dan valores morales a las ideas políticas (cosa realmente frecuente), se entra en debates del tipo «nosotros (los buenos) vs ellos (los malos)». Esto a su vez incrementa la intensidad de los debates, hasta el punto de llegar a las faltas de respeto y cierta violencia. Se fomenta el utilitarismo, aquello de que «los fines justifican los medios» pues es un acto de responsabilidad lograr aquello que es «bueno» y luchar aquello que es «malo».
+
+Otro factor, que quizás esté relacionado con lo anterior, es el incremento de los populismos y la manipulación. En estas condiciones se llegan al extremos de crear falsos debates que distraen a la ciudadanía de los problemas más relevantes o los que si son relevantes no se abordan con suficiente rigor y profundidad. 
+
+En ambos casos, la razón pierde peso en  favor de las emociones.
 
 ## Moderación
 Incluso si nuestras ideas se alineasen con ideologías y concepciones alejadas a la realidad actual que, por tanto, pudieran considerarse extremas, debemos de domar nuestras tendencias. Obtener la disciplina para actuar y pensar moderando esas tendencias naturales es complicado pero presenta varias ventajas.
 
 La moderación en primer lugar, genera menor oposición en sectores de la población que piensan distinto. Una actitud moderada se aprecia como menos diferente a la propia y, por tanto, menos peligrosa. Expresarse y actuar de manera moderada, es la mejor forma de generar confianza en los sectores más semejantes sin crear desconfianza en los demás.
 
-Las actitudes revolucionarias, por el contrario, tienen el gran potencial de despertar las pasiones más primarias, para lo bueno y para lo malo. Crean potencial y generan acción fácilmente; sin embargo, también puede ser más fácil perder la objetividad cuando el ambiente pasa a uno de mayor exitación. Así mismo, despierta una oposición más intensa y se pueden crear tensiones sociales que generen problemas inicialmente inexistentes o que hasta entonces eran inertes.
+Las actitudes revolucionarias, por el contrario, tienen el gran potencial de despertar las pasiones más primarias, para lo bueno y para lo malo. Crean potencial y generan acción fácilmente; sin embargo, también puede ser más fácil perder la objetividad cuando el ambiente pasa a uno de mayor excitación. Así mismo, despierta una oposición más intensa y se pueden crear tensiones sociales que generen problemas inicialmente inexistentes o que hasta entonces eran inertes.
 
 Por otro lado, si se piensa y se actúa moderadamente, menos probabilidades hay de cometer errores. Se parte de unas condiciones iniciales conocidas y al actuar moderadamente, se modifica el paradigma en menor medida, siendo sus efectos más predecibles. Además, y en relación a lo anterior, al haber generado menos oposición, mayores posibilidades hay de que los pequeños cambios permanezcan en el tiempo por más tiempo. En una democracia de nada sirve realizar cambios transformadores y radicales si gran parte de la población esta en contra de ellos. De ser así, en próximos términos legislativos es posible que la actual oposición tome el poder y derogue dichos cambios.
 
 Es por tanto, más importante el cambio constante, por pequeño que parezca. Se modifica así en menor medida la propia inercia social y se evita un escenario, totalmente indeseable, en el que cada gobierno alternante "se vea forzado" a dar virajes para contrarrestar los del gobierno anterior. En situaciones así, no sólo no se logran los objetivos, sino que se corre el riesgo de paralizar el progreso, de empeorar la seguridad jurídica y en definitiva crear desconfianza en la ciudadanía, los sectores empresariales y la comunidad internacional. Dicha desconfianza puede tener efectos muy negativos en todos los aspectos importantes de una sociedad. 
 
 ## Transparencia absoluta
-En una democracia débil, la población se limita a ejercer su soberánía mediante el sufragio. Las elecciones son sólo una parte del sistema. Fortalecer una democracia significa, que la ciudadanía se comprometa e involucre  en el día a día ya sea mediante su participación en la toma de decisiones públicas, mediante el activismo a través de asociaciones y controlar al gobierno.
+En una democracia débil, la población se limita a ejercer su soberanía mediante el sufragio. Las elecciones son sólo una parte del sistema. Fortalecer una democracia significa, que la ciudadanía se comprometa e involucre  en el día a día ya sea mediante su participación en la toma de decisiones públicas, mediante el activismo a través de asociaciones y controlar al gobierno.
 
 La política no puede ser una caja negra para la ciudadanía. En tal caso, se promueve una desafección de las personas a través del desconocimiento de lo que ocurre, y crece su sentimiento de impotencia. Además, para aquellos a los que la impotencia no sea suficiente como para cancelar su compromiso, se les pone trabas a la hora de llevar a cabo su deber y derecho de control del gobierno.
 
 Para cualquier organización, llevar a cabo una absoluta transparencia supone una enorme esfuerzo, dificultad y riesgo. 
 
-En primer lugar, se requiere de recursos suficientes para transformación de los datos en información útil. La mejor variante de transparencia es aquella que además de publicar los datos originales, sin manipulación alguna, también ponga a dispocición resúmenes sobre los más relevante. Hay que tener en cuenta que la transparencia, no debería limitarse a dicha publicación, sino a hacerlo de modo que el contenido esté contextualizado, sea coherente y comprensible. Además se debe de realizar dicha publicación de manera efectiva para facilitar su consulta por parte de la ciudadanía, es decir, se debe de publicitar y, en cualquier caso, debe ser fácilmente localizable. Como ya se ha evidenciado, no es un proceso tan simple como parecería a priori, por ello se requiere de una sistematización en los flujos de trabajo internos de modo que integren en todas las fases al "equipo de transparencia". 
+En primer lugar, se requiere de recursos suficientes para transformación de los datos en información útil. La mejor variante de transparencia es aquella que además de publicar los datos originales, sin manipulación alguna, también ponga a disposición resúmenes sobre los más relevante. Hay que tener en cuenta que la transparencia, no debería limitarse a dicha publicación, sino a hacerlo de modo que el contenido esté contextualizado, sea coherente y comprensible. Además se debe de realizar dicha publicación de manera efectiva para facilitar su consulta por parte de la ciudadanía, es decir, se debe de publicitar y, en cualquier caso, debe ser fácilmente localizable. Como ya se ha evidenciado, no es un proceso tan simple como parecería a priori, por ello se requiere de una sistematización en los flujos de trabajo internos de modo que integren en todas las fases al "equipo de transparencia". 
 
 Todo ello, para quizás tener muy poco impacto. Al fin y al cabo, se requiere de mucha motivación y tiempo libre por parte de la ciudadanía para estudiarse los registros, informes, etc... Quizás sea el periodismo y el activismo los sectores más capaces de analizar la información e informar de lo más relevante al resto de la población.
 
 Finalmente, decía que la transparencia supone un riesgo para la organización. También se puede ver como una oportunidad. Si se publica todo lo que ocurre en una organización cualquiera, muy posiblemente, algunas de las informaciones podrían ser mal interpretadas e incluso algunos comportamientos reprobables pueden quedar expuestos. Por eso es un riesgo, pero también una oportunidad. Es potencialmente un arma de doble filo y una motivación más para promover el autocontrol y erradicar todo comportamiento inmoral e ilegal tan pronto se tenga constancia de ello. En tal caso, la transparencia no solo habría contribuido a mejorar la organización sino a aumentar su confiabilidad.
 
-## Bien común
-Toda organización, política o no, carece de sentido si no ofrece un servicio público. Que persigan además sus propios intereses es aceptable siempre y cuando su actividad siga resultando en un servicio a la sociedad a un coste aceptable. 
 
-No hay que confundir "servicio público" con "bien común". 
-
-El servicio público requiere en cierta medida de reciprocidad. Desde un punto de vista amplio y no gubernamental, puede cubrir una variedad de actividades de diferentes sectores cuya característica común es que está diseñado para satisfacer ciertas necesidades de la comunidad. Desde un punto de vista más particular, el gubernamental, un servicio público es un servicio proporcionado por el gobierno a las personas que viven dentro de su jurisdicción. Los servicios públicos se financian con los impuestos de los ciudadanos y generalmente están destinados a servir al bien común. Estos servicios pueden incluir cosas como la educación, la atención sanitaria, la infraestructura (como las carreteras y los puentes), la seguridad y la protección (como la policía y los bomberos), los servicios sociales y los servicios de utilities (como el agua y la electricidad). 
-
-Toda empresa, por ejemplo, realiza también un servicio público. Lo que diferencia a las sociedades mercantiles de otro tipo de organizaciones es que estas ofrecen sus servicios en condiciones de intercambio económico.
-
-El bien común se refiere a lo que beneficia a todos los miembros de una comunidad o sociedad y engloba varios conceptos, incluido el de servicio público. Es el conjunto de condiciones sociales que permiten a los individuos, familias y comunidades alcanzar su plenitud de manera más completa y fácil. El bien común incluye aspectos básicos como el derecho a la seguridad, la justicia, la paz, la educación, la atención sanitaria, el medio ambiente sano, entre otros. En cierto sentido, el bien común es lo que promueve el bienestar general de la sociedad. 
-
-Las organizaciones políticas, no obstante, son un tipo especial de organización cuyo única motivación debería ser precisamente la de dicho servicio público a través de la gestion de los bienes públicos. Dado que se gestionan los servicios fundamentales en la promoción del bienestar general de la sociedad y el bien común, no es aceptable que un partido político persiga intereses propios.
-
-La existencia de distinstas corrientes o ideologías políticas obedece al hecho de que el "bien común" puede tener variedad de interpretaciones. Incluso cuando éstas son similares, parece posible lograr los mismos objetivos de diferente manera. Esto nuevamente es algo aceptable e incluso deseable. 
-
-Cuando se trata de ideologías resulta fácil caer en la impresión de que solo existe una verdad. Cada partido tiende a pensar que son los portadores de dicha verdad y que el resto se equivocan. Esto da lugar, eventualmente, al sentimiento de que como valedores de la única verdad deben de mantener el poder bajo cualquier circustancia. De lo contrario, resultaría fatal para la sociedad. Al final, desde su punto de vista, se trata de un acto de responsabilidad.
-
-Esta es la razón por la que muchos intelectuales pasados y contemporáneos interpretan la política como un modo de religión.
-{: .notice--warning}
-
-La política, por diversas razones, puede convertirse en el único modo de vida de algunas personas. Luego que ellos individualmente, o que sus partidos, se mantengan en el poder es la mejor manera de asegurarse un futuro sin dificultades. Todo partido político debe de luchar contra este tipo de actitud. La profesionalización de la política, puede llegar a ser positiva hasta cierto punto, pero nunca debe de estar motivada por razones distintas a la vocación de servicio público para el bien común.
 
 ## Cooperación
 Consideramos que la buena política no es aquella que se basa en vencer al oponente para poder imponer unos ideales. Las políticas que nacen bajo estas condiciones tienen pocos visos de ser duraderas porque tan pronto exista un cambio de ciclo, las nuevas fuerzas políticas intentarán derogarlas. Si no son duraderas, no lograrán sus objetivos y, por tanto, no serán eficaces.
@@ -114,7 +162,7 @@ La calidad lo es todo. Nada de lo anterior servirá si al final se obtienen pol�
 
 No se trata de buscar la perfección. Lo perfecto sería aquello que cumpla con las expectativas de toda la población. Esto parece imposible de lograr teniendo en cuenta la diversidad de opiniones, sensibilidades y necesidades de la ciudadanía.
 
-De lo que se trata entonces, es de que las "políticas" tengan los efectos esperados y que dichos efectos sirvan para la consecusión del bien común. La primera de las cuestiones es objetiva, la otra no.
+De lo que se trata entonces, es de que las "políticas" tengan los efectos esperados y que dichos efectos sirvan para la consecución del bien común. La primera de las cuestiones es objetiva, la otra no.
 
 Si se ha logrado crear una visión de bien común que pueda poner de acuerdo a la gran mayoría de la comunidad, habremos establecido las bases para crear políticas de calidad.
 
