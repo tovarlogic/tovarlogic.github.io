@@ -22,5 +22,6 @@
         
         "name": "draft",
         "type": "boolean"
-    }
+    },
+    "cSpell.language": "es,es-ES"
 }
