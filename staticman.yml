@@ -28,7 +28,7 @@ bookmarks:
   path: "_data/bookmarks/{options.slug}"
   allowedFields: ["title", "url", "category", "tags"]
   requiredFields: ["title", "url", "category"]
-  allowedOrigins: ["tovarlogic.github.io", "localhost"]
+  allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
   commitMessage: "New bookmark in {fields.category}"
   filename: "bookmark-{@timestamp}"
@@ -72,14 +72,62 @@ books:
     type: "comment"
   name: "Tovarlogic"
 
-media:
-  path: "_data/books/{options.slug}"
-  allowedFields: ["title", "url", "category", "tags", "pass"]
+papers:
+  path: "_data/papers/{options.slug}"
+  allowedFields: ["doi", "title", "url", "category", "tags", "pass", "published_year", "authors", "stars"]
   requiredFields: ["title", "url", "category", "pass"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
-  commitMessage: "New bookmark in {fields.category}"
-  filename: "bookmark-{@timestamp}"
+  commitMessage: "New paper in {fields.category}"
+  filename: "paper-{@timestamp}"
+  format: "yaml"
+  generatedFields:
+    date:
+      type: "date"
+      options:
+        format: "iso8601"
+  moderation: true
+  akismet:
+    enabled: false
+    author: "name"
+    authorEmail: "email"
+    authorUrl: "url"
+    content: "message"
+    type: "comment"
+  name: "Tovarlogic"
+
+articles:
+  path: "_data/articles/{options.slug}"
+  allowedFields: ["title", "url", "category", "tags", "pass", "published_date", "authors", "stars"]
+  requiredFields: ["title", "url", "category", "pass"]
+  allowedOrigins: ["tovarlogic.github.io"]
+  branch: "master"
+  commitMessage: "New article in {fields.category}"
+  filename: "article-{@timestamp}"
+  format: "yaml"
+  generatedFields:
+    date:
+      type: "date"
+      options:
+        format: "iso8601"
+  moderation: true
+  akismet:
+    enabled: false
+    author: "name"
+    authorEmail: "email"
+    authorUrl: "url"
+    content: "message"
+    type: "comment"
+  name: "Tovarlogic"
+
+audiovisual:
+  path: "_data/audiovisual/{options.slug}"
+  allowedFields: ["uid", "platform", "show", "title", "url", "category", "tags", "pass", "published_date", "speakers", "stars"]
+  requiredFields: ["title", "url", "category", "pass"]
+  allowedOrigins: ["tovarlogic.github.io"]
+  branch: "master"
+  commitMessage: "New audiovisual in {fields.category}"
+  filename: "audiovisual-{@timestamp}"
   format: "yaml"
   generatedFields:
     date:
@@ -97,13 +145,13 @@ media:
   name: "Tovarlogic"
 
 quotes:
-  path: "_data/books/{options.slug}"
+  path: "_data/quotes/{options.slug}"
   allowedFields: ["title", "url", "category", "tags", "pass"]
   requiredFields: ["title", "url", "category", "pass"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
-  commitMessage: "New bookmark in {fields.category}"
-  filename: "bookmark-{@timestamp}"
+  commitMessage: "New quote in {fields.category}"
+  filename: "quote-{@timestamp}"
   format: "yaml"
   generatedFields:
     date:
@@ -121,13 +169,13 @@ quotes:
   name: "Tovarlogic"
   
 recipes:
-  path: "_data/books/{options.slug}"
+  path: "_data/recipes/{options.slug}"
   allowedFields: ["title", "url", "category", "tags", "pass"]
   requiredFields: ["title", "url", "category", "pass"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
-  commitMessage: "New bookmark in {fields.category}"
-  filename: "bookmark-{@timestamp}"
+  commitMessage: "New recipe in {fields.category}"
+  filename: "recipe-{@timestamp}"
   format: "yaml"
   generatedFields:
     date:

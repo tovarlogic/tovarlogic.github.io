@@ -42,7 +42,7 @@ comments:
   staticman:
     branch: master # "master"
     option: comments
-    endpoint: http://sp-staticman.herokuapp.com/v2/entry/tovarlogic/tovarlogic.github.io/
+    endpoint: https://sp-staticman.onrender.com/v2/entry/tovarlogic/tovarlogic.github.io/
 
 # reCaptcha
 # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
