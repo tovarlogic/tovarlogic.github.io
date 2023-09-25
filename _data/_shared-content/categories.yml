@@ -14,7 +14,8 @@ bookmarks:
   - Interiorismo
   - Viajes
   - Medioambiente
-  - Formación
+  - Cursos
+  - Artículos científicos
 
 books:
   - Ensayo
@@ -47,3 +48,20 @@ recipes:
 
 quotes: 
   - Aprendizaje
+
+media:
+  - Política
+  - Sociología
+  - Filosofía
+  - Historia
+  - Ciencia y tecnología
+  - Medioambiente
+  - Desarrollo sostenible
+  - Nutrición
+  - Suplementación
+  - Medicina
+
+papers:
+  - Medicina
+  - Nutrición
+  - Ciencias sociales

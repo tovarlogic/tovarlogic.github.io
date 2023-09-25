@@ -1,0 +1,85 @@
+  {% capture comments_provider %}{{ site.comments.provider }}{% endcapture %}
+  {% capture categories %}{{ site.data._shared-content.categories.papers }}{% endcapture %}
+  {% assign categories = site.data._shared-content.categories.papers %}
+  <!-- Start data-form -->
+  <div id="respond" style="">
+    <form id="data-form" class="js-data-form" method="post" action="{{ site.comments.[comments_provider].endpoint }}{{ site.comments.[comments_provider].branch }}/papers">
+      <h4 class="title">
+        <span id="heading-text">Añadir artículo científico</span> 
+      </h4>
+      <div>
+        <label class="form-label" for="data-form-title">Título
+          <input type="text" class="form-control" id="data-form-title" name="fields[title]" required spellcheck="false">
+        </label>
+
+        <label class="form-label" for="data-form-doi">DOI
+          <input type="text" class="form-control" id="data-form-doi" name="fields[doi]" required spellcheck="false">
+        </label>
+
+        <label class="form-label" for="data-form-url">URL
+          <input type="text" class="form-control" id="data-form-url" name="fields[url]" required spellcheck="false">
+        </label>
+        
+        <label class="form-label" for="data-form-category">Categoría
+            <select class="form-select" id="data-form-category" name="fields[category]" aria-label="Default select category">
+                <option selected>-- Selecciona --</option>
+                {% for category in categories %}
+                    <option value="{{category}}">{{category}}</option>
+                {% endfor %}
+            </select>
+        </label>
+
+        <label class="form-label" for="data-form-tags">Etiquetas
+            <input type="text" class="form-control" id="data-form-tags" name="fields[tags]" spellcheck="false">
+        </label>
+
+        <label class="form-label" for="data-form-published_date">Fecha publicación
+          <input type="text" class="form-control" id="data-form-published_date" name="fields[published_date]" spellcheck="false">
+        </label>
+
+        <label class="form-label" for="data-form-authors">Autores
+          <input type="text" class="form-control" id="data-form-authors" name="fields[authors]" spellcheck="false">
+        </label>
+
+        <label class="form-label" for="data-form-stars">Valoración
+          <select class="form-select" id="data-form-stars" name="fields[stars]" aria-label="Default select stars">
+              <option value="5">
+                  <span class="stars-container stars-{{ 5 | times:20 | round: 0 }}" title="5/5">★★★★★</span>
+              </option>
+              <option value="4">
+                  <span class="stars-container stars-{{ 4 | times:20 | round: 0 }}" title="4/5">★★★★</span>
+              </option>
+              <option value="3">
+                  <span class="stars-container stars-{{ 3 | times:20 | round: 0 }}" title="3/5">★★★</span>
+              </option>
+              <option value="2">
+                  <span class="stars-container stars-{{ 2 | times:20 | round: 0 }}" title="2/5">★★</span>
+              </option>
+              <option value="1">
+                  <span class="stars-container stars-{{ 1 | times:20 | round: 0 }}" title="1/5">★</span>
+              </option>
+          </select>
+      </label>
+
+      </div>
+    
+      <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}#comments">
+      {% if site.reCaptcha.enabled %}
+      <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
+      <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">
+      {% endif %}
+
+      {% if site.reCaptcha.enabled %}
+        <div class="g-recaptcha mb-3" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
+      {% endif %}
+      <div class="mb-3">
+        <button type="submit" class="btn btn-primary" id="data-form-submit">Enviar comentario</button>
+        <a class="btn btn-outline-danger" id="hide-data-form" href="#" role="button">Cancelar comentario</a>
+      </div>
+      </form>
+    
+    <div class="hidden js-notice notice">
+      <p class="js-notice-text text-danger"></p>
+    </div>
+  </div>
+  <!-- End data-form -->

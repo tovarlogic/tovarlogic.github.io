@@ -146,8 +146,8 @@ audiovisual:
 
 quotes:
   path: "_data/quotes/{options.slug}"
-  allowedFields: ["title", "url", "category", "tags", "pass"]
-  requiredFields: ["title", "url", "category", "pass"]
+  allowedFields: ["title", "author", "source", "category", "tags", "pass"]
+  requiredFields: ["title", "author", "category", "pass"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
   commitMessage: "New quote in {fields.category}"
