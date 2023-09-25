@@ -84,9 +84,9 @@
                   <span class="stars-container stars-{{ 1 | times:20 | round: 0 }}" title="1/5">★</span>
               </option>
           </select>
-      </label>
+        </label>
 
-      {% if include.data = 'books' %}
+      {% if include.data == 'books' %}
         {% assign statuses = site.data._shared-content.status.books %}
         <label class="form-label" for="data-form-status">Estado lectura
           <select class="form-select" id="data-form-status" name="fields[status]" aria-label="Default select status">

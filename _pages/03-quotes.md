@@ -14,5 +14,5 @@ data_type: quotes
         </button>
     </span>
 
-    {% include forms/data-form.html data_type='quotes'%} 
+    {% include forms/data-form.html data_type='quotes' %} 
 </div>
