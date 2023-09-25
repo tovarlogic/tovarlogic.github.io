@@ -51,7 +51,7 @@ bookmarks:
 books:
   path: "_data/books/{options.slug}"
   allowedFields: ["title", "authors", "isbn", "categories", "tags", "status", "stars"]
-  requiredFields: ["title", "authors", "isbn", "categories", "tags", "status", "stars"]
+  requiredFields: ["title", "authors", "isbn", "categories", "status", "stars"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
   commitMessage: "New book in {fields.categories}"
