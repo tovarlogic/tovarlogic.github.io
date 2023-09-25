@@ -5,8 +5,7 @@ layout: archive
 {{ content }}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-
-{% assign grouped_data = site.data.bookmarks | group_by_exp: 'data', 'data[1].category' %}
+{% assign grouped_data = site.data[page.data_type] | group_by_exp: 'data', 'data[1].category' %}
 
   <ul class="taxonomy__index">
     {% for list in grouped_data %}
@@ -25,7 +24,7 @@ layout: archive
     <div class="entries-{{ entries_layout }}">
       {% for data in list.items %}
           {% assign item = data[1] %}
-          {% include archive-single-bookmarks.html type=entries_layout %}
+          {% include archive-single-categorized-data.html type=entries_layout %}
       {% endfor %}
     </div>
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>

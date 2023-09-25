@@ -1,35 +1,52 @@
   {% capture comments_provider %}{{ site.comments.provider }}{% endcapture %}
-  {% capture categories %}{{ site.data._shared-content.categories.media }}{% endcapture %}
-  {% assign categories = site.data._shared-content.categories.media %}
+  {% assign categories = site.data._shared-content.categories[include.data_type]%}
   <!-- Start data-form -->
   <div id="respond" style="">
-    <form id="data-form" class="js-data-form" method="post" action="{{ site.comments.[comments_provider].endpoint }}{{ site.comments.[comments_provider].branch }}/audiovisual">
+    <form id="data-form" class="js-data-form" method="post" action="{{ site.comments.[comments_provider].endpoint }}{{ site.comments.[comments_provider].branch }}/{{include.data_type}}">
       <h4 class="title">
-        <span id="heading-text">Añadir artículo</span> 
+        <span id="heading-text">{{include.data_type}}</span> 
       </h4>
       <div>
         <label class="form-label" for="data-form-title">Título
           <input type="text" class="form-control" id="data-form-title" name="fields[title]" required spellcheck="false">
         </label>
 
-        <label class="form-label" for="data-form-uid">UID
-          <input type="text" class="form-control" id="data-form-uid" name="fields[uid]" required spellcheck="false">
-        </label>
-
-        <label class="form-label" for="data-form-platform">Plataforma
-          <select class="form-select" id="data-form-platform" name="fields[platform]" required aria-label="Default select platform">
-              <option selected>-- Selecciona --</option>
-                  <option value="youtube">Youtube</option>
-                  <option value="ivoox">iVoox</option>
-          </select>
-        </label>
-
-        <label class="form-label" for="data-form-url">URL
-          <input type="text" class="form-control" id="data-form-url" name="fields[url]" spellcheck="false">
-        </label>
+        {% if include.data_type == 'papers' %}
+          <label class="form-label" for="data-form-doi">DOI
+            <input type="text" class="form-control" id="data-form-doi" name="fields[doi]" required spellcheck="false">
+          </label>
+        {% elsif include.data_type == 'audiovisuals' %}
+          <label class="form-label" for="data-form-uid">UID
+            <input type="text" class="form-control" id="data-form-uid" name="fields[uid]" required spellcheck="false">
+          </label>
+        {% elsif include.data_type == 'books' %}
+          <label class="form-label" for="data-form-isbn">ISBN
+            <input type="text" class="form-control" id="data-form-isbn" name="fields[isbn]" required spellcheck="false">
+          </label>
+        {% endif %}
         
-        <label class="form-label" for="data-form-category">Categoría
-            <select class="form-select" id="data-form-category" name="fields[category]" aria-label="Default select category">
+        {% if include.data_type == 'bookmarks' or include.data_type == 'papers' or include.data_type == 'articles' or include.data_type == 'audiovisuals' or include.data_type == 'recipes %}
+          <label class="form-label" for="data-form-url">URL
+            <input type="text" class="form-control" id="data-form-url" name="fields[url]" required spellcheck="false">
+          </label>
+        {% elsif include.data_type == 'quotes' %}
+          <label class="form-label" for="data-form-source">Fuente
+            <input type="text" class="form-control" id="data-form-source" name="fields[source]" required spellcheck="false">
+          </label>
+        {% endif %}
+        
+        {% if include.data_type == 'audiovisuals' %}
+          <label class="form-label" for="data-form-platform">Plataforma
+            <select class="form-select" id="data-form-platform" name="fields[platform]" required aria-label="Default select platform">
+                <option selected>-- Selecciona --</option>
+                    <option value="youtube">Youtube</option>
+                    <option value="ivoox">iVoox</option>
+            </select>
+          </label>
+        {% endif %}
+
+        <label class="form-label" for="data-form-categories">Categoría
+            <select class="form-select" id="data-form-categories" name="fields[categories]" aria-label="Default select categories">
                 <option selected>-- Selecciona --</option>
                 {% for category in categories %}
                     <option value="{{category}}">{{category}}</option>
@@ -45,8 +62,8 @@
           <input type="text" class="form-control" id="data-form-published_date" name="fields[published_date]" spellcheck="false">
         </label>
 
-        <label class="form-label" for="data-form-speakers">Intervinientes
-          <input type="text" class="form-control" id="data-form-speakers" name="fields[speakers]" spellcheck="false">
+        <label class="form-label" for="data-form-authors">Autores
+          <input type="text" class="form-control" id="data-form-authors" name="fields[authors]" spellcheck="false">
         </label>
 
         <label class="form-label" for="data-form-stars">Valoración
@@ -81,8 +98,8 @@
         <div class="g-recaptcha mb-3" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
       {% endif %}
       <div class="mb-3">
-        <button type="submit" class="btn btn-primary" id="data-form-submit">Enviar</button>
-        <a class="btn btn-outline-danger" id="hide-data-form" href="#" role="button">Cancelar</a>
+        <button type="submit" class="btn btn-primary" id="data-form-submit">Enviar comentario</button>
+        <a class="btn btn-outline-danger" id="hide-data-form" href="#" role="button">Cancelar comentario</a>
       </div>
       </form>
     

@@ -1,7 +1,7 @@
 ---
 title: "Arítulos organizados por fecha"
 breadcrumb_name: Articulos científicos
-data_type: papres
+data_type: papers
 layout: categorized-data
 entries_layout: grid
 classes: wide
@@ -16,7 +16,7 @@ permalink: /papers/
         </button>
     </span>
 
-    {% include forms/paper-form.html %} 
+    {% include forms/data-form.html data_type='papers' %} 
 </div>
 
 

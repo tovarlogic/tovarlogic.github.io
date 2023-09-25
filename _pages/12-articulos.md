@@ -16,7 +16,7 @@ permalink: /articulos/
         </button>
     </span>
 
-    {% include forms/article-form.html %} 
+    {% include forms/data-form.html data_type='articles' %} 
 </div>
 
 

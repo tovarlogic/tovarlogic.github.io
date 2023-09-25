@@ -1,0 +1,60 @@
+{% if page.data_type == 'bookmarks' %}
+    <a href="{{ item.url}}" target="_blank">{{ item.title}}</a>
+
+{% elsif page.data_type == 'quotes' %}
+    <p>"{{ item.quote }}" - {{ item.author }}</p>
+
+{% elsif page.data_type == 'audiovisuals' %}
+    <div class="{{ include.type | default: 'list' }}__item">
+        <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+        <div>
+            {% if item.platform == 'ivoox' %}
+                {% include /media/podcast-ivoox-player-mini.html id=item.uid %}
+            {% elsif item.platform == 'youtube' %}
+                {% include /media/video-youtube-player-mini.html id=item.uid provider=item.platform %}
+            {% endif %}
+            </div>
+                <span class="stars-container stars-{{ podcast.stars | times:20 | round: 0 }}" title="{{ podcast.stars }}/5">★★★★★</span><br>
+                {% if item.review %}<a href="/podcasts/reviews/{{ podcast.review }}"> Mis notas </a>{% endif %}
+                {% if item.posts %}
+                    {% for post in item.posts %}
+                        <a href="/blog/{{ post }}"> Notas </a><br>
+                    {% endfor %}
+                {% endif %}
+        </article>
+    </div>
+
+{% elsif page.data_type == 'articles' %}
+    <a href="{{ item.url}}" target="_blank">{{ item.title}}</a>
+
+{% elsif page.data_type == 'papers' %}
+    <a href="https://sci-hub.se/{{ item.doi}}" target="_blank">{{ item.title}}</a>
+
+{% elsif page.data_type == 'books' %}
+    <div class="{{ include.type | default: 'list' }}__item">
+        <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+        <div>
+            {% if item.review %}
+                <a href="/blog/{{ item.review }}">
+                {% if item.isbn %}
+                    <img alt="{{ item.title }}" src="http://covers.openlibrary.org/b/isbn/{{ item.isbn }}-M.jpg">
+                {% else %}
+                    {{ item.title }} por {{ item.author }}
+                {% endif %}
+                </a>
+            {% else %}
+                {% if item.isbn %}
+                    <img alt="{{ item.title }}" src="http://covers.openlibrary.org/b/isbn/{{ item.isbn }}-M.jpg">
+                {% else %}
+                    {{ item.title }} por {{ item.author }}
+                {% endif %}
+            {% endif %}
+            </div>
+                {% if item.status == 'read' %}
+                <span class="stars-container stars-{{ item.stars | times:20 | round: 0 }}" title="{{ item.stars }}/5">★★★★★</span><br>
+                {% endif %}
+                {% if item.review %}<a href="/blog/{{ item.review }}"> Mis notas </a>{% endif %}
+        </article>
+    </div>
+
+{% endif %}

@@ -26,11 +26,11 @@ comments:
 
 bookmarks:
   path: "_data/bookmarks/{options.slug}"
-  allowedFields: ["title", "url", "category", "tags"]
-  requiredFields: ["title", "url", "category"]
+  allowedFields: ["title", "url", "categories", "tags"]
+  requiredFields: ["title", "url", "categories"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
-  commitMessage: "New bookmark in {fields.category}"
+  commitMessage: "New bookmark in {fields.categories}"
   filename: "bookmark-{@timestamp}"
   format: "yaml"
   generatedFields:
@@ -50,11 +50,11 @@ bookmarks:
 
 books:
   path: "_data/books/{options.slug}"
-  allowedFields: ["title", "author", "isbn", "category", "tags", "status", "stars"]
-  requiredFields: ["title", "author", "isbn", "category", "tags", "status", "stars"]
+  allowedFields: ["title", "author", "isbn", "categories", "tags", "status", "stars"]
+  requiredFields: ["title", "author", "isbn", "categories", "tags", "status", "stars"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
-  commitMessage: "New book in {fields.category}"
+  commitMessage: "New book in {fields.categories}"
   filename: "book-{@timestamp}"
   format: "yaml"
   generatedFields:
@@ -74,11 +74,11 @@ books:
 
 papers:
   path: "_data/papers/{options.slug}"
-  allowedFields: ["doi", "title", "url", "category", "tags", "pass", "published_year", "authors", "stars"]
-  requiredFields: ["title", "url", "category", "pass"]
+  allowedFields: ["doi", "title", "url", "categories", "tags", "pass", "published_year", "authors", "stars"]
+  requiredFields: ["title", "url", "categories", "pass"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
-  commitMessage: "New paper in {fields.category}"
+  commitMessage: "New paper in {fields.categories}"
   filename: "paper-{@timestamp}"
   format: "yaml"
   generatedFields:
@@ -98,11 +98,11 @@ papers:
 
 articles:
   path: "_data/articles/{options.slug}"
-  allowedFields: ["title", "url", "category", "tags", "pass", "published_date", "authors", "stars"]
-  requiredFields: ["title", "url", "category", "pass"]
+  allowedFields: ["title", "url", "categories", "tags", "pass", "published_date", "authors", "stars"]
+  requiredFields: ["title", "url", "categories", "pass"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
-  commitMessage: "New article in {fields.category}"
+  commitMessage: "New article in {fields.categories}"
   filename: "article-{@timestamp}"
   format: "yaml"
   generatedFields:
@@ -120,13 +120,13 @@ articles:
     type: "comment"
   name: "Tovarlogic"
 
-audiovisual:
+audiovisuals:
   path: "_data/audiovisual/{options.slug}"
-  allowedFields: ["uid", "platform", "show", "title", "url", "category", "tags", "pass", "published_date", "speakers", "stars"]
-  requiredFields: ["title", "url", "category", "pass"]
+  allowedFields: ["uid", "platform", "show", "title", "url", "categories", "tags", "pass", "published_date", "speakers", "stars"]
+  requiredFields: ["title", "url", "categories", "pass"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
-  commitMessage: "New audiovisual in {fields.category}"
+  commitMessage: "New audiovisual in {fields.categories}"
   filename: "audiovisual-{@timestamp}"
   format: "yaml"
   generatedFields:
@@ -146,11 +146,11 @@ audiovisual:
 
 quotes:
   path: "_data/quotes/{options.slug}"
-  allowedFields: ["title", "author", "source", "category", "tags", "pass"]
-  requiredFields: ["title", "author", "category", "pass"]
+  allowedFields: ["title", "author", "source", "categories", "tags", "pass"]
+  requiredFields: ["title", "author", "categories", "pass"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
-  commitMessage: "New quote in {fields.category}"
+  commitMessage: "New quote in {fields.categories}"
   filename: "quote-{@timestamp}"
   format: "yaml"
   generatedFields:
@@ -170,11 +170,11 @@ quotes:
   
 recipes:
   path: "_data/recipes/{options.slug}"
-  allowedFields: ["title", "url", "category", "tags", "pass"]
-  requiredFields: ["title", "url", "category", "pass"]
+  allowedFields: ["title", "url", "categories", "tags", "pass"]
+  requiredFields: ["title", "url", "categories", "pass"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
-  commitMessage: "New recipe in {fields.category}"
+  commitMessage: "New recipe in {fields.categories}"
   filename: "recipe-{@timestamp}"
   format: "yaml"
   generatedFields:
