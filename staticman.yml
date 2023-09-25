@@ -74,7 +74,7 @@ books:
 
 papers:
   path: "_data/papers/{options.slug}"
-  allowedFields: ["doi", "title", "url", "categories", "tags", "published_year", "authors", "stars"]
+  allowedFields: ["doi", "title", "url", "categories", "tags", "published_date", "authors", "stars"]
   requiredFields: ["title", "doi", "categories"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
