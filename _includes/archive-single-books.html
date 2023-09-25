@@ -6,14 +6,14 @@
               {% if book.isbn %}
                 <img alt="{{ book.title }}" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg">
               {% else %}
-                {{ book.title }} por {{ book.author }}
+                {{ book.title }} por {{ book.authors }}
               {% endif %}
             </a>
           {% else %}
             {% if book.isbn %}
                 <img alt="{{ book.title }}" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-M.jpg">
               {% else %}
-                {{ book.title }} por {{ book.author }}
+                {{ book.title }} por {{ book.authors }}
               {% endif %}
           {% endif %}
         </div>

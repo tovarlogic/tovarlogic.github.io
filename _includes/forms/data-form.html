@@ -86,6 +86,17 @@
           </select>
       </label>
 
+      {% if include.data = 'books' %}
+        {% assign statuses = site.data._shared-content.status.books %}
+        <label class="form-label" for="data-form-status">Estado lectura
+          <select class="form-select" id="data-form-status" name="fields[status]" aria-label="Default select status">
+              {% for status in statuses %}
+                  <option value="{{status}}">{{status}}</option>
+              {% endfor %}
+          </select>
+        </label>
+      {% endif %}
+
       </div>
     
       <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
