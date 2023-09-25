@@ -74,8 +74,8 @@ books:
 
 papers:
   path: "_data/papers/{options.slug}"
-  allowedFields: ["doi", "title", "url", "categories", "tags", "pass", "published_year", "authors", "stars"]
-  requiredFields: ["title", "url", "categories", "pass"]
+  allowedFields: ["doi", "title", "url", "categories", "tags", "published_year", "authors", "stars"]
+  requiredFields: ["title", "doi", "categories"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
   commitMessage: "New paper in {fields.categories}"
@@ -98,8 +98,8 @@ papers:
 
 articles:
   path: "_data/articles/{options.slug}"
-  allowedFields: ["title", "url", "categories", "tags", "pass", "published_date", "authors", "stars"]
-  requiredFields: ["title", "url", "categories", "pass"]
+  allowedFields: ["title", "url", "categories", "tags", "published_date", "authors", "stars"]
+  requiredFields: ["title", "url", "categories"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
   commitMessage: "New article in {fields.categories}"
@@ -122,8 +122,8 @@ articles:
 
 audiovisuals:
   path: "_data/audiovisual/{options.slug}"
-  allowedFields: ["uid", "platform", "show", "title", "url", "categories", "tags", "pass", "published_date", "speakers", "stars"]
-  requiredFields: ["title", "url", "categories", "pass"]
+  allowedFields: ["uid", "platform", "show", "title", "url", "categories", "tags", "published_date", "speakers", "stars"]
+  requiredFields: ["title", "url", "categories"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
   commitMessage: "New audiovisual in {fields.categories}"
@@ -146,8 +146,8 @@ audiovisuals:
 
 quotes:
   path: "_data/quotes/{options.slug}"
-  allowedFields: ["title", "author", "source", "categories", "tags", "pass"]
-  requiredFields: ["title", "author", "categories", "pass"]
+  allowedFields: ["title", "author", "source", "categories", "tags"]
+  requiredFields: ["title", "author", "categories"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
   commitMessage: "New quote in {fields.categories}"
@@ -170,8 +170,8 @@ quotes:
   
 recipes:
   path: "_data/recipes/{options.slug}"
-  allowedFields: ["title", "url", "categories", "tags", "pass"]
-  requiredFields: ["title", "url", "categories", "pass"]
+  allowedFields: ["title", "url", "categories", "tags"]
+  requiredFields: ["title", "url", "categories"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
   commitMessage: "New recipe in {fields.categories}"
