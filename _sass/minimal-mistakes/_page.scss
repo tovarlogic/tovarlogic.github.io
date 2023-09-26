@@ -368,14 +368,26 @@ body {
 .taxonomy__index {
   display: grid;
   grid-column-gap: 2em;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   margin: 1.414em 0;
   padding: 0;
   font-size: 0.75em;
   list-style: none;
 
-  @include breakpoint($large) {
+  @include breakpoint($small) {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  @include breakpoint($medium) {
     grid-template-columns: repeat(3, 1fr);
+  }
+
+  @include breakpoint($medium-wide) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  @include breakpoint($x-large) {
+    grid-template-columns: repeat(5, 1fr);
   }
 
   a {

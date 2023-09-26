@@ -1,5 +1,10 @@
   {% capture comments_provider %}{{ site.comments.provider }}{% endcapture %}
-  {% assign categories = site.data._shared-content.categories[include.data_type]%}
+  {% if include.data_type == 'articles' or include.data_type == 'audiovisuals' or include.data_type == 'bookmarks' %}
+    {% assign categories = site.data._shared-content.categories.media %}
+  {% else %}
+    {% assign categories = site.data._shared-content.categories[include.data_type] %}
+  {% endif %}
+  
   <!-- Start data-form -->
   <div id="respond" style="">
     <form id="data-form" class="js-data-form" method="post" action="{{ site.comments.[comments_provider].endpoint }}{{ site.comments.[comments_provider].branch }}/{{include.data_type}}">
@@ -11,9 +16,18 @@
           <input type="text" class="form-control" id="data-form-title" name="fields[title]" required spellcheck="false">
         </label>
 
-        {% if include.data_type == 'papers' %}
+        {% if include.data_type == 'articles' %}
+          <label class="form-label" for="data-form-type">Tipo de artículo
+            <select class="form-select" id="data-form-type" name="fields[type]" aria-label="Default select type">
+              <option value="paper">Artículo científico</option>
+              <option value="article">Artículo online</option>
+            </select>
+          </label>
+        {% endif %}
+
+        {% if include.data_type == 'articles' %}
           <label class="form-label" for="data-form-doi">DOI
-            <input type="text" class="form-control" id="data-form-doi" name="fields[doi]" required spellcheck="false">
+            <input type="text" class="form-control" id="data-form-doi" name="fields[doi]" spellcheck="false">
           </label>
         {% elsif include.data_type == 'audiovisuals' %}
           <label class="form-label" for="data-form-uid">UID
@@ -25,11 +39,11 @@
           </label>
         {% endif %}
         
-        {% if include.data_type == 'bookmarks' or include.data_type == 'articles' %}
+        {% if include.data_type == 'bookmarks' %}
           <label class="form-label" for="data-form-url">URL
             <input type="text" class="form-control" id="data-form-url" name="fields[url]" required spellcheck="false">
           </label>
-        {% elsif include.data_type == 'papers' or include.data_type == 'audiovisuals' or include.data_type == 'recipes %}
+        {% elsif include.data_type == 'articles' or include.data_type == 'audiovisuals' or include.data_type == 'recipes %}
           <label class="form-label" for="data-form-url">URL
             <input type="text" class="form-control" id="data-form-url" name="fields[url]" spellcheck="false">
           </label>

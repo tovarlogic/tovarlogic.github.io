@@ -1,21 +1,20 @@
-bookmarks:
-  - Pensamiento crítico
-  - Política nacional
-  - Política europea
-  - Geopolítica
+media:
+  - Política
   - Sociología
-  - Derecho
   - Filosofía
   - Historia
   - Ciencia
   - Tecnología e innovación
-  - Exploración espacial
-  - Arquitectura
-  - Interiorismo
-  - Viajes
   - Medioambiente
-  - Cursos
-  - Artículos científicos
+  - Nutrición
+  - Suplementación
+  - Medicina
+  - Pensamiento crítico
+  - Derecho
+  - Geopolítica
+  - Arquitectura e interiorismo
+  - Agricultura
+  - Viajes
 
 books:
   - Ensayo
@@ -49,19 +48,3 @@ recipes:
 quotes: 
   - Aprendizaje
 
-media:
-  - Política
-  - Sociología
-  - Filosofía
-  - Historia
-  - Ciencia y tecnología
-  - Medioambiente
-  - Desarrollo sostenible
-  - Nutrición
-  - Suplementación
-  - Medicina
-
-papers:
-  - Medicina
-  - Nutrición
-  - Ciencias sociales

@@ -1,11 +1,15 @@
 {% if page.data_type == 'bookmarks' %}
-    <a href="{{ item.url}}" target="_blank">{{ item.title}}</a>
+    <div class="list__item">
+        <a href="{{ item.url}}" target="_blank">{{ item.title}}</a>
+    </div>
 
 {% elsif page.data_type == 'quotes' %}
-    <p>"{{ item.quote }}" - {{ item.author }}</p>
+    <div class="list__item">
+        <p>"{{ item.quote }}" - {{ item.author }}</p>
+    </div>
 
 {% elsif page.data_type == 'audiovisuals' %}
-    <div class="{{ include.type | default: 'list' }}__item">
+    <div class="grid__item">
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <div>
             {% if item.platform == 'ivoox' %}
@@ -25,13 +29,27 @@
     </div>
 
 {% elsif page.data_type == 'articles' %}
-    <a href="{{ item.url}}" target="_blank">{{ item.title}}</a>
-
+    <div class="list__item">
+    {% if item.type == 'paper' %}
+        <a href="https://sci-hub.se/{{ item.doi}}" target="_blank">{{ item.title}}</a>
+    {% else %}
+        <a href="{{ item.url}}" target="_blank">{{ item.title}}</a>
+    {% endif %}
+        <p class="page__meta">
+            <span class="page__meta-date">
+                <strong>Consultado:</strong>
+                <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+                <time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%-d %B, %Y" }}</time>
+            </span>
+            <span class="page__meta-status text-primary">
+                {% for tag in item.tags %} | {{ tag }}{% endfor %}
+            </span>
+        </p>
+    </div>
 {% elsif page.data_type == 'papers' %}
-    <a href="https://sci-hub.se/{{ item.doi}}" target="_blank">{{ item.title}}</a>
 
 {% elsif page.data_type == 'books' %}
-    <div class="{{ include.type | default: 'list' }}__item">
+    <div class="grid__item">
         <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
         <div>
             {% if item.review %}
