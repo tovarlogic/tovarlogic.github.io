@@ -1,6 +1,16 @@
 {% if page.data_type == 'bookmarks' %}
     <div class="list__item">
         <a href="{{ item.url}}" target="_blank">{{ item.title}}</a>
+        <p class="page__meta">
+            <span class="page__meta-date">
+                <strong>Consultado:</strong>
+                <i class="far fa-fw fa-calendar-alt" aria-hidden="true"></i>
+                <time datetime="{{ item.date | date_to_xmlschema }}">{{ item.date | date: "%-d %B, %Y" }}</time>
+            </span>
+            <span class="page__meta-status text-primary">
+                {% for tag in item.tags %} | {{ tag }}{% endfor %}
+            </span>
+        </p>
     </div>
 
 {% elsif page.data_type == 'quotes' %}
@@ -46,7 +56,6 @@
             </span>
         </p>
     </div>
-{% elsif page.data_type == 'papers' %}
 
 {% elsif page.data_type == 'books' %}
     <div class="grid__item">

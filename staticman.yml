@@ -98,7 +98,7 @@ articles:
 
 audiovisuals:
   path: "_data/audiovisual/{options.slug}"
-  allowedFields: ["uid", "platform", "show", "title", "url", "categories", "tags", "published_date", "speakers", "stars"]
+  allowedFields: ["uid", "platform", "show", "title", "url", "categories", "tags", "published_date", "authors", "stars"]
   requiredFields: ["title", "categories"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
