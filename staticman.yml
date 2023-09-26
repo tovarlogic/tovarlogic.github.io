@@ -99,7 +99,7 @@ articles:
 audiovisuals:
   path: "_data/audiovisual/{options.slug}"
   allowedFields: ["uid", "platform", "show", "title", "url", "categories", "tags", "published_date", "speakers", "stars"]
-  requiredFields: ["title", "url", "categories"]
+  requiredFields: ["title", "categories"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
   commitMessage: "New audiovisual in {fields.categories}"
