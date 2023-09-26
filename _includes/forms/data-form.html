@@ -19,6 +19,7 @@
         {% if include.data_type == 'articles' %}
           <label class="form-label" for="data-form-type">Tipo de artículo
             <select class="form-select" id="data-form-type" name="fields[type]" aria-label="Default select type">
+              <option selected>-- Selecciona --</option>
               <option value="paper">Artículo científico</option>
               <option value="article">Artículo online</option>
             </select>
@@ -84,9 +85,10 @@
           <input type="text" class="form-control" id="data-form-authors" name="fields[authors]" spellcheck="false">
         </label>
 
-        {% unless include.data_type == 'books' or include.data_type == 'audiovisuals'}
+        {% unless include.data_type == 'books' or include.data_type == 'audiovisuals' %}
         <label class="form-label" for="data-form-stars">Valoración
           <select class="form-select" id="data-form-stars" name="fields[stars]" aria-label="Default select stars">
+              <option selected>-- Selecciona --</option>
               <option value=5>
                   <span class="stars-container stars-{{ 5 | times:20 | round: 0 }}" title="5/5">★★★★★</span>
               </option>
