@@ -38,7 +38,7 @@ bookmarks:
       type: "date"
       options:
         format: "iso8601"
-  moderation: true
+  moderation: false
   akismet:
     enabled: false
     author: "name"
@@ -62,7 +62,7 @@ books:
       type: "date"
       options:
         format: "iso8601"
-  moderation: true
+  moderation: false
   akismet:
     enabled: false
     author: "name"
@@ -86,7 +86,7 @@ articles:
       type: "date"
       options:
         format: "iso8601"
-  moderation: true
+  moderation: false
   akismet:
     enabled: false
     author: "name"
@@ -110,7 +110,7 @@ audiovisuals:
       type: "date"
       options:
         format: "iso8601"
-  moderation: true
+  moderation: false
   akismet:
     enabled: false
     author: "name"
@@ -134,7 +134,7 @@ quotes:
       type: "date"
       options:
         format: "iso8601"
-  moderation: true
+  moderation: false
   akismet:
     enabled: false
     author: "name"
@@ -158,7 +158,7 @@ recipes:
       type: "date"
       options:
         format: "iso8601"
-  moderation: true
+  moderation: false
   akismet:
     enabled: false
     author: "name"
