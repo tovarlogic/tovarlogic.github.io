@@ -72,34 +72,10 @@ books:
     type: "comment"
   name: "Tovarlogic"
 
-papers:
-  path: "_data/papers/{options.slug}"
-  allowedFields: ["doi", "title", "url", "categories", "tags", "published_date", "authors", "stars"]
-  requiredFields: ["title", "doi", "categories"]
-  allowedOrigins: ["tovarlogic.github.io"]
-  branch: "master"
-  commitMessage: "New paper in {fields.categories}"
-  filename: "paper-{@timestamp}"
-  format: "yaml"
-  generatedFields:
-    date:
-      type: "date"
-      options:
-        format: "iso8601"
-  moderation: true
-  akismet:
-    enabled: false
-    author: "name"
-    authorEmail: "email"
-    authorUrl: "url"
-    content: "message"
-    type: "comment"
-  name: "Tovarlogic"
-
 articles:
   path: "_data/articles/{options.slug}"
-  allowedFields: ["title", "url", "categories", "tags", "published_date", "authors", "stars"]
-  requiredFields: ["title", "url", "categories"]
+  allowedFields: ["title", "doi", "type", "url", "categories", "tags", "published_date", "authors", "stars"]
+  requiredFields: ["title", "type", "categories"]
   allowedOrigins: ["tovarlogic.github.io"]
   branch: "master"
   commitMessage: "New article in {fields.categories}"
