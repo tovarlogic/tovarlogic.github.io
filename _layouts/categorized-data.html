@@ -5,7 +5,7 @@ layout: archive
 {{ content }}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-{% assign grouped_data = site.data[page.data_type] | group_by_exp: 'data', 'data[1].category' %}
+{% assign grouped_data = site.data[page.data_type] | group_by_exp: 'data', 'data[1].categories' %}
 
   <ul class="taxonomy__index">
     {% for list in grouped_data %}
