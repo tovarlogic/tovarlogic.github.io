@@ -85,7 +85,7 @@
           <input type="text" class="form-control" id="data-form-authors" name="fields[authors]" spellcheck="false">
         </label>
 
-        {% unless include.data_type == 'books' or include.data_type == 'audiovisuals' %}
+        {% if include.data_type == 'books' or include.data_type == 'audiovisuals' %}
         <label class="form-label" for="data-form-stars">Valoración
           <select class="form-select" id="data-form-stars" name="fields[stars]" aria-label="Default select stars">
               <option selected>-- Selecciona --</option>
@@ -106,7 +106,7 @@
               </option>
           </select>
         </label>
-        {% endunless %}
+        {% endif %}
 
       {% if include.data_type == 'books' %}
         {% assign statuses = site.data._shared-content.status.books %}
