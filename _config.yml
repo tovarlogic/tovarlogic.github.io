@@ -341,6 +341,7 @@ defaults:
     values:
       type: notas
       permalink: notas/:title
+      toc: false
   # _pages
   - scope:
       path: "_pages"
