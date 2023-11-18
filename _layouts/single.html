@@ -55,6 +55,18 @@ layout: default
         {% endif %}
 
         {{ content }}
+        
+        {% if page.references %}
+          <h2 id="front-end_references" class="">Referencias</h2>
+          <ul>
+          {% for reference in page.references %}
+            {% unless 'url' in reference %}
+              {% assign reference = site.data.references | where: 'id' , reference.id %}
+            {% endunless %}
+            <li><a href="{{ reference.url }}">{{ reference.title }}</a></li>
+          {% endfor %}
+          </ul>
+        {% endif %}
 
         {% if page.bookmarks %}
           {% for bookmark_category in page.bookmarks %}

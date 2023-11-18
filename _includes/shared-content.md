@@ -2,7 +2,7 @@
 ## Definiciones
 	{% for def-category in page.definitions %}
 ### {{def-category | capitalize }}
-		{% for definition in site.data._shared-content.definitions[def-category] %}
+		{% for definition in site.data.definitions[def-category] %}
 - {{ definition.key }}
 : {{ definition.value }}
 		{% endfor %}
@@ -11,7 +11,7 @@
 
 {% if page.acronyms %}
 	{% for acr-category in page.acronyms %}
-		{% for acronym in site.data._shared-content.acronyms[acr-category] %}
+		{% for acronym in site.data.acronyms[acr-category] %}
 *[{{ acronym.key }}]: {{ acronym.value }}
 		{% endfor %}
 	{% endfor %}

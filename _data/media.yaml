@@ -1,0 +1,122 @@
+- id: EwM9CuGcBgI
+  type: video 
+  title: Western liberal democracy would be wrong for China
+  platform: youtube
+  show: Intelligence-Squared
+  speakers: []
+  date: 2023-01-24
+  stars: 4
+  category: [Política]
+  tags: [democracia]
+  posts: [otras-formas-gobierno]
+
+- id: w06x8Q_hdMU
+  type: video 
+  title: "One Size Doesn't Fit All: Democracy is Not Always the Best Form of Government"
+  platform: youtube
+  show: Intelligence-Squared
+  speakers: []
+  date: 2023-01-20
+  stars: 3
+  category: [Política]
+  tags: [democracia]
+  posts: [otras-formas-gobierno]
+
+- id: 78555823
+  type: podcast
+  title: Building Africa’s Great Green Wall Project
+  platform: ivoox
+  show: Intelligence Squared
+  speakers: [speaker]
+  date: 2021-05-18
+  stars: 3
+  category: [Medioambiente]
+  tags: [reforestacion]
+  posts: [2021-05-18-reglas-oro-reforestacion]
+    
+- id: 76599303
+  type: podcast
+  title: The Battle Over Free Speech and trigger warnings
+  platform: ivoox
+  show: Intelligence Squared
+  speakers: [speaker]
+  date: 2021-11-01
+  stars: 4
+  category: [sociologia]
+  tags: [debate, libertad-expresión, censura, plataformas, redes-sociales]
+
+- id: 65324888
+  type: podcast
+  title: Will electric vehicles make our roads greener?
+  platform: ivoox
+  show: Intelligence Squared
+  speakers: [speaker]
+  date: 2021-05-18
+  stars: 4
+  category: [Medioambiente]
+  tags: [debate, transporte, movilidad, vehiculos-electricos]
+
+- id: 69434687
+  type: podcast
+  title: Why have sperm counts more than halved in the past 40 years?
+  platform: ivoox
+  show: Today in Focus
+  speakers: [Shanna H. Swan]
+  date: 2021-05-18
+  stars: 3
+  category: [Medioambiente]
+  tags: [libros, infertilidad, contaminacion]
+
+- id: 69929408
+  type: podcast
+  title: Niall Ferguson on the Politics of Catastrophe
+  platform: ivoox
+  show: Intelligence Squared
+  speakers: [Niall Ferguson]
+  date: 2021-05-18
+  stars: 3
+  category: [Medioambiente]
+  tags: [libros, riesgos, cambio-climatico, pandemias, infertilidad, contaminacion]
+
+- id: 49203422
+  type: podcast
+  title: Why we need worst-case thinking to prevent pandemics
+  platform: ivoox
+  show: The audio long read
+  speakers: [Toby Ord]
+  date: 2021-06-21
+  stars: 4
+  category: [Medioambiente]
+  tags: [libros, riesgos, cambio-climatico, pandemias, infertilidad, contaminacion]
+
+- id: 68109264
+  type: podcast
+  title: Máster en justicia - Derechos de los ciudadanos ante la justicia
+  platform: ivoox
+  show: Máster en justicia
+  speakers: [Manuela Carmena]
+  date: 2021-06-04
+  stars: 3
+  category: [Derecho]
+  tags: [derechos-humanos]
+
+- id: 59905384
+  type: podcast
+  title: "Unit 74455: Russian hackers 'wanted by the FBI'"
+  platform: ivoox
+  show: Sky News Radio - Daily
+  date: 2021-05-18
+  stars: 3
+  category: []
+  tags: []
+
+- id: 76599303
+  type: podcast
+  title: The Battle Over Free Speech and trigger warnings
+  platform: ivoox
+  show: Intelligence Squared
+  speakers: [speaker]
+  date: 2021-11-01
+  stars: 4
+  category: [sociologia]
+  tags: [debate, libertad-expresión, censura, plataformas, redes-sociales]

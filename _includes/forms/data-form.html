@@ -1,8 +1,8 @@
   {% capture comments_provider %}{{ site.comments.provider }}{% endcapture %}
   {% if include.data_type == 'articles' or include.data_type == 'audiovisuals' or include.data_type == 'bookmarks' %}
-    {% assign categories = site.data._shared-content.categories.media %}
+    {% assign categories = site.data.categories.media %}
   {% else %}
-    {% assign categories = site.data._shared-content.categories[include.data_type] %}
+    {% assign categories = site.data.categories[include.data_type] %}
   {% endif %}
   
   <!-- Start data-form -->
@@ -113,7 +113,7 @@
         {% endif %}
 
       {% if include.data_type == 'books' %}
-        {% assign statuses = site.data._shared-content.status.books %}
+        {% assign statuses = site.data.status.books %}
         <label class="form-label" for="data-form-status">Estado lectura
           <select class="form-select" id="data-form-status" name="fields[status]" aria-label="Default select status">
               {% for status in statuses %}

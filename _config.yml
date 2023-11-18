@@ -298,6 +298,7 @@ defaults:
       toc_sticky: true
       post_pagination: false
       permalink: blog/:title
+      show_refs: true
   # blog
   - scope:
       path: "_posts"
@@ -312,6 +313,7 @@ defaults:
       show_status: true
       comments: true
       share: false
+      show_refs: true
   # libros
   - scope:
       path: "_posts/libros"

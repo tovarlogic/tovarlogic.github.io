@@ -6,7 +6,7 @@ layout: archive
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign tag_list = site.data._shared-content.tags.books | sort %}
+{% assign tag_list = site.data.tags.books | sort %}
 
 <span class="total_count">Total Temáticas: {{ tag_list | size }}</span><br>
 

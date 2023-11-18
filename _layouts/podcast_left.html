@@ -6,7 +6,7 @@ layout: archive
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign podcasts = site.data.media.podcasts.list | sort: "date" %}
+{% assign podcasts = site.data.media | where: 'type', 'podcast' | sort: "date" %}
 {% assign count = 0 %}
 {% for item in podcasts %}
     {% assign count = count | plus: 1 %}  
@@ -15,7 +15,7 @@ layout: archive
 {% assign podcastInYear = podcasts | group_by_exp:"podcast", "podcast.date | date: '%Y'" %}
 
 <span class="total_count">Total podcasts escuchados: {{ count }}</span><br>
-<span class="last-update">Listado actualizado el {{ site.data.media.podcasts.lastupdate }}</span>
+<span class="last-update">Listado actualizado el {{ site.data.podcasts.lastupdate }}</span>
 
 <ul class="taxonomy__index">
 

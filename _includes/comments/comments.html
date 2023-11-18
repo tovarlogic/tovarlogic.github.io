@@ -24,7 +24,7 @@
                 <!-- {% assign comments = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1]._parent == comment[1]._id' %} -->
                 {% assign comments = site.data.comments[page.slug] | sort | where_exp: 'comment', 'comment[1]._parent == null'%}
                 {% assign level = 0 %}
-                {% include comments_loop.html comments=comments level=level %}
+                {% include /comments/comments_loop.html comments=comments level=level %}
             </div>
         {% endif %}       
     </div>
