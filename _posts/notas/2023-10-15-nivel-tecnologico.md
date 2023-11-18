@@ -4,6 +4,7 @@ categories:
     - Tecnología
 date: 2023-10-15
 lastmod: 2023-10-15T12:24:52.343Z
+toc: false
 ---
 
 Si analizamos el avance tecnológico de cualquier rama en particular, vemos que el progreso generalmente implica el surgimiento de nuevas tecnologías. Es decir, de nuevas maneras de hacer lo mismo o, en los casos más disruptivos, nuevas maneras de hacer nuevas cosas.
