@@ -62,5 +62,9 @@
   ],
   "frontMatter.templates.enabled": false,
   "frontMatter.content.autoUpdateDate": true,
-  "frontMatter.preview.host": "http://localhost:4000"
+  "frontMatter.preview.host": "http://localhost:4000",
+  "frontMatter.content.draftField": {
+    "name": "draft",
+    "type": "boolean"
+  }
 }

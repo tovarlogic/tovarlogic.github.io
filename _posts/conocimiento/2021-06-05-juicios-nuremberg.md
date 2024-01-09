@@ -71,7 +71,7 @@ Por otro lado, visto que los tribunales estaba únicamente formados por los pais
 	- 13 condenas de prisión entre 18 meses y 8 años. Todos ellos fueron posteriormente puestos en libertad prematuramente y volvieron a puestos directivos de las empresas. Algunos incluso recivieron posteriormente la medalla de honor.
 
 {: .notice--info}
-**Nota:** Existen claras evidencias de que IG Farben partició directamente en la financiación del partido Nazi. También existen evidencias de un plan de 4 años elaborado en 1936 (3 años antes de la II Guerra mundial) por parte de los ejecutivos de la empresa para invadir Europa, Inglaterra y sus colonias y posteriormente EE.UU. Con cada invasión [IG Farben se quedaría con las fábricas][^ref Profit-over-life]
+**Nota:** Existen claras evidencias de que IG Farben participó directamente en la financiación del partido Nazi. También existen evidencias de un plan de 4 años elaborado en 1936 (3 años antes de la II Guerra mundial) por parte de los ejecutivos de la empresa para invadir Europa, Inglaterra y sus colonias y posteriormente EE.UU. Con cada invasión [IG Farben se quedaría con las fábricas][^ref Profit-over-life]
 - IG Farben cooperó estrechamente con los funcionarios nazis y decidió qué plantas químicas de los países ocupados debían ser aseguradas y entregadas a IG Farben
 - fue la única compañía alemana con su propio campo de concentración, donde murieron al menos 30.000 personas
 - durante los Juicios de Núremberg ordenaron desmembrar el consorcio
