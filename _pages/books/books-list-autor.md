@@ -18,7 +18,5 @@ lastmod: 2022-06-04T09:53:52.505Z
             <i class="fas fa-fw fa-plus"></i> Añadir libro
         </button>
     </span>
-
-    {% include forms/book-form.html %} 
 </div>
 
