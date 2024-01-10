@@ -1,3 +1,4 @@
+list:
 - title: From the Earth to the Moon and Round the Moon
   authors: Jules Verne
   isbn: 9781592242429
@@ -622,7 +623,7 @@
 
 - title: Sobre el Anarquismo
   authors: Noam Chomsky
-  isbn: '9781904859956'
+  isbn: 9781904859956
   categories:
   - Política
   status: read
@@ -707,7 +708,7 @@
   status: read
 
 - title: El problema de los tres cuerpos
-  isbn: '9788466659734'
+  isbn: 9788466659734
   categories: Ciencia-ficción
   authors: Cixin Liu
   stars: 4
@@ -715,7 +716,7 @@
   date: 2023-10-01
 
 - title: I will teach you to be rich
-  isbn: '9780761147480'
+  isbn: 9780761147480
   categories: 
     - Economía
   authors: Ramit Sethi
@@ -724,7 +725,7 @@
   date: 2023-09-25
 
 - title: El bosque oscuro
-  isbn: '9788466660921'
+  isbn: 9788466660921
   categories: Ciencia-ficción
   authors: Cixin Liu
   stars: 3
@@ -732,7 +733,7 @@
   date: 2023-10-11
 
 - title: El fin de la muerte
-  isbn: '9788417347017'
+  isbn: 9788417347017
   categories: Ciencia-ficción
   authors: Cixin liu
   stars: 4
@@ -740,7 +741,7 @@
   date: 2023-10-28
 
 - title: Fundación
-  isbn: '8401929210'
+  isbn: 8401929210
   categories: Ciencia-ficción
   authors: Isaac Asimov
   stars: 4
@@ -748,7 +749,7 @@
   date: 2023-11-28
 
 - title: Fundación e imperio
-  isbn: '8482809539'
+  isbn: 8482809539
   categories: Ciencia-ficción
   authors: Isaac Asimov
   stars: 4
@@ -756,7 +757,7 @@
   date: 2023-12-08
 
 - title: Segunda fundación
-  isbn: '8401929237'
+  isbn: 8401929237
   categories: Ciencia-ficción
   authors: Isaac Asimov
   stars: 4
@@ -764,7 +765,7 @@
   date: 2023-12-20
 
 - title: Los límites de la fundación
-  isbn: '8401929245'
+  isbn: 8401929245
   categories: Ciencia-ficción
   authors: Isaac Asimov
   stars: 4
@@ -772,7 +773,7 @@
   date: 2023-12-30
 
 - title: Fundación y tierra
-  isbn: '8401929335'
+  isbn: 8401929335
   categories: Ciencia-ficción
   authors: Isaac Asimov
   stars: 4
@@ -781,7 +782,7 @@
 
 - title: El sabueso de los Baskerville
   author: Arthur Conan Doyle
-  isbn: '9788420665689'
+  isbn: 9788420665689
   categories: Novela
   tags:
     - Intriga
@@ -791,7 +792,7 @@
 
 - title: Poyecto Hail Mary
   author: Andy Weir
-  isbn: '9788418037016'
+  isbn: 9788418037016
   categories: Ciencia-ficción
   stars: 4
   status: read
@@ -799,7 +800,7 @@
 
 - title: Scary Smart
   author: Mo Gawdat
-  isbn: '9781529077186'
+  isbn: 9781529077186
   categories:
   - Tecnología
   tags:
