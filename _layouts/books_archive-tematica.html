@@ -13,7 +13,7 @@ layout: archive
 <ul class="taxonomy__index">
     {% for category in categories_list %}
       {% assign count = 0 %}
-      {% assign books = site.data.books.list | where: "categories", category %}
+      {% assign books = site.data.books | where: "categories", category %}
       {% for book in books %}
         {% assign count = count | plus: 1 %}
       {%  endfor %}
@@ -29,7 +29,7 @@ layout: archive
 
   {% for category in categories_list %}
     {% assign count = 0 %}
-    {% assign books = site.data.books.list | where: "categories", category %}
+    {% assign books = site.data.books | where: "categories", category %}
     {% for book in books %}
       {% assign count = count | plus: 1 %}
     {%  endfor %}

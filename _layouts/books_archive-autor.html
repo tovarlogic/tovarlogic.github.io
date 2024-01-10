@@ -5,7 +5,7 @@ layout: archive
 {{ content }}
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
-{% assign books_by_author = site.data.books.list | group_by_exp: 'book', 'book[1].author' | sort: "size" | reverse %}
+{% assign books_by_author = site.data.books | group_by_exp: 'book', 'book[1].author' | sort: "size" | reverse %}
 
 <span class="total_count">Total Autores: {{ books_by_author | size }}</span><br>
 
