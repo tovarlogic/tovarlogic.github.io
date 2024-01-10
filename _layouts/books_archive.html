@@ -6,15 +6,13 @@ layout: archive
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign books_by_year = site.data.books | group_by_exp: 'book', 'book[1].date | date: "%Y"' | sort: "name" | reverse %}
 {% assign readInYear = site.data.books | where:'status', 'read' | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
 {% assign reading = site.data.books | where:'status', 'reading' | sort: "date" %}
 {% assign pending = site.data.books | where:'status', 'pending' | sort: "date" %}
-{% assign read = site.data.books | where:'status', 'read' | sort: "date" %}
 
 {{ readInYear}} 
 
-<span class="total_count">Total libros leidos: {{ read | size | default: 0 }} </span><br>
+<span class="total_count">Total libros leidos: {{ readInYear | size | default: 0 }} </span><br>
 
 <ul class="taxonomy__index">
     <li>
@@ -25,7 +23,7 @@ layout: archive
       </a>
     </li>
 
-   {% for year in books_by_year %}
+   {% for year in readInYear %}
     <li>
       <a href="#{{ year.name }}">
         <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
