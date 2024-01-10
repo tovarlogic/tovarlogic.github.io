@@ -6,38 +6,38 @@ layout: archive
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign tag_list = site.data.tags.books | sort %}
+{% assign categories_list = site.data.categories.books | sort %}
 
-<span class="total_count">Total Temáticas: {{ tag_list | size }}</span><br>
+<span class="total_count">Total Temáticas: {{ categories_list | size }}</span><br>
 
 <ul class="taxonomy__index">
-    {% for tag in tag_list %}
+    {% for category in categories_list %}
       {% assign count = 0 %}
-      {% assign books = site.data.books | where: "tags", tag %}
+      {% assign books = site.data.books | where: "categories", category %}
       {% for book in books %}
         {% assign count = count | plus: 1 %}
         {{ boks.size }}
       {%  endfor %}
       {% if count > 0 %}
         <li>
-          <a href="#{{ tag | slugify }}">
-            <strong>{{ tag }}</strong> <span class="taxonomy__count">{{ count }}</span>
+          <a href="#{{ category | slugify }}">
+            <strong>{{ category }}</strong> <span class="taxonomy__count">{{ count }}</span>
           </a>
         </li>
       {% endif %}
     {% endfor %}
 </ul>
 
-  {% for tag in tag_list %}
+  {% for category in categories_list %}
     {% assign count = 0 %}
-    {% assign books = site.data.books | where: "tags", tag %}
+    {% assign books = site.data.books | where: "categories", category %}
     {% for book in books %}
       {% assign count = count | plus: 1 %}
     {%  endfor %}
 
      {% if count > 0 %}
-      <section id="{{ tag | slugify | downcase }}" class="taxonomy__section">
-        <h2 class="archive__subtitle">{{ tag }}</h2>
+      <section id="{{ category | slugify | downcase }}" class="taxonomy__section">
+        <h2 class="archive__subtitle">{{ category }}</h2>
         <div class="entries-{{ entries_layout }}">
           {% for book in books %}
                {% include archive-single-books.html type=entries_layout %}

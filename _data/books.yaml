@@ -1,13 +1,10 @@
+list:
 - title: From the Earth to the Moon and Round the Moon
   authors: Jules Verne
   isbn: 9781592242429
   date: 2007-08-01
   stars: 5
-  categories:
-  - Novela
-  tags:
-  - Novela
-  - Ciencia-ficción
+  categories: Ciencia-ficción
   status: read
 
 - title: Round the Moon
@@ -15,11 +12,7 @@
   isbn: 9781557423740
   date: 2007-08-01
   stars: 5
-  categories:
-  - Novela
-  tags:
-  - Novela
-  - Ciencia-ficción
+  categories: Ciencia-ficción
   status: read
 
 - title: 'The Tibetan Book of Living and Dying: The Spiritual Classic & International
@@ -28,11 +21,7 @@
   isbn: 9780944993781
   date: 2008-08-01
   stars: 4
-  categories:
-  - Ensayo
-  tags:
-  - Ensayo
-  - Filosofía
+  categories: Filosofía
   status: read
 
 - title: 'An Appeal to Reason: A Cool Look at Global Warming'
@@ -41,11 +30,9 @@
   date: 2009-04-01
   stars: 4
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Ciencia
   - Medioambiente
+  tags: - Cambio climático
   status: read
 
 - title: 'The Revenge of Gaia: Earth''s Climate Crisis & The Fate of Humanity'
@@ -56,7 +43,6 @@
   categories:
   - Ensayo
   tags:
-  - Ensayo
   - Ciencia
   - Medioambiente
   status: read
@@ -67,9 +53,6 @@
   date: 2010-06-01
   stars: 4
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Historia
   - Política
   status: read
@@ -79,10 +62,7 @@
   isbn: 1566193931
   date: 2012-10-01
   stars: 4
-  categories:
-  - Biografía
-  tags:
-  - Biografía
+  categories: Biografía
   status: read
 
 - title: 'The Blood Pressure Cure: 8 Weeks to Lower Blood Pressure without Prescription
@@ -92,11 +72,9 @@
   date: 2014-01-01
   stars: 3
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Ciecia
   - Biología
+  tags: Hipertensión
   status: read
 
 - title: 'Sapiens: A Brief History of Humankind'
@@ -104,11 +82,7 @@
   isbn: 9781846558245
   date: 2018-08-01
   stars: 4
-  categories:
-  - Ensayo
-  tags:
-  - Ensayo
-  - Sociología
+  categories: Sociología
   status: read
 
 - title: 'Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues
@@ -118,19 +92,15 @@
   date: 2019-04-01
   stars: 4
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Medioambiente
   - Política
+  tags: Cambio climático
   status: read
 
 - title: Notes on Nationalism
   authors: George Orwell
   isbn: 9780241339565
   categories:
-  - Ensayo
-  tags:
   - Política
   - Sociología
   date: 2021-06-16
@@ -142,10 +112,10 @@
   authors: Toby Ord
   isbn: 9780316484916
   categories:
-  - Ensayo
-  tags:
   - Ciencia
+  tags:
   - Futuro
+  - Riesgos existenciales
   date: 2021-06-28
   stars: 4
   format: audiobook
@@ -156,9 +126,9 @@
   authors: Margaret MacMillan
   isbn: 9781846682735
   categories:
-  - Ensayo
-  tags:
   - Historia
+  tags: 
+  - Primera-guerra-mundial
   date: 2022-11-02
   stars: 3
   format: kindle
@@ -169,8 +139,7 @@
   isbn: 9780671527211
   date: 2021-02-20
   stars: 4
-  categories:
-  - Ciencia-ficción
+  categories: Ciencia-ficción
   status: read
 
 - title: 'The Little Book of Stoicism: Timeless Wisdom to Gain Resilience, Confidence,
@@ -180,10 +149,9 @@
   date: 2020-02-01
   stars: 4
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Filosofía
+  tags:
+  - Estoicismo
   status: read
 
 - title: 'Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies
@@ -193,10 +161,9 @@
   date: 2018-10-01
   stars: 4
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Tecnología
+  tags:
+  - Blockchain
   status: read
 
 - title: 'Prisoners of Geography: Ten Maps That Tell You Everything You Need To Know
@@ -206,9 +173,6 @@
   date: 2019-06-01
   stars: 4
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Geopolítica
   status: read
 
@@ -216,8 +180,6 @@
   authors: Richard A. Oppenlander
   isbn: 9780825306860
   categories:
-  - Ensayo
-  tags:
   - Medioambiente
   date: 2021-11-10
   stars: 2
@@ -231,9 +193,6 @@
   date: 2004-06-01
   stars: 4
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Ciencia
   status: read
 
@@ -242,11 +201,10 @@
   isbn: 0593297377
   date: 2021-05-18
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Política
-  - Gestión de riesgos
+  tags:
+  - Futuro
+  - Riesgos existenciales
   review: doom
   status: not-read
   stars: 3
@@ -258,10 +216,10 @@
   stars: 3
   format: kindle
   categories:
-  - Clásicos
-  tags:
   - Historia
   - Aventuras
+  tags:
+  - Grecia
   status: read
 
 - title: La Odisea
@@ -271,20 +229,20 @@
   stars: 3
   format: ebook
   categories:
-  - Clásicos
-  tags:
   - Historia
   - Aventuras
+  tags:
+  - Grecia
   status: read
 
 - title: 'Respira: La nueva ciencia de un arte olvidado'
   authors: James Nestor
   isbn: 9788408237228
   categories:
-  - Ensayo
-  tags:
   - Ciencia
   - Biología
+  tags:
+  - Salud
   - Crecimiento personal
   date: 2021-09-21
   stars: 3
@@ -298,10 +256,9 @@
   date: 2020-03-01
   stars: 3
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Filosofía
+  tags:
+  - China
 
 - title: '7 Habits of highly effective people '
   authors: Stephen R. Covey
@@ -309,9 +266,6 @@
   date: 2017-05-07
   stars: 4
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Crecimiento personal
   review: 7-habitos-gente-eficaz
   status: read
@@ -320,9 +274,8 @@
   authors: Juan Eslava Galán
   isbn: 9788408124535
   categories:
-  - Ensayo
-  tags:
   - Historia
+  tags: Primera-guerra-mundial
   date: 2022-01-10
   stars: 3
   format: kindle
@@ -334,9 +287,7 @@
   date: 2012-08-01
   stars: 2
   categories:
-  - Novela
-  tags:
-  - Novela
+  - Ficción
   status: abandoned
 
 - title: The Enzyme Factor
@@ -345,11 +296,9 @@
   date: 2014-12-01
   stars: 4
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Ciencia
   - Biología
+  tags: Salud
   status: read
 
 - title: 'Lifespan: Why We Age – and Why We Don’t Have To'
@@ -358,20 +307,17 @@
   date: 2020-10-01
   stars: 3
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Ciencia
   - Biología
+  tags: Salud
   status: read
 
 - title: 'The european union: A very short introduction'
   authors: Simon Usherwood
   isbn: 9780199681693
   categories:
-  - Ensayo
-  tags:
   - Política
+  tags: Unión-europea
   date: 2022-05-26
   stars: 3
   format: kindle
@@ -384,9 +330,6 @@
   stars: 4
   top: true
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Crecimiento personal
   - Economía
   - Sociología
@@ -400,8 +343,10 @@
   isbn: 9781592650002
   date: 2008-06-01
   stars: 3
+  categories:
+  - Filosofía
   tags:
-  - Ensayo
+  - China
   status: read
 
 - title: 'Homo Deus: A Brief History of Tomorrow'
@@ -410,9 +355,6 @@
   date: 2018-10-01
   stars: 3
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Sociología
   status: read
 
@@ -420,8 +362,6 @@
   authors: Émile Durkheim
   isbn: 9789681624453
   categories:
-  - Ensayo
-  tags:
   - Sociología
   date: 2022-03-07
   stars: 4
@@ -435,10 +375,7 @@
   date: 2013-02-01
   stars: 3
   categories:
-  - Novela
-  tags:
-  - Novela
-  - Historia
+  - Novela histórica
   status: read
 
 - title: Harpo Speaks! About new York
@@ -448,8 +385,6 @@
   stars: 4
   categories:
   - Biografía
-  tags:
-  - Biografía
   status: read
 
 - title: Globalization and Its Discontents
@@ -458,11 +393,10 @@
   date: 2011-09-01
   stars: 3
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Política
   - Economía
+  tags:
+  - Globalización
   status: read
 
 - title: 'Candide: Or Optimism'
@@ -481,9 +415,6 @@
   date: 2016-02-01
   stars: 3
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Economía
   status: read
 
@@ -493,9 +424,6 @@
   date: 2007-06-01
   stars: 3
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Economía
   status: read
 
@@ -505,11 +433,9 @@
   date: 2009-06-01
   stars: 3
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Ciencia
   - Energía
+  tags: Energía-nuclear
   status: read
 
 - title: '¡Que vienen los lobbies!: El opaco negocio de la influencia en España'
@@ -518,11 +444,9 @@
   date: 2014-06-01
   stars: 4
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Economía
   - Política
+  tags: Lobbies
   status: read
 
 - title: En el enjambre
@@ -531,9 +455,6 @@
   date: 2020-08-01
   stars: 3
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Filosofía
   status: read
 
@@ -543,9 +464,6 @@
   date: 2019-11-01
   stars: 3
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Geopolítica
   status: read
 
@@ -555,10 +473,8 @@
   date: 2014-10-01
   stars: 3
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Ciencia
+  tags: Astrofísica
   status: read
 
 - title: 'The Shock Doctrine: The Rise of Disaster Capitalism'
@@ -567,9 +483,6 @@
   date: 2011-11-01
   stars: 4
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Política
   - Sociología
   - Economía
@@ -581,8 +494,7 @@
   categories:
   - Ciencia-ficción
   tags:
-  - Política
-  - Sociología
+  - Distopía
   date: 2021-07-01
   stars: 4
   format: audiobook
@@ -594,9 +506,6 @@
   date: 2010-03-01
   stars: 5
   categories:
-  - Novela
-  tags:
-  - Novela
   - Aventura
   status: read
 
@@ -606,10 +515,8 @@
   date: 2018-06-01
   stars: 4
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Sociología
+  tags: Utopía
   status: read
 
 - title: Los pilares de la tierra
@@ -618,21 +525,17 @@
   date: 2008-10-01
   stars: 4
   categories:
-  - Novela
-  tags:
-  - Novela
-  - Historia
+  - Novela histórica
   status: read
 
 - title: The Relaxation Response
   authors: Herbert Benson M.D., Miriam Z. Klipper
   isbn: 0380815958
   categories:
-  - Ensayo
-  tags:
   - Ciencia
   - Biología
   - Crecimiento personal
+  tags: Salud
   date: 2021-11-10
   stars: 3
   format: kindle
@@ -644,9 +547,6 @@
   date: 2012-12-01
   stars: 4
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Política
   status: read
 
@@ -657,9 +557,6 @@
   date: 2014-08-01
   stars: 3
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Economía
   - Política
   status: read
@@ -670,9 +567,6 @@
   date: 2012-06-01
   stars: 4
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Economía
   status: read
 
@@ -682,9 +576,6 @@
   date: 2013-04-01
   stars: 2
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Política
   status: read
 
@@ -694,9 +585,6 @@
   date: 2013-06-01
   stars: 3
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Sociología
   - Historia
   status: read
@@ -707,9 +595,6 @@
   date: 2012-04-01
   stars: 3
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Economía
   status: read
 
@@ -719,11 +604,11 @@
   isbn: 9781797114613
   date: 2021-05-18
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Ciencia
   - Biología
+  tags: 
+  - Futuro
+  - Riesgos existenciales
   review: count-down
   status: not-read
   stars: 3
@@ -734,19 +619,14 @@
   date: 2019-09-01
   stars: 3
   categories:
-  - Ensayo
-  tags:
-  - Ensayo
   - Geopolítica
   status: read
 
-- _id: fe405000-255c-11ed-8997-9391e80811e9
-  title: Sobre el Anarquismo
+- title: Sobre el Anarquismo
   authors: Noam Chomsky
   isbn: '9781904859956'
   categories:
-  - Ensayo
-  tags: Política
+  - Política
   status: read
   stars: 3
   date: '2022-08-26T16:34:45.539Z'
@@ -757,8 +637,6 @@
   date: 2023-01-03
   stars: 4
   categories:
-  - Ensayo
-  tags:
   - Sociología
   status: read
   review: introduccion-sociologia
@@ -778,8 +656,6 @@
   date: 2023-03-20
   stars: 4
   categories:
-  - Ensayo
-  tags:
   - Sociología
   status: reading
   review: masa-poder
@@ -791,8 +667,6 @@
   stars: 3
   categories:
   - Ciencia-ficción
-  tags:
-  - Relatividad
   status: read
 
 - title: Los peligros de la Moralidad
@@ -803,6 +677,7 @@
   categories:
   - Psicología
   - Política
+  - Filosofía
   - Sociología
   tags:
   -  Moralidad
@@ -815,7 +690,9 @@
   date: 2023-06-16
   stars: 3
   categories:
+  - Psicología
   - Filosofía
+  - Sociología
   tags:
   -  Tolerancia
   status: read
@@ -825,48 +702,40 @@
   isbn: 9788428839433
   date: 2023-06-22
   stars: 3
-  categories:
+  categories: 
+  - Psicología
   - Filosofía
   - Sociología
   status: read
 
-- _id: bb112d40-5bd9-11ee-8517-5b409be2c127
-  title: El problema de los tres cuerpos
+- title: El problema de los tres cuerpos
   isbn: '9788466659734'
-  categories: 
-    - Ciencia-ficción
+  categories: Ciencia-ficción
   authors: Cixin Liu
   stars: 4
   status: read
   date: '2023-10-01'
 
-- _id: 02800930-5bf3-11ee-8fc6-e76e09ec581a
-  title: I will teach you to be rich
+- title: I will teach you to be rich
   isbn: '9780761147480'
   categories: 
-    - Ensayo
-  tags: 
     - Economía
   authors: Ramit Sethi
   stars: 3
   status: reading
   date: '2023-09-25'
 
-- _id: b9ccf7d0-6097-11ee-8a39-e7e5968eabb1
-  title: El bosque oscuro
+- title: El bosque oscuro
   isbn: '9788466660921'
-  categories: 
-    - Ciencia-ficción
+  categories: Ciencia-ficción
   authors: Cixin Liu
   stars: 3
   status: read
   date: '2023-10-11'
 
-- _id: 01c57580-6859-11ee-b400-b945ba4eca67
-  title: El fin de la muerte
+- title: El fin de la muerte
   isbn: '9788417347017'
-  categories: 
-    - Ciencia-ficción
+  categories: Ciencia-ficción
   authors: Cixin liu
   stars: 4
   status: read
@@ -874,8 +743,7 @@
 
 - title: Fundación
   isbn: '8401929210'
-  categories: 
-    - Ciencia-ficción
+  categories: Ciencia-ficción
   authors: Isaac Asimov
   stars: 4
   status: read
@@ -883,8 +751,7 @@
 
 - title: Fundación e imperio
   isbn: '8482809539'
-  categories: 
-    - Ciencia-ficción
+  categories: Ciencia-ficción
   authors: Isaac Asimov
   stars: 4
   status: read
@@ -892,8 +759,7 @@
 
 - title: Segunda fundación
   isbn: '8401929237'
-  categories: 
-    - Ciencia-ficción
+  categories: Ciencia-ficción
   authors: Isaac Asimov
   stars: 4
   status: read
@@ -901,8 +767,7 @@
 
 - title: Los límites de la fundación
   isbn: '8401929245'
-  categories: 
-    - Ciencia-ficción
+  categories: Ciencia-ficción
   authors: Isaac Asimov
   stars: 4
   status: read
@@ -910,8 +775,7 @@
 
 - title: Fundación y tierra
   isbn: '8401929335'
-  categories: 
-    - Ciencia-ficción
+  categories: Ciencia-ficción
   authors: Isaac Asimov
   stars: 4
   status: read
@@ -920,8 +784,7 @@
 - title: El sabueso de los Baskerville
   author: Arthur Conan Doyle
   isbn: '9788420665689'
-  categories: 
-    - Clásicos
+  categories: Novela
   tags:
     - Intriga
   stars: 3
@@ -929,9 +792,20 @@
   date: '2024-01-04'
 
 - title: Poyecto Hail Mary
+  author: Andy Weir
   isbn: '9788418037016'
-  categories: 
-    - Ciencia-ficción
+  categories: Ciencia-ficción
   stars: 4
   status: read
+  date: '2024-01-08'
+
+- title: Scary Smart
+  author: Mo Gawdat
+  isbn: '9781529077186'
+  categories:
+  - Tecnología
+  tags:
+  - Inteligencia Artificial
+  stars: 4
+  status: reading
   date: '2024-01-08'

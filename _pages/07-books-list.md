@@ -19,7 +19,7 @@ lastmod: 2022-06-04T09:55:26.570Z
     </button>
 </span>
 
-{% include forms/data-form.html data_type='books' %}  
+
 
 
 

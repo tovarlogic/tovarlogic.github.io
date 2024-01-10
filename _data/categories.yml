@@ -17,12 +17,24 @@ media:
   - Viajes
 
 books:
-  - Ensayo
-  - Novela
-  - Biografía
   - Ciencia-ficción
-  - Clásicos
-  
+  - Economía
+  - Política
+  - Geopolítica
+  - Sociología
+  - Historia
+  - Novela histórica
+  - Novela
+  - Psicología
+  - Crecimiento personal
+  - Medioambiente
+  - Filosofía
+  - Biología
+  - Tecnología
+  - Ciencia
+  - Aventura
+  - Futuro
+
 recipes:
   - Desayunos y meriendas
   - Aperitivos
