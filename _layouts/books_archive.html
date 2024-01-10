@@ -9,9 +9,8 @@ layout: archive
 {% assign books_by_status = site.data.books | group_by_exp: 'book', 'book[1].status' | sort: "date" %}
 {% assign books_by_year = site.data.books | group_by_exp: 'book', 'book[1].date | date: "%Y"' | sort: "name" | reverse %}
 {% assign readInYear = site.data.books | where:'status', 'read' | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
-{% assign reading = site.data.books | where:'status', 'reading' %}
-{% assign pending = site.data.books | where:'status', 'pending' %}
-{% assign not_read = site.data.books | where:'status', 'not-read' | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
+{% assign reading = site.data.books | where:'status', 'reading' | sort: "date" %}
+{% assign pending = site.data.books | where:'status', 'pending' | sort: "date" %}
 {% assign read = site.data.books | where:'status', 'read' | sort: "date" %}
 
 {{ reading }}
@@ -29,16 +28,7 @@ layout: archive
     <li>
       <a href="#leyendo">
         <strong>Leyendo</strong> 
-        <span class="taxonomy__count">
-        {% for list in books_by_status %}
-          {% if list.name == "reading" %}
-            {{ list.size }}
-            {% break %}
-          {% endif %}
-          {% if forloop.last == false and list.name != "reading" %}
-            0
-          {% endif %}
-        {% endfor %}
+        <span class="taxonomy__count"> {{ reading.items | size }}
         </span>
       </a>
     </li>
@@ -53,17 +43,7 @@ layout: archive
 
     <li>
       <a href="#pendientes">
-        <strong>Pendientes</strong> 
-        <span class="taxonomy__count">
-          {% for list in books_by_status %}
-            {% if list.name == "pending" %}
-              {{ list.size }}
-              {% break %}
-            {% endif %}
-            {% if forloop.last == false and list.name != "pending" %}
-              0
-            {% endif %}
-          {% endfor %}
+        <strong>Pendientes</strong> {{ pending.items | size }}
         </span>
       </a>
     </li>
@@ -73,14 +53,9 @@ layout: archive
 <section id="pendientes" class="taxonomy__section">
   <h2 class="archive__subtitle">Pendientes de lectura</h2>
   <div class="entries-{{ entries_layout }}">
-    {% for list in books_by_status %}
-      {% if list.name == "pending" %}
-        {% for book_data in list.items %}
-          {% assign book = book_data[1] %}
-          {% include archive-single-books.html type=entries_layout %}
-        {% endfor %}
-      {% endif %}
-    {% endfor %}
+    {% for book in pending %}
+        {% include archive-single-books.html type=entries_layout %}
+      {% endfor %}
   </div>
   <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 </section><br>
@@ -88,13 +63,8 @@ layout: archive
 <section id="leyendo" class="taxonomy__section">
     <h2 class="archive__subtitle">Leyendo actualmente</h2>
     <div class="entries-{{ entries_layout }}">
-      {% for list in books_by_status %}
-        {% if list.name == "reading" %}
-          {% for book_data in list.items %}
-            {% assign book = book_data[1] %}
-            {% include archive-single-books.html type=entries_layout %}
-          {% endfor %}
-        {% endif %}
+      {% for book in reading %}
+        {% include archive-single-books.html type=entries_layout %}
       {% endfor %}
     </div>
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
