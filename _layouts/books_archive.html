@@ -6,29 +6,21 @@ layout: archive
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
-{% assign books_by_status = site.data.books | group_by_exp: 'book', 'book[1].status' | sort: "date" %}
 {% assign books_by_year = site.data.books | group_by_exp: 'book', 'book[1].date | date: "%Y"' | sort: "name" | reverse %}
 {% assign readInYear = site.data.books | where:'status', 'read' | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
 {% assign reading = site.data.books | where:'status', 'reading' | sort: "date" %}
 {% assign pending = site.data.books | where:'status', 'pending' | sort: "date" %}
 {% assign read = site.data.books | where:'status', 'read' | sort: "date" %}
 
-{{ reading }}
-{% assign count = 0 %}
-{% for list in books_by_status %}
-  {% if list.name == "read" %}
-    {% assign count = list.size %}  
-    {% break %}
-  {% endif %}
-{%  endfor %}
+{{ readInYear}} 
 
-<span class="total_count">Total libros leidos: {{ count }}</span><br>
+<span class="total_count">Total libros leidos: {{ read | size | default: 0 }} </span><br>
 
 <ul class="taxonomy__index">
     <li>
       <a href="#leyendo">
         <strong>Leyendo</strong> 
-        <span class="taxonomy__count"> {{ reading.items | size }}
+        <span class="taxonomy__count"> {{ reading | size | default: 0 }}
         </span>
       </a>
     </li>
@@ -43,7 +35,7 @@ layout: archive
 
     <li>
       <a href="#pendientes">
-        <strong>Pendientes</strong> {{ pending.items | size }}
+        <strong>Pendientes</strong> {{ pending | size | default: 0 }}
         </span>
       </a>
     </li>
