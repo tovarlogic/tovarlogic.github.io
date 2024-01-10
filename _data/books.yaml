@@ -39,12 +39,11 @@ list:
   authors: James Lovelock
   isbn: 9780465041695
   date: 2009-02-01
-  stars: 4
+  stars: 4 
   categories:
-  - Ensayo
-  tags:
   - Ciencia
   - Medioambiente
+  tags: Cambio climático
   status: read
 
 - title: The Looming Tower
@@ -72,7 +71,7 @@ list:
   date: 2014-01-01
   stars: 3
   categories:
-  - Ciecia
+  - Ciencia
   - Biología
   tags: Hipertensión
   status: read
