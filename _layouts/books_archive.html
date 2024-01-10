@@ -7,8 +7,14 @@ layout: archive
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
 {% assign books_by_status = site.data.books | group_by_exp: 'book', 'book[1].status' | sort: "date" %}
-{% assign books_by_year = site.data.books.list | group_by_exp: 'book', 'book[1].date | date: "%Y"' | sort: "name" | reverse %}
-{{ books_by_year }}
+{% assign books_by_year = site.data.books | group_by_exp: 'book', 'book[1].date | date: "%Y"' | sort: "name" | reverse %}
+{% assign readInYear = site.data.books | where:'status', 'read' | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
+{% assign reading = site.data.books | where:'status', 'reading' %}
+{% assign pending = site.data.books | where:'status', 'pending' %}
+{% assign not_read = site.data.books | where:'status', 'not-read' | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" %}
+{% assign read = site.data.books | where:'status', 'read' | sort: "date" %}
+
+{{ reading }}
 {% assign count = 0 %}
 {% for list in books_by_status %}
   {% if list.name == "read" %}
