@@ -55,12 +55,42 @@
   - Política
   status: read
 
+- title: Globalization and Its Discontents
+  authors: Joseph E. Stiglitz
+  isbn: 0393051242
+  date: 2011-09-01
+  stars: 3
+  categories:
+  - Política
+  - Economía
+  tags:
+  - Globalización
+  status: read
+  
 - title: The Autobiography of Benjamin Franklin
   authors: Benjamin Franklin
   isbn: 1566193931
   date: 2012-10-01
   stars: 4
   categories: Biografía
+  status: read
+
+- title: Winter of the World
+  authors: Ken Follett
+  isbn: 9780525952923
+  date: 2013-02-01
+  stars: 3
+  categories:
+  - Novela histórica
+  status: read
+
+- title: Harpo Speaks! About new York
+  authors: Harpo Marx, Rowland Barber
+  isbn: 0879100362
+  date: 2013-12-01
+  stars: 4
+  categories:
+  - Biografía
   status: read
 
 - title: 'The Blood Pressure Cure: 8 Weeks to Lower Blood Pressure without Prescription
@@ -73,6 +103,25 @@
   - Ciencia
   - Biología
   tags: Hipertensión
+  status: read
+
+- title: 'New Ideas from Dead Economists: An Introduction to Modern Economic Thought'
+  authors: Todd G. Buchholz
+  isbn: 0453006884
+  date: 2016-02-01
+  stars: 3
+  categories:
+  - Economía
+  status: read
+
+- title: '7 Habits of highly effective people '
+  authors: Stephen R. Covey
+  isbn: 0743250974
+  date: 2017-05-07
+  stars: 4
+  categories:
+  - Crecimiento personal
+  review: 7-habitos-gente-eficaz
   status: read
 
 - title: 'Sapiens: A Brief History of Humankind'
@@ -95,6 +144,28 @@
   tags: Cambio climático
   status: read
 
+- title: 'The Little Book of Stoicism: Timeless Wisdom to Gain Resilience, Confidence,
+  and Calmness'
+  authors: Jonas Salzgeber
+  isbn: 9783952506905
+  date: 2020-02-01
+  stars: 4
+  categories:
+  - Filosofía
+  tags:
+  - Estoicismo
+  status: read- title: 'The Little Book of Stoicism: Timeless Wisdom to Gain Resilience, Confidence,
+  and Calmness'
+  authors: Jonas Salzgeber
+  isbn: 9783952506905
+  date: 2020-02-01
+  stars: 4
+  categories:
+  - Filosofía
+  tags:
+  - Estoicismo
+  status: read
+  
 - title: Notes on Nationalism
   authors: George Orwell
   isbn: 9780241339565
@@ -138,18 +209,6 @@
   date: 2021-02-20
   stars: 4
   categories: Ciencia-ficción
-  status: read
-
-- title: 'The Little Book of Stoicism: Timeless Wisdom to Gain Resilience, Confidence,
-  and Calmness'
-  authors: Jonas Salzgeber
-  isbn: 9783952506905
-  date: 2020-02-01
-  stars: 4
-  categories:
-  - Filosofía
-  tags:
-  - Estoicismo
   status: read
 
 - title: 'Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies
@@ -258,16 +317,6 @@
   tags:
   - China
 
-- title: '7 Habits of highly effective people '
-  authors: Stephen R. Covey
-  isbn: 0743250974
-  date: 2017-05-07
-  stars: 4
-  categories:
-  - Crecimiento personal
-  review: 7-habitos-gente-eficaz
-  status: read
-
 - title: La primera guerra mundial contada para escepticos
   authors: Juan Eslava Galán
   isbn: 9788408124535
@@ -367,36 +416,6 @@
   status: read
   review: reglas-metodo-sociologico
 
-- title: Winter of the World
-  authors: Ken Follett
-  isbn: 9780525952923
-  date: 2013-02-01
-  stars: 3
-  categories:
-  - Novela histórica
-  status: read
-
-- title: Harpo Speaks! About new York
-  authors: Harpo Marx, Rowland Barber
-  isbn: 0879100362
-  date: 2013-12-01
-  stars: 4
-  categories:
-  - Biografía
-  status: read
-
-- title: Globalization and Its Discontents
-  authors: Joseph E. Stiglitz
-  isbn: 0393051242
-  date: 2011-09-01
-  stars: 3
-  categories:
-  - Política
-  - Economía
-  tags:
-  - Globalización
-  status: read
-
 - title: 'Candide: Or Optimism'
   authors: Voltaire
   isbn: 9780140440041
@@ -405,15 +424,6 @@
   categories:
   - Clásicos
   tags: [Sociología, Política]
-  status: read
-
-- title: 'New Ideas from Dead Economists: An Introduction to Modern Economic Thought'
-  authors: Todd G. Buchholz
-  isbn: 0453006884
-  date: 2016-02-01
-  stars: 3
-  categories:
-  - Economía
   status: read
 
 - title: ¿Quién se ha llevado mi queso?
