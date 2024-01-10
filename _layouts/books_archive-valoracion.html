@@ -24,8 +24,7 @@ layout: archive
       Valoración <span class="stars-container stars-{{ list.name | times:20 | round: 0 }}" title="{{ list.name }}/5">★★★★★</span>
     </h2>
     <div class="entries-{{ entries_layout }}">
-      {% for book_data in list.items %}
-        {% assign book = book_data[1] %}
+      {% for book in list.items %}
         {% include archive-single-books.html type=entries_layout %}
       {% endfor %}
     </div>

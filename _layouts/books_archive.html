@@ -10,8 +10,6 @@ layout: archive
 {% assign reading = site.data.books | where:'status', 'reading' | sort: "date" %}
 {% assign pending = site.data.books | where:'status', 'pending' | sort: "date" %}
 
-{{ readInYear}} 
-
 <span class="total_count">Total libros leidos: {{ readInYear | size | default: 0 }} </span><br>
 
 <ul class="taxonomy__index">
