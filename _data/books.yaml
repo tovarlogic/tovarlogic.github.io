@@ -627,7 +627,7 @@
   - Política
   status: read
   stars: 3
-  date: '2022-08-26T16:34:45.539Z'
+  date: 2022-08-26
 
 - title: Introducción a la sociología
   authors: Theodor W. Adorno
@@ -712,7 +712,7 @@
   authors: Cixin Liu
   stars: 4
   status: read
-  date: '2023-10-01'
+  date: 2023-10-01
 
 - title: I will teach you to be rich
   isbn: '9780761147480'
@@ -721,7 +721,7 @@
   authors: Ramit Sethi
   stars: 3
   status: reading
-  date: '2023-09-25'
+  date: 2023-09-25
 
 - title: El bosque oscuro
   isbn: '9788466660921'
@@ -729,7 +729,7 @@
   authors: Cixin Liu
   stars: 3
   status: read
-  date: '2023-10-11'
+  date: 2023-10-11
 
 - title: El fin de la muerte
   isbn: '9788417347017'
@@ -737,7 +737,7 @@
   authors: Cixin liu
   stars: 4
   status: read
-  date: '2023-10-28'
+  date: 2023-10-28
 
 - title: Fundación
   isbn: '8401929210'
@@ -745,7 +745,7 @@
   authors: Isaac Asimov
   stars: 4
   status: read
-  date: '2023-11-28'
+  date: 2023-11-28
 
 - title: Fundación e imperio
   isbn: '8482809539'
@@ -753,7 +753,7 @@
   authors: Isaac Asimov
   stars: 4
   status: read
-  date: '2023-12-08'
+  date: 2023-12-08
 
 - title: Segunda fundación
   isbn: '8401929237'
@@ -761,7 +761,7 @@
   authors: Isaac Asimov
   stars: 4
   status: read
-  date: '2023-12-20'
+  date: 2023-12-20
 
 - title: Los límites de la fundación
   isbn: '8401929245'
@@ -769,7 +769,7 @@
   authors: Isaac Asimov
   stars: 4
   status: read
-  date: '2023-12-30'
+  date: 2023-12-30
 
 - title: Fundación y tierra
   isbn: '8401929335'
@@ -777,7 +777,7 @@
   authors: Isaac Asimov
   stars: 4
   status: read
-  date: '2024-01-02'
+  date: 2024-01-02
 
 - title: El sabueso de los Baskerville
   author: Arthur Conan Doyle
@@ -787,7 +787,7 @@
     - Intriga
   stars: 3
   status: read
-  date: '2024-01-04'
+  date: 2024-01-04
 
 - title: Poyecto Hail Mary
   author: Andy Weir
@@ -795,7 +795,7 @@
   categories: Ciencia-ficción
   stars: 4
   status: read
-  date: '2024-01-08'
+  date: 2024-01-08
 
 - title: Scary Smart
   author: Mo Gawdat
@@ -806,4 +806,4 @@
   - Inteligencia Artificial
   stars: 4
   status: reading
-  date: '2024-01-08'
+  date: 2024-01-08

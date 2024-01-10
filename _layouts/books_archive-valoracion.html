@@ -6,7 +6,7 @@ layout: archive
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 {% assign books_by_stars = site.data.books | group_by_exp: 'book', 'book[1].stars' | sort: "name" | reverse %}
-
+{{ site.data.books }}
 <ul class="taxonomy__index">
     {% for stars in books_by_stars %}
         <li>
