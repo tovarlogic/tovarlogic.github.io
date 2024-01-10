@@ -16,6 +16,7 @@ layout: archive
       {% assign books = site.data.books | where: "tags", tag %}
       {% for book in books %}
         {% assign count = count | plus: 1 %}
+        {{ boks.size }}
       {%  endfor %}
       {% if count > 0 %}
         <li>
