@@ -22,8 +22,7 @@ layout: archive
 <section id="{{ list.name | slugify }}" class="taxonomy__section">
     <h2 class="archive__subtitle">{{ list.name }}</h2>
     <div class="entries-{{ entries_layout }}">
-      {% for book_data in list.items %}
-        {% assign book = book_data[1] %}
+      {% for book in list.items %}
         {% include archive-single-books.html type=entries_layout %}
       {% endfor %}
     </div>

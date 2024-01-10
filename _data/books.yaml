@@ -780,7 +780,7 @@
   date: 2024-01-02
 
 - title: El sabueso de los Baskerville
-  author: Arthur Conan Doyle
+  authors: Arthur Conan Doyle
   isbn: 9788420665689
   categories: Novela
   tags:
@@ -790,7 +790,7 @@
   date: 2024-01-04
 
 - title: Poyecto Hail Mary
-  author: Andy Weir
+  authors: Andy Weir
   isbn: 9788418037016
   categories: Ciencia-ficción
   stars: 4
@@ -798,7 +798,7 @@
   date: 2024-01-08
 
 - title: Scary Smart
-  author: Mo Gawdat
+  authors: Mo Gawdat
   isbn: 9781529077186
   categories:
   - Tecnología
