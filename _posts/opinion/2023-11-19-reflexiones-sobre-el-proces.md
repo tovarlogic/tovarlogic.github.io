@@ -1,22 +1,18 @@
 ---
-title: Reflexiones sobre el "Procés"
+title: Seguimiento y análisis del proceso de independencia catalán
+excerpt: Seguimiento y análisis personal de los acontecimientos relacionados con el "procés" haciendo énfasis en la contextualización de los hechos para entender mejor la situación.
 date: 2023-11-19
+draft: true
 categories:
   - Política
 tags:
   - Independentismo
   - Cataluña
 references:
-  - title: "Parlament: Histórico de resultados electorales en cataluña"
+  - title: "Parlamento de Cataluña: Histórico de resultados electorales en cataluña"
     url: https://www.parlament.cat/pcat/parlament/que-es-el-parlament/resultats-electorals/
-  - title: Estatuto de Autonomía de Cataluña
-    url: "BOE: https://www.boe.es/eli/es/lo/2006/07/19/6/con"
-  - title: Constitución Española
-    url: "BOE: https://www.boe.es/eli/es/c/1978/12/27/(1)/con"
   - title: "Generalitat: República Catalana (1931)"
     url: https://dogc.gencat.cat/.content/continguts/serveis/republica/1931/19310000.pdf
-  - title: "BOE: Ley Orgánica 2/1980 sobre Referéndums"
-    url: https://www.boe.es/eli/es/lo/1980/01/18/2/con
   - title: "Newtral: España plurinacional"
     url: https://www.newtral.es/espana-plurinacional-nacion-historica-plurinacionalidad/20220519/
   - title: "Wikipedia: Declaración unilateral de independencia (2017)"
@@ -27,25 +23,7 @@ references:
     url: https://dialnet.unirioja.es/descarga/articulo/5690324.pdf
   - title: "Las consecuencias de la reforma del art. 135.2 del Reglamento del Parlamento de Cataluña para aprobar la Ley de referéndum y la de transitoriedad jurídica: suspensión y STC 139/2017. Daniel Fernández Cañueto. Asociación Española de Letrados de Parlamentos"
     url: https://aelpa.org/web-2018/wp-content/uploads/2018/12/RVAP-Daniel-Fernandez.pdf
-  - title: "Tribunal Constitucional: Sentencia 63/1987"
-    url: http://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/795
-  - title: "Tribunal Constitucional: Sentencia 119/1995"
-    url: http://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/2973
-  - title: "Tribunal Constitucional: Sentencia 103/2008"
-    url: https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/6335
-  - title: "Tribunal Constitucional: Sentencia 31/2010 contra Ley Orgánica 6/2006, de 19 de julio, de reforma del Estatuto de Autonomía de Cataluña"
-    url: https://hj.tribunalconstitucional.es/HJ/ca/Resolucion/Show/6670
-  - title: "Tribunal Constitucional: Sentencia 51/2017"
-    url: https://hj.tribunalconstitucional.es/HJ/es/Resolucion/Show/25341
-  - title: "Tribunal Constitucional: Sentencia 103/2017"
-    url: https://hj.tribunalconstitucional.es/es/Resolucion/Show/25443
-  - title: "[Discurso de investidura como Presidente de la Generalitat de Artur Màs de 2010"
-    url: https://govern.cat/salapremsa/notes-premsa/95729/discurso-del-president-generalitat-acto-conmemorativo-diada-nacional-catalunya-madrid)
-  - title: IX legislatura autonómica de Cataluña (2010-2012)
-    url: https://es.wikipedia.org/wiki/IX_legislatura_del_Parlamento_de_Catalu%C3%B1a
-  - title: Parlamento de Cataluña
-    url: http://www.parlament.cat/web
-lastmod: 2023-11-29T13:04:17.599Z
+lastmod: 2024-01-11T11:57:33.523Z
 ---
  
 
@@ -130,14 +108,14 @@ La base del ordenamiento jurídico español y catalán en relación a las consul
 
   Además establece en el artículo 149 que el estado tiene competencia exclusiva en la "Autorización para la convocatoria de consultas populares por vía de referéndum". 
 
-2. La ley que desarrolla estos derechos es la **Ley Orgánica 2/1980** [^LO]. En ella se establecen las condiciones a cumplir para cada modalidad. 
+2. La ley que desarrolla estos derechos es la **Ley Orgánica 2/1980** [^LO_2/1980]. En ella se establecen las condiciones a cumplir para cada modalidad. 
   - El Art. 6 establece que se "[...] requerirá la previa autorización del Congreso de los Diputados por mayoría absoluta [...]" para el caso previsto en el artículo 92 de la CE.
   - El Art. 8, para las cuestiones de autonomía requiere para el inicio del proceso que al menos 3/4 partes (75%) de los municipios alcancen mayoría a favor y, posteriormente, si el resultado del referéndum no fuera positivo, no podría repetirse hasta pasados 5 años. Se consideraría positivo si se alcanza mayoría absoluta en el censo total.
 
   **NOTA:** El requisito de mayoría tiene que ser suficiente como para evitar la división en la sociedad pero no demasiado restrictivo para evitar que una minoría bloquee el deseo mayoritario.
   {: .notice}
 
-3. El **Estatuto de autonomía de Cataluña de 2006** establece en su articulado la posibilidad de convocar consultas populares. Concretamente través del Art.29 "Derecho de participación" y Art.122 "Consultas populares" [^estatuto]. Precisamente el artículo 122 establece la existencia de una limitación, lo previsto en el Art.149.1.32 de la Constitución, para que la Generalitat pueda convocar y realizar dichas consultas. Es decir, que aunque la Generalitat puede convocar y realizar consultas, necesita de la autorización previa del Estado. 
+3. El **Estatuto de autonomía de Cataluña de 2006** establece en su articulado la posibilidad de convocar consultas populares. Concretamente través del Art.29 "Derecho de participación" y Art.122 "Consultas populares" [^estatuto_cat_2006]. Precisamente el artículo 122 establece la existencia de una limitación, lo previsto en el Art.149.1.32 de la Constitución, para que la Generalitat pueda convocar y realizar dichas consultas. Es decir, que aunque la Generalitat puede convocar y realizar consultas, necesita de la autorización previa del Estado. 
 
 No obstante lo anterior, existen una serie de sentencias del [Tribunal Constitucional]({% post_url /conocimiento/2023-11-20-tribunal-constitucional %}) (STC) que establecen jurisprudencia sobre el "derecho de decidir", "derecho de autodeterminación" o "capacidad de realizar rederéndums" por parte de las CCAA. 
 
@@ -198,7 +176,7 @@ Ya hemos descrito el marco regulatorio que establece lo que objetivamente es leg
 ### Cronología de eventos
 #### IX Legislatura (Dic. 2010 - Nov. 2012)
 **En 2010, en el discurso de investidura como Presidente de la Generalitat (IX Legislatura autonómica de Cataluña)**, Artur Más hacía las siguientes afirmaciones relevantes a la cuestión que estamos tratando en este artículo:
-- Sobre la concepción de Cataluña como país equivalente a España en cuestiones internacionales: "[...] Un país que quiere estar presente en el mundo global debe velar por su proyección y desarrollar una política de relaciones exteriores que promueva la máxima integración posible de Cataluña en el mundo, la presencia en los foros económicos, en los diferentes organismos y comités de trabajo de la Unión Europea y en otros organismos internacionales, como la UNESCO. [...] y procurar aprovechar nuestro potencial de capitalidad mediterránea para proyectarnos al mundo no como una región periférica de España, sino como una nación central del sur de Europa." a la STC 31/2010[^STC_31/2010]: "
+- Sobre la concepción de Cataluña como país equivalente a España en cuestiones internacionales: "[...] Un país que quiere estar presente en el mundo global debe velar por su proyección y desarrollar una política de relaciones exteriores que promueva la máxima integración posible de Cataluña en el mundo, la presencia en los foros económicos, en los diferentes organismos y comités de trabajo de la Unión Europea y en otros organismos internacionales, como la UNESCO. [...] y procurar aprovechar nuestro potencial de capitalidad mediterránea para proyectarnos al mundo no como una región periférica de España, sino como una nación central del sur de Europa." a la STC 31/2010 [^STC_31/2010]: "
 Analicemos pues el contexto en el que ambas consultas fueron promovidas por parte de la Generalitat.
 - Sobre el derecho de autodeterminación: "[...] El Tribunal Constitucional ha cortado de raíz cualquier posibilidad de hacer evolucionar a España hacia un estado plurinacional. Cataluña debe entender que España quiere seguir siendo una sola nación con un solo Estado. Y no parece que nada la haga cambiar en este propósito. Tiene su derecho y se debe asumir. Sin embargo, España también debe entender que Cataluña y el pueblo catalán no flaquearán [...] en la defensa de su autogobierno y sus libertades. [...] necesitamos cambiar y empezar un nuevo camino [...] marcado con el resultado de las elecciones del pasado 28 de noviembre.". "[...] el derecho a decidir [...] requiere, que los temas sobre los cuales se ejerza descansen sobre mayorías amplias cualificadas o reforzadas, con la finalidad de dar a la decisión toda la legitimidad y la fuerza necesarias. Y también de evitar dividir la sociedad en dos mitades, con el riesgo de fractura social y nacional que ello conlleva.". "El derecho a decidir de los catalanes hunde sus raíces en las convicciones y en las creencias más genuinamente democráticas. El derecho a decidir de un pueblo es el ejercicio de la democracia en estado puro. ¿A qué demócrata le da miedo eso? ¿A qué persona con principios democráticos sólidos y bien fundamentados le puede disgustar que la democracia se manifieste con naturalidad?". "Como decía, el resultado de las elecciones del pasado 28 de noviembre es un mandato claro de la ciudadanía de Cataluña para abrir el proceso hacia el ejercicio del derecho a decidir. Y es un mandato también para emprender una transición nacional en el marco de la legalidad y de las instituciones. La gran tarea que nos espera, por lo tanto, es abrir este proceso de cambio, de transición, que deberá concluir en la definición de un nuevo pacto nacional y en la creación de un nuevo estado catalán" [^artur_mas_discurso_investidura_2010].
 - Sobre la hoja de ruta para la consumación de la independencia catalana, lo que hoy llamamos "Procés": "[...] iniciar el proceso de elaboración de una nueva Constitución para Cataluña, que deberá ser votada por la ciudadanía y que deberá sustituir la Constitución española en nuestro territorio". "La elaboración de la nueva Constitución deberá ir acompañada de una ley de transitoriedad jurídica y fundacional que regule el proceso de construcción del nuevo estado catalán. [...] también de un proceso de redacción de leyes fundamentales del nuevo estado". "La creación del nuevo estado catalán deberá culminar con la celebración de un referéndum en el cual la ciudadanía de Cataluña ratificará el nuevo pacto nacional y la nueva Constitución."
@@ -304,7 +282,7 @@ Por otro lado, los argumentos en contra se podrían resumir en:
 
 **16 de Enero de 2014, Proposición de ley orgánica de delegación en la Generalidad de Cataluña de la competencia para autorizar, convocar y celebrar un referéndum sobre el futuro político de Cataluña** (Resolución 479/X) [^parlament_479/X] con 107 votos a favor (79%). En el Preámbulo se expone que se solicita se adopte esta ley como via para desatascar la situación, ya que hasta ahora no se ha obtenido respuesta política a la demanda del «derecho a decidir». Con esta iniciativa, el Parlamento de Cataluña pretende impulsar la aplicación de una vía constitucional y legítima para poder hacer el referéndum.
 
-Esta resolución se apoya en los artículos 23.1 de la CE [^CE] y 29.1 del Estatuto de autonomía [^estatuto] cuyo contido es «Los ciudadanos tienen el derecho a participar en los asuntos públicos, directamente o por medio de representantes, libremente elegidos en elecciones periódicas por sufragio universal.« y «Los ciudadanos de Cataluña tienen derecho a participar en condiciones de igualdad en los asuntos públicos de Cataluña, de forma directa o bien a través de representantes, en los supuestos y en los términos que establecen el presente Estatuto y las leyes« respectivamente. Así como el artículo 2.4 del EAC que dice «Los poderes de la Generalitat emanan del pueblo de Cataluña y se ejercen de acuerdo con lo establecido en el presente Estatuto y la Constitución».
+Esta resolución se apoya en los artículos 23.1 de la CE [^CE] y 29.1 del Estatuto de autonomía [^estatuto_cat_2006] cuyo contido es «Los ciudadanos tienen el derecho a participar en los asuntos públicos, directamente o por medio de representantes, libremente elegidos en elecciones periódicas por sufragio universal.« y «Los ciudadanos de Cataluña tienen derecho a participar en condiciones de igualdad en los asuntos públicos de Cataluña, de forma directa o bien a través de representantes, en los supuestos y en los términos que establecen el presente Estatuto y las leyes« respectivamente. Así como el artículo 2.4 del EAC que dice «Los poderes de la Generalitat emanan del pueblo de Cataluña y se ejercen de acuerdo con lo establecido en el presente Estatuto y la Constitución».
 
 Si bien el texto reconoce que «el artículo 149.1.32 de la Constitución reserva al Estado la autorización de la convocatoria de consultas populares por vía de referendo« se apoya en la posibilidad de transferencia o delegación de competencias, por parte del Estado a una Autonomía (artículo 150.2 de la Constitución). Hacen referencia también a la STC 31/2010, que permite al legislador orgánico estatal establecer y regular modalidades referendarias otras que las establecidas por la Constitución, entre ellas una de ámbito autonómico.
 
@@ -337,22 +315,28 @@ Otra de las razones más comunes es la del bien común, es decir, que España y 
 
 Además se razona que la consulta tiene un propósito contrario a la Constitución, haciendo referencia al artículo 2 que establece que «La Constitución se fundamenta en la **indisoluble unidad** de la Nación española».
 
-**19 de Septiembre de 2014, se aprueba la Ley 10/2014 de Consultas populares no referendarias y otras formas de participación ciudadana.** [^ley10/2014] La ley es aprobada con 106 votos a favor y 28 en contra (Ciudadanos y PP) superando con creces los 2/3. 
+**19 de Septiembre de 2014, se aprueba la Ley 10/2014 de Consultas populares no referendarias y otras formas de participación ciudadana.** [^ley_10/2014] La ley es aprobada con 106 votos a favor y 28 en contra (Ciudadanos y PP) superando con creces los 2/3. 
 
-Esta ley desarrolla el Art. 122 del Estatut de Autonomía [^estatuto] en relación a las consultas populares que permite a la comunidad autónoma para la realización y convocatoria de consultar populares en el ámbito de las competencias autonómicas, con la excepción del referendum, de acuerdo al art. 149.1.32 de la CE [^CE]. Conviene recordar que la STC 31/2010 [^STC_31/2010] establece que dicho artículo del EAC es constitucional solo si es interpretado en los términos establecidos en el Fundamento Jurídico 69 de la misma. Es decir, si se ciñe expresamente al ámbito de las competencias autonómicas y locales; y que la consulta sea de cualquier tipo distinto al referendum regulado por la LO 2/1980 [^LO].
+Esta ley desarrolla el Art. 122 del Estatut de Autonomía [^estatuto_cat_2006] en relación a las consultas populares que permite a la comunidad autónoma para la realización y convocatoria de consultar populares en el ámbito de las competencias autonómicas, con la excepción del referendum, de acuerdo al art. 149.1.32 de la CE [^CE]. Conviene recordar que la STC 31/2010 [^STC_31/2010] establece que dicho artículo del EAC es constitucional solo si es interpretado en los términos establecidos en el Fundamento Jurídico 69 de la misma. Es decir, si se ciñe expresamente al ámbito de las competencias autonómicas y locales; y que la consulta sea de cualquier tipo distinto al referendum regulado por la LO 2/1980 [^LO_2/1980].
 
 Como en todo procedimiento legislativo normal, se promovieron gran cantidad de enmiendas parciales y a la totalidad por parte de los distintos partidos. También como suele ser habitual ninguna fue aceptada.
 
-En lo relatico a las posiciones en contra, en las declaraciones de Albert Rivera (Ciudadanos) adelanta que su partido votaría que no por las siguientes razones:
+En lo relatico a las posiciones en contra, en las declaraciones de Albert Rivera (Ciudadanos) adelanta que su partido votaría que no por las siguientes razones[^debate_ley_10/2014]:
 1. Razones jurídicas: Ya que se trata de un desafío al orden constitucional, una decisión ilegal porque no se cumple la legislación nacional. Porque pretende la realización de un referendum para la secesión, cuestión que supera las competencias autonómicas. En ese caso de acuerdo a la LO 2/1980 se necesita la autorización Estatal. Argumenta que las enmiendas del grupo de Ciutadans precisamente intentaban aclarar la ley enmarcandola unívocamente en las competencias autonómicas, y que el hecho de que no hayan sido aceptadas pone de manifiesto dicha voluntad de exceder lo autonómico. Además, porque pretenden realizar dicho referendum ilegal con un censo distinto al que obliga la norma, es decir, el censo autonómica en vez del censo electoral nacional. Termina acusando al PSC de cómplices ya que no son capaces de ver, o no quieren ver, la verdadera intención de la ley que se debate.
 
 1. Razones ideológicas: Porque se rompen los principios democráticos de igualdad y solidaridad. Que los nacionalismos son el enemigo de la unidad en la que se apoya la propia Unión Europea. El considera que efectivamente Europa debe ser mejorada pero para ello se requiere una «europa ciudadana y no identitaria, de ciudadanos y no de pueblos históricos». Reconoce que el escenario actual es el ideal para el independentismo, porque los paises europeos (incluyendo España) están en crisis. Tras la crisis económica, los populismos y nacionalismos se refuerzan. No vasta con invocar a la CE para detenerlos, tanto la UE como España deben trabajar para hacer que sus proyectos sean más atractivos para las personas. «El mejor caldo de cultivo del separatismo, es un país que no funciona. Si España funcionace y la UE fuera un espacio democrático y de avance económico... sin la crisis bancaria y los recortes los mensajes como "España nos roba" no calarían».
 
 Termina reflexionando sobre que en ningún país existe el derecho a "marcharse" e invita a los separatistas a que traten de reformar la constitucion para alcanzar un modelo que les convenza. Declara que no está de acuerdo en el llamado "derecho de autodeterminación" para un pueblo que no es una colonia ni está reprimido. Critica que se realice o no el referendum la fractura ya está creada y que dividir a un pueblo es una grave irresponsabilidad.
 
-De manera similar el PP razona que la ley pretende regular consultas no referendarias para, no obstante, realizar un referendum que además trata sobre una cuestión de la que la Comunidad Autónoma no es competente, ya que no son 8 millones de personas las afectadas, sino 47 millones. 
+De manera similar el PP razona que la ley pretende regular consultas no referendarias para, no obstante, realizar un referendum que además trata sobre una cuestión de la que la Comunidad Autónoma no es competente, ya que no son 8 millones de personas las afectadas, sino 47 millones [^debate_ley_10/2014]. 
+
+La posición del PSC en este asunto es interesante porque se posiciona en contra de la posición de su directiva nacional, defendiendo en este caso la propuesta  [^debate_ley_10/2014]. 
 
 #### XI Legislatura (Oct. 2015 - Ene. 2018)
+
+#### XII Legislatura (Ene. 2018 - Dic. 2020)
+
+#### XIII Legislatura (Mar. 2021 - Actualidad)
 
 
 
@@ -392,25 +376,25 @@ Quizás aún sea demasiado pronto para entrar en valoraciones sobre la convenien
 {: .notice}
 
 [^cat_resultados_electorales]: [Histórico de resultados electorales en cataluña](https://www.parlament.cat/pcat/parlament/que-es-el-parlament/resultats-electorals/)
-[^estatuto]: [Estatuto de autonomía catalana de 2006](https://www.boe.es/eli/es/lo/2006/07/19/6/con)
+[^estatuto_cat_2006]: [Estatuto de autonomía catalana de 2006](https://www.boe.es/eli/es/lo/2006/07/19/6/con)
 [^CE]: [Constitución Española de 1978](https://www.boe.es/eli/es/c/1978/12/27/(1)/con)
-[^LO]: [Ley Orgánica 2/1980, de 18 de enero, sobre regulación de las distintas modalidades de referéndum](https://www.boe.es/eli/es/lo/1980/01/18/2/con )
+[^LO_2/1980]: [Ley Orgánica 2/1980, de 18 de enero, sobre regulación de las distintas modalidades de referéndum](https://www.boe.es/eli/es/lo/1980/01/18/2/con )
 [^LO_6/2006]: [Ley Orgánica 6/2006, de 19 de julio, de reforma del Estatuto de Autonomía de Cataluña](https://www.boe.es/eli/es/lo/2006/07/19/6/con)
-[^STC_119/1995]: [STC 119/1995](http://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/2973)
-[^STC_103/2008]: [STC 103/2008](https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/6335)
-[^STC_31/2010]: [STC 31/2010](https://hj.tribunalconstitucional.es/HJ/ca/Resolucion/Show/6670)
-[^STC_51/2017]: [STC 51/2017](https://hj.tribunalconstitucional.es/HJ/es/Resolucion/Show/25341)
-[^STC_103/2017]: [STC 103/2017](https://hj.tribunalconstitucional.es/es/Resolucion/Show/25443)
-[^STC_139/2017]: [STC 139/2017](https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/25524)
+[^STC_63/1987]: [Sentencia del Tribunal Constitucional 63/1987](http://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/795)
+[^STC_119/1995]: [Sentencia del Tribunal Constitucional 119/1995](http://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/2973)
+[^STC_103/2008]: [Sentencia del Tribunal Constitucional 103/2008](https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/6335)
+[^STC_31/2010]: [Sentencia del Tribunal Constitucional 31/2010](https://hj.tribunalconstitucional.es/HJ/ca/Resolucion/Show/6670)
+[^STC_51/2017]: [Sentencia del Tribunal Constitucional 51/2017](https://hj.tribunalconstitucional.es/HJ/es/Resolucion/Show/25341)
+[^STC_103/2017]: [Sentencia del Tribunal Constitucional 103/2017](https://hj.tribunalconstitucional.es/es/Resolucion/Show/25443)
+[^STC_139/2017]: [Sentencia del Tribunal Constitucional 139/2017](https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/25524)
 [^artur_mas_discurso_investidura_2010]: [Discurso de investidura como Presidente de la Generalitat de Artur Màs de 2010](https://govern.cat/govern/docs/2012/11/21/09/28/b2c67936-a8d7-40fe-aec2-1ff441035517.pdf)
 [^artur_mas_rajoy_2011]: [Ronda de prensa posterior a la reunión entre Mariano Rajoy y Artur Màs (20/09/2012)](https://govern.cat/govern/docs/2012/11/21/08/55/362b9abd-1ea6-4a80-b3dd-d7642f4b76ef.pdf)
-[^artur_mas_2012_convocatoria_elecciones]: [Discurso del presidente de la Generalitat en el
-Debate de Política General (25/09/2012)](https://govern.cat/govern/docs/2012/11/21/08/53/f65bb84a-75bf-4b66-827f-a1c6eec42521.pdf)
+[^artur_mas_2012_convocatoria_elecciones]: [Discurso del presidente de la Generalitat en el Debate de Política General (25/09/2012)](https://govern.cat/govern/docs/2012/11/21/08/53/f65bb84a-75bf-4b66-827f-a1c6eec42521.pdf)
 [^acuerdo_investidura_2012]: [Acuerdo de investidura X Legislatura](https://web.archive.org/web/20140101082725/http://www.esquerra.cat/pacte/pacte.pdf)
 [^parlament_declaracion_soberania]: [Resolución 5/X del Parlamento de Cataluña, por la que se aprueba la Declaración de soberanía y del derecho a decidir del pueblo de Cataluña](https://www.parlament.cat/document/intrade/7217)
 [^parlament_debate_declaracion_soberania]: [Debate y votación de las propuestas de declaración de soberanía](https://www.parlament.cat/document/dspcp/57792.pdf#page=41)
 [^anuncio_consulta_2014]:[Nota de prensa sobre el Anuncio de la consulta de 2014](https://web.archive.org/web/20131217033858/http://www.govern.cat/pres_gov/AppJava/govern/grans-reptes/transicio-nacional/notapremsa-236414.html)
 [^parlament_479/X]: [Resolución 479/X del Parlamento de Cataluña, por la que se presenta la proposición de Ley Orgánica para autorizar , convocar y celebrar un referéndum sobre el futuro de Cataluña](https://www.parlament.cat/getdocie/10007154)
 [^congreso_LO_referendum]: [Proposición de Ley Orgánica de delegación en la Generalidad de Cataluña de la competencia para autorizar, convocar y celebrar un referéndum sobre el futuro político de Cataluña](https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=X&_iniciativas_id=125%2F000013)
-[^ley10/2014]: [Ley 14/2010 de consultas populares no referendarias y otras formas de participación ciudadana](https://www.parlament.cat/getdocie/10010530)
-[^debate_ley10/2014]: [Debate parlamentario de la Propuesta de Ley de consultas populares (19/09/2014)](https://www.parlament.cat/ext/f?p=700:15:0:::15,RR,RIR,CIR:P15_ID_VIDEO,P15_ID_AGRUPACIO:7160780,17488)
+[^ley_10/2014]: [Ley 14/2010 de consultas populares no referendarias y otras formas de participación ciudadana](https://www.parlament.cat/getdocie/10010530)
+[^debate_ley_10/2014]: [Debate parlamentario de la Propuesta de Ley de consultas populares (19/09/2014)](https://www.parlament.cat/ext/f?p=700:15:0:::15,RR,RIR,CIR:P15_ID_VIDEO,P15_ID_AGRUPACIO:7160780,17488)

@@ -12,6 +12,11 @@
           "type": "string"
         },
         {
+          "title": "excerpt",
+          "name": "excerpt",
+          "type": "string"
+        },
+        {
           "title": "isbn",
           "name": "isbn",
           "type": "number"
@@ -22,9 +27,14 @@
           "type": "datetime"
         },
         {
+          "title": "lastmod",
+          "name": "lastmod",
+          "type": "datetime"
+        },
+        {
           "title": "draft",
           "name": "draft",
-          "type": "datetime"
+          "type": "boolean"
         },
         {
           "title": "categories",
@@ -32,14 +42,169 @@
           "type": "categories"
         },
         {
-          "title": "excerpt",
-          "name": "excerpt",
-          "type": "string"
+          "title": "tags",
+          "name": "tags",
+          "type": "tags"
         },
         {
-          "title": "lastmod",
-          "name": "lastmod",
-          "type": "datetime"
+          "title": "references",
+          "name": "references",
+          "type": "block",
+          "fields": [
+            {
+              "title": "0",
+              "name": "0",
+              "type": "fields",
+              "fields": [
+                {
+                  "title": "title",
+                  "name": "title",
+                  "type": "string"
+                },
+                {
+                  "title": "url",
+                  "name": "url",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "title": "1",
+              "name": "1",
+              "type": "fields",
+              "fields": [
+                {
+                  "title": "title",
+                  "name": "title",
+                  "type": "string"
+                },
+                {
+                  "title": "url",
+                  "name": "url",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "title": "2",
+              "name": "2",
+              "type": "fields",
+              "fields": [
+                {
+                  "title": "title",
+                  "name": "title",
+                  "type": "string"
+                },
+                {
+                  "title": "url",
+                  "name": "url",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "title": "3",
+              "name": "3",
+              "type": "fields",
+              "fields": [
+                {
+                  "title": "title",
+                  "name": "title",
+                  "type": "string"
+                },
+                {
+                  "title": "url",
+                  "name": "url",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "title": "4",
+              "name": "4",
+              "type": "fields",
+              "fields": [
+                {
+                  "title": "title",
+                  "name": "title",
+                  "type": "string"
+                },
+                {
+                  "title": "url",
+                  "name": "url",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "title": "5",
+              "name": "5",
+              "type": "fields",
+              "fields": [
+                {
+                  "title": "title",
+                  "name": "title",
+                  "type": "string"
+                },
+                {
+                  "title": "url",
+                  "name": "url",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "title": "6",
+              "name": "6",
+              "type": "fields",
+              "fields": [
+                {
+                  "title": "title",
+                  "name": "title",
+                  "type": "string"
+                },
+                {
+                  "title": "url",
+                  "name": "url",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "title": "7",
+              "name": "7",
+              "type": "fields",
+              "fields": [
+                {
+                  "title": "title",
+                  "name": "title",
+                  "type": "string"
+                },
+                {
+                  "title": "url",
+                  "name": "url",
+                  "type": "string"
+                }
+              ]
+            },
+            {
+              "title": "8",
+              "name": "8",
+              "type": "fields",
+              "fields": [
+                {
+                  "title": "title",
+                  "name": "title",
+                  "type": "string"
+                },
+                {
+                  "title": "url",
+                  "name": "url",
+                  "type": "string"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
