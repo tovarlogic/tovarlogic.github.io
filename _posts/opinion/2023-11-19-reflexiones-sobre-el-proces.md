@@ -401,7 +401,7 @@ Quizás aún sea demasiado pronto para entrar en valoraciones sobre la convenien
 [^STC_31/2010]: [STC 31/2010](https://hj.tribunalconstitucional.es/HJ/ca/Resolucion/Show/6670)
 [^STC_51/2017]: [STC 51/2017](https://hj.tribunalconstitucional.es/HJ/es/Resolucion/Show/25341)
 [^STC_103/2017]: [STC 103/2017](https://hj.tribunalconstitucional.es/es/Resolucion/Show/25443)
-[^STC_139/2017]: 
+[^STC_139/2017]: [STC 139/2017](https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/25524)
 [^artur_mas_discurso_investidura_2010]: [Discurso de investidura como Presidente de la Generalitat de Artur Màs de 2010](https://govern.cat/govern/docs/2012/11/21/09/28/b2c67936-a8d7-40fe-aec2-1ff441035517.pdf)
 [^artur_mas_rajoy_2011]: [Ronda de prensa posterior a la reunión entre Mariano Rajoy y Artur Màs (20/09/2012)](https://govern.cat/govern/docs/2012/11/21/08/55/362b9abd-1ea6-4a80-b3dd-d7642f4b76ef.pdf)
 [^artur_mas_2012_convocatoria_elecciones]: [Discurso del presidente de la Generalitat en el

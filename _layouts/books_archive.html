@@ -7,7 +7,7 @@ layout: archive
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
 {% assign read = site.data.books | where:'status', 'read' %}
-{% assign readInYear = site.data.books | where:'status', 'read' | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" | reverse %}
+{% assign readInYear = read | group_by_exp: 'same_year', 'same_year.date | date: "%Y"' | sort: "date" | reverse %}
 {% assign reading = site.data.books | where:'status', 'reading' | sort: "date" %}
 {% assign pending = site.data.books | where:'status', 'pending' | sort: "date" %}
 
