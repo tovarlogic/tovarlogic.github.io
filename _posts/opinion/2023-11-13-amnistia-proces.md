@@ -4,12 +4,10 @@ date: 2023-11-13
 draft: true
 hidden: true
 toc: false
-references:
-  - id: 564bc22c-84cb-4500-a107-27b5ccf9a417
-    title: "Wikipedia: Proceso soberanista de Cataluña de 2012-2021"
+bibliography:
+  - title: "Wikipedia: Proceso soberanista de Cataluña de 2012-2021"
     url: https://es.wikipedia.org/wiki/Proceso_soberanista_de_Catalu%C3%B1a_de_2012-2021
-  - id: ce10d3f1-498e-4741-9aeb-20561488d50e
-    title: "Discurso del Rey (texto): 3 de Octubre de 2017"
+  - title: "Discurso del Rey (texto): 3 de Octubre de 2017"
     url: https://www.casareal.es/ES/Actividades/Paginas/actividades_discursos_detalle.aspx?data=5716
   - id: wzNFO_VdJIg
     type: video
@@ -18,7 +16,7 @@ references:
   - id: 8382999b-468f-4688-ab3d-0a73df3e4828
     title: "BOE: Reforma del Estatuto de Autonomía de Cataluña (Ley Orgánica 6/2006)"
     url: https://www.boe.es/buscar/act.php?id=BOE-A-2006-13087&p=20221228&tn=1
-lastmod: 2023-11-20T11:55:51.146Z
+lastmod: 2024-01-18T16:47:45.914Z
 ---
   
   

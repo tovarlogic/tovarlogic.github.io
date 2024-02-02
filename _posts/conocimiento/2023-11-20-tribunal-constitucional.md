@@ -3,11 +3,11 @@ title: Sobre el Tribunal Constitucional
 description: Descripción de las principales funciones del tribunal.
 draft: true
 categories:
-    - Política
-references:
-    - title: Competencias del Tribunal Constitucional
-      url: https://www.tribunalconstitucional.es/es/tribunal/Composicion-Organizacion/competencias/Paginas/default.aspx
-lastmod: 2023-11-20T12:23:11.422Z
+  - Política
+bibliography:
+  - title: Competencias del Tribunal Constitucional
+    url: https://www.tribunalconstitucional.es/es/tribunal/Composicion-Organizacion/competencias/Paginas/default.aspx
+lastmod: 2024-02-02T17:25:20.383Z
 ---
 
 El Tribunal Constitucional, como intérprete supremo de la Constitución, es independiente de los demás órganos constitucionales del Estado y está sometido sólo a la Constitución y a su Ley Orgánica. Es único en su orden y extiende su jurisdicción a todo el territorio nacional.

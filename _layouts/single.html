@@ -56,10 +56,10 @@ layout: default
 
         {{ content }}
         
-        {% if page.references %}
-          <h2 id="front-end_references" class="">Bibliografía</h2>
+        {% if page.bibliography %}
+          <h2 id="front-bibliography" class="">Bibliografía</h2>
           <ul>
-          {% for reference in page.references %}
+          {% for reference in page.bibliography %}
             {% unless reference.url %}
               {% assign reference = site.data.references | where: 'id' , reference.id %}
             {% endunless %}
