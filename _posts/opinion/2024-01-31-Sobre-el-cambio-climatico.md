@@ -12,7 +12,7 @@ videos:
 bibliography:
   - title: null
     url: null
-lastmod: 2024-02-02T17:25:02.762Z
+lastmod: 2024-02-06T11:04:38.570Z
 ---
 
 ## Introducción
@@ -58,7 +58,7 @@ El reconocido científico Carl Sagan, en 1985 describió en el Congreso de EE.UU
 {% include /media/video-youtube-player.html  id="Wp-WiNXH6hI" %}
 <figcaption>
 	Fuente original:  <a href="https://www.c-span.org/video/?125856-1/greenhouse-effect">C-Span: Greenhouse Effect. Diciembre de 1985</a>
-  </figcaption>
+</figcaption>
 
 Mi conocimiento actual de la cuestión es básica y resumidamente el siguiente: 
 
@@ -106,7 +106,7 @@ Como consecuencia de lo anterior se concluye que el calentamiento global supone 
 Finalmente se nos presentan tres vías principales de acción para abordar la solución del problema. Toda ellas complementarias:
 1. Revertir el cambio climático, es decir, extrayendo de la atmósfera los GEI para reducir su concentración hasta niveles "normales", es decir, pre-industriales o incluso pre-históricos.
 1. Reducir los efectos del cambio climático, reduciendo las emisiones de GEI hasta alcanzar niveles atmosféricos artificialmente elevados pero suficientemente bajos como para evitar las peores consecuencias
-1. Adaptarnos a los efectos del cambio climático, previendo sus características, planificando y ejecutando acciones que nos permitan mitigarlos. Por ejemplo, creación de infraestructuras para la protección o relocalización de nucleos urbanos, e incluso el desarrollo de tecnología que nos permita soportar y llevar a cabo tareas cotidianas en dichas condiciones extremas.
+1. Adaptarnos a los efectos del cambio climático, previendo sus características, planificando y ejecutando acciones que nos permitan mitigarlos. Por ejemplo, creación de infraestructuras para la protección o relocalización de núcleos urbanos, e incluso el desarrollo de tecnología que nos permita soportar y llevar a cabo tareas cotidianas en dichas condiciones extremas.
 
 Es incluso posible una cuarta vía, la manipulación climática que permita de manera artificial mantener localmente condiciones climáticas aceptables, algo así como islas climáticas artificiales. 
 
@@ -118,9 +118,10 @@ Es incluso posible una cuarta vía, la manipulación climática que permita de m
 
 ## Estimación de impactos
 
-## Posibles soluciones
+## Posibles vías de acción
 
-### Reducción de emisiones
+### Sobre las causas
+#### Reducción de emisiones
 - Descarbonización de la economía (industria, transporte) 
 - Producción eléctrica mediante Energías Renovables [EERR]
 - Aumento de la eficiencia energética en edificios y viviendas
@@ -130,17 +131,18 @@ Es incluso posible una cuarta vía, la manipulación climática que permita de m
 - Cambio de técnicas agropecuarias (Ej. Agricultura regenerativa)
 - Reutilización de residuos (Ej. orgánicos para compost, y otras materias primas para la industria)
 - Reducción de la población (probablemente no es factible, ni necesario si todo lo anterior se consigue)
-### Reducción de GEI atmosféricos
+#### Reducción de GEI atmosféricos
 - Secuestro de CO2 artificial (por medios tecnológicos)
 - Acelerar el secuestro de CO2 natural (Ej. Reforestación, Agricultura regenerativa)
-### Adaptación a los efectos del cambio climático
+### Sobre los efectos
+#### Adaptación a los efectos del cambio climático
 - Nuevas Infraestructuras para adaptación a sequías e inundaciones
 - Nuevas Infraestructuras de protección del aumento del nivel del mar o relocalización de la población y ciudades
 - Adaptación de infraestructuras existentes para soportar condiciones climáticas extremas 
 - Adaptación de la agricultura y ganadería a dichas condiciones desfavorables 
 - Preparación para crisis económicas
 - Preparación para crisis sociales (Ej. Migraciones masivas)
-### Reducción de los efectos del cambio climático
+#### Reducción de los efectos del cambio climático
 - Manipulación del clima por medios artificiales
 - Manipulación de microclimas por medios naturales
 
