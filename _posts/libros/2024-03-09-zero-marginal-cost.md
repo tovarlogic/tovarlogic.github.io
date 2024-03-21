@@ -8,7 +8,7 @@ categories:
     - Psicología
     - Política
 excerpt: Este libro pretende describir una tendencia de cambio en el actual sistema económico, dominado predominantemente por el capitalismo hacia otro modelo basado en el capital social y la colaboración.
-lastmod: 2024-03-20T18:45:42.385Z
+lastmod: 2024-03-21T10:13:49.107Z
 ---
 
 ## Síntesis
@@ -36,6 +36,30 @@ En su opinión, el sistema capitalista ha demostrado ser el mecanismo más ágil
 
 En cualquier caso, la economía seguirá siendo híbrida, es decir, con mecanismos de mercado, intervención gubernamental y de acción comunitaria ("Collaborative Commons"). La novedad prevista, es que la gestión compartida de recursos aumentará su importancia en detrimento de la gestión privativa.
 
+## Definiciones
+Paradigma
+: Un sistema de creencias y suposiciones que de manera conjunta establecen una visión integral y unificada de las cosas de manera convincente y considerada como una realidad en sí misma.
+
+Capitalismo
+: Sistema económico basado en la propiedad privada de los medios de producción y en el libre mercado.
+: Sistema basado en el trabajo ajeno a cambio de dinero.
+
+Coste Marginal
+: es el cambio en el coste total que se produce cuando se incrementa la cantidad producida, el coste de producir una cantidad adicional.
+
+Framing o Encuadre
+: Es un sesgo congnitivo que se caracteriza por la selección y redefinición de aspectos de la realidad bajo un nuevo marco con un objetivo determinado. 
+: “principios de organización compartidos socialmente, persistentes en el tiempo y que trabajan simbólicamente para estructurar con significado el mundo social” (Reese, Gamdy y Grant, 2001).
+
+## Acrónimos
+*[EERR]: Energías Renovables
+*[CC]: Collaborative Commons
+*[IA]: Inteligencia Artificial
+*[IoT]: Internet of Things o Internet de las cosas
+*[MOOCS]: Massive open online courses
+*[PIB]: Producto Interior Bruto
+*[GDP]: Gross Domestic Product
+
 
 ## Capítulo 1
 
@@ -51,12 +75,7 @@ En cualquier caso, la economía seguirá siendo híbrida, es decir, con mecanism
 Keynes [^keynes] en 1930 ya previó la posibilidad de alcanzar costes marginales muy bajos y sus posibles consecuencias en su obra "Las posibilidades económicas de nuestros nietos" [^keynesnietos] [^keynesnietos_eng]. Se dio cuenta de que los avances tecnológicos estaban incrementando la productividad y reduciendo los costes. Introdujo entonces un nuevo concepto, el de "desempleo tecnológico" ("technological unemployment"), refiriéndose a la posibilidad de que las máquinas produzcan en abundancia productos y servicios casi gratuitos, librando a los humanos de la necesidad de trabajar, permitiéndoles emplear su tiempo en otros propósitos.
 
 ### Cambiando el paradigma económico
-Según el autor nos encontramos en los primeros tiempos de un cambio de paradigma económico.
-
-Paradigma
-: Un sistema de creencias y suposiciones que de manera conjunta establecen una visión integral y unificada de las cosas de manera convincente y considerada como una realidad en sí misma.
-
-En la actualidad se comienza a desconfiar del paradigma capitalista al poner en duda que sea el mejor mecanismo para promover la eficiencia en la actividad económica. Debido a dos razones principales:
+Según el autor nos encontramos en los primeros tiempos de un cambio de paradigma económico. En la actualidad se comienza a desconfiar del paradigma capitalista al poner en duda que sea el mejor mecanismo para promover la eficiencia en la actividad económica. Debido a dos razones principales:
 
 - Nuevas generaciones de académicos de distintas disciplinas desafían dicha visión porque la teoría económica estándar ignora las leyes de la termodinámica, ni tiene en cuenta la relación existente entre la actividad económica y la ecología. Esta última impone una serie de restricciones o, si se prefiere costes, que hasta ahora no se han tenido en cuenta.
 
@@ -107,7 +126,7 @@ Por otro lado, y al mismo tiempo, a medida que la robótica, la automatización 
 
 En el libro se recuerda que el Producto Interior Bruto (PIB o GDP en inglés), es un indicador da acumulación de "capital de mercado", o mejor dicho la suma de productos y servicios que un país ha producido en un año. Desde hace décadas académicos de todo tipo de ramas, incluyendo la economía, critican su incapacidad para medir adecuadamente la economía, especialmente sus costes sociales y medioambientales. 
 
-Desde un punto de vista de los individuos, ll efecto inmediato de la IA será negativo en las personas cuyos empleos se verán afectados (aunque previsiblemente será positivo más a largo plazo) mientras que el de los CC será positivo. Este último tiene el potencial de reducir los costes y beneficios de las empresas, y a la vez lograr mayor abundancia de productos y servicios y mejorar la sostenibilidad. Paradójicamente, en ambos casos el efecto en el PIB es negativo.
+Desde un punto de vista de los individuos, el efecto inmediato de la IA será negativo en las personas cuyos empleos se verán afectados (aunque previsiblemente será positivo más a largo plazo) mientras que el de los CC será positivo. Este último tiene el potencial de reducir los costes y beneficios de las empresas, y a la vez lograr mayor abundancia de productos y servicios y mejorar la sostenibilidad. Paradójicamente, en ambos casos el efecto en el PIB es negativo.
 
 **NOTA:** Por ejemplo, el PIB no discrimina entre crecimiento económico "bueno" y "malo". Lo que importa es la suma total de la actividad económica. No resta las actividades económicas secundarias que mitigan los efectos negativos de otras. De este modo, si tras un vertido tóxico en un rio se gastan 100M€ en la actividad de limpieza, el PIB se incrementaría en 100M€, cuando en realidad debería ser justo lo contrario. Lo mismo ocurre con gastos médicos (que aumentan si la salud de la población se reduce), policiales (que deberían aumentar si también lo hace la delincuencia), es decir, tampoco tiene en cuenta el estado de salud y bienestar de la población. Si bien es cierto que existe una clara correlación directa entre incremento de PIB y de calidad de vida, esto solo sucede en la fracción más pobre de la población. Una vez llegado a un nivel determinado, dicha correlación desaparece.
 {: .notice--info}
@@ -182,10 +201,7 @@ TODO: REVISAR BIBLIOGRAFIA y profundizar
 
 Otra clave del libro, es que toda "plataforma" requiere de inversión **pública** en infraestructuras y en I+D en tecnología. Ambos, la tecnología y las infraestructuras, sirven de fundamento para el correcto funcionamiento del sistema. Defiende aquí, que la inversión ha de ser pública para maximizar el beneficio social, o dicho de otro modo, para reducir los costes (al eliminar la plusvalía privada). 
 
-La IoT es una tecnología necesaria que permitirá aumentar la transparencia y la eficiencia agregada del sistema, quizás poniendo en riesgo la privacidad. Lo importante es reducir el coste de producción una vez hecha la inversión inicial. Las nuevas tecnologías tienen el potencial de que dicha reducción sea exponencial con el paso del tiempo. Una de las dificultades estará en encontrar un equilibrio óptimo de productividad/beneficio, transparencia/privacidad y conectividad/seguridad.
-
-**NOTA:** Y la vulnerabilidad, añado.
-{: .notice--warning}
+La IoT es una tecnología necesaria que permitirá aumentar la transparencia y la eficiencia agregada del sistema, quizás poniendo en riesgo la privacidad y mayor vulnerabilidad. Lo importante es reducir el coste de producción una vez hecha la inversión inicial. Las nuevas tecnologías tienen el potencial de que dicha reducción sea exponencial con el paso del tiempo. Una de las dificultades estará en encontrar un equilibrio óptimo de productividad/beneficio, transparencia/privacidad y conectividad/seguridad.
 
 ## Cuestiones sin resolver
 - De ser cierto que la tendencia hacia costes marginales nulos continuase como predice el autor, y que los beneficios por tanto serían muy bajos. ¿Como afectaría esto a los sueldos/riqueza de los individuos? Si bajan demasiado ¿estaría en riesgo las necesidades básicas como acceso a la vivienda?
