@@ -8,7 +8,7 @@ categories:
     - Psicología
     - Política
 excerpt: Este libro pretende describir una tendencia de cambio en el actual sistema económico, dominado predominantemente por el capitalismo hacia otro modelo basado en el capital social y la colaboración.
-lastmod: 2024-03-21T10:23:03.543Z
+lastmod: 2024-03-21T10:29:54.764Z
 ---
 
 ## Síntesis
@@ -88,7 +88,7 @@ En la actualidad la "colaboración de los comunes" o "collaborative commons" (CC
 
 Esta nueva economía se basa en el capital social, porque depende en mayor medida de la diversidad y fuerza de las conexiones colaborativas de cada uno que en su capital monetario. Esto es así, porque la democratización de las comunicaciones, la energía y el transporte empodera a millones de individuos, que en conjunto tienen más capacidad que nunca antes en el pasado.
 
-Un ejemplo de ello es el fenómeno conocido como "prosumers" (la combinación de "producers" y "consumers"), en la que un mismo individuo es tanto consumidor como productor. Esto ocurre en sectores como la información, energía, entretenimiento, educación, turismo, e incluso, potencialmente en el industrial. Un mismo individuo puede realizar diseños que se publican en internet y a la vez emplear diseños de otros para fabricar in-situ los productos que necesite mediante impresión 3D. Airb&b y couchsharing entre otros han supuesto una revolución, al igual que el uso compartido de vehículos, cooperativas productoras, software libre, MOOCS (Massive open online courses), y mercados online de artículos de segunda mano. Incluso negocios típicamente capitalistas se ven beneficiados de este fenómeno de democratización a través de la financiación por medio del "crowdfunding". 
+Un ejemplo de ello es el fenómeno conocido como "prosumers" (la combinación de "producers" y "consumers"), en la que un mismo individuo es tanto consumidor como productor. Esto ocurre en sectores como la información, energía, entretenimiento, educación, turismo, e incluso, potencialmente en el industrial. Un mismo individuo puede realizar diseños que se publican en internet y a la vez emplear diseños de otros para fabricar in-situ los productos que necesite mediante impresión 3D. Airb&b y couchsharing entre otros han supuesto una revolución, al igual que el uso compartido de vehículos, cooperativas productoras, software libre, MOOCs (Massive open online courses), y mercados online de artículos de segunda mano. Incluso negocios típicamente capitalistas se ven beneficiados de este fenómeno de democratización a través de la financiación por medio del "crowdfunding". 
 
 **NOTA:** Otro ejemplo es el caso de las cryptomonedas, que tienen el potencial de desplazar a los bancos tradicionales, privados y gubernamentales en el control monetario.
 {: .notice--info}
@@ -146,7 +146,7 @@ El capítulo continúa describiendo las diferentes etapas de desarrollo social, 
 ## Capítulo 4
 En esta parte el autor se centra en analizar como el capitalismo ha ido moldeando las ideas. Al igual que en el resto de etapas anteriores, se han creado narrativas que se adecuaban al paradigma del momento. Dichas narrativas nunca reflejan una realidad absoluta e inmutable. Es el fenómeno conocido como "framing".
 
-La religión es un reflejo de ello. A lo largo de los siglos, a medida que las sociedades evolucionaban, las prácticas y dogmas cristianos también lo han hecho. En la época feudal era importante que cada persona comprendiera y aceptara su posición social. Posteriormente, la reforma protestante luterana, al tiempo que surgía una clase burguesa en la revolución proto-industrial, modificó la relación individual con dios, restando importancia a la iglesia, en cierto modo democratizando el acceso a dios. También se cambió el modo de salvación, incluyendo el trabajo como un medio para alcanzarla, cuestión de especial relevancia para los calvinistas (posteriores a los luteranos). La valía individual o autoestima era cada vez más importante, alineándose muy bien con la idea capitalista del propio interés y la acumulación de riqueza. Esto es un resumen simplista de la [ética protestante del trabajo](https://es.wikipedia.org/wiki/%C3%89tica_protestante_del_trabajo), mayoritaria en el mundo anglosajón y germano, que describiría Max Weber[^weber].
+La religión es un reflejo de ello. A lo largo de los siglos, a medida que las sociedades evolucionaban, las prácticas y dogmas cristianos también lo han hecho. En la época feudal era importante que cada persona comprendiera y aceptara su posición social. Posteriormente, la reforma protestante luterana, al tiempo que surgía una clase burguesa en la revolución proto-industrial, modificó la relación individual con dios, restando importancia a la iglesia, en cierto modo democratizando el acceso a dios. También se cambió el modo de salvación, incluyendo el trabajo como un medio para alcanzarla, cuestión de especial relevancia para los calvinistas (posteriores a los luteranos). La valía individual o autoestima era cada vez más importante, alineándose muy bien con la idea capitalista del propio interés y la acumulación de riqueza. Esto es un resumen simplista de la ética protestante del trabajo[^etica_protestante_trabajo], mayoritaria en el mundo anglosajón y germano, que describiría Max Weber[^weber].
 
 Posteriormente John Locke [^lock] hizo su caso sobre la propiedad privada como un derecho natural en detrimento de la gestión común que la consideraba inferior a la hora de defender los intereses de la humanidad. Posteriormente, Adam Smith [^adam_smith] iría un paso más allá argumentando que el mercadeo ("market behavior") representaba la verdadera naturaleza humana. Es decir, el capitalismo ha modificado la noción de la propiedad privada y el trabajo. Eventualmente incluso promovería la secularización de la sociedad, al modificar sus valores, pasando de un universo centrado en la religión a otro basado en lo material, o mejor dicho en el materialismo.
 
@@ -196,13 +196,14 @@ La IoT es una tecnología necesaria que permitirá aumentar la transparencia y l
 
 [^keynesnietos]: [Keynes, 1930 - Posibilidades económicas para nuestros nietos](http://gesd.free.fr/keynietos.pdf)
 [^keynesnietos_eng]: [Keynes, 1930 - Economic Possibilities for our Grandchildren](http://www.econ.yale.edu/smith/econ116a/keynes1.pdf)
+[^etica_protestante_trabajo]: [Max Weber, 1905 - Ética protestante del trabajo](https://es.wikipedia.org/wiki/%C3%89tica_protestante_del_trabajo)
 
 
 *[EERR]: Energías Renovables
 *[CC]: Collaborative Commons
 *[IA]: Inteligencia Artificial
 *[IoT]: Internet of Things o Internet de las cosas
-*[MOOCS]: Massive open online courses
+*[MOOCs]: Massive open online courses
 *[PIB]: Producto Interior Bruto
 *[GDP]: Gross Domestic Product
 *[paradigma]: Un sistema de creencias y suposiciones que de manera conjunta establecen una visión integral y unificada de las cosas de manera convincente y considerada como una realidad en sí misma.
