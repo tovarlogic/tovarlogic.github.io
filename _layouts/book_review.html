@@ -45,10 +45,10 @@ layout: default
         <div class="book_info" itemprop="itemReviewed" itemscope itemtype="http://schema.org/Book">
             <figure class="book_cover">
               {% if book.isbn %}
-                  <img alt="{{ book.title }} cover" src="http://covers.openlibrary.org/b/isbn/{{ book.isbn }}-L.jpg?default=false">
+                  <img alt="{{ book.title }} cover" src="https://covers.openlibrary.org/b/isbn/{{ book.isbn }}-L.jpg?default=false">
                   <figcaption>Cortesía de <a href="https://openlibrary.org/isbn/{{ book.isbn }}">Open Library</a>.</figcaption>
               {% elsif book.olid %}
-                  <img alt="{{ book.title }} cover" src="http://covers.openlibrary.org/b/olid/{{ book.olid }}-L.jpg?default=false">
+                  <img alt="{{ book.title }} cover" src="https://covers.openlibrary.org/b/olid/{{ book.olid }}-L.jpg?default=false">
                   <figcaption>Cortesía de <a href="https://openlibrary.org/olid/{{ book.olid }}">Open Library</a>.</figcaption>
               {% elsif book.cover %}
                   <img alt="{{ book.title }} cover" src="{{ site.baseurl }}/assets/book_covers/{{ book.cover }}">
