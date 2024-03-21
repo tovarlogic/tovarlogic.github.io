@@ -8,7 +8,7 @@ categories:
     - Psicología
     - Política
 excerpt: Este libro pretende describir una tendencia de cambio en el actual sistema económico, dominado predominantemente por el capitalismo hacia otro modelo basado en el capital social y la colaboración.
-lastmod: 2024-03-21T10:13:49.107Z
+lastmod: 2024-03-21T10:21:38.753Z
 ---
 
 ## Síntesis
@@ -35,31 +35,6 @@ Es según el autor, el propio capitalismo el que ha permitido alcanzar una efici
 En su opinión, el sistema capitalista ha demostrado ser el mecanismo más ágil y efectivo para organizar la economía en el pasado, cuando las tecnologías disponibles (energía, comunicaciones y transporte) requerían de una alta integración vertical y concentración de capital en las industrias para alcanzar economías de escala. En el futuro, con las nuevas tecnologías y fuentes de energía renovables, dicha integración no resultará tan necesaria en la mayoría de sectores económicos, permitiendo la participación activa de individuos, a través de distintos modelos colaborativos para la gestión de recursos compartidos.
 
 En cualquier caso, la economía seguirá siendo híbrida, es decir, con mecanismos de mercado, intervención gubernamental y de acción comunitaria ("Collaborative Commons"). La novedad prevista, es que la gestión compartida de recursos aumentará su importancia en detrimento de la gestión privativa.
-
-## Definiciones
-Paradigma
-: Un sistema de creencias y suposiciones que de manera conjunta establecen una visión integral y unificada de las cosas de manera convincente y considerada como una realidad en sí misma.
-
-Capitalismo
-: Sistema económico basado en la propiedad privada de los medios de producción y en el libre mercado.
-: Sistema basado en el trabajo ajeno a cambio de dinero.
-
-Coste Marginal
-: es el cambio en el coste total que se produce cuando se incrementa la cantidad producida, el coste de producir una cantidad adicional.
-
-Framing o Encuadre
-: Es un sesgo congnitivo que se caracteriza por la selección y redefinición de aspectos de la realidad bajo un nuevo marco con un objetivo determinado. 
-: “principios de organización compartidos socialmente, persistentes en el tiempo y que trabajan simbólicamente para estructurar con significado el mundo social” (Reese, Gamdy y Grant, 2001).
-
-## Acrónimos
-*[EERR]: Energías Renovables
-*[CC]: Collaborative Commons
-*[IA]: Inteligencia Artificial
-*[IoT]: Internet of Things o Internet de las cosas
-*[MOOCS]: Massive open online courses
-*[PIB]: Producto Interior Bruto
-*[GDP]: Gross Domestic Product
-
 
 ## Capítulo 1
 
@@ -223,7 +198,16 @@ La IoT es una tecnología necesaria que permitirá aumentar la transparencia y l
 [^keynesnietos_eng]: [Keynes, 1930 - Economic Possibilities for our Grandchildren](http://www.econ.yale.edu/smith/econ116a/keynes1.pdf)
 
 
-
-
+*[EERR]: Energías Renovables
+*[CC]: Collaborative Commons
+*[IA]: Inteligencia Artificial
+*[IoT]: Internet of Things o Internet de las cosas
+*[MOOCS]: Massive open online courses
+*[PIB]: Producto Interior Bruto
+*[GDP]: Gross Domestic Product
+*[paradigma]: Un sistema de creencias y suposiciones que de manera conjunta establecen una visión integral y unificada de las cosas de manera convincente y considerada como una realidad en sí misma.
+*[Capitalismo]: Sistema económico basado en la propiedad privada de los medios de producción y en el libre mercado. Sistema basado en el trabajo ajeno a cambio de dinero.
+*[coste marginal]: es el cambio en el coste total que se produce cuando se incrementa la cantidad producida, el coste de producir una cantidad adicional.
+*[framing]:Es un sesgo congnitivo que se caracteriza por la selección y redefinición de aspectos de la realidad bajo un nuevo marco con un objetivo determinado. “principios de organización compartidos socialmente, persistentes en el tiempo y que trabajan simbólicamente para estructurar con significado el mundo social” (Reese, Gamdy y Grant, 2001).
 
 
