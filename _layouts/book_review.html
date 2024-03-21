@@ -55,7 +55,7 @@ layout: default
               {% endif %}
           </figure>
             <div class="book_meta">
-                <h3 itemprop="name">{{ book.title }}</h3> por <span class="author" itemprop="author" >{{ book.author }}</span><br>
+                <h3 itemprop="name">{{ book.title }}</h3> por <span class="author" itemprop="author" >{{ book.authors }}</span><br>
                 {% if book.stars %}<span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span><br>{% endif %}
                 <p>
                 {% if book.category %} {{ book.category }}{% endif %}

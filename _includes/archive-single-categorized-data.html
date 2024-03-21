@@ -66,14 +66,14 @@
                 {% if item.isbn %}
                     <img alt="{{ item.title }}" src="http://covers.openlibrary.org/b/isbn/{{ item.isbn }}-M.jpg">
                 {% else %}
-                    {{ item.title }} por {{ item.author }}
+                    {{ item.title }} por {{ item.authors }}
                 {% endif %}
                 </a>
             {% else %}
                 {% if item.isbn %}
                     <img alt="{{ item.title }}" src="http://covers.openlibrary.org/b/isbn/{{ item.isbn }}-M.jpg">
                 {% else %}
-                    {{ item.title }} por {{ item.author }}
+                    {{ item.title }} por {{ item.authors }}
                 {% endif %}
             {% endif %}
             </div>

@@ -13,7 +13,7 @@
       </figure>
   		<div class="book_meta">
   			<h3><em><a href="{{ book.url | prepend: site.baseurl }}">{{ book.title }}</a></em></h3> 
-        <span class="author">por {{ book.author }}</span><br>
+        <span class="author">por {{ book.authors }}</span><br>
   			<span class="stars-container stars-{{ book.stars | times:20 | round: 0 }}" title="{{ book.stars }}/5">★★★★★</span><br>
   			<p>
         {% if book.category %} {{ book.category }}{% endif %}
