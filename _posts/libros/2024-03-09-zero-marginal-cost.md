@@ -8,7 +8,7 @@ categories:
     - Psicología
     - Política
 excerpt: Este libro pretende describir una tendencia de cambio en el actual sistema económico, dominado predominantemente por el capitalismo hacia otro modelo basado en el capital social y la colaboración.
-lastmod: 2024-03-21T10:21:38.753Z
+lastmod: 2024-03-21T10:23:03.543Z
 ---
 
 ## Síntesis
@@ -206,7 +206,7 @@ La IoT es una tecnología necesaria que permitirá aumentar la transparencia y l
 *[PIB]: Producto Interior Bruto
 *[GDP]: Gross Domestic Product
 *[paradigma]: Un sistema de creencias y suposiciones que de manera conjunta establecen una visión integral y unificada de las cosas de manera convincente y considerada como una realidad en sí misma.
-*[Capitalismo]: Sistema económico basado en la propiedad privada de los medios de producción y en el libre mercado. Sistema basado en el trabajo ajeno a cambio de dinero.
+*[capitalismo]: Sistema económico basado en la propiedad privada de los medios de producción y en el libre mercado. Sistema basado en el trabajo ajeno a cambio de dinero.
 *[coste marginal]: es el cambio en el coste total que se produce cuando se incrementa la cantidad producida, el coste de producir una cantidad adicional.
 *[framing]:Es un sesgo congnitivo que se caracteriza por la selección y redefinición de aspectos de la realidad bajo un nuevo marco con un objetivo determinado. “principios de organización compartidos socialmente, persistentes en el tiempo y que trabajan simbólicamente para estructurar con significado el mundo social” (Reese, Gamdy y Grant, 2001).
 
