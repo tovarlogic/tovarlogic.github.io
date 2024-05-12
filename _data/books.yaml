@@ -3,7 +3,9 @@
   isbn: 9781592242429
   date: 2007-08-01
   stars: 5
-  categories: Ciencia-ficción
+  categories:
+  - Ficción
+  - Ciencia-ficción
   status: read
 
 - title: Round the Moon
@@ -11,7 +13,9 @@
   isbn: 9781557423740
   date: 2007-08-01
   stars: 5
-  categories: Ciencia-ficción
+  categories:
+  - Ficción
+  - Ciencia-ficción
   status: read
 
 - title: 'The Tibetan Book of Living and Dying: The Spiritual Classic & International
@@ -20,7 +24,9 @@
   isbn: 9780944993781
   date: 2008-08-01
   stars: 4
-  categories: Filosofía
+  categories:
+  - Ensayo 
+  - Filosofía
   status: read
 
 - title: 'An Appeal to Reason: A Cool Look at Global Warming'
@@ -29,6 +35,7 @@
   date: 2009-04-01
   stars: 4
   categories:
+  - Ensayo
   - Ciencia
   - Medioambiente
   tags: Cambio climático
@@ -40,6 +47,7 @@
   date: 2009-02-01
   stars: 4 
   categories:
+  - Ensayo
   - Ciencia
   - Medioambiente
   tags: Cambio climático
@@ -51,6 +59,7 @@
   date: 2010-06-01
   stars: 4
   categories:
+  - Ensayo
   - Historia
   - Política
   status: read
@@ -61,6 +70,7 @@
   date: 2011-09-01
   stars: 3
   categories:
+  - Ensayo
   - Política
   - Economía
   tags:
@@ -72,7 +82,9 @@
   isbn: 1566193931
   date: 2012-10-01
   stars: 4
-  categories: Biografía
+  categories:
+  - Ensayo 
+  - Biografía
   status: read
 
 - title: Winter of the World
@@ -81,7 +93,8 @@
   date: 2013-02-01
   stars: 3
   categories:
-  - Novela histórica
+  - Ficción 
+  - Historia
   status: read
 
 - title: Harpo Speaks! About new York
@@ -90,6 +103,7 @@
   date: 2013-12-01
   stars: 4
   categories:
+  - Ensayo
   - Biografía
   status: read
 
@@ -100,6 +114,7 @@
   date: 2014-01-01
   stars: 3
   categories:
+  - Ensayo
   - Ciencia
   - Biología
   tags: Hipertensión
@@ -111,6 +126,7 @@
   date: 2016-02-01
   stars: 3
   categories:
+  - Ensayo
   - Economía
   status: read
 
@@ -120,6 +136,7 @@
   date: 2017-05-07
   stars: 4
   categories:
+  - Ensayo
   - Crecimiento personal
   review: 7-habitos-gente-eficaz
   status: read
@@ -129,7 +146,9 @@
   isbn: 9781846558245
   date: 2018-08-01
   stars: 4
-  categories: Sociología
+  categories:
+  - Ensayo 
+  - Sociología
   status: read
 
 - title: 'Merchants of Doubt: How a Handful of Scientists Obscured the Truth on Issues
@@ -139,6 +158,7 @@
   date: 2019-04-01
   stars: 4
   categories:
+  - Ensayo
   - Medioambiente
   - Política
   tags: Cambio climático
@@ -151,6 +171,7 @@
   date: 2020-02-01
   stars: 4
   categories:
+  - Ensayo
   - Filosofía
   tags:
   - Estoicismo
@@ -163,6 +184,7 @@
   date: 2020-02-01
   stars: 4
   categories:
+  - Ensayo
   - Filosofía
   tags:
   - Estoicismo
@@ -172,6 +194,7 @@
   authors: George Orwell
   isbn: 9780241339565
   categories:
+  - Ensayo
   - Política
   - Sociología
   date: 2021-06-16
@@ -183,6 +206,7 @@
   authors: Toby Ord
   isbn: 9780316484916
   categories:
+  - Ensayo
   - Ciencia
   tags:
   - Futuro
@@ -197,6 +221,7 @@
   authors: Margaret MacMillan
   isbn: 9781846682735
   categories:
+  - Ensayo
   - Historia
   tags: 
   - Primera-guerra-mundial
@@ -210,7 +235,9 @@
   isbn: 9780671527211
   date: 2021-02-20
   stars: 4
-  categories: Ciencia-ficción
+  categories:
+  - Ficción
+  - Ciencia-ficción
   status: read
 
 - title: 'Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies
@@ -220,6 +247,7 @@
   date: 2018-10-01
   stars: 4
   categories:
+  - Ensayo
   - Tecnología
   tags:
   - Blockchain
@@ -232,6 +260,7 @@
   date: 2019-06-01
   stars: 4
   categories:
+  - Ensayo
   - Geopolítica
   status: read
 
@@ -239,6 +268,7 @@
   authors: Richard A. Oppenlander
   isbn: 9780825306860
   categories:
+  - Ensayo
   - Medioambiente
   date: 2021-11-10
   stars: 2
@@ -252,6 +282,7 @@
   date: 2004-06-01
   stars: 4
   categories:
+  - Ensayo
   - Ciencia
   status: read
 
@@ -260,6 +291,7 @@
   isbn: 0593297377
   date: 2021-05-18
   categories:
+  - Ensayo
   - Política
   tags:
   - Futuro
@@ -275,6 +307,7 @@
   stars: 3
   format: kindle
   categories:
+  - Ficción
   - Historia
   - Aventuras
   tags:
@@ -288,6 +321,7 @@
   stars: 3
   format: ebook
   categories:
+  - Ficción
   - Historia
   - Aventuras
   tags:
@@ -298,6 +332,7 @@
   authors: James Nestor
   isbn: 9788408237228
   categories:
+  - Ensayo
   - Ciencia
   - Biología
   tags:
@@ -315,6 +350,7 @@
   date: 2020-03-01
   stars: 3
   categories:
+  - Ensayo
   - Filosofía
   tags:
   - China
@@ -323,6 +359,7 @@
   authors: Juan Eslava Galán
   isbn: 9788408124535
   categories:
+  - Ensayo
   - Historia
   tags: Primera-guerra-mundial
   date: 2022-01-10
@@ -345,6 +382,7 @@
   date: 2014-12-01
   stars: 4
   categories:
+  - Ensayo
   - Ciencia
   - Biología
   tags: Salud
@@ -356,6 +394,7 @@
   date: 2020-10-01
   stars: 3
   categories:
+  - Ensayo
   - Ciencia
   - Biología
   tags: Salud
@@ -365,6 +404,7 @@
   authors: Simon Usherwood
   isbn: 9780199681693
   categories:
+  - Ensayo
   - Política
   tags: Unión-europea
   date: 2022-05-26
@@ -379,6 +419,7 @@
   stars: 4
   top: true
   categories:
+  - Ensayo
   - Crecimiento personal
   - Economía
   - Sociología
@@ -393,6 +434,7 @@
   date: 2008-06-01
   stars: 3
   categories:
+  - Ensayo
   - Filosofía
   tags:
   - China
@@ -404,6 +446,7 @@
   date: 2018-10-01
   stars: 3
   categories:
+  - Ensayo
   - Sociología
   status: read
 
@@ -411,6 +454,7 @@
   authors: Émile Durkheim
   isbn: 9789681624453
   categories:
+  - Ensayo
   - Sociología
   date: 2022-03-07
   stars: 4
@@ -424,7 +468,8 @@
   date: 2009-12-01
   stars: 4
   categories:
-  - Clásicos
+  - Ficción
+  - Sociología
   tags: [Sociología, Política]
   status: read
 
@@ -434,6 +479,7 @@
   date: 2007-06-01
   stars: 3
   categories:
+  - Ensayo
   - Economía
   status: read
 
@@ -443,6 +489,7 @@
   date: 2009-06-01
   stars: 3
   categories:
+  - Ensayo
   - Ciencia
   - Energía
   tags: Energía-nuclear
@@ -454,6 +501,7 @@
   date: 2014-06-01
   stars: 4
   categories:
+  - Ensayo
   - Economía
   - Política
   tags: Lobbies
@@ -465,6 +513,7 @@
   date: 2020-08-01
   stars: 3
   categories:
+  - Ensayo
   - Filosofía
   status: read
 
@@ -474,6 +523,7 @@
   date: 2019-11-01
   stars: 3
   categories:
+  - Ensayo
   - Geopolítica
   status: read
 
@@ -483,6 +533,7 @@
   date: 2014-10-01
   stars: 3
   categories:
+  - Ensayo
   - Ciencia
   tags: Astrofísica
   status: read
@@ -493,6 +544,7 @@
   date: 2011-11-01
   stars: 4
   categories:
+  - Ensayo
   - Política
   - Sociología
   - Economía
@@ -502,6 +554,7 @@
   authors: George Orwell
   isbn: 9780451524935
   categories:
+  - Ensayo
   - Ciencia-ficción
   tags:
   - Distopía
@@ -516,6 +569,7 @@
   date: 2010-03-01
   stars: 5
   categories:
+  - Ensayo
   - Aventura
   status: read
 
@@ -525,6 +579,7 @@
   date: 2018-06-01
   stars: 4
   categories:
+  - Ensayo
   - Sociología
   tags: Utopía
   status: read
@@ -535,13 +590,15 @@
   date: 2008-10-01
   stars: 4
   categories:
-  - Novela histórica
+  - Ficción 
+  - Historia
   status: read
 
 - title: The Relaxation Response
   authors: Herbert Benson M.D., Miriam Z. Klipper
   isbn: 0380815958
   categories:
+  - Ensayo
   - Ciencia
   - Biología
   - Crecimiento personal
@@ -557,6 +614,7 @@
   date: 2012-12-01
   stars: 4
   categories:
+  - Ensayo
   - Política
   status: read
 
@@ -567,6 +625,7 @@
   date: 2014-08-01
   stars: 3
   categories:
+  - Ensayo
   - Economía
   - Política
   status: read
@@ -577,6 +636,7 @@
   date: 2012-06-01
   stars: 4
   categories:
+  - Ensayo
   - Economía
   status: read
 
@@ -586,6 +646,7 @@
   date: 2013-04-01
   stars: 2
   categories:
+  - Ensayo
   - Política
   status: read
 
@@ -595,6 +656,7 @@
   date: 2013-06-01
   stars: 3
   categories:
+  - Ensayo
   - Sociología
   - Historia
   status: read
@@ -605,6 +667,7 @@
   date: 2012-04-01
   stars: 3
   categories:
+  - Ensayo
   - Economía
   status: read
 
@@ -614,6 +677,7 @@
   isbn: 9781797114613
   date: 2021-05-18
   categories:
+  - Ensayo
   - Ciencia
   - Biología
   tags: 
@@ -629,6 +693,7 @@
   date: 2019-09-01
   stars: 3
   categories:
+  - Ensayo
   - Geopolítica
   status: read
 
@@ -636,6 +701,7 @@
   authors: Noam Chomsky
   isbn: 9781904859956
   categories:
+  - Ensayo
   - Política
   status: read
   stars: 3
@@ -647,6 +713,7 @@
   date: 2023-01-03
   stars: 4
   categories:
+  - Ensayo
   - Sociología
   status: read
   review: introduccion-sociologia
@@ -657,6 +724,7 @@
   date: 2023-01-20
   stars: 3
   categories:
+  - Ficción
   - Cuentos cortos
   status: read
 
@@ -666,6 +734,7 @@
   date: 2023-03-20
   stars: 4
   categories:
+  - Ensayo
   - Sociología
   status: reading
   review: masa-poder
@@ -676,6 +745,7 @@
   date: 2023-05-14
   stars: 3
   categories:
+  - Ensayo
   - Ciencia-ficción
   status: read
 
@@ -685,6 +755,7 @@
   date: 2023-06-05
   stars: 4
   categories:
+  - Ensayo
   - Psicología
   - Política
   - Filosofía
@@ -700,6 +771,7 @@
   date: 2023-06-16
   stars: 3
   categories:
+  - Ensayo
   - Psicología
   - Filosofía
   - Sociología
@@ -712,7 +784,8 @@
   isbn: 9788428839433
   date: 2023-06-22
   stars: 3
-  categories: 
+  categories:
+  - Ensayo 
   - Psicología
   - Filosofía
   - Sociología
@@ -720,7 +793,9 @@
 
 - title: El problema de los tres cuerpos
   isbn: 9788466659734
-  categories: Ciencia-ficción
+  categories:
+  - Ficción
+  - Ciencia-ficción
   authors: Cixin Liu
   stars: 4
   status: read
@@ -728,8 +803,9 @@
 
 - title: I will teach you to be rich
   isbn: 9780761147480
-  categories: 
-    - Economía
+  categories:
+  - Ensayo 
+  - Economía
   authors: Ramit Sethi
   stars: 3
   status: reading
@@ -737,7 +813,9 @@
 
 - title: El bosque oscuro
   isbn: 9788466660921
-  categories: Ciencia-ficción
+  categories:
+  - Ficción
+  - Ciencia-ficción
   authors: Cixin Liu
   stars: 3
   status: read
@@ -745,7 +823,9 @@
 
 - title: El fin de la muerte
   isbn: 9788417347017
-  categories: Ciencia-ficción
+  categories:
+  - Ficción
+  - Ciencia-ficción
   authors: Cixin liu
   stars: 4
   status: read
@@ -753,7 +833,9 @@
 
 - title: Fundación
   isbn: 8401929210
-  categories: Ciencia-ficción
+  categories:
+  - Ficción
+  - Ciencia-ficción
   authors: Isaac Asimov
   stars: 4
   status: read
@@ -761,7 +843,9 @@
 
 - title: Fundación e imperio
   isbn: 8482809539
-  categories: Ciencia-ficción
+  categories:
+  - Ficción
+  - Ciencia-ficción
   authors: Isaac Asimov
   stars: 4
   status: read
@@ -769,7 +853,9 @@
 
 - title: Segunda fundación
   isbn: 8401929237
-  categories: Ciencia-ficción
+  categories:
+  - Ficción
+  - Ciencia-ficción
   authors: Isaac Asimov
   stars: 4
   status: read
@@ -777,7 +863,9 @@
 
 - title: Los límites de la fundación
   isbn: 8401929245
-  categories: Ciencia-ficción
+  categories:
+  - Ficción
+  - Ciencia-ficción
   authors: Isaac Asimov
   stars: 4
   status: read
@@ -785,7 +873,9 @@
 
 - title: Fundación y tierra
   isbn: 8401929335
-  categories: Ciencia-ficción
+  categories:
+  - Ficción
+  - Ciencia-ficción
   authors: Isaac Asimov
   stars: 4
   status: read
@@ -794,7 +884,8 @@
 - title: El sabueso de los Baskerville
   authors: Arthur Conan Doyle
   isbn: 9788420665689
-  categories: Novela
+  categories:
+  - Ficción
   tags:
     - Intriga
   stars: 3
@@ -804,7 +895,9 @@
 - title: Poyecto Hail Mary
   authors: Andy Weir
   isbn: 9788418037016
-  categories: Ciencia-ficción
+  categories:
+  - Ficción
+  - Ciencia-ficción
   stars: 4
   status: read
   date: 2024-01-08
@@ -813,6 +906,7 @@
   authors: Mo Gawdat
   isbn: 9781529077186
   categories:
+  - Ensayo
   - Tecnología
   tags:
   - Inteligencia Artificial
@@ -824,6 +918,7 @@
   authors: Jeremy Rifkin
   isbn: 9781137278463
   categories:
+  - Ensayo
   - Tecnología
   - Sociología
   - Economía
@@ -835,8 +930,17 @@
   authors: Jostein Gaarder
   isbn: 9788478443222
   categories:
-  - Novela
+  - Ficción
   - Filosofía
-  stars: 3
+  stars: 4
+  status: read
+  date: 2024-05-12
+
+- title: El banquero anarquista y otros cuentos de raciocinio
+  authors: Fernando Pessoa
+  stars: 4
+  isbn: 8420601586
+  categories:
+  - Ficción
+  - Cuentos cortos
   status: reading
-  date: 2024-04-06 
