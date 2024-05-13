@@ -76,7 +76,18 @@
   tags:
   - Globalización
   status: read
-  
+
+- title: Confessions of an Economic Hit Man
+  authors: John Perkins
+  isbn: 0452287081
+  date: 2011-03-01
+  stars: 4
+  categories:
+  - Ensayo
+  - Política
+  - Economía
+  status: read
+
 - title: The Autobiography of Benjamin Franklin
   authors: Benjamin Franklin
   isbn: 1566193931
@@ -162,19 +173,6 @@
   - Medioambiente
   - Política
   tags: Cambio climático
-  status: read
-
-- title: 'The Little Book of Stoicism: Timeless Wisdom to Gain Resilience, Confidence,
-  and Calmness'
-  authors: Jonas Salzgeber
-  isbn: 9783952506905
-  date: 2020-02-01
-  stars: 4
-  categories:
-  - Ensayo
-  - Filosofía
-  tags:
-  - Estoicismo
   status: read
   
 - title: 'The Little Book of Stoicism: Timeless Wisdom to Gain Resilience, Confidence,
@@ -280,7 +278,7 @@
   authors: Stephen Hawking
   isbn: 9684063563
   date: 2004-06-01
-  stars: 4
+  stars: 5
   categories:
   - Ensayo
   - Ciencia
@@ -376,6 +374,17 @@
   - Ficción
   status: abandoned
 
+- title:  A Short History of Nearly Everything 
+  authors: Bill Bryson
+  stars: 3
+  isbn: 9780767908184
+  categories:
+  - Ensayo
+  - Historia
+  - Ciencia
+  status: read
+  date: 2012-05-11
+
 - title: The Enzyme Factor
   authors: Hiromi Shinya
   isbn: 9781571782090
@@ -399,6 +408,17 @@
   - Biología
   tags: Salud
   status: read
+
+- title:  "The World Is Flat: A Brief History of the Twenty-first Century" 
+  authors: Thomas L. Friedman
+  stars: 3
+  isbn: 9780141022727
+  categories:
+  - Ensayo
+  - Historia
+  - Ciencia
+  status: read
+  date: 2010-05-11
 
 - title: 'The european union: A very short introduction'
   authors: Simon Usherwood
@@ -471,6 +491,16 @@
   - Ficción
   - Sociología
   tags: [Sociología, Política]
+  status: read
+
+- title: "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything"
+  authors: Steven D. Levitt, Stephen J. Dubner
+  isbn: 9780061234002
+  date: 2010-05-01
+  stars: 3
+  categories:
+  - Ensayo
+  - Economía
   status: read
 
 - title: ¿Quién se ha llevado mi queso?
@@ -588,7 +618,7 @@
   authors: Ken Follett
   isbn: 9788483465813
   date: 2008-10-01
-  stars: 4
+  stars: 5
   categories:
   - Ficción 
   - Historia
@@ -934,13 +964,26 @@
   - Filosofía
   stars: 4
   status: read
-  date: 2024-05-12
+  date: 2024-05-11
 
 - title: El banquero anarquista y otros cuentos de raciocinio
   authors: Fernando Pessoa
-  stars: 4
+  stars: 5
   isbn: 8420601586
   categories:
   - Ficción
   - Cuentos cortos
+  status: read
+  date: 2024-05-11
+
+- title: Historia de las ideas políticas
+  authors: Jean Touchard
+  stars: 3
+  isbn: 9788430907342
+  categories:
+  - Ensayo
+  - Historia
+  - Filosofía
+  - Política
   status: reading
+  date: 2024-05-11
