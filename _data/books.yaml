@@ -922,6 +922,18 @@
   status: read
   date: 2024-01-04
 
+- title: Sin energía
+  authors: Antonio Turiel
+  isbn: 9788417951320
+  categories:
+  - Ensayo
+  - Ciencia
+  - Medioambiente
+  tags: Cambio climático
+  stars: 3
+  status: read
+  date: 2024-01-10
+
 - title: Poyecto Hail Mary
   authors: Andy Weir
   isbn: 9788418037016
