@@ -254,7 +254,7 @@
 - title: 'Prisoners of Geography: Ten Maps That Tell You Everything You Need To Know
   About Global Politics'
   authors: Tim Marshall
-  isbn: 9781783964130
+  isbn: 9781783961412
   date: 2019-06-01
   stars: 4
   categories:
@@ -684,7 +684,7 @@
   authors: Marvin Harris
   isbn: 9788420674391
   date: 2013-06-01
-  stars: 3
+  stars: 4
   categories:
   - Ensayo
   - Sociología
@@ -999,3 +999,13 @@
   - Política
   status: reading
   date: 2024-05-11
+
+- title: The long march
+  authors: sun shuyun
+  stars: 4
+  isbn: 9780007194797
+  categories:
+  - Ensayo
+  - Historia
+  status: read
+  date: 2008-05-11
