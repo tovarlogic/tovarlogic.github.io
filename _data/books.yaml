@@ -1009,3 +1009,13 @@
   - Historia
   status: read
   date: 2008-05-11
+
+- title: The long march
+  authors: Luis racionero
+  stars: 4
+  isbn: 8433912046
+  categories:
+  - Ensayo
+  - Filosofía
+  status: read
+  date: 2024-05-29
