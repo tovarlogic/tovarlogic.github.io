@@ -289,7 +289,7 @@ defaults:
       path: "_docs/frances"
       values:
         layout: single
-        sub_collecttio: frances
+        sub_collection: frances
   - scope:
       path: "_docs/linux"
       values:
