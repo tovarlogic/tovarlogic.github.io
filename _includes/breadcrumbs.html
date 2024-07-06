@@ -5,17 +5,10 @@
     {% assign path_type = nil %}
 {% endcase %}
 
-{% if page.collection != 'posts' %}
-  {% assign path_type = nil %}
-  {% assign crumb_path = page.collection | prepend: '/' %}
-{% else %}
-  {% assign crumb_path = site.category_archive.path %}
-{% endif %}
-
 <nav style="--bs-breadcrumb-divider: '{{ site.data.ui-text[site.locale].breadcrumb_separator | default: '>' }}';" aria-label="breadcrumb">
   <ol class="breadcrumb">
-    {% assign crumbs = page.url | prepend: crumb_path | remove:'/index.html' | split: '/' %}
-    {% for crumb in crumbs offset: 1 %}
+    {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+    {% for crumb in crumbs %}
       {% if forloop.first %}
         <li class="breadcrumb-item">
           <a href="{{ site.url }}{{ site.baseurl }}/">{{ site.data.ui-text[site.locale].breadcrumb_home_label | default: "Home" }}</span></a>
