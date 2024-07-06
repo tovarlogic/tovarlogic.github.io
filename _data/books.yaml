@@ -1025,10 +1025,10 @@
   stars: 3
   isbn: 9788466639323
   categories:
-  - Ensayo
-  - Filosofía
+  - Ficción
+  - Historia
   status: read
-  date: 2024-06-17
+  date: 2024-06-16
 
 - title: Las legiones malditas
   authors: Santiago posteguillo
@@ -1037,8 +1037,8 @@
   categories:
   - Ficción 
   - Historia
-  status: reading
-  date: 2024-05-29
+  status: read
+  date: 2024-06-17
 
 - title: La traición de Roma
   authors: Santiago posteguillo
@@ -1047,5 +1047,5 @@
   categories:
   - Ficción 
   - Historia
-  status: pending
-  date: 2024-05-29
+  status: reading
+  date: 2024-05-26
