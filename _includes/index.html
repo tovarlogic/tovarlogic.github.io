@@ -1,4 +1,4 @@
-{% assign page_url = page.url | remove:'.html' | remove_first: '/' %}
+{% assign page_url = page.url | remove:'.html' %}
 {% assign page_deep = page_url | split: '/' | size %}
 {% assign page_deep_next = page_deep | plus: 1 %}
 
@@ -13,14 +13,16 @@
 {{ page_url }}
 {% if page.type %} tipe -> {{page.type}} {% endif %}
 
+<ul>
 {% for p in pages %}
        
-    {% assign p_url = p.url | remove:'.html' | remove_first: '/' %}
+    {% assign p_url = p.url | remove:'.html' %}
     {% assign p_deep = p_url | split: '/' | size %}
 
     {{ p_url }}
 
     {% if p_url contains page_url and p_deep == page_deep_next %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li> 
+        <li><a href="{{ p.url }}">{{ p.title }}</a></li> 
     {% endif %} 
 {% endfor %}
+</ul>
