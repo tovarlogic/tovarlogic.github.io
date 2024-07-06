@@ -1,4 +1,8 @@
-## Manual de Procedimientos Administrativos del Partido Político "Nombre del Partido"
+---
+title: Manual de procedimeintos administrativos
+lastmod: 2024-07-06T13:02:13.820Z
+---
+## Manual de Procedimientos Administrativos
 
 ### Introducción
 

@@ -1,4 +1,8 @@
-## Reglamento Interno del Partido Político "Nombre del Partido"
+---
+title: Reglamento interno
+lastmod: 2024-07-06T13:02:55.613Z
+---
+## Reglamento Interno
 
 ### Título I: Disposiciones Generales
 

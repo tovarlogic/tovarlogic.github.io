@@ -1,4 +1,8 @@
-## Fundamentos irrenunciables para un Partido Político
+---
+title: Código de conducta
+lastmod: 2024-07-06T13:02:45.568Z
+---
+## Código de conducta
 
 ### Valores Fundamentales
 

@@ -1,8 +1,9 @@
-Elaborar una Normativa Electoral Interna para un partido político es fundamental para garantizar procesos democráticos, transparentes y equitativos en la selección de candidatos y representantes. A continuación, te presento un ejemplo de Normativa Electoral Interna:
-
+---
+title: Normativa electoral interna
+lastmod: 2024-07-06T13:02:28.500Z
 ---
 
-## Normativa Electoral Interna del Partido Político "Nombre del Partido"
+## Normativa Electoral Interna
 
 ### Título I: Disposiciones Generales
 

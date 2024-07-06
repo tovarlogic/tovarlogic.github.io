@@ -1,3 +1,7 @@
+---
+title: Estatutos
+lastmod: 2024-07-06T13:00:20.627Z
+---
 ## Estatutos del Partido Político "Nombre del Partido"
 
 ### Título I: Disposiciones Generales

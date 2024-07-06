@@ -1,4 +1,8 @@
-## Reglamento Financiero del Partido Político "Nombre del Partido"
+---
+title: Reglamento interno
+lastmod: 2024-07-06T13:02:21.559Z
+---
+## Reglamento Financiero
 
 ### Título I: Disposiciones Generales
 
