@@ -10,7 +10,6 @@
     {% assign pages = pages | where: 'type', page.type %}
 {% endif %}
 
-{{ page_url }}
 {% if page.type %} tipe -> {{page.type}} {% endif %}
 
 <ul>
@@ -18,8 +17,6 @@
        
     {% assign p_url = p.url | remove:'.html' %}
     {% assign p_deep = p_url | split: '/' | size %}
-
-    {{ p_url }}
 
     {% if p_url contains page_url and p_deep == page_deep_next %}
         <li><a href="{{ p.url }}">{{ p.title }}</a></li> 
