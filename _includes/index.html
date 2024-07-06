@@ -11,7 +11,7 @@
 
 <ul>
     {% for item in pages %}
-        {% assign item_folders = page.url | remove:'.html' | split: '/' %}
+        {% assign item_folders = item.url | remove:'.html' | split: '/' %}
         {% assign item_position = item_folders | size %}
         {% assign open = false %}
 
@@ -21,12 +21,12 @@
                     <ul>
                     {% assign open = true %}
                 {% endunless %}
-                <li><a href="{{ item.url }}">{{ item.title }}- {{item.relative_directory}}</a></li>
+                <li><a href="{{ item.url }}">{{ item.title }}</a></li>
             {% else %}
                 {% if open %}
                     </ul>
                 {% endif %}
-                <li><a href="{{ item.url }}">{{ item.title }}- {{item.relative_directory}}</a></li>     
+                <li><a href="{{ item.url }}">{{ item.title }}</a></li>     
             {% endif %}
         {% else %}
             {% continue %}
