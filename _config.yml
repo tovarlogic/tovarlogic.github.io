@@ -285,6 +285,21 @@ defaults:
       path: "_docs"
       values:
         layout: single
+  - scope:
+      path: "_docs/frances"
+      values:
+        layout: single
+        sub_collecttio: frances
+  - scope:
+      path: "_docs/linux"
+      values:
+        layout: single
+        sub_collection: linux
+  - scope:
+      path: "_docs/partido-politico"
+      values:
+        layout: single
+        sub_collection: partido-politico
   # _posts
   - scope:
       path: ""
