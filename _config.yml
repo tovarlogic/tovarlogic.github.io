@@ -286,17 +286,17 @@ defaults:
       values:
         layout: single
   - scope:
-      path: "_docs/frances/"
+      path: "_docs/frances"
       values:
         layout: single
         sub_collection: frances
   - scope:
-      path: "_docs/linux/"
+      path: "_docs/linux"
       values:
         layout: single
         sub_collection: linux
   - scope:
-      path: "_docs/partido-politico/"
+      path: "_docs/partido-politico"
       values:
         layout: single
         sub_collection: partido-politico
