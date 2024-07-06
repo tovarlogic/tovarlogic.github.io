@@ -1,27 +1,22 @@
-{% assign page_folders = page.url | remove:'.html' | split: '/' %}
-{% assign page_position = page_folders | size %}
-{% assign page_next_position = page_position | plus: 1 %}
+{% assign page_url = page.url | remove:'.html' | remove_first: '/' %}
+{% assign page_deep = page_url | size %}
+{% assign page_deep_next = page_url | plus: 1 %}
 
 {% assign pages = site.[page.collection] %}
+
 
 {% if page.type %}
     {{ page.type}}
     {% assign pages = pages | where: 'type', page.type %}
 {% endif %}
 
-<ul>
-    {% for item in pages %}
-        {% assign item_folders = item.url | remove:'.html' | split: '/' %}
-        {% assign item_position = item_folders | size %}
-        {% assign open = false %}
 
-        {% if item_position <= page_next_position %}
-            {% if item.url != page.url %}
-                <li><a href="{{ item.url }}">{{ item.title }}</a></li>     
-            {% endif %}
-        {% else %}
-            {% continue %}
-        {% endif %}
-    {% endfor %}
 
-</ul>
+{% for p in pages %}
+    {% assign p_url = p.url | remove:'.html' | remove_first: '/' %}
+    {% assign p_deep = p_url | size %}
+
+    {% if p_url contains page_url and p_deep == page_deep_next %}
+        <li><a href="{{ item.url }}">{{ item.title }}</a></li> 
+    {% endif %} 
+{% endfor %}
