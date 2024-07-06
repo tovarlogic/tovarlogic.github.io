@@ -4,14 +4,13 @@
 {{ page }}
 {{ page.collection}}
 {{ page.sub_collection}}
+
 {% if page.sub_collection %}
     {% assign pages = pages | where: 'sub_collection', page.sub_collection %}
 {% endif %}
 
 <ul>
     {% for item in pages %}
-    {{ item[0]}}
-    {{ item[1]}}
     {{ item}}
       <li><a href="{{ item.url }}">{{ item.title }}- {{item.relative_directory}}</a></li>
     {% endfor %}
