@@ -1,10 +1,6 @@
 
 {% assign pages = site.[page.collection] %}
 
-{{ page }}
-{{ page.collection}}
-{{ page.sub_collection}}
-
 {% if page.sub_collection %}
     {% assign pages = pages | where: 'sub_collection', page.sub_collection %}
 {% endif %}
