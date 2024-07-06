@@ -286,20 +286,28 @@ defaults:
       values:
         layout: single
   - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+  - scope:
       path: "_docs/frances"
+      type: docs
       values:
         layout: single
-        sub_collection: frances
+        type: frances
   - scope:
       path: "_docs/linux"
+      type: docs
       values:
         layout: single
-        sub_collection: linux
+        type: linux
   - scope:
       path: "_docs/partido-politico"
+      type: docs
       values:
         layout: single
-        sub_collection: partido-politico
+        type: partido-politico
   # _posts
   - scope:
       path: ""
