@@ -1,6 +1,6 @@
 {% assign page_folders = page.url | remove:'.html' | split: '/' %}
 {% assign page_position = page_folders | size %}
-{% asign page_next_position = page_position | plus: 1 %}
+{% assign page_next_position = page_position | plus: 1 %}
 
 {% assign pages = site.[page.collection] %}
 
@@ -16,16 +16,16 @@
         {% assign open = false %}
 
         {% if item_position <= page_next_position %}
-            {% if item_position == page_position %}
-                {% if open %}
-                    </ul>
-                {% endif %}
-                <li><a href="{{ item.url }}">{{ item.title }}- {{item.relative_directory}}</a></li>
-            {% else %}
+            {% if item_position == page_next_position %}
                 {% unless open %}
                     <ul>
                     {% assign open = true %}
-                {% endunless %}   
+                {% endunless %}
+                <li><a href="{{ item.url }}">{{ item.title }}- {{item.relative_directory}}</a></li>
+            {% else %}
+                {% if open %}
+                    </ul>
+                {% endif %}
                 <li><a href="{{ item.url }}">{{ item.title }}- {{item.relative_directory}}</a></li>     
             {% endif %}
         {% else %}
