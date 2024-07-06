@@ -4,6 +4,8 @@
 
 {% assign pages = site.[page.collection] %}
 
+{{ pages}}
+
 {% if page.sub_collection %}
     {% assign pages = pages | where: 'sub_collection', page.sub_collection %}
 {% endif %}
@@ -12,7 +14,11 @@
     <p><a href="{{p.url}}">{{p.title}}</href></p>
 {% endfor %}
 
-{% assign collections = site.collections %}
-{% for collection in collections %}
-    {{ collection }}
+{% for collection in site.collections %}
+  <h2>Items from {{ collection.label }}</h2>
+  <ul>
+    {% for item in site[collection.label] %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
 {% endfor %}
