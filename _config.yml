@@ -445,22 +445,6 @@ defaults:
         - bienestar-animal
         - medio-ambiente
         - biodiversidad
-        
-  # Frances
-  - scope:
-      path: "_docs/frances"
-      type: docs
-    values:
-      serie: frances
-      layout: single
-      read_time: false
-      author_profile: false
-      share: false
-      comments: false
-      related: false
-      post_pagination: false
-      toc: true
-      toc_sticky: true  
   # _recetas
   - scope:
       path: ""
