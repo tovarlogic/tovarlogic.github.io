@@ -426,6 +426,14 @@ defaults:
         - bienestar-animal
         - medio-ambiente
         - biodiversidad
+  - scope:
+      path: "_docs"
+      type: docs
+    values:
+      layout: single
+      comments: false
+      toc: true
+      toc_sticky: true
   # Frances
   - scope:
       path: "_docs/frances"
