@@ -16,16 +16,7 @@
         {% assign open = false %}
 
         {% if item_position <= page_next_position %}
-            {% if item_position == page_next_position %}
-                {% unless open %}
-                    <ul>
-                    {% assign open = true %}
-                {% endunless %}
-                <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-            {% else %}
-                {% if open %}
-                    </ul>
-                {% endif %}
+            {% if item.url != page.url %}
                 <li><a href="{{ item.url }}">{{ item.title }}</a></li>     
             {% endif %}
         {% else %}

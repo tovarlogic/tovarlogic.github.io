@@ -1,8 +1,8 @@
 ---
-title: Índice de documentos (bloc de notas)
+title: Docs
 layout: single
 permalink: /docs/
-lastmod: 2024-07-06T14:14:29.097Z
+lastmod: 2024-07-06T16:56:37.254Z
 ---
 
 {% include index.html %}
