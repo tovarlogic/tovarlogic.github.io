@@ -1,11 +1,12 @@
 ---
 title: índice
 layout: single
-lastmod: 2024-07-06T13:41:28.661Z
+permalink: /docs/linux/
+lastmod: 2024-07-06T13:52:26.580Z
 ---
-{{ site.page }}
-{% assign pages = site.docs | where: 'label', 'linux' %}
 
-{% for page in pages %}
-    <p><a href="{{page.url}}">{{page.title}}</href></p>
+{% assign docs = site.docs | where: 'label', 'linux' %}
+
+{% for file in docs %}
+    <p><a href="{{file.url}}">{{file.title}}</href></p>
 {% endfor %}

@@ -1,7 +1,8 @@
 ---
 title: Índice de documentos (bloc de notas)
 layout: single
-lastmod: 2024-07-06T13:36:39.067Z
+permalink: /docs/
+lastmod: 2024-07-06T13:51:19.349Z
 ---
 {% assign docs = site.docs %}
 {% assign collections = site.collections %}

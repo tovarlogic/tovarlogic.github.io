@@ -1,10 +1,11 @@
 ---
 title: índice
 layout: single
-lastmod: 2024-07-06T13:40:53.451Z
+permalink: partido-politico/
+lastmod: 2024-07-06T13:52:14.849Z
 ---
-{% assign pages = site.docs | where: 'label', 'partido-politico' %}
+{% assign docs = site.docs | where: 'label', 'partido-politico' %}
 
-{% for page in pages %}
-    <p><a href="{{page.url}}">{{page.title}}</href></p>
+{% for file in docs %}
+    <p><a href="{{file.url}}">{{file.title}}</href></p>
 {% endfor %}

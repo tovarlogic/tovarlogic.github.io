@@ -1,6 +1,7 @@
 ---
 title: Frances
-lastmod: 2024-07-06T13:22:39.880Z
+permalink: /docs/frances/
+lastmod: 2024-07-06T13:52:55.242Z
 ---
 
 ## Gramática
