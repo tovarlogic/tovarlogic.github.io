@@ -1,5 +1,5 @@
 {% assign page_url = page.url | remove:'.html' | remove_first: '/' %}
-{% assign page_deep = page_url | size %}
+{% assign page_deep = page_url | split: '/' | size %}
 {% assign page_deep_next = page_deep | plus: 1 %}
 
 {% assign pages = site.[page.collection] %}
@@ -16,7 +16,7 @@
 {% for p in pages %}
        
     {% assign p_url = p.url | remove:'.html' | remove_first: '/' %}
-    {% assign p_deep = p_url | size %}
+    {% assign p_deep = p_url | split: '/' | size %}
 
     {{ p_url }}
 
