@@ -1,3 +1,8 @@
+---
+title: Self hosting
+lastmod: 2024-07-06T18:01:37.785Z
+---
+
 # Set-up the system
 ## update and upgrade
     sudo apt install
