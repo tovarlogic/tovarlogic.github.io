@@ -1,6 +1,6 @@
 ---
 title: Saludos y formas de cortesía
-lastmod: 2022-09-04T11:41:18.246Z
+lastmod: 2024-07-11T13:51:13.814Z
 ---
 
 | Sección                        						| Último repaso |

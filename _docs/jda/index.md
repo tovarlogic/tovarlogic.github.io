@@ -1,8 +1,8 @@
 ---
 title: Partido político
 layout: single
-permalink: /docs/partido-politico/
-lastmod: 2024-07-06T16:56:47.511Z
+permalink: /docs/opa/
+lastmod: 2024-07-11T13:00:33.778Z
 ---
 
 {% include index.html %}

@@ -6,7 +6,7 @@ lastmod: 2024-07-06T13:02:13.820Z
 
 ### Introducción
 
-El presente manual tiene por objetivo establecer los procedimientos administrativos que deben seguirse en el partido político "Nombre del Partido", con el fin de asegurar una gestión eficiente, transparente y orientada por procesos.
+El presente manual tiene por objetivo establecer los procedimientos administrativos que deben seguirse en el Partido Político "Junta Democrática Abierta", con el fin de asegurar una gestión eficiente, transparente y orientada por procesos.
 
 ### Capítulo 1: Principios y Fundamentos
 

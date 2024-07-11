@@ -1,6 +1,6 @@
 ---
 title: Reglamento interno
-lastmod: 2024-07-06T13:02:21.559Z
+lastmod: 2024-07-11T13:30:06.114Z
 ---
 ## Reglamento Financiero
 
@@ -8,7 +8,7 @@ lastmod: 2024-07-06T13:02:21.559Z
 
 #### Artículo 1: Objetivo
 
-1. El presente reglamento tiene por objeto establecer las normas y procedimientos para la gestión financiera del partido político "Nombre del Partido" (en adelante, "el Partido").
+1. El presente reglamento tiene por objeto establecer las normas y procedimientos para la gestión financiera de la Asociación "Junta Democrática Abierta" (en adelante, "la Asociación).
 
 #### Artículo 2: Ámbito de Aplicación
 

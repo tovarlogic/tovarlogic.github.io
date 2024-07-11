@@ -1,6 +1,6 @@
 ---
 title: Reglamento interno
-lastmod: 2024-07-06T13:02:55.613Z
+lastmod: 2024-07-11T13:30:06.108Z
 ---
 ## Reglamento Interno
 
@@ -8,7 +8,7 @@ lastmod: 2024-07-06T13:02:55.613Z
 
 #### Artículo 1: Objeto
 
-1. El presente reglamento tiene por objeto establecer las normas de organización, funcionamiento y procedimientos del partido político "Nombre del Partido" (en adelante, "el Partido"), complementando y haciendo referencia a la Normativa Electoral Interna para la elección de candidatos y representantes del Partido.
+1. El presente reglamento tiene por objeto establecer las normas de organización, funcionamiento y procedimientos de la Asociación "Junta Democrática Abierta" (en adelante, "la Asociación), complementando y haciendo referencia a la Normativa Electoral Interna para la elección de candidatos y representantes del Partido.
 
 #### Artículo 2: Ámbito de Aplicación
 

@@ -1,13 +1,45 @@
 # main links
 main:
-  - title: "Blog"
-    url: /blog/
-  - title: "Libros"
-    url: /libros/
-  - title: "Recetas"
-    url: /recetas/
-  - title: "Quotes"
-    url: /quotes/
+- title: "Blog"
+  url: /blog/
+- title: "Libros"
+  url: /libros/
+- title: "Recetas"
+  url: /recetas/
+- title: "Quotes"
+  url: /quotes/
+
+opa:
+- title: "OPA"
+  children:
+  - title: "Documentos fundacionales"
+    url: /docs/opa
+
+frances:
+- title: "Gramática"
+  children:
+  - title: "Adverbios"
+    url: /docs/frances/adverbios
+  - title: "Pronombres"
+    url: /docs/frances/pronombres
+  - title: "Verbos"
+    url: /docs/frances/verbos
+  - title: "Adjetivos"
+    url: /docs/frances/adjetivos
+  - title: "Preposiciones"
+    url: /docs/frances/preposiciones
+  - title: "Artículos"
+    url: /docs/frances/
+- title: "Vocabulario"
+  children:
+  - title: "Números, fechas y horas"
+    url: /docs/frances/
+  - title: "Saludos y formas de cortesía"
+    url: /docs/frances/salutations
+  - title: "Animales"
+    url: /docs/frances/animaux
+  - title: "Colores"
+      url: /docs/frances/
 
 cambio-climatico:
   - title: "Antecedentes"

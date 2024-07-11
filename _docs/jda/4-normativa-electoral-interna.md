@@ -1,6 +1,6 @@
 ---
 title: Normativa electoral interna
-lastmod: 2024-07-06T13:02:28.500Z
+lastmod: 2024-07-11T13:30:06.120Z
 ---
 
 ## Normativa Electoral Interna
@@ -9,7 +9,7 @@ lastmod: 2024-07-06T13:02:28.500Z
 
 #### Artículo 1: Objetivo
 
-1. La presente Normativa tiene por objeto regular los procedimientos y criterios para la elección de candidatos y representantes del partido político "Nombre del Partido" (en adelante, "el Partido").
+1. La presente Normativa tiene por objeto regular los procedimientos y criterios para la elección de candidatos y representantes de la Asociación "Junta Democrática Abierta" (en adelante, "la Asociación).
 
 #### Artículo 2: Ámbito de Aplicación
 

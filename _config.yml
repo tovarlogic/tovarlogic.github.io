@@ -296,18 +296,21 @@ defaults:
       values:
         layout: single
         type: frances
+        serie: frances
   - scope:
       path: "_docs/linux"
       type: docs
       values:
         layout: single
         type: linux
+        serie: linux
   - scope:
-      path: "_docs/partido-politico"
+      path: "_docs/jda"
       type: docs
       values:
         layout: single
-        type: partido-politico
+        type: jda
+        serie: jda
   # _posts
   - scope:
       path: ""

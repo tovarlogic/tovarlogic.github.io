@@ -1,14 +1,14 @@
 ---
 title: Estatutos
-lastmod: 2024-07-06T13:00:20.627Z
+lastmod: 2024-07-11T13:30:06.102Z
 ---
-## Estatutos del Partido Político "Nombre del Partido"
+## Estatutos de la Asociación "Junta Democrática Abierta"
 
 ### Título I: Disposiciones Generales
 
 #### Artículo 1: Denominación y Naturaleza
 
-1. El partido político "Nombre del Partido" (en adelante, "el Partido") se constituye como una organización política democrática, cuyos principios se fundamentan en los valores de integridad, justicia, equidad, responsabilidad y compromiso con el bien común.
+1. La Asociación "Junta Democrática Abierta" (en adelante, "la Asociación) se constituye como una organización política democrática, cuyos principios se fundamentan en los valores de integridad, justicia, equidad, responsabilidad y compromiso con el bien común.
 
 #### Artículo 2: Objetivos y Fines
 

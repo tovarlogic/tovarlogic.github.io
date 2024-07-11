@@ -1,26 +1,21 @@
 ---
-title: "Biohacking"
-date:   2021-02-16
-categories: [Cuerpo Humano]
-tags: [Salud, Suplementos]
+title: Biohacking
+date: 2021-02-16
+categories:
+    - Cuerpo Humano
+tags:
+    - Salud
+    - Suplementos
 author_profile: false
+lastmod: 2024-07-08T11:52:48.277Z
 ---
 
-# Introducción
+## Definiciones
 Biohacking
-: Es un anglicismo que hace referencia a la acción de modificar la bioquímica de nuestro organismo de manera deliberada. No conozco traducción ni uso popular en Español.
-
-El consumo de drogas, medicamentos 
----
-# Introducción
-El consumo de moléculas para alterar la bioquímica de nuestro organismo, con el objetivo de obtener unos beneficios predefinidos, es lo suplementos y la modificación de hábitos diarios - como en la dieta, ejercicios, exposición deliberada a temperaturas extremas - son "herramientas" que emplean los "biohackers" para lograr sus objetivos.
+: Es un anglicismo que hace referencia a la acción de modificar la bioquímica de nuestro organismo de manera deliberada con un propósito u objetivo concreto. No conozco traducción ni uso popular en Español.
 
 Nootropics
-: Son drogas, medicamentos o suplementos cuyo consumo tiene comoque en anglosajón se denomina "**Biohacking**". No conozco un término equivalente en Español.
-
-Por su parte, los suplementos y medicamentos comon objetivo específico de mejorar el rendimiento cognitivo. Es otro anglicismo que se ha adoptado popularmente en español como  son generalmente conocidos en Inglés como "**Nootropics**". En español se suele emplear la traducción directa ["Nootrópico"](https://dle.rae.es/nootr%C3%B3pico) (aunque no está recogido en la RAE).
-
-A efectos de este artículo consideraremos lo que es un suplemento y uno natural de acuerdo a las siguientes definiciones:
+: Otro anglicismo que se refiere al consumo de moléculas con el fin concreto de mejorar las capacidades cognitivas y psicológicas. Tampoco conozco un término equivalente en Español.
 
 Suplemento
 : Se considera un suplemento toda molécula (o cóctel de moléculas) que no requieren prescripción médica.
@@ -33,14 +28,28 @@ Suplemento NO natural
 : En este caso, independientemente del origen de la molécula, ya sea "natural" o sintética, esta no existe en condiciones normales en el organismo. Es decir, únicamente se obtiene con fuentes exógenas y no suplementa sino que <u>añade una molécula que no existía previamente.</u> Ej: La cafeína no es un suplemento natural. Esta existe en la naturaleza, pero solo se obtiene con la alimentación y no es necesaria para el correcto funcionamiento del organismo.
 
 Medicamento
-: Se trata de una molécula (o cóctel de moléculas) que sí requieren prescripción médica. Los medicamentos, por regla general emplean moléculas no naturalmente presentes en el organismo.
+: Se trata de una molécula (o cóctel de moléculas) que sí requieren prescripción médica. Los medicamentos, por regla general emplean moléculas no naturalmente presentes en el organismo. 
+
+Epigenética
+: Se refiere al estudio de las interacciones que se producen entre los genes de un organismo y el ambiente en el que se encuentra. O dicho de otro modo, el estudio de los mecanismos que regulan la expresión de los genes sin una modificación en la secuencia del ADN que los compone.
+
+## Introducción
+Para modificar la bioquímica de nuestro organismo, con el objetivo de obtener unos beneficios predefinidos, se suele recurrir al consumo de suplementos, pero existen otras estrategias igualmente efectivas. El organismo tiene la capacidad de adaptarse al estrés que proviene del medio. La modificación de hábitos diarios - como en la dieta, ejercicios, exposición deliberada a temperaturas extremas - son "herramientas" que emplean los "biohackers" para forzar una adaptación positiva que ayude a lograr sus objetivos.
+
+Dichos objetivos suelen centrarse en el incremento del rendimiento físico y cognitivo, pero también en aumentar la resiliencia ante enfermedades o mejorar la recuperación y reparación ante lesiones. Todo ello suele tener efectos positivos en la salud y calidad de vida, reduciendo el ritmo de envejecimiento y aumentando la longevidad.
+
+## Factores de envejecimiento
+
+Con el avance de la Epigenética se han descubierto hasta la fecha nueve (9) factores epigenómicos que afectan al ritmo de envejecimiento humano.
+
+### 
 
 ## Suplementos vs Medicamentos
 Existe la creencia sesgada de que los medicamentos son malos, mientras que los productos basados en hierbas y plantas, se les considera buenos y sanos por ser "naturales" o mejor dicho de origen vegetal. La idea generalizada es que lo que existe en la naturaleza es bueno porque la naturaleza no produce cosas malas. Lo cierto es que hay infinidad de sustancias tóxicas que provienen de la naturaleza (toxina botulímica, cyanide, morfina, etc.).
 
 Es curioso observar como, en general, aceptamos el consumo de extractos infusiones o ingentes cantidades de café, pero rechazamos el uso de sustancias sintéticas, drogas o medicamentos igualmente potentes y en general más estudiados, selectivos y seguros.
 
-Ni todos los suplementos naturales son buenos, ni todos los medicamentos, ni los suplementos no naturales son malos. Todo depende de encontrar las sustancias correctas y el balance entre efectos positivos y tanto efectos secundarios como otros riesgos mediante la dosis y proveedor correctos.
+No se puede clasificar las moléculas como buenas o malas, basándose únicamente en su origen natural o sintético; tampoco si se trata de medicamentos o suplementos. Ambos casos son falsas dicotomías. Todo depende de encontrar las sustancias correctas y el balance entre efectos positivos y tanto efectos secundarios como otros riesgos mediante la dosis y proveedor correctos.
 
 ## Riesgos
 Tanto la suplementación como la medicación pueden suponer riesgos para la salud. Existen probablemente factores de riesgo compartidos y otros distintos. 
@@ -64,6 +73,9 @@ Una regla razonable para minimizar riesgos es la siguiente:
 	 - No natural (exógeno) = Mayor riesgo
 
 En los casos anteriores de "riesgo bajo" no se debe entender como seguro. Antes de su consumo, será necesario comprender los mecanismos de funcionamiento e identificar si existe posibilidad de toxicidad, tolerancia o dependencia. 
+
+También se debe de considerar la posibilidad de que el consumo habitual o crónico de ciertas moléculas, puedan generar adicción o dependencia. Es posible que el organismo reduzca la producción de ciertas moléculas, incluso detenerna, si son introducidas exógenamente en el organismo. Un claro ejemplo de esto, pero no el único, son las hormonas.
+
 
 # Suplementos
 ## EPA/DHA

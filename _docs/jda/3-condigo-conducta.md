@@ -1,6 +1,6 @@
 ---
 title: Código de conducta
-lastmod: 2024-07-06T13:02:45.568Z
+lastmod: 2024-07-10T10:16:05.673Z
 ---
 ## Código de conducta
 
@@ -10,14 +10,25 @@ lastmod: 2024-07-06T13:02:45.568Z
    - Actuar con honestidad y transparencia en todas las acciones y decisiones.
    - Rendir cuentas de manera pública y accesible a la ciudadanía.
 
-2. **Justicia y Equidad:**
+1. **Justicia y Equidad:**
    - Promover la igualdad de oportunidades y la justicia social en todas las políticas y programas.
    - Proteger los derechos fundamentales de todos los ciudadanos.
 
-3. **Responsabilidad y Compromiso:**
+1. **Responsabilidad y Compromiso:**
    - Asumir la responsabilidad por las acciones del partido y de sus miembros.
    - Asumir la responsabilidad individual de nuestras acciones y de los equipos bajo nuestra responsabilidad
    - Mantener un compromiso firme con el bienestar común sobre intereses particulares.
+
+1. **Uso de razón y la evidencia:**
+   - En comunicación primar los mensajes directos y claros, evitando el uso de todo tipo de falacias. 
+   - No rehuir debates 
+
+1. **Optimización:**
+
+1. **Ejemplaridad:**
+
+1. **Igualdad y Respeto:**
+   
 
 ### Gestión Eficaz y Eficiente
 
