@@ -1038,7 +1038,7 @@
   - Ficción 
   - Historia
   status: read
-  date: 2024-06-17
+  date: 2024-06-19
 
 - title: La traición de Roma
   authors: Santiago posteguillo
@@ -1047,5 +1047,26 @@
   categories:
   - Ficción 
   - Historia
-  status: reading
-  date: 2024-05-26
+  status: read
+  date: 2024-07-21
+
+- title: Utopía
+  authors: Tomás Moro
+  stars: 3
+  isbn: 8484034267
+  categories:
+  - Ensayo
+  - Filosofía
+  - Clásicos
+  status: read
+  date: 2024-07-26
+
+  - title: Alejandro Magno
+    authors: Mary Renault
+    stars: 3
+    isbn: 
+    categories:
+    - Ensayo
+    - Historia
+    status: reading
+    date: 2024-08-10
