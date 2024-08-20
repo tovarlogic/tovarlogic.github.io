@@ -1061,12 +1061,33 @@
   status: read
   date: 2024-07-26
 
-  - title: Alejandro Magno
-    authors: Mary Renault
-    stars: 3
-    isbn: 
-    categories:
-    - Ensayo
-    - Historia
-    status: reading
-    date: 2024-08-10
+- title: Alejandro Magno
+  authors: Mary Renault
+  stars: 4
+  isbn: 9788408072683
+  categories:
+  - Ensayo
+  - Historia
+  status: read
+  date: 2024-08-10
+
+- title: Vidas paralelas
+  authors: Plutarco
+  stars: 3
+  isbn: 9798570077416
+  categories:
+  - Ensayo
+  - Biografía
+  - Historia
+  status: reading
+  date: 2024-08-10
+
+- title: Outlive
+  authors: Dr. Peter Attia
+  stars: 3
+  isbn: 9781785044540
+  categories:
+  - Ensayo
+  - Ciencia
+  status: reading
+  date: 2024-08-10
