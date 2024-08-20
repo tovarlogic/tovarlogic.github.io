@@ -2,7 +2,7 @@
 title: Partido político
 layout: single
 permalink: /docs/invest/curso/
-lastmod: 2024-08-20T20:54:24.903Z
+lastmod: 2024-08-20T20:56:50.161Z
 ---
 
 {% include index.html %}
@@ -370,7 +370,7 @@ lastmod: 2024-08-20T20:54:24.903Z
 
  
 
-Módulo 30 – Situaciones especiales a corto plazo
+## Módulo 30 – Situaciones especiales a corto plazo
 
 ### Uplistings (Cambios de mercado de cotización)
 
@@ -392,14 +392,14 @@ Módulo 30 – Situaciones especiales a corto plazo
 
  
 
-Módulo 31 – Uso de opciones en empresas gran capitalización para aumentar el rendimiento
+## Módulo 31 – Uso de opciones en empresas gran capitalización para aumentar el rendimiento
 
  
 
-Módulo 32 – Gestión de Carteras avanzada para aumentar el rendimiento
+## Módulo 32 – Gestión de Carteras avanzada para aumentar el rendimiento
 
  
 
-Módulo 33 – Módulo final
+## Módulo 33 – Módulo final
 
 ### Consejos finales desde la experiencia para continuar después de este programa de formación. 
