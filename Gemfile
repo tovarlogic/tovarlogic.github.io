@@ -43,3 +43,5 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "bcrypt", "~> 3.1"
 
 gem "json", "~> 2.7"
+
+gem "webrick", "~> 1.8"
