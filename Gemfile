@@ -45,3 +45,9 @@ gem "bcrypt", "~> 3.1"
 gem "json", "~> 2.7"
 
 gem "webrick", "~> 1.8"
+
+gem "jekyll-paginate", "~> 1.1"
+
+gem "jekyll-sitemap", "~> 1.4"
+
+gem "jekyll-gist", "~> 1.5"

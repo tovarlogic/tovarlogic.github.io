@@ -1,43 +1,482 @@
 # Welcome to Jekyll!
 #
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# `jekyll serve`. If you change this file, please restart the server process.
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# Site Settings
+locale                   : "es-ES"
+title                    : "TovarLogic"
+title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "TovarLogic"
+description              : "Personal cultural and knowledge body."
+url                      :  "https://TovarLogic.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : "tovarlogic/tovarlogic.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : "/assets/images/TovarLogic.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : true # true, false (default)
+words_per_minute         : 200
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+  hide                   : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
+search_provider          : # lunr (default), algolia, google
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
+google:
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
 
-# Build settings
+comments:
+  active: true
+  max_replies_level: 4
+  provider: "staticman"
+  staticman:
+    branch: master # "master"
+    option: comments
+    endpoint: https://sp-staticman.onrender.com/v2/entry/tovarlogic/tovarlogic.github.io/
+
+# reCaptcha
+# Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
+reCaptcha:
+  enabled: false
+  siteKey: "6Ld2bccfAAAAACrhq8GfhrFHEWp1dI_P3LUMBUw3"
+  # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
+  # For more information, https://staticman.net/docs/encryption
+  # https://sp-staticman.herokuapp.com/v3/encrypt/
+  secret: "WiVWBigUCJxT3pU+FocyjzZSIhNxtVWjIKskJ/MaSo8ig4+EUYMpxhsNphPtBbrXUOMrwOBfEeXDJNm8XM5zquitQju5eJ/yD85Kv4uu2NccBRJhDxZicNYBjiThoUQAjd6bYejYSu3x4/HUaM2BWWCzU15cBpKO3v6pcO3/jaFElWTQYKYhw+TmEAm3ZuqxQQFgRobxz/z8K7/CwV8NVuuIom+aBaY5k9CKleBjTsoJ+6ZavmQdhtNyk87HB1r/VIGuVU8L5TG/QTi6V72MqJfGTSLsdozOpU0ANVDNVpnldxHAZubfKIdIYygXyCkKnnn7zFobq/8EGYINXOIRjKGwbDmbNq668JIY3mQH0rk4ILyphYK0yctfEtrPhqt9KO93T9XQmIK2xIzd79dglGPR+kTmx9B9oFuc2VPG1SqtDDobf0hssmwzIuuNYigE1ZL0rx5ku4ZhgjX0TRiPwvbOW3B3uv6YO+w6TtnUbFVZiOECmR/oajt1xg5xIxlkH7b0TswHzJpSL2+6nNQzYL0jqF7rmjhtDlNTHFdcUqVnA/CJIhTA8/lIfpKAvw3ZeoezukIc6hRxCElA1U5dv5COiC4WSXUw5MMcyKjtDkM/Q6l6+kTAhyXfvTSu6B9mJZHJuPjuAkED1oxxdfWZwRfpcUnycvtVHcpFXNzT6EA="
+
+
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+yandex_site_verification :
+naver_site_verification  :
+
+# Social Sharing
+twitter:
+  username               :
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 : # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+
+# Analytics
+analytics:
+  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          :
+    anonymize_ip         : # true, false (default)
+
+
+# Site Author
+author:
+  name             : "Kinsay"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Este es un espacio destinado a uso personal, aunque abierto, para gestionar mi proceso de aprendizaje continuo."
+  location         : "Somewhere"
+  email            : "tovarlogic[@]gmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tovarlogic[@]gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://tovarlogic.github.io/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/tovarlogic"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tovarlogic"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://social.politicaconciencia.org/@tovarlogic"
+
+# Site Footer
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:tovarlogic[@]gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/tovarlogic"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tovarlogic"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://social.politicaconciencia.org/@tovarlogic"
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
 markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+
+# Outputting
+permalink: /blog/:title/
+paginate: 10 # amount of posts to show
+paginate_path: /page:num/
+timezone: Europe/Madrid # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: jekyll-archives
+  path: 
+tag_archive:
+  type: liquid
+  path: /blog/tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
+
+
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: production
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+  recetas:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+    
+# Defaults
+defaults:
+  - scope:
+      path: "_docs"
+      values:
+        layout: single
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+  - scope:
+      path: "_docs/frances"
+      type: docs
+      values:
+        layout: single
+        type: frances
+        serie: frances
+  - scope:
+      path: "_docs/linux"
+      type: docs
+      values:
+        layout: single
+        type: linux
+        serie: linux
+  - scope:
+      path: "_docs/jda"
+      type: docs
+      values:
+        layout: single
+        type: jda
+        serie: jda
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      show_date: true
+      read_time: true
+      show_status: true
+      comments: true
+      share: false
+      related: false
+      toc: true
+      toc_sticky: true
+      post_pagination: false
+      permalink: blog/:title
+      show_refs: true
+  # blog
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      related: false
+      post_pagination: false
+      show_date: true
+      read_time: true
+      show_status: true
+      comments: true
+      share: false
+      show_refs: true
+  # libros
+  - scope:
+      path: "_posts/libros"
+    values:
+      layout: book_review
+      type: libros
+  # opinion
+  - scope:
+      path: "_posts/opinion"
+      type: posts
+    values:
+      type: opinion
+      permalink: opinion/:title
+  # conocimiento
+  - scope:
+      path: "_posts/conocimiento"
+      type: posts
+    values:
+      type: conocimiento
+      permalink: conocimiento/:title
+  # Notas
+  - scope:
+      path: "_posts/notas"
+      type: posts
+    values:
+      type: notas
+      permalink: notas/:title
+      toc: false
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      related: false
+      post_pagination: false
+
+  # Serie: Razonamiento
+  - scope:
+      path: "_posts/conocimiento/razonamiento"
+      type: posts
+    values:
+      serie: razonamiento
+      categories:
+        - Pensamiento
+      tags:
+        - Razonamiento
+        - Pensamiento Crítico
+      permalink: /blog/razonamiento/:title
+      toc: true
+      toc_sticky: true 
+  # Serie: cambio-climatico
+  - scope:
+      path: "_posts/conocimiento/cambio-climatico"
+      type: posts
+    values:
+      serie: cambio-climatico
+      categories:
+        - Medio Ambiente
+      acronyms:
+        - organizaciones-internacionales
+        - cambio-climatico
+        - medio-ambiente
+      permalink: /blog/cambio-climatico/:title
+      toc: true
+      toc_sticky: true 
+  # Serie: civilizaciones
+  - scope:
+      path: "_posts/conocimiento/civilizaciones"
+      type: posts
+    values:
+      serie: civilizaciones
+      categories:
+        - Historia
+      acronyms:
+        - organizaciones-internacionales
+        - cambio-climatico
+        - medio-ambiente
+      permalink: /blog/civilizaciones/:title
+      toc: true
+      toc_sticky: true 
+  # Serie: politica
+  - scope:
+      path: "_posts/opinion/politica"
+      type: posts
+    values:
+      serie: politica
+      permalink: /blog/politica/:title
+      categories:
+        - Política
+      toc: true
+      toc_sticky: true 
+  # Colonias-felinas
+  - scope:
+      path: "_posts/colonias-felinas"
+      type: posts
+    values:
+      permalink: /blog/colonias-felinas/:title
+      sidebar: 
+        title: Proyecto Colonias Felinas
+        nav: colonias-felinas
+      toc: true
+      toc_sticky: true 
+      categories:
+        - Medio Ambiente
+      acronyms:
+        - organizaciones-internacionales
+        - legislacion
+        - bienestar-animal
+        - medio-ambiente
+        - biodiversidad
+  # _recetas
+  - scope:
+      path: ""
+      type: recetas
+    values:
+      layout: receta
+      author_profile: false
+      share: true
+      comments: true
+      related: false
+      post_pagination: false
+  # _book_reviews
+  - scope:
+      path: ""
+      type: book_reviews
+    values:
+      layout: book_review
+      toc: true
+      toc_sticky: true
+      author_profile: false
+      share: true
+      comments: true
+      related: false
+      post_pagination: false
