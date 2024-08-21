@@ -39,7 +39,7 @@ frances:
   - title: "Animales"
     url: /docs/frances/animaux
   - title: "Colores"
-      url: /docs/frances/
+    url: /docs/frances/
 
 cambio-climatico:
   - title: "Antecedentes"
