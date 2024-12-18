@@ -1,0 +1,7 @@
+
+{% assign peers = page.peers | join: "," %}
+{% assign json_symbols = "['" | append: page.stock | append: "|1M']," %}
+{% for stock in page.peers %}
+  {% assign json_stock = "['" | append: stock | append: "|1M']," %}
+  {% assign json_symbols = json_symbols | append: json_stock %}
+{% endfor %}

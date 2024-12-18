@@ -283,17 +283,17 @@ collections:
 defaults:
   - scope:
       path: "_docs"
-    values:
-      layout: document
-      comments: false
-      sections: true
-      toc: true
-      toc_levels: 2
+      values:
+        layout: document
+        comments: false
+        sections: true
+        toc: true
+        toc_levels: 2
   - scope:
       path: ""
       type: docs
-    values:
-      layout: single
+      values:
+        layout: single
   - scope:
       path: "_docs/frances"
       type: docs
@@ -319,168 +319,168 @@ defaults:
   - scope:
       path: ""
       type: posts
-    values:
-      layout: single
-      author_profile: false
-      show_date: true
-      read_time: true
-      show_status: true
-      comments: true
-      share: false
-      related: false
-      toc: true
-      toc_sticky: true
-      post_pagination: false
-      permalink: blog/:title
-      show_refs: true
+      values:
+        layout: single
+        author_profile: false
+        show_date: true
+        read_time: true
+        show_status: true
+        comments: true
+        share: false
+        related: false
+        toc: true
+        toc_sticky: true
+        post_pagination: false
+        permalink: blog/:title
+        show_refs: true
   # blog
   - scope:
       path: "_posts"
       type: posts
-    values:
-      layout: single
-      author_profile: false
-      related: false
-      post_pagination: false
-      show_date: true
-      read_time: true
-      show_status: true
-      comments: true
-      share: false
-      show_refs: true
+      values:
+        layout: single
+        author_profile: false
+        related: false
+        post_pagination: false
+        show_date: true
+        read_time: true
+        show_status: true
+        comments: true
+        share: false
+        show_refs: true
   # libros
   - scope:
       path: "_posts/libros"
-    values:
-      layout: book_review
-      type: libros
+      values:
+        layout: book_review
+        type: libros
   # opinion
   - scope:
       path: "_posts/opinion"
       type: posts
-    values:
-      type: opinion
-      permalink: opinion/:title
+      values:
+        type: opinion
+        permalink: opinion/:title
   # conocimiento
   - scope:
       path: "_posts/conocimiento"
       type: posts
-    values:
-      type: conocimiento
-      permalink: conocimiento/:title
+      values:
+        type: conocimiento
+        permalink: conocimiento/:title
   # Notas
   - scope:
       path: "_posts/notas"
       type: posts
-    values:
-      type: notas
-      permalink: notas/:title
+      values:
+        type: notas
+        permalink: notas/:title
       toc: false
   # _pages
   - scope:
       path: "_pages"
       type: pages
-    values:
-      layout: single
-      author_profile: false
-      related: false
-      post_pagination: false
+      values:
+        layout: single
+        author_profile: false
+        related: false
+        post_pagination: false
 
   # Serie: Razonamiento
   - scope:
       path: "_posts/conocimiento/razonamiento"
       type: posts
-    values:
-      serie: razonamiento
-      categories:
-        - Pensamiento
-      tags:
-        - Razonamiento
-        - Pensamiento Crítico
-      permalink: /blog/razonamiento/:title
-      toc: true
-      toc_sticky: true 
+      values:
+        serie: razonamiento
+        categories:
+          - Pensamiento
+        tags:
+          - Razonamiento
+          - Pensamiento Crítico
+        permalink: /blog/razonamiento/:title
+        toc: true
+        toc_sticky: true 
   # Serie: cambio-climatico
   - scope:
       path: "_posts/conocimiento/cambio-climatico"
       type: posts
-    values:
-      serie: cambio-climatico
-      categories:
-        - Medio Ambiente
-      acronyms:
-        - organizaciones-internacionales
-        - cambio-climatico
-        - medio-ambiente
-      permalink: /blog/cambio-climatico/:title
-      toc: true
-      toc_sticky: true 
+      values:
+        serie: cambio-climatico
+        categories:
+          - Medio Ambiente
+        acronyms:
+          - organizaciones-internacionales
+          - cambio-climatico
+          - medio-ambiente
+        permalink: /blog/cambio-climatico/:title
+        toc: true
+        toc_sticky: true 
   # Serie: civilizaciones
   - scope:
       path: "_posts/conocimiento/civilizaciones"
       type: posts
-    values:
-      serie: civilizaciones
-      categories:
-        - Historia
-      acronyms:
-        - organizaciones-internacionales
-        - cambio-climatico
-        - medio-ambiente
-      permalink: /blog/civilizaciones/:title
-      toc: true
-      toc_sticky: true 
+      values:
+        serie: civilizaciones
+        categories:
+          - Historia
+        acronyms:
+          - organizaciones-internacionales
+          - cambio-climatico
+          - medio-ambiente
+        permalink: /blog/civilizaciones/:title
+        toc: true
+        toc_sticky: true 
   # Serie: politica
   - scope:
       path: "_posts/opinion/politica"
       type: posts
-    values:
-      serie: politica
-      permalink: /blog/politica/:title
-      categories:
-        - Política
-      toc: true
-      toc_sticky: true 
+      values:
+        serie: politica
+        permalink: /blog/politica/:title
+        categories:
+          - Política
+        toc: true
+        toc_sticky: true 
   # Colonias-felinas
   - scope:
       path: "_posts/colonias-felinas"
       type: posts
-    values:
-      permalink: /blog/colonias-felinas/:title
-      sidebar: 
-        title: Proyecto Colonias Felinas
-        nav: colonias-felinas
-      toc: true
-      toc_sticky: true 
-      categories:
-        - Medio Ambiente
-      acronyms:
-        - organizaciones-internacionales
-        - legislacion
-        - bienestar-animal
-        - medio-ambiente
-        - biodiversidad
+      values:
+        permalink: /blog/colonias-felinas/:title
+        sidebar: 
+          title: Proyecto Colonias Felinas
+          nav: colonias-felinas
+        toc: true
+        toc_sticky: true 
+        categories:
+          - Medio Ambiente
+        acronyms:
+          - organizaciones-internacionales
+          - legislacion
+          - bienestar-animal
+          - medio-ambiente
+          - biodiversidad
   # _recetas
   - scope:
       path: ""
       type: recetas
-    values:
-      layout: receta
-      author_profile: false
-      share: true
-      comments: true
-      related: false
-      post_pagination: false
+      values:
+        layout: receta
+        author_profile: false
+        share: true
+        comments: true
+        related: false
+        post_pagination: false
   # _book_reviews
   - scope:
       path: ""
       type: book_reviews
-    values:
-      layout: book_review
-      toc: true
-      toc_sticky: true
-      author_profile: false
-      share: true
-      comments: true
-      related: false
-      post_pagination: false
+      values:
+        layout: book_review
+        toc: true
+        toc_sticky: true
+        author_profile: false
+        share: true
+        comments: true
+        related: false
+        post_pagination: false
