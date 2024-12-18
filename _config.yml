@@ -289,38 +289,12 @@ defaults:
         sections: true
         toc: true
         toc_levels: 2
-  - scope:
-      path: ""
-      type: docs
-      values:
-        layout: single
-  - scope:
-      path: "_docs/frances"
-      type: docs
-      values:
-        layout: single
-        type: frances
-        serie: frances
-  - scope:
-      path: "_docs/linux"
-      type: docs
-      values:
-        layout: single
-        type: linux
-        serie: linux
-  - scope:
-      path: "_docs/jda"
-      type: docs
-      values:
-        layout: single
-        type: jda
-        serie: jda
   # _posts
   - scope:
       path: ""
       type: posts
       values:
-        layout: single
+        layout: blog_article
         author_profile: false
         show_date: true
         read_time: true

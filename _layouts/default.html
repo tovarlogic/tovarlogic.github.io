@@ -19,10 +19,18 @@
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
+    {% if page.updates or site.updates %}
+            {% include updates.html %}
+        {% endif %}
+
     <div class="initial-content">
       {{ content }}
     </div>
 
+    {% if site.comments.active and page.comments %}
+            {% include comments.html %}
+        {% endif %}
+        
     {% if site.search == true %}
       <div class="search-content">
         {% include search/search_form.html %}
