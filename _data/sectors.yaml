@@ -1,0 +1,112 @@
+- name: Communication Services
+  industries: 
+  - name: Diversified Telecommunication Services
+  - name: Entertainment
+  - name: Interactive Media & Services
+  - name: Media
+  - name: Wireless Telecommunication Services
+- name: Consumer Discretionary
+  industries:
+  - name: Automobile Components
+  - name: Automobiles
+  - name: Broadline Retail
+  - name: Distributors
+  - name: Diversified Consumer Services
+  - name: Hotels Restaurants & Leisure
+  - name: Household Durables
+  - name: Leisure Products
+  - name: Specialty Retail
+  - name: Textiles Apparel & Luxury Goods
+- name: Consumer Staples
+  defensive: true
+  industries:
+  - name: Beverages
+  - name: Consumer Staples Distribution & Retail
+  - name: Household Products
+  - name: Personal Care Products
+  - name: Tobacco
+  - name: Food Products
+    segments:
+    - name: frozen foods
+      products: [Helados, Pescado congelado, Verduras y frutas congeladas, Carne congelada, Platos preparados, Pizzas congeladas]
+      seasonality: low
+      predictability: high
+      sensibility: low
+      companies: [NOMD, CAG, HRL, 2802, ARYN, oetker, GIS]
+- name: Energy
+  industries:
+  - name: Energy Equipment & Services
+  - name: Oil Gas & Consumable Fuels
+- name: Financials
+  industries: 
+  - name: Banks
+  - name: Capital Markets
+  - name: Consumer Finance
+  - name: Diversified Financial Services
+  - name: Insurance
+  - name: REITs
+- name: Healthcare
+  defensive: true
+  industries:
+  - name: Biotechnology
+  - name: Health Care Equipment & Supplies
+  - name: Health Care Providers & Services
+  - name: Health Care Technology
+  - name: Life Sciences Tools & Services
+  - name: Pharmaceuticals
+- name: Industrials
+  industries:
+  - name: Aerospace & Defense
+  - name: Air Freight & Logistics
+  - name: Building Products
+  - name: Commercial Services & Supplies
+  - name: Construction & Engineering
+  - name: Electrical Equipment
+  - name: Ground Transportation
+  - name: Industrial Conglomerates
+  - name: Machinery
+  - name: Marine Transportation
+  - name: Passenger Airlines
+  - name: Professional Services
+  - name: Trading Companies & Distributors
+  - name: Transportation Infrastructure
+- name: Information Technology
+  industries:
+  - name: Communications Equipment
+  - name: Electronic Equipment Instruments & Components
+  - name: IT Services
+  - name: Semiconductor & Semiconductor Equipment
+  - name: Software
+  - name: Technology Hardware Storage & Peripherals
+- name: Materials
+  industries:
+  - name: Chemicals
+  - name: Construction Materials
+  - name: Containers & Packaging
+  - name: Metals & Mining
+  - name: Paper & Forest Products
+- name: Real Estate
+  industries:
+  - name: Diversified REITs 
+  - name: Health Care REITs
+  - name: Hotel & Resort REITs
+  - name: Industrial REITs
+  - name: Office REITs
+  - name: Real Estate Management & Development
+  - name: Residential REITs
+  - name: Retail REITs
+  - name: Specialized REITs
+- name: Utilities
+  defensive: true
+  industries:
+  - name: Electric Utilities
+  - name: Water Utilities
+  - name: Gas Utilities
+  - name: Multi-Utilities
+  - name: Independent Power and Renewable Electricity Producers
+
+  
+
+
+
+

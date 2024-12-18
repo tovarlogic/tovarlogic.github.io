@@ -2,12 +2,12 @@
 ---
 
 # si nuevo jekyll web
-ruby -v
-bundle init
-bundle config set --local path 'vendor/bundle'
-bundle add jekyll
-bundle exec jekyll new --force --skip-bundle .
-bundle install
+    ruby -v
+    bundle init
+    bundle config set --local path 'vendor/bundle'
+    bundle add jekyll
+    bundle exec jekyll new --force --skip-bundle .
+    bundle install
 
 ## edit gitignore
 
@@ -22,6 +22,6 @@ bundle install
     vendor/
 
 # resto
-bundle install
-gem update jekyll
-bundle exec jekyll serve
+    bundle install
+    gem update jekyll
+    bundle exec jekyll serve

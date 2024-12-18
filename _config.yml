@@ -283,8 +283,12 @@ collections:
 defaults:
   - scope:
       path: "_docs"
-      values:
-        layout: single
+    values:
+      layout: document
+      comments: false
+      sections: true
+      toc: true
+      toc_levels: 2
   - scope:
       path: ""
       type: docs
