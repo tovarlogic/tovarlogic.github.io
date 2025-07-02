@@ -1091,3 +1091,13 @@
   - Ciencia
   status: reading
   date: 2024-08-10
+
+- title: MegaThreats
+  authors: Nouriel Roubini
+  stars: 4
+  isbn: 9781529373783
+  categories:
+  - Economía
+  - Riesgos
+  status: reading
+  date: 2025-05-15

@@ -1,8 +1,7 @@
 ---
 title: Curso inversión (EADI septiembre 2024)
-layout: single
 permalink: /docs/invest/
-lastmod: 2024-08-21T15:33:21.711Z
+lastmod: 2024-12-19T10:25:56.894Z
 ---
 
 {% include index.html %}

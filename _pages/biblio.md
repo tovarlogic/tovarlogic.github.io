@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /biblio
 ---
 
 <main class="d-md-flex">

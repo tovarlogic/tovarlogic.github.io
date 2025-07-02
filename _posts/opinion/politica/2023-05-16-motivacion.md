@@ -1,9 +1,8 @@
 ---
 title: Por una política mejor
-permalink: /blog/politica/
 serie_index: true
 date: 2023-05-16
-lastmod: 2023-06-06T11:43:49.056Z
+lastmod: 2024-12-19T15:07:49.294Z
 draft: true
 toc: false
 ---
