@@ -1,9 +1,10 @@
 ---
 title: Introducción
 permalink: /docs/invest/manual/
-lastmod: 2025-07-02T14:39:14.487Z
+lastmod: 2025-07-02T14:44:18.041Z
 ---
 
+# Introducción
 El presente manual tiene un objetivo educativo, de adquisición de los conocimientos básicos.  Buscamos con esto acelerar el proceso de aprendizaje proveyendo al lector de “píldoras” (información muy sintetizada) que le ayude a:
 - Crear rápidamente una visión general del mundo de la inversión
 - Familiarizar al lector con los términos, conceptos y demás información que le permita profundizar en cuestiones avanzadas con autonomía
@@ -20,4 +21,22 @@ Este manual, no obstante, no sigue el mismo orden porque no es la manera más ef
 Primero nos enfocamos en conceptos financieros y de contabilidad básicos útiles para el análisis y valoración de empresas.
 
 Luego, mostramos una metodología para obtener una visión más completa, teniendo en cuenta además de la propia empresa, sus competidores, el sector en el que opera y la economía en general.
+
+## Tipos de inversión
+Hay dos maneras bien diferenciadas de invertir en bolsa:
+- Inversión pasiva → es una estrategia en la que se busca replicar el rendimiento de un índice o mercado en lugar de intentar superarlo, generalmente mediante la compra y mantenimiento de activos a largo plazo. Se caracteriza por una gestión más sencilla, con menor inversión de tiempo y esfuerzo por parte del inversor. Para ello se invierte en ETFs, índices y fondos.
+
+Ventajas
+- Menor esfuerzo y conocimientos. 
+- Mayor diversificación. 
+- Menor riesgo. 
+- Mayor facilidad de gestión
+{: .text-left}
+
+Desventajas
+- La rentabilidad está limitada al rendimiento del índice que se está replicando. 
+- Puede no superar la rentabilidad de las estrategias activas en momentos de crecimiento acelerado
+{: .text-rights}
+
+
 
