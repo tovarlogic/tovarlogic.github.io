@@ -2,7 +2,7 @@
 title: Introducción
 layout: single
 permalink: /docs/invest/manual/
-lastmod: 2025-07-02T14:35:01.012Z
+lastmod: 2025-07-02T14:36:20.565Z
 ---
 
 El presente manual tiene un objetivo educativo, de adquisición de los conocimientos básicos.  Buscamos con esto acelerar el proceso de aprendizaje proveyendo al lector de “píldoras” (información muy sintetizada) que le ayude a:
@@ -22,4 +22,4 @@ Primero nos enfocamos en conceptos financieros y de contabilidad básicos útile
 
 Luego, mostramos una metodología para obtener una visión más completa, teniendo en cuenta además de la propia empresa, sus competidores, el sector en el que opera y la economía en general.
 
-![alt text](assets/images/invest/manual/pasos_inversion.png){: .align-right}
+![alt text](/assets/images/invest/manual/pasos_inversion.png){: .align-right}
