@@ -457,3 +457,16 @@ defaults:
       comments: true
       related: false
       post_pagination: false
+  # Colonias-felinas
+  - scope:
+      path: "_docs/invest"
+    values:
+      permalink: /docs/invest/:title
+      sidebar: 
+        title: "Inversión"
+        nav: invest
+      toc: true
+      toc_sticky: true 
+      categories:
+        - Economía
+      acronyms:
