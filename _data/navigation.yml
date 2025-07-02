@@ -202,7 +202,7 @@ colonias-felinas:
     children:
       - title: "INFO: Productos seguimiento y control"
 
-inversion:
+invest:
   - title: "Introducción"
   - title: "Renta fija"
   - title: "Renta variable"
