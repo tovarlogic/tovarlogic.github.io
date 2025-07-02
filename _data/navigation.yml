@@ -203,11 +203,11 @@ colonias-felinas:
       - title: "INFO: Productos seguimiento y control"
 
 invest:
-  - title: "Introducción"
   - title: "Renta fija"
   - title: "Renta variable"
     children:
       - title: "Manual de inversión"
+        url: /docs/invest/manual/introduccion
         children:
           - title: "Introducción"
             url: /docs/invest/manual/introduccion

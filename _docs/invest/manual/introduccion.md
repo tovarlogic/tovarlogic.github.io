@@ -2,7 +2,7 @@
 title: Introducción
 layout: single
 permalink: /docs/invest/manual/
-lastmod: 2025-07-02T15:33:58.447Z
+lastmod: 2025-07-02T15:38:53.069Z
 ---
 
 El presente manual tiene un objetivo educativo, de adquisición de los conocimientos básicos.  Buscamos con esto acelerar el proceso de aprendizaje proveyendo al lector de “píldoras” (información muy sintetizada) que le ayude a:
@@ -63,7 +63,7 @@ Si en algún momento se considera la opción de invertir directa y activamente e
 - *Growth investing*
 - *Trading*
 
-# Tipos de estrategia
+## Tipos de estrategia
 
 Dependiendo del las preferencias individuales, el capital disponible y los objetivos establecidos se elija una estrategia de inversión acorde. Puede ser útil pensar en términos relativos comparando el capital dispuesto a ser invertido frente a los ingresos anuales disponibles que se obtienen por otras vías, como rentas o trabajo.
 
@@ -91,7 +91,7 @@ En cualquiera de los casos, se debe mantener una elevada disciplina y cumplir co
 - Agilidad y sensatez para el ajuste de cartera
 - Evitar una exposición a opciones > 20% y 2% por operación individual (individual = mismo sector)
 
-# Inversión vs Especulación
+## Inversión vs Especulación
 
 Dicho lo anterior, cabe describir cuales son, en nuestra opinión, las diferencias entre INVERSIÓN y ESPECULACIÓN:
 
@@ -108,7 +108,7 @@ Sea como fuere, <u>normalmente <u>todo tipo de estrategia de inversión tiene un
 
 Lo importante en el contexto de este manual es saber que **aquí nos centraremos en lo que se conoce como VALUE INVESTING**, que requiere sobre todo, de conocimientos relativos al análisis fundamental de los estados financieros de las empresas, la compresión de sus modelos de negocio y gestión, así como de los sectores en los que operan.
 
-# Análisis previo a la inversión
+## Análisis previo a la inversión
 
 El análisis de una empresa y sus negocios tiene como objeto determinar si resultaría rentable invertir en ella.
 
@@ -139,7 +139,7 @@ El trabajo de investigación y análisis a llevar a cabo (tanto del negocio como
 
 Esta es una distinción teórica. En la práctica ambas cosas están relacionadas y el estudio se realiza paralelamente, tratando de obtener una visión holística de la situación.
 
-# Value Investing
+## Value Investing
 
 
 Empleando una definición muy somera Value Investing o inversión en valor, es una filosofía de inversión que **se basa en la compra de activos a bajo precio**, se buscan gangas.
@@ -177,8 +177,7 @@ Infinidad de inversores siguen esta filosofía de inversión, siendo los más co
 * Warren Buffet y Charlie Munger (Berkshire Hathaway)
 * Peter Lynch
 
-# Calidad vs Crecimiento
-
+## Calidad vs Crecimiento
 
 En términos muy simples, un **negocio calidad**:
 
@@ -226,7 +225,7 @@ Hay variables externas que afectan a dicho crecimiento, como pueden ser:
 
 En términos de beneficios, además de lo anterior, también afecta la dilución de las acciones y compensación de la directiva.
 
-# Negocio de Calidad
+## Negocio de Calidad
 
 Son aquellos en que se cumplen algunas de las siguientes características:
 
@@ -299,7 +298,7 @@ En cuanto a elementos externos:
 * Ausencia de disruptores (o ventaja en caso de existir)
 
 
-# Riesgo vs Volatilidad
+## Riesgo vs Volatilidad
 
 Cabe aclarar que RIESGO y VOLATILIDAD **son conceptos diferentes**, especialmente cuando nuestra actividad principal es la inversión y no la especulación a corto plazo.
 
@@ -315,7 +314,7 @@ Ambos casos son ejemplos de comportamientos irracionales e irresponsables que se
 Si la volatilidad aumenta por un rally, entonces lo más probable es que las oportunidades de compra se vean reducidas, mientras que puede generar una oportunidad para recoger beneficios en aquellos activos sobrevalorados que poseamos.
 
 
-# Gestión del riesgo
+## Gestión del riesgo
 
 * Mantener una **actitud conservadora** sobre nuestro capital:
   * Suponer que el coste de oportunidad es elevado y no invertir más cantidad de lo que podemos asumir como ilíquido durante un periodo de tiempo mínimo de 12 meses.
@@ -337,7 +336,7 @@ Si la volatilidad aumenta por un rally, entonces lo más probable es que las opo
 Si se invierte en empresas/activos similares hay que ser consciente que hay un componente de riesgo compartido al emplear modelos de negocio similares y pertenecer al mismo sector.
 {: .notice--warning}
 
-# Estrategia de cartera
+## Estrategia de cartera
 
 Normalmente solemos hacer referencia a la **rotación de cartera** entendiendo indistintamente como:
 * la frecuencia con la que se entra y sale de las posiciones en cartera (comprar y vender por completo)
