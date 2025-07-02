@@ -201,3 +201,17 @@ colonias-felinas:
   - title: "Seguimiento y control"
     children:
       - title: "INFO: Productos seguimiento y control"
+
+inversion:
+  - title: "Introducción"
+  - title: "Renta fija"
+  - title: "Renta variable"
+    children:
+      - title: "Manual de inversión"
+        children:
+          - title: "Introducción"
+            url: /docs/invest/manual/introduccion
+      - title: "Análisis acciones"
+      - title: "Análisis macro y sectores"
+  - title: "Inversión inmobiliaria"
+  - title: "Inversión private equity"
