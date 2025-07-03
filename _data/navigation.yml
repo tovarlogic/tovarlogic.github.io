@@ -207,10 +207,15 @@ invest:
   - title: "Renta variable"
     children:
       - title: "Manual de inversión"
-        url: /docs/invest/manual/introduccion
         children:
-          - title: "Estados financieros"
-            url: /docs/invest/manual/estados-financieros
+          - title: "Introducción"
+            url: /docs/invest/manual/
+          - title: "Valoración de empresas"
+            children:
+            - title: "Estados financieros"
+              url: /docs/invest/manual/estados-financieros
+            - title: "Análisis cualitativo"
+              url: /docs/invest/manual/analisis-qualitativo
       - title: "Análisis acciones"
       - title: "Análisis macro y sectores"
   - title: "Inversión inmobiliaria"

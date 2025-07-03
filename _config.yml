@@ -470,3 +470,15 @@ defaults:
       categories:
         - Economía
       acronyms:
+  - scope:
+      path: "_docs/invest/manual"
+    values:
+      permalink: /docs/invest/manual/:title
+      sidebar: 
+        title: "Inversión"
+        nav: invest-manual
+      toc: true
+      toc_sticky: true 
+      categories:
+        - Economía
+      acronyms:
