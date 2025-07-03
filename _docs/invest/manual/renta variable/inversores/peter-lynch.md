@@ -1,4 +1,6 @@
 ---
+title: Peter Lynch
+lastmod: 2025-07-03T17:41:12.526Z
 ---
 
 # Peter Lynch

@@ -1,6 +1,6 @@
 ---
-title: Manual de inversión
-lastmod: 2025-07-03T16:58:12.461Z
+title: Introducción
+lastmod: 2025-07-03T17:43:55.855Z
 ---
 
 ## Introducción

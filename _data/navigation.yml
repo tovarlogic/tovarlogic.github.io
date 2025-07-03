@@ -225,10 +225,14 @@ invest:
 invest-manual:
   - title: "Manual de inversión"
     url: /docs/invest/manual/
-    children:       
-      - title: "Valoración de empresas"
-        children:
-        - title: "Estados financieros"
-          url: /docs/invest/manual/estados-financieros
-        - title: "Análisis cualitativo"
-          url: /docs/invest/manual/analisis-qualitativo
+    children:     
+      - title: Renta variable
+        url: /docs/invest/manual/renta-variable
+        chilren:  
+          - title: "Valoración de empresas"
+            children:
+            - title: "Estados financieros"
+              url: /docs/invest/manual/estados-financieros
+            - title: "Análisis cualitativo"
+              url: /docs/invest/manual/analisis-qualitativo
+      - title: Renta fija

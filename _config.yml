@@ -474,7 +474,7 @@ defaults:
       path: "_docs/invest/manual"
     values:
       layout: single
-      permalink: :path/:title
+      permalink: /:path/:title
       sidebar: 
         title: "Inversión"
         nav: invest-manual
