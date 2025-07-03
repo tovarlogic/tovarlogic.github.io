@@ -22,6 +22,7 @@ No basta con un conocimiento superficial o intuitivo: es necesario una investiga
 En cualquier caso, cuanto más cercana sea la empresa, más probable es que se pueda conocer adecuadamente.
 
 De este modo, Lynch consideraba que los inversores individuales podían tener ciertas ventajas respecto de los gestores profesionales para encontrar oportunidades, al poder explorar el mercado con más libertad y estar sujetos a menos limitaciones legales o a ciertas políticas de empresa.
+
 ## 3. Diversificar, pero con límites
 
 Es famosa la afirmación de Peter Lynch que dice que «las acciones son como los hijos: no tengas más de los que puedas cuidar».
@@ -31,6 +32,7 @@ Esto enlaza con lo que acabamos de mencionar en el punto anterior: difícilmente
 La diversificación ayuda a reducir el riesgo y, por tanto, es beneficiosa y necesaria. Pero debe tener un límite.
 
 De hecho, Lynch acuñó el término «di-worse-ification» para referirse a aquellos casos en que la diversificación empieza a tener efectos negativos. Y es que, si nos excedemos, podría comenzar a diluirse el rendimiento de nuestra cartera.
+
 ## 4. Value investing: factores clave para invertir en una empresa
 
 La inversión en valor o value investing incide en seleccionar los activos en los que invertir partiendo de su calidad intrínseca.
@@ -50,6 +52,7 @@ Como puedes ver, la filosofía de «invierte en lo que conoces» conlleva un ard
 Si estás empezando a invertir y todavía no sabes qué herramientas necesitas para ello, te recomiendo descargarte mi kit de herramientas de bolsa.
 
 En él te doy opciones para realizar análisis fundamental y técnico; pero también te explico cómo aprender a valorar cuál es el mejor bróker para ti, y cómo realizar el seguimiento de tus inversiones (con hoja de cálculo y vídeo explicativo incluido).
+
 ## 5. Paciencia y largo plazo
 
 Durante su etapa como gestor, Peter Lynch siempre mantuvo un enfoque claro en el largo plazo. Como él mismo dijo, «se puede perder dinero a corto plazo, pero necesitas del largo plazo para ganar dinero».
