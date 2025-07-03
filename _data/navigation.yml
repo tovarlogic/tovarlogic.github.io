@@ -212,16 +212,12 @@ invest:
   - title: "Inversión private equity"
 
 invest-manual:
-  - title: Manual
-    children:
-      - title: Introducción
-        url: /docs/invest/manual/
-      - title: Macroeconomía
-      - title: "Renta variable"
-        url: /docs/invest/manual/renta-variable/
-      - title: "Renta fija"
-        url: /docs/invest/manual/renta-fija/
-      - title: Inmobiliario
+  - title: "Renta variable"
+    url: /docs/invest/manual/renta-variable/
+  - title: "Renta fija"
+    url: /docs/invest/manual/renta-fija/
+  - title: Inmobiliario
+  - title: Macroeconomía
 
 invest-manual-variable:   
   - title: "Valoración de empresas"

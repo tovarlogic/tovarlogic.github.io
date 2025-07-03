@@ -475,7 +475,7 @@ defaults:
     values:
       layout: single
       sidebar: 
-        title: "Inversión"
+        title: "ÍNDICE"
         nav: invest-manual
       toc: true
       toc_sticky: true 
