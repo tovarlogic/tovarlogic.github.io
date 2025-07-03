@@ -212,20 +212,29 @@ invest:
   - title: "Inversión private equity"
 
 invest-manual:
-  - title: Introducción
-    url: /docs/invest/manual/
-  - title: "Manual renta variable"
-    url: /docs/invest/manual/renta-variable
-    children:     
-      - title: "Valoración de empresas"
-        children:
-        - title: "Estados financieros"
-          url: /docs/invest/manual/renta-variable/estados-financieros
-        - title: "Análisis cualitativo"
-          url: /docs/invest/manual/renta-variable/analisis-qualitativo
-      - title: Operativa en bolsa
-      - title: Situaciones especiales
-      - title: Proceso de inversión      
-  - title: "Manual renta fija"
-    url: /docs/invest/manual/renta-fija
-  - title: Inmobiliario
+  - title: Manual
+    children:
+      - title: Introducción
+        url: /docs/invest/manual/
+      - title: Macroeconomía
+      - title: "Renta variable"
+        url: /docs/invest/manual/renta-variable
+      - title: "Renta fija"
+        url: /docs/invest/manual/renta-fija
+      - title: Inmobiliario
+
+invest-manual-variable:   
+  - title: "Valoración de empresas"
+    children:
+    - title: "Estados financieros"
+      url: /docs/invest/manual/renta-variable/estados-financieros
+    - title: "Análisis cualitativo"
+      url: /docs/invest/manual/renta-variable/analisis-cualitativo
+    - title: "Análisis sectorial"
+      url: /docs/invest/manual/renta-variable/analisis-sectorial
+    - title: "Análisis macro"
+      url: /docs/invest/manual/renta-variable/analisis-macro
+  - title: Operativa en bolsa
+  - title: Situaciones especiales
+  - title: Proceso de inversión      
+  
