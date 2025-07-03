@@ -1,10 +1,11 @@
 ---
-title: Introducción
+title: Manual de inversión
 layout: single
 permalink: /docs/invest/manual/
-lastmod: 2025-07-02T15:38:53.069Z
+lastmod: 2025-07-02T15:39:46.656Z
 ---
 
+## Introducción
 El presente manual tiene un objetivo educativo, de adquisición de los conocimientos básicos.  Buscamos con esto acelerar el proceso de aprendizaje proveyendo al lector de “píldoras” (información muy sintetizada) que le ayude a:
 
 - Crear rápidamente una visión general del mundo de la inversión

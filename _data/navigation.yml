@@ -209,8 +209,8 @@ invest:
       - title: "Manual de inversión"
         url: /docs/invest/manual/introduccion
         children:
-          - title: "Introducción"
-            url: /docs/invest/manual/introduccion
+          - title: "Estados financieros"
+            url: /docs/invest/manual/estados-financieros
       - title: "Análisis acciones"
       - title: "Análisis macro y sectores"
   - title: "Inversión inmobiliaria"
