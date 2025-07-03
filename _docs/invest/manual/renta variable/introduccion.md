@@ -1,8 +1,6 @@
 ---
 title: Manual de inversión
-layout: single
-permalink: /docs/invest/manual/
-lastmod: 2025-07-02T15:39:46.656Z
+lastmod: 2025-07-03T16:58:12.461Z
 ---
 
 ## Introducción

@@ -473,7 +473,7 @@ defaults:
   - scope:
       path: "_docs/invest/manual"
     values:
-      permalink: /docs/invest/manual/:title
+      layout: single
       sidebar: 
         title: "Inversión"
         nav: invest-manual
