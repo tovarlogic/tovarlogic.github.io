@@ -1,7 +1,7 @@
 ---
-title: Generalidades
+title: Manual
 permalink: /docs/invest/manual/
-lastmod: 2025-07-03T16:57:39.502Z
+lastmod: 2025-07-03T18:09:01.328Z
 ---
 Como en cualquier aspecto de la vida, siempre hay algo de suerte en la consecución de objetivos. No obstante, cuanto menos dependamos de ella mejor. Por eso, la clave es la **preparación continua** para poder identificar las oportunidades cuando se presenten y poder aprovecharlas de la mejor manera.
 

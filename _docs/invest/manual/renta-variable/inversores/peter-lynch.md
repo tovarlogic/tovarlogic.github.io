@@ -1,10 +1,10 @@
 ---
 title: Peter Lynch
 permalink: /docs/invest/manual/renta-variable/inversores/peter-lynch
-lastmod: 2025-07-03T18:04:46.964Z
+lastmod: 2025-07-03T18:11:24.548Z
 ---
 
-# Peter Lynch
+## Resumen de su filosofía
 1. Compre sólo lo que conozca y entienda.
 2. No es necesario prever el comportamiento de la economía ni de los tipos de interés.
 3. Siempre hay mucho tiempo para identificar y reconocer compañías excepcionales.

@@ -215,7 +215,7 @@ invest-manual:
   - title: "Manual de inversión"
     url: /docs/invest/manual/
     children:     
-      - title: Renta variable
+      - title: "Renta variable"
         url: /docs/invest/manual/renta-variable
         children:  
           - title: "Valoración de empresas"
