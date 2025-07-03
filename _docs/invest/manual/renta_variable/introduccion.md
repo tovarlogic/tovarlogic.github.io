@@ -1,6 +1,7 @@
 ---
 title: Introducción
-lastmod: 2025-07-03T17:43:55.855Z
+permalink: /docs/invest/renta_variable/
+lastmod: 2025-07-03T17:59:55.208Z
 ---
 
 ## Introducción

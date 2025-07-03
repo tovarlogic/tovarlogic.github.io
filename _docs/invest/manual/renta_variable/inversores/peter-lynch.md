@@ -1,6 +1,7 @@
 ---
 title: Peter Lynch
-lastmod: 2025-07-03T17:41:12.526Z
+permalink: /docs/invest/renta_variable/inversores/peter_lynch
+lastmod: 2025-07-03T17:59:35.609Z
 ---
 
 # Peter Lynch

@@ -221,7 +221,8 @@ invest-manual:
           - title: "Valoración de empresas"
             children:
             - title: "Estados financieros"
-              url: /docs/invest/manual/estados-financieros
+              url: /docs/invest/manual/renta-variable/estados-financieros
             - title: "Análisis cualitativo"
-              url: /docs/invest/manual/analisis-qualitativo
+              url: /docs/invest/manual/renta-variable/analisis-qualitativo
       - title: Renta fija
+      - title: Inmobiliario
