@@ -1,7 +1,8 @@
 ---
 title: Peter Lynch
 permalink: /docs/invest/manual/renta-variable/inversores/peter-lynch
-lastmod: 2025-07-03T18:11:24.548Z
+sidebar: false
+lastmod: 2025-07-03T18:51:29.378Z
 ---
 
 ## Resumen de su filosofía

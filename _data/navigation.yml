@@ -203,11 +203,9 @@ colonias-felinas:
       - title: "INFO: Productos seguimiento y control"
 
 invest:
-  - title: "Renta fija"
-  - title: "Renta variable"
-    children:
-      - title: "Análisis acciones"
-      - title: "Análisis macro y sectores"
+  - title: "Análisis empresas"
+  - title: "Análisis sectores"
+  - title: "Análisis macroeconómico"
   - title: "Inversión inmobiliaria"
   - title: "Inversión private equity"
 

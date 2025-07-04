@@ -463,7 +463,7 @@ defaults:
     values:
       permalink: /docs/invest/:title
       sidebar: 
-        title: "Inversión"
+        title: "ÍNDICE"
         nav: invest
       toc: true
       toc_sticky: true 
@@ -487,7 +487,7 @@ defaults:
     values:
       layout: single
       sidebar: 
-        title: "Renta variable"
+        title: "RENTA VARIABLE"
         nav: invest-manual-variable
       toc: true
       toc_sticky: true 
@@ -499,7 +499,7 @@ defaults:
     values:
       layout: single
       sidebar: 
-        title: "Renta fija"
+        title: "RENTA FIJA"
         nav: invest-manual-fija
       toc: true
       toc_sticky: true 

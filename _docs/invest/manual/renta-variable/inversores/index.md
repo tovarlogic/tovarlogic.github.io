@@ -1,8 +1,8 @@
 ---
 title: Inversores
 permalink: /docs/invest/manual/renta-variable/inversores/
-sidebar: false
-lastmod: 2025-07-03T18:24:00.250Z
+toc: false
+lastmod: 2025-07-03T18:50:54.074Z
 ---
 
 {% include index.html %}
